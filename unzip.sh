@@ -1,5 +1,6 @@
 #!/bin/bash
 
-FEED_FILE=$(ls /tmp/$FEED_NAME/original/)
+FILE_LOCATION=/tmp/$FEED_NAME/original
+FEED_FILE=$(ls $FILE_LOCATION)
 
-unzip $FEED_FILE -d feed/
+unzip $FILE_LOCATION/$FEED_FILE -d feed/
