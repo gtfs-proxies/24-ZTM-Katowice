@@ -26,7 +26,7 @@ jobs:
           ref: ${{ github.head_ref }}
 
       - name: Download GTFS feeds
-        run: bash main.sh
+        run: bash download.sh
 
       - name: Unzip GTFS feeds
         run: bash unzip.sh
