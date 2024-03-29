@@ -77,6 +77,7 @@ jobs:
           prerelease: false
       
       - name: Upload Release Asset
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
         id: upload-release-asset 
         uses: actions/upload-release-asset@v1
         env:
