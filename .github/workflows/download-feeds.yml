@@ -25,8 +25,22 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
+      - name: Restore cached feed
+        id: cache-feed-restore
+        uses: actions/cache/restore@v4
+        with:
+          path: /tmp/${{ env.FEED_NAME }}/original/
+          key: ${{ runner.os }}-feed
+
       - name: Download GTFS feeds
         run: bash download.sh
+      
+      - name: Save feed
+        id: cache-feed-save
+        uses: actions/cache/save@v4
+        with:
+          path: /tmp/${{ env.FEED_NAME }}/original/
+          key: ${{ steps.cache-primes-restore.outputs.cache-primary-key }}
 
       - name: Unzip GTFS feeds
         run: bash unzip.sh
@@ -40,7 +54,7 @@ jobs:
         with:
           commit_message: Add new feeds (${{ steps.date.outputs.DATE }})
           file_pattern: 'feed/'
-          branch: master
+          branch: main
           # Optional. Tag name being created in the local repository and 
           # pushed to remote repository and defined branch.
           tagging_message: ${{ steps.date.outputs.DATE }}
