@@ -81,12 +81,17 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 157924,1t,Chorzów Metalowców,,50.303722,18.952022,6,Chorzów,2,Tramwaj,3,Standardowy,
 157925,5t,Chorzów Metalowców,,50.303208,18.952129,6,Chorzów,2,Tramwaj,3,Standardowy,
 157926,4t,Chorzów Metalowców,,50.303092,18.952150,6,Chorzów,2,Tramwaj,3,Standardowy,
+157928,1,Chorzów Miasto Dworzec PKP,,50.298530,18.950230,6,Chorzów,1,Autobus,3,Standardowy,
+157929,2,Chorzów Miasto Dworzec PKP,,50.298311,18.950262,6,Chorzów,1,Autobus,3,Standardowy,
 157940,1,Chorzów Plac Hutników,,50.297735,18.955723,6,Chorzów,1,Autobus,3,Standardowy,
 157941,2,Chorzów Plac Hutników,,50.298051,18.955830,6,Chorzów,1,Autobus,3,Standardowy,
 157942,1,Chorzów Plac Powstańców Śl.,,50.301724,18.951873,6,Chorzów,1,Autobus,3,Standardowy,
 157951,2,Chorzów Racławicka,,50.280208,18.949511,6,Chorzów,1,Autobus,3,Standardowy,
 157953,1t,Chorzów Ratusz,,50.297993,18.953672,6,Chorzów,2,Tramwaj,3,Standardowy,
 157955,2t,Chorzów Rynek,,50.298055,18.954661,6,Chorzów,2,Tramwaj,3,Standardowy,
+157985,2,Chorzów Strzelców Bytomskich,,50.292162,18.944975,6,Chorzów,1,Autobus,3,Standardowy,
+157986,1,Chorzów Strzelców Bytomskich,,50.292597,18.944776,6,Chorzów,1,Autobus,3,Standardowy,
+157996,1,Chorzów Uniwersytet Śląski,,50.295741,18.934883,6,Chorzów,1,Autobus,3,Standardowy,
 158030,2t,Czeladź Kombatantów,,50.320508,19.072378,7,Czeladź,2,Tramwaj,3,Standardowy,
 158031,1t,Czeladź Kombatantów,,50.320207,19.071991,7,Czeladź,2,Tramwaj,3,Standardowy,
 158034,1,Czeladź Modrzejowska Sklep,,50.318468,19.076039,7,Czeladź,1,Autobus,3,Standardowy,
@@ -996,8 +1001,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 161791,1,Makoszowy Koksownia,,50.275395,18.781718,36,Zabrze,1,Autobus,3,Standardowy,
 161793,2,Makoszowy Koksownia,,50.275360,18.781954,36,Zabrze,1,Autobus,3,Standardowy,
 161796,1,Makoszowy Kopalnia,,50.272223,18.776755,36,Zabrze,1,Autobus,3,Standardowy,
-161797,1,Makoszowy Kruszyny,,50.261511,18.759225,36,Zabrze,1,Autobus,3,Standardowy,
 161766,1,Helenka ELZAB,,50.379093,18.812321,36,Zabrze,1,Autobus,3,Standardowy,1
+161797,1,Makoszowy Kruszyny,,50.261511,18.759225,36,Zabrze,1,Autobus,3,Standardowy,
 161804,2,Makoszowy Pomnik,,50.261796,18.760362,36,Zabrze,1,Autobus,3,Standardowy,
 161805,1,Makoszowy Pomnik,,50.261254,18.759729,36,Zabrze,1,Autobus,3,Standardowy,
 161819,2,Mikulczyce Gospodarstwo Rolne [nż],,50.352259,18.792157,36,Zabrze,1,Autobus,2,Na żądanie,
@@ -1090,7 +1095,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 162103,1,Kleszczów Osiedleńcza,,50.342845,18.535856,39,Rudziniec,1,Autobus,3,Standardowy,
 162112,1,Katowice Uniwersytecka Altus,,50.261081,19.025567,14,Katowice,1,Autobus,3,Standardowy,
 162809,3,Chorzów Racławicka,,50.281003,18.946625,6,Chorzów,1,Autobus,3,Standardowy,
-162106,10,Katowice Dworzec,,50.258411,19.016800,14,Katowice,1,Autobus,3,Standardowy,1
+162086,6,Katowice Dworzec,,50.258274,19.018474,14,Katowice,1,Autobus,3,Standardowy,1
 162839,1,Załęże DTŚ Dom Kultury,,50.271239,18.975808,14,Katowice,1,Autobus,3,Standardowy,
 162864,1,Katowice Moniuszki,,50.260763,19.023613,14,Katowice,1,Autobus,3,Standardowy,
 162880,2t,Zabrze Szpital,,50.300749,18.786427,36,Zabrze,2,Tramwaj,3,Standardowy,
@@ -1149,8 +1154,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 176455,34,Dąbrowa Górnicza Aleja Róż,,50.317922,19.197381,9,Dąbrowa Górnicza,1,Autobus,3,Standardowy,
 176457,2,Dąbrowa Górnicza Real,,50.318314,19.214758,9,Dąbrowa Górnicza,1,Autobus,3,Standardowy,
 176459,2,Stanowice Zwycięstwa Szkoła,,50.128409,18.668416,8,Czerwionka-Leszczyny,1,Autobus,3,Standardowy,
+176399,4,Bytom Dworzec,,50.343735,18.913505,4,Bytom,1,Autobus,3,Standardowy,1
 176463,2,Strzemieszyce Transportowa,,50.306432,19.285222,9,Dąbrowa Górnicza,1,Autobus,3,Standardowy,
-176413,6,Bytom Dworzec,,50.343926,18.913022,4,Bytom,1,Autobus,3,Standardowy,1
 176470,54,Dąbrowa Górnicza Aleja Róż,,50.320771,19.194922,9,Dąbrowa Górnicza,1,Autobus,3,Standardowy,
 176475,1,Gliwice Orlickiego,,50.299703,18.661405,11,Gliwice,1,Autobus,3,Standardowy,
 176477,6,Ząbkowice Stadion,,50.379004,19.256668,9,Dąbrowa Górnicza,1,Autobus,3,Standardowy,
@@ -1220,7 +1225,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 177001,2,Celiny OSP,,50.449946,19.066681,44,Ożarowice,1,Autobus,3,Standardowy,
 177002,2,Dąbrówka Wielka Szkoła,,50.346583,18.998730,22,Piekary Śląskie,1,Autobus,3,Standardowy,
 177005,2,Pilchowice Gliwicka,,50.213668,18.585615,43,Pilchowice,1,Autobus,3,Standardowy,
-176897,1,Leboszowice Las,,50.229230,18.558500,43,Pilchowice,1,Autobus,3,Standardowy,1
 177011,1,Kuźnia Nieborowska Sklep,,50.210802,18.612782,43,Pilchowice,1,Autobus,3,Standardowy,
 177014,2,Piekary Kopalnia Julian,,50.380677,18.950809,22,Piekary Śląskie,1,Autobus,3,Standardowy,
 177027,1,Pilchowice Gimnazjum,,50.217114,18.557979,43,Pilchowice,1,Autobus,3,Standardowy,
@@ -1358,7 +1362,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 178978,1,Siemianowice FEZ [nż],,50.295919,19.035996,28,Siemianowice Śląskie,1,Autobus,2,Na żądanie,
 178979,2,Siemianowice FEZ [nż],,50.295827,19.035777,28,Siemianowice Śląskie,1,Autobus,2,Na żądanie,
 178980,3,Gliwice Centrum Edukacji,,50.277743,18.681719,11,Gliwice,1,Autobus,3,Standardowy,
-178959,3,Chorzów Rynek,,50.297974,18.954852,6,Chorzów,1,Autobus,3,Standardowy,1
+178976,2,Osada Jana,,50.433523,18.864989,42,Tarnowskie Góry,1,Autobus,3,Standardowy,1
 178998,1,Stare Tarnowice Górnośląskie Centrum Rehabilitacji,,50.430950,18.804790,42,Tarnowskie Góry,1,Autobus,3,Standardowy,
 179006,2,Chorzów Metalowców,,50.303236,18.951442,6,Chorzów,1,Autobus,3,Standardowy,
 179007,1,Niwka Watta,,50.253241,19.157775,31,Sosnowiec,1,Autobus,3,Standardowy,
@@ -1634,7 +1638,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 180614,1,Bytom Smolenia,,50.348979,18.924706,4,Bytom,1,Autobus,3,Standardowy,
 180617,1,Bytom Tarnogórska,,50.352475,18.909784,4,Bytom,1,Autobus,3,Standardowy,
 180623,3,Milowice Hala Sportowa,,50.288867,19.083459,31,Sosnowiec,1,Autobus,3,Standardowy,
-180616,2,Piekary Kopalnia,,50.380677,18.950809,22,Piekary Śląskie,1,Autobus,3,Standardowy,1
 180631,31,Gliwice Zabrska,,50.294363,18.689240,11,Gliwice,1,Autobus,3,Standardowy,
 180632,32,Gliwice Zabrska,,50.294418,18.689498,11,Gliwice,1,Autobus,3,Standardowy,
 180633,31,Gliwice Franciszkańska,,50.292842,18.689187,11,Gliwice,1,Autobus,3,Standardowy,
@@ -1700,6 +1703,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 180808,2,Pszczyna Jankowice Stolarnia,,50.010564,19.008032,165,Pszczyna,1,Autobus,3,Standardowy,
 180809,1,Pszczyna Jankowice Leśniczówka,,50.011817,19.016082,165,Pszczyna,1,Autobus,3,Standardowy,
 180810,2,Pszczyna Jankowice Leśniczówka,,50.012034,19.016828,165,Pszczyna,1,Autobus,3,Standardowy,
+180754,1,Bytom Chrobrego,,50.350088,18.922539,4,Bytom,1,Autobus,3,Standardowy,1
 181023,13,Bojszowy Świerczyniec Klub,,50.065346,19.047304,168,Bojszowy,1,Autobus,3,Standardowy,
 181024,14,Bojszowy Świerczyniec Klub,,50.066069,19.047379,168,Bojszowy,1,Autobus,3,Standardowy,
 181025,11,Bojszowy Świerczyniec sklep,,50.059354,19.045781,168,Bojszowy,1,Autobus,3,Standardowy,
@@ -1862,6 +1866,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 182014,4,Tychy Borowa Szkoła,,50.114001,18.963898,34,Tychy,1,Autobus,3,Standardowy,
 182015,3,Tychy Borowa Szkoła,,50.112453,18.963008,34,Tychy,1,Autobus,3,Standardowy,
 182018,1,Tychy Brama Towarowa FAP,,50.105964,19.060737,34,Tychy,1,Autobus,3,Standardowy,
+182009,2,Tychy Begonii,,50.124836,18.980925,34,Tychy,1,Autobus,3,Standardowy,1_5
 182447,2,Tychy Cielmice Kościół,,50.091009,19.017682,34,Tychy,1,Autobus,3,Standardowy,
 182448,1,Tychy Cielmice Kościół,,50.091181,19.017982,34,Tychy,1,Autobus,3,Standardowy,
 182449,1,Tychy Cielmice ks. Szojdy,,50.088304,19.008638,34,Tychy,1,Autobus,3,Standardowy,
@@ -1971,7 +1976,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 182998,0,Lędziny Pomnik,,50.129862,19.108530,16,Lędziny,1,Autobus,3,Standardowy,
 182999,1,Lędziny Stadionowa Przedszkole,,50.135567,19.117522,16,Lędziny,1,Autobus,3,Standardowy,
 183001,2,Mysłowice Centrum Handlowe,,50.250134,19.113230,20,Mysłowice,1,Autobus,3,Standardowy,
-182988,2,Goławiec Czapli,,50.107784,19.161670,16,Lędziny,1,Autobus,3,Standardowy,1
+182953,2,Zawada I,,50.129987,18.764771,38,Orzesze,1,Autobus,3,Standardowy,1
 183005,2,Bieruń FSM II,,50.102734,19.088072,34,Tychy,1,Autobus,3,Standardowy,
 183007,15,Bojszowy Nowe Chrobok,,50.040043,19.075972,168,Bojszowy,1,Autobus,3,Standardowy,
 183008,16,Bojszowy Nowe Chrobok,,50.039981,19.076433,168,Bojszowy,1,Autobus,3,Standardowy,
@@ -2004,6 +2009,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 183080,1,Wesoła Graniczna-Kręta,,50.211698,19.101565,20,Mysłowice,1,Autobus,3,Standardowy,
 183081,2,Wesoła Graniczna-Kręta,,50.211726,19.101479,20,Mysłowice,1,Autobus,3,Standardowy,
 183082,1,Leszczyny Morcinka,,50.141062,18.625152,8,Czerwionka-Leszczyny,1,Autobus,3,Standardowy,
+183055,2,Niwka Watta [nż],,50.253313,19.157886,31,Sosnowiec,1,Autobus,2,Na żądanie,1
 183093,1,Gliwice Kolberga,,50.304816,18.675735,11,Gliwice,1,Autobus,3,Standardowy,
 183097,1,Gliwice Kaszubska,,50.289318,18.677717,11,Gliwice,1,Autobus,3,Standardowy,
 183098,2,Bykowina Poloczka,,50.264124,18.891109,26,Ruda Śląska,1,Autobus,3,Standardowy,
@@ -2054,6 +2060,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 183380,4,Siemonia Kościuszki,,50.423845,19.045459,3,Bobrowniki,1,Autobus,3,Standardowy,
 183381,5,Pomłynie Skrzyżowanie,,50.412674,19.043303,3,Bobrowniki,1,Autobus,3,Standardowy,
 183382,6,Pomłynie Skrzyżowanie,,50.412606,19.043184,3,Bobrowniki,1,Autobus,3,Standardowy,
+183384,2,Tworóg [nż],,50.540331,18.709045,136,Tworóg,1,Autobus,2,Na żądanie,1
 183402,5,Zabrze Stalmacha,,50.310865,18.790247,36,Zabrze,1,Autobus,3,Standardowy,
 183403,1t,Bobrek Osiedle Pod Brzozami [nż],,50.331032,18.864416,4,Bytom,2,Tramwaj,2,Na żądanie,
 183404,2t,Bobrek Osiedle Pod Brzozami [nż],,50.330847,18.864470,4,Bytom,2,Tramwaj,2,Na żądanie,
@@ -2077,7 +2084,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 183471,31,Józefowiec Cmentarz,,50.276197,19.017639,14,Katowice,1,Autobus,3,Standardowy,
 183472,32,Józefowiec Cmentarz,,50.275881,19.017800,14,Katowice,1,Autobus,3,Standardowy,
 183473,31,Zgoda Wiśniowa,,50.281407,18.924652,33,Świętochłowice,1,Autobus,3,Standardowy,
-183444,1,Mikołów Szpital I,,50.173229,18.905920,19,Mikołów,1,Autobus,3,Standardowy,1
 183476,1,Koszutka Słoneczna Pętla,,50.273908,19.024379,14,Katowice,1,Autobus,3,Standardowy,
 183481,32,Szombierki Frycza-Modrzewskiego,,50.332974,18.894210,4,Bytom,1,Autobus,3,Standardowy,
 183482,31,Szombierki Frycza-Modrzewskiego,,50.333443,18.894302,4,Bytom,1,Autobus,3,Standardowy,
@@ -2085,11 +2091,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 183485,1,Strzemieszyce Strzemieszycka,,50.306154,19.318771,9,Dąbrowa Górnicza,1,Autobus,3,Standardowy,
 183486,2,Strzemieszyce Strzemieszycka,,50.306240,19.318604,9,Dąbrowa Górnicza,1,Autobus,3,Standardowy,
 183493,3,Ligota Panewnicka,,50.225712,18.969134,14,Katowice,1,Autobus,3,Standardowy,
+183494,22,Chorzów Hajducka,,50.288832,18.945436,6,Chorzów,1,Autobus,3,Standardowy,
 183495,22,Chorzów Dąbrowskiego,,50.284561,18.940885,6,Chorzów,1,Autobus,3,Standardowy,
 183496,21,Chorzów Zjednoczenia,,50.293846,18.949957,6,Chorzów,1,Autobus,3,Standardowy,
 183504,22,Zawodzie Zajezdnia,,50.259964,19.067110,14,Katowice,1,Autobus,3,Standardowy,
 183519,11,Wesoła Szkoła,,50.200049,19.110004,20,Mysłowice,1,Autobus,3,Standardowy,
 183520,1,Wesoła Morgowska,,50.206908,19.117063,20,Mysłowice,1,Autobus,3,Standardowy,
+183512,2,Bieruń FSM II,,50.102734,19.088072,2,Bieruń,1,Autobus,3,Standardowy,1
 183521,2,Wesoła Morgowska,,50.206736,19.117074,20,Mysłowice,1,Autobus,3,Standardowy,
 183522,4,Godula Plac Niepodległości,,50.313521,18.893702,26,Ruda Śląska,1,Autobus,3,Standardowy,
 183525,7,Psary Skrzyżowanie,,50.381399,19.090089,23,Psary,1,Autobus,3,Standardowy,
@@ -2110,6 +2118,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 183564,1,Dąbrówka Wielka Rycerska,,50.344506,19.007001,22,Piekary Śląskie,1,Autobus,3,Standardowy,
 183566,1,Park Śląski Wejście Główne,,50.281044,18.978060,14,Katowice,1,Autobus,3,Standardowy,
 183567,2,Park Śląski Wejście Główne,,50.280807,18.977713,14,Katowice,1,Autobus,3,Standardowy,
+183570,32,Chorzów Truchana Szpital,,50.296652,18.947397,6,Chorzów,1,Autobus,3,Standardowy,
+183571,31,Chorzów Truchana Szpital,,50.296515,18.947473,6,Chorzów,1,Autobus,3,Standardowy,
 183574,4,Chorzów Stadion Śląski,,50.289373,18.968565,6,Chorzów,1,Autobus,3,Standardowy,
 183575,4,Chorzów Rynek,,50.294831,18.955007,6,Chorzów,1,Autobus,3,Standardowy,
 183585,3,Bogucice Kościół,,50.269326,19.038035,14,Katowice,1,Autobus,3,Standardowy,
@@ -2122,6 +2132,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 183603,21,Mysłowice Kopalnia,,50.245606,19.130861,20,Mysłowice,1,Autobus,3,Standardowy,
 183604,22,Mysłowice Kopalnia,,50.246443,19.129122,20,Mysłowice,1,Autobus,3,Standardowy,
 183606,1,Mikulczyce Donnersmarcka,,50.347432,18.801614,36,Zabrze,1,Autobus,3,Standardowy,
+183600,2,Sławków Poczta,,50.296095,19.382151,30,Sławków,1,Autobus,3,Standardowy,1
 183607,2,Załęże Stacja Kolejowa,,50.265182,18.983978,14,Katowice,1,Autobus,3,Standardowy,
 183612,2t,Brynów Huberta,,50.228594,18.995543,14,Katowice,2,Tramwaj,3,Standardowy,
 183617,2B,KatowiceSądowa,,50.258740,19.010622,14,Katowice,1,Autobus,3,Standardowy,
@@ -2302,6 +2313,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 184118,31,Miechowice Bławatkowa,,50.367371,18.849465,4,Bytom,1,Autobus,3,Standardowy,
 184119,32,Miechowice Bławatkowa,,50.367122,18.850436,4,Bytom,1,Autobus,3,Standardowy,
 184122,31,Chropaczów Konstantego Wolnego,,50.315688,18.914578,33,Świętochłowice,1,Autobus,3,Standardowy,
+184103,31,Świętochłowice Polna,,50.295471,18.917239,33,Świętochłowice,1,Autobus,3,Standardowy,1
 184125,2,Gołonóg Szkoła,,50.338644,19.229362,9,Dąbrowa Górnicza,1,Autobus,3,Standardowy,
 184126,1,Gołonóg Szkoła,,50.339179,19.229341,9,Dąbrowa Górnicza,1,Autobus,3,Standardowy,
 184127,3,Gołonóg Dworzec PKP,,50.341437,19.225090,9,Dąbrowa Górnicza,1,Autobus,3,Standardowy,
@@ -2356,6 +2368,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 184272,4,Psary Kościół,,50.376831,19.096947,23,Psary,1,Autobus,3,Standardowy,
 184279,3,Brudzowice Komorne II,,50.506527,19.174767,29,Siewierz,1,Autobus,3,Standardowy,
 184280,31,Wirek Katowicka,,50.271538,18.882091,26,Ruda Śląska,1,Autobus,3,Standardowy,
+184283,33,Chorzów Raciborska,,50.294877,18.940145,6,Chorzów,1,Autobus,3,Standardowy,
+184284,34,Chorzów Raciborska,,50.294836,18.940295,6,Chorzów,1,Autobus,3,Standardowy,
 184285,31,Bytom Chełmońskiego,,50.357342,18.924910,4,Bytom,1,Autobus,3,Standardowy,
 184286,31,Bytom Gwarecka,,50.356734,18.929901,4,Bytom,1,Autobus,3,Standardowy,
 184287,31,Bytom Słoneczna,,50.361703,18.924708,4,Bytom,1,Autobus,3,Standardowy,
@@ -2363,7 +2377,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 184311,31,Morgi Pukowca,,50.200910,19.133232,20,Mysłowice,1,Autobus,3,Standardowy,
 184312,32,Morgi Pukowca,,50.201015,19.132955,20,Mysłowice,1,Autobus,3,Standardowy,
 184314,31,Chorzów Styczyńskiego Tymczasowy,,50.300600,18.939072,6,Chorzów,1,Autobus,3,Standardowy,
-184327,5,Gliwice Centrum Przesiadkowe,,50.302235,18.676889,11,Gliwice,1,Autobus,3,Standardowy,1
 184337,31,Dziećkowice Długosza,,50.163566,19.233310,20,Mysłowice,1,Autobus,3,Standardowy,
 184338,32,Dziećkowice Długosza,,50.163711,19.233407,20,Mysłowice,1,Autobus,3,Standardowy,
 184362,32,Łubne Przejazd Kolejowy,,50.463744,19.129821,40,Mierzęcice,1,Autobus,3,Standardowy,
@@ -2381,6 +2394,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 184462,2t,Zagórze Białostocka I,,50.291645,19.187685,31,Sosnowiec,2,Tramwaj,3,Standardowy,
 184463,1t,Zagórze Białostocka II,,50.289840,19.195028,31,Sosnowiec,2,Tramwaj,3,Standardowy,
 184464,2t,Zagórze Białostocka II,,50.291150,19.194431,31,Sosnowiec,2,Tramwaj,3,Standardowy,
+184453,1,Lędziny Zakole,,50.135617,19.099414,16,Lędziny,1,Autobus,3,Standardowy,1
 184485,4,Zagórze Rondo Jana Pawła II,,50.285665,19.176126,31,Sosnowiec,1,Autobus,3,Standardowy,
 184495,31,Dąbrowa Górnicza Urząd Pracy,,50.324959,19.169343,9,Dąbrowa Górnicza,1,Autobus,3,Standardowy,
 184515,2,Bytom Wesoła,,50.356301,18.932195,4,Bytom,1,Autobus,3,Standardowy,
@@ -2453,7 +2467,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 185023,32,Piekary Dwór,,50.388205,18.945863,22,Piekary Śląskie,1,Autobus,3,Standardowy,
 185024,32,Osiedle Wieczorka Konstytucji 3 Maja,,50.387603,18.955884,22,Piekary Śląskie,1,Autobus,3,Standardowy,
 185025,31,Osiedle Paderewskiego Biblioteka Śląska,,50.250909,19.032938,14,Katowice,1,Autobus,3,Standardowy,
-185012,2,Zendek VI,,50.493457,19.099672,44,Ożarowice,1,Autobus,3,Standardowy,1
 185026,32,Halemba Solidarności,,50.238532,18.834788,26,Ruda Śląska,1,Autobus,3,Standardowy,
 185027,31,Gierałtowice Korfantego,,50.236010,18.720962,11,Gliwice,1,Autobus,3,Standardowy,
 185028,32,Gierałtowice Korfantego,,50.235876,18.719678,11,Gliwice,1,Autobus,3,Standardowy,
@@ -2547,7 +2560,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 161270,2,Pogoń Grota-Roweckiego,,50.287070,19.121666,31,Sosnowiec,1,Autobus,3,Standardowy,1
 158041,1,Czeladź Osiedle Słoneczne,,50.311653,19.083589,7,Czeladź,1,Autobus,3,Standardowy,1
 161279,1,Pogoń Orla,,50.286076,19.132255,31,Sosnowiec,1,Autobus,3,Standardowy,1
-185282,2,Bytom Didura,,50.347701,18.903327,4,Bytom,1,Autobus,3,Standardowy,1
 158080,2,Piaski Osiedle Dziekana,,50.299997,19.100305,7,Czeladź,1,Autobus,3,Standardowy,1
 158084,2,Piaski Skrzyżowanie,,50.302341,19.097708,7,Czeladź,1,Autobus,3,Standardowy,1
 158092,2,Piaski Żeromskiego,,50.309326,19.091396,7,Czeladź,1,Autobus,3,Standardowy,1
@@ -2567,7 +2579,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 161278,2,Pogoń Orla,,50.286512,19.131987,31,Sosnowiec,1,Autobus,3,Standardowy,1
 183681,2,Radzionków Plac Letochów,,50.399450,18.901227,25,Radzionków,1,Autobus,3,Standardowy,1
 157570,1,Bytom Odrzańska [nż],,50.361178,18.903823,4,Bytom,1,Autobus,2,Na żądanie,1
-176399,4,Bytom Dworzec,,50.343735,18.913505,4,Bytom,1,Autobus,3,Standardowy,1
 157583,1,Bytom Plac Sobieskiego,,50.348979,18.924706,4,Bytom,1,Autobus,3,Standardowy,1
 157590,2,Bytom Prusa,,50.351766,18.930548,4,Bytom,1,Autobus,3,Standardowy,1
 157591,1,Bytom Sandomierska,,50.356366,18.930216,4,Bytom,1,Autobus,3,Standardowy,1
@@ -2652,7 +2663,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 179445,2,Hanusek,,50.507661,18.760673,136,Tworóg,1,Autobus,3,Standardowy,1
 179448,2,Hanusek PKP [nż],,50.509408,18.753218,136,Tworóg,1,Autobus,2,Na żądanie,1
 179451,2,Brynek Technikum,,50.515064,18.734344,136,Tworóg,1,Autobus,3,Standardowy,1
-178976,2,Osada Jana,,50.433523,18.864989,42,Tarnowskie Góry,1,Autobus,3,Standardowy,1
 160418,1,Radzionków św. Wojciecha [nż],,50.406931,18.910593,25,Radzionków,1,Autobus,2,Na żądanie,1
 183237,7,Tarnowskie Góry Dworzec,,50.447506,18.863262,42,Tarnowskie Góry,1,Autobus,3,Standardowy,1
 177643,2,Tarnowskie Góry Bytomska,,50.443854,18.860387,42,Tarnowskie Góry,1,Autobus,3,Standardowy,1
@@ -2688,6 +2698,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 157897,2,Chorzów Dąbrowskiego,,50.283512,18.940370,6,Chorzów,1,Autobus,3,Standardowy,1
 157915,1,Chorzów Liceum Katolickie,,50.297077,18.965100,6,Chorzów,1,Autobus,3,Standardowy,1
 178538,2,Chorzów Batory Pętla,,50.265890,18.944072,6,Chorzów,1,Autobus,3,Standardowy,1
+178959,3,Chorzów Rynek,,50.297974,18.954852,6,Chorzów,1,Autobus,3,Standardowy,1
 157976,2,Chorzów Stary Szyb Prezydent,,50.297750,18.968625,6,Chorzów,1,Autobus,3,Standardowy,1
 157851,1,Chorzów Batory 16 Lipca,,50.275977,18.940402,6,Chorzów,1,Autobus,3,Standardowy,1
 157858,1,Chorzów Batory Dworzec PKP,,50.279913,18.942806,6,Chorzów,1,Autobus,3,Standardowy,1
@@ -2818,6 +2829,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 178042,1,Świętoszowice OSP,,50.365118,18.727643,41,Zbrosławice,1,Autobus,3,Standardowy,1
 184318,15,Gliwice Centrum Przesiadkowe,,50.302639,18.676374,11,Gliwice,1,Autobus,3,Standardowy,1
 178048,1,Szałsza,,50.339172,18.716416,41,Zbrosławice,1,Autobus,3,Standardowy,1
+184327,5,Gliwice Centrum Przesiadkowe,,50.302235,18.676889,11,Gliwice,1,Autobus,3,Standardowy,1
 183433,2,Świętoszowice Przedszkole,,50.363922,18.734655,41,Zbrosławice,1,Autobus,3,Standardowy,1
 178060,4,Czekanów Droga do Świętoszowic [nż],,50.354569,18.748624,41,Zbrosławice,1,Autobus,2,Na żądanie,1
 180494,1,Szałsza Centrum Logistyczne [nż],,50.350245,18.715832,41,Zbrosławice,1,Autobus,2,Na żądanie,1
@@ -2847,26 +2859,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 177789,2,Tarnowskie Góry Wyszyńskiego,,50.442317,18.849894,42,Tarnowskie Góry,1,Autobus,3,Standardowy,1
 157718,1,Miechowice Plejada,,50.346980,18.848896,4,Bytom,1,Autobus,3,Standardowy,1
 157535,14,Bytom Dworzec,,50.344070,18.913162,4,Bytom,1,Autobus,3,Standardowy,1
-157986,1,Chorzów Strzelców Bytomskich,,50.292597,18.944776,6,Chorzów,1,Autobus,3,Standardowy,1
-157994,2,Chorzów Szkoła 13,,50.296872,18.941342,6,Chorzów,1,Autobus,3,Standardowy,1
-157931,2,Chorzów Młodzieżowa,,50.290265,18.958894,6,Chorzów,1,Autobus,3,Standardowy,1
-157904,1,Chorzów Filarowa,,50.300038,18.946421,6,Chorzów,1,Autobus,3,Standardowy,1
-158004,2,Klimzowiec Gałeczki,,50.284914,18.959194,6,Chorzów,1,Autobus,3,Standardowy,1
-183571,31,Chorzów Truchana Szpital,,50.296515,18.947473,6,Chorzów,1,Autobus,3,Standardowy,1
-163603,1,Chorzów Centrum Edukacji,,50.296077,18.935757,6,Chorzów,1,Autobus,3,Standardowy,1
-158007,1,Klimzowiec Racławicka,,50.281970,18.955278,6,Chorzów,1,Autobus,3,Standardowy,1
-157912,2t,Chorzów Kościół św. Jadwigi,,50.292657,18.947054,6,Chorzów,2,Tramwaj,3,Standardowy,1_2
-157907,1,Chorzów Gwarecka,,50.296783,18.930929,6,Chorzów,1,Autobus,3,Standardowy,1
-184283,33,Chorzów Raciborska,,50.294877,18.940145,6,Chorzów,1,Autobus,3,Standardowy,1
-157985,2,Chorzów Strzelców Bytomskich,,50.292162,18.944975,6,Chorzów,1,Autobus,3,Standardowy,1
-157959,1t,Chorzów Sobieskiego,,50.294690,18.950863,6,Chorzów,2,Tramwaj,3,Standardowy,1_2
-157930,1,Chorzów Młodzieżowa,,50.290100,18.958712,6,Chorzów,1,Autobus,3,Standardowy,1
-157996,1,Chorzów Uniwersytet Śląski,,50.295741,18.934883,6,Chorzów,1,Autobus,3,Standardowy,1
-183570,32,Chorzów Truchana Szpital,,50.296652,18.947397,6,Chorzów,1,Autobus,3,Standardowy,1
-158003,1,Klimzowiec Gałeczki,,50.284818,18.959044,6,Chorzów,1,Autobus,3,Standardowy,1
-157910,1,Chorzów Kościół św. Jadwigi,,50.292127,18.946575,6,Chorzów,1,Autobus,3,Standardowy,1
-184284,34,Chorzów Raciborska,,50.294836,18.940295,6,Chorzów,1,Autobus,3,Standardowy,1
-157917,1,Chorzów Lompy,,50.297023,18.942655,6,Chorzów,1,Autobus,3,Standardowy,1
 179477,2,Wojska Powstańców Śląskich [nż],,50.487294,18.672415,136,Tworóg,1,Autobus,2,Na żądanie,1
 179478,1,Wojska Szkoła,,50.483944,18.666098,136,Tworóg,1,Autobus,3,Standardowy,1
 179481,2,Połomia Skrzyżowanie [nż],,50.488156,18.702962,136,Tworóg,1,Autobus,2,Na żądanie,1
@@ -2937,7 +2929,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 159783,2,Lędziny Pomnik,,50.130714,19.108663,16,Lędziny,1,Autobus,3,Standardowy,1
 159784,1,Lędziny Szkoła,,50.128705,19.110256,16,Lędziny,1,Autobus,3,Standardowy,1
 176616,2,Lędziny Zespół Szkół,,50.122013,19.124595,16,Lędziny,1,Autobus,3,Standardowy,1
-184453,1,Lędziny Zakole,,50.135617,19.099414,16,Lędziny,1,Autobus,3,Standardowy,1
 159778,2,Lędziny Kościół,,50.128760,19.103937,16,Lędziny,1,Autobus,3,Standardowy,1
 159788,1,Lędziny Zamkowa,,50.130820,19.095697,16,Lędziny,1,Autobus,3,Standardowy,1
 159805,1,Zamoście Posesja 10,,50.135596,19.089700,16,Lędziny,1,Autobus,3,Standardowy,1
@@ -3020,6 +3011,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 157578,1,Bytom Piłsudskiego,,50.348678,18.929797,4,Bytom,1,Autobus,3,Standardowy,1
 157584,1,Bytom Pogoda,,50.345652,18.930360,4,Bytom,1,Autobus,3,Standardowy,1
 157589,1,Bytom Prusa,,50.351800,18.930742,4,Bytom,1,Autobus,3,Standardowy,1
+176413,6,Bytom Dworzec,,50.343926,18.913022,4,Bytom,1,Autobus,3,Standardowy,1
 157726,2,Osiedle Ziętka Szymały,,50.393158,18.885927,4,Bytom,1,Autobus,3,Standardowy,1
 157598,2,Bytom Strzelców Bytomskich,,50.350410,18.914041,4,Bytom,1,Autobus,3,Standardowy,1
 160423,2,Rojca Baza Paliw,,50.376900,18.908197,25,Radzionków,1,Autobus,3,Standardowy,1
@@ -3155,7 +3147,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 182768,1,Żwaków Legionów,,50.107255,18.969896,34,Tychy,1,Autobus,3,Standardowy,1_5
 161650,2,Tychy Harcerska,,50.120853,18.976086,34,Tychy,1,Autobus,3,Standardowy,1_5
 177784,1,Tychy Budowlanych,,50.132096,18.964231,34,Tychy,1,Autobus,3,Standardowy,1_5
-182009,2,Tychy Begonii,,50.124836,18.980925,34,Tychy,1,Autobus,3,Standardowy,1_5
 180484,2,Tychy Lodowisko,,50.108405,19.000324,34,Tychy,1,Autobus,3,Standardowy,1_5
 177670,2,Tychy Szpital Wojewódzki,,50.113382,19.004636,34,Tychy,1,Autobus,3,Standardowy,1_5
 183945,1,Czułów Leszczynowa,,50.149926,19.004142,34,Tychy,1,Autobus,3,Standardowy,1
@@ -3485,6 +3476,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 184200,2,Kamionka Plebiscytowa,,50.179364,18.913194,19,Mikołów,1,Autobus,3,Standardowy,1
 184199,1,Kamionka Plebiscytowa,,50.179419,18.913151,19,Mikołów,1,Autobus,3,Standardowy,1
 159890,1,Mikołów Szpital,,50.175225,18.907132,19,Mikołów,1,Autobus,3,Standardowy,1
+183444,1,Mikołów Szpital I,,50.173229,18.905920,19,Mikołów,1,Autobus,3,Standardowy,1
 184221,1,Mikołów Plac Synagogi,,50.168645,18.903592,19,Mikołów,1,Autobus,3,Standardowy,1
 183790,5,Mikołów Dworzec,,50.172044,18.900130,19,Mikołów,1,Autobus,3,Standardowy,1
 183791,6,Mikołów Dworzec,,50.172179,18.900529,19,Mikołów,1,Autobus,3,Standardowy,1
@@ -3563,29 +3555,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 179654,1,Lasowice Osiedle,,50.446314,18.885235,42,Tarnowskie Góry,1,Autobus,3,Standardowy,1
 179675,1,Tarnowskie Góry Stara,,50.442372,18.868096,42,Tarnowskie Góry,1,Autobus,3,Standardowy,1
 179677,1,Tarnowskie Góry Księdza Siwca,,50.442391,18.879596,42,Tarnowskie Góry,1,Autobus,3,Standardowy,1
-180497,1,Chorzów Batory Plac Nowary,,50.276053,18.936068,6,Chorzów,1,Autobus,3,Standardowy,1
-159249,2,Katowice Osiedle Kopalni Wujek,,50.251781,18.989519,14,Katowice,1,Autobus,3,Standardowy,1
-157853,3,Chorzów Batory 16 Lipca,,50.276231,18.940595,6,Chorzów,1,Autobus,3,Standardowy,1
-157855,1,Chorzów Batory Czempiela,,50.267968,18.932195,6,Chorzów,1,Autobus,3,Standardowy,1
-157988,1,Chorzów Styczyńskiego,,50.301854,18.939780,6,Chorzów,1,Autobus,3,Standardowy,1
-157863,1,Chorzów Batory Graniczna,,50.270702,18.931317,6,Chorzów,1,Autobus,3,Standardowy,1
-157865,1,Chorzów Batory Kaliny,,50.274747,18.931188,6,Chorzów,1,Autobus,3,Standardowy,1
-157873,1,Chorzów Batory Pętla,,50.265972,18.944018,6,Chorzów,1,Autobus,3,Standardowy,1
-157880,1,Chorzów Batory Szyb Kleofas [nż],,50.254051,18.943138,6,Chorzów,1,Autobus,2,Na żądanie,1
-162108,1,Katowice Dworzec,,50.258538,19.016816,14,Katowice,1,Autobus,3,Standardowy,1
-183615,2A,Katowice Sądowa,,50.258631,19.011009,14,Katowice,1,Autobus,3,Standardowy,1
-157929,2,Chorzów Miasto Dworzec PKP,,50.298311,18.950262,6,Chorzów,1,Autobus,3,Standardowy,1
-157956,1,Chorzów Rynek,,50.298229,18.954865,6,Chorzów,1,Autobus,3,Standardowy,1
-159248,1,Katowice Osiedle Kopalni Wujek,,50.252302,18.989862,14,Katowice,1,Autobus,3,Standardowy,1
-157854,2,Chorzów Batory Czempiela,,50.267529,18.933450,6,Chorzów,1,Autobus,3,Standardowy,1
-157987,2,Chorzów Styczyńskiego,,50.302711,18.938278,6,Chorzów,1,Autobus,3,Standardowy,1
-157862,1,Chorzów Batory Farna,,50.274167,18.937591,6,Chorzów,1,Autobus,3,Standardowy,1
-157864,2,Chorzów Batory Graniczna,,50.270875,18.931476,6,Chorzów,1,Autobus,3,Standardowy,1
-157866,2,Chorzów Batory Kaliny,,50.274777,18.931422,6,Chorzów,1,Autobus,3,Standardowy,1
-180275,1,Chorzów Amelung,,50.299161,18.934759,6,Chorzów,1,Autobus,3,Standardowy,1
-157906,1,Chorzów Floriańska,,50.303060,18.943353,6,Chorzów,1,Autobus,3,Standardowy,1
-183654,1B,Katowice Sądowa,,50.258989,19.011243,14,Katowice,1,Autobus,3,Standardowy,1
-157928,1,Chorzów Miasto Dworzec PKP,,50.298530,18.950230,6,Chorzów,1,Autobus,3,Standardowy,1
 161673,1,Wojkowice Giełda,,50.361212,19.051027,35,Wojkowice,1,Autobus,3,Standardowy,1
 159124,2,Dąbrówka Mała Le Ronda,,50.274681,19.057825,14,Katowice,1,Autobus,3,Standardowy,1
 159125,2,Dąbrówka Mała Milowicka,,50.286053,19.071326,14,Katowice,1,Autobus,3,Standardowy,1
@@ -3596,7 +3565,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 161184,1,Milowice Most,,50.291653,19.073204,31,Sosnowiec,1,Autobus,3,Standardowy,1
 161697,2,Wojkowice Park,,50.365246,19.036399,35,Wojkowice,1,Autobus,3,Standardowy,1
 161696,1,Wojkowice Ośrodek Zdrowia [nż],,50.362991,19.043839,35,Wojkowice,1,Autobus,2,Na żądanie,1
-162086,6,Katowice Dworzec,,50.258274,19.018474,14,Katowice,1,Autobus,3,Standardowy,1
 159282,5,Katowice Sokolska,,50.263576,19.017242,14,Katowice,1,Autobus,3,Standardowy,1
 159048,2,Bogucice Cmentarz,,50.272368,19.046950,14,Katowice,1,Autobus,3,Standardowy,1
 158024,2,Czeladź Cmentarz Komunalny,,50.338031,19.069148,7,Czeladź,1,Autobus,3,Standardowy,1
@@ -3629,6 +3597,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 158067,1,Czeladź Wojkowicka Pętla,,50.333456,19.070984,7,Czeladź,1,Autobus,3,Standardowy,1
 180217,3,Katowice Chorzowska,,50.266816,19.019753,14,Katowice,1,Autobus,3,Standardowy,1
 176928,3,Żernica Skrzyżowanie,,50.247099,18.616585,43,Pilchowice,1,Autobus,3,Standardowy,1
+176897,1,Leboszowice Las,,50.229230,18.558500,43,Pilchowice,1,Autobus,3,Standardowy,1
 176866,1,Żernica Pętla,,50.237420,18.608903,43,Pilchowice,1,Autobus,3,Standardowy,1
 177037,1,Leboszowice,,50.226306,18.553328,43,Pilchowice,1,Autobus,3,Standardowy,1
 177009,1,Nieborowice Przedszkole,,50.227089,18.609611,43,Pilchowice,1,Autobus,3,Standardowy,1
@@ -3697,6 +3666,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 160147,1,Dąbrówka Wielka,,50.345659,19.009228,22,Piekary Śląskie,1,Autobus,3,Standardowy,1
 185001,2,Zendek Przepompownia [nż],,50.494726,19.071273,44,Ożarowice,1,Autobus,2,Na żądanie,1
 185003,2,Zendek VII [nż],,50.489574,19.110703,44,Ożarowice,1,Autobus,2,Na żądanie,1
+185012,2,Zendek VI,,50.493457,19.099672,44,Ożarowice,1,Autobus,3,Standardowy,1
 179772,2,Zadzień Posesja 31,,50.476290,19.116749,40,Mierzęcice,1,Autobus,3,Standardowy,1
 179775,1,Mierzęcice Magazyny,,50.462496,19.111776,40,Mierzęcice,1,Autobus,3,Standardowy,1
 179264,2,Ożarowice Kościuszki,,50.461838,19.045504,44,Ożarowice,1,Autobus,3,Standardowy,1
@@ -3794,7 +3764,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 182863,3,Bieruń Stacja Paliw,,50.084546,19.110680,2,Bieruń,1,Autobus,3,Standardowy,1
 182864,11,Bieruń Warszawska Skrzyżowanie,,50.076180,19.177552,2,Bieruń,1,Autobus,3,Standardowy,1
 182870,3,Bieruń Zarzyna,,50.083423,19.141160,2,Bieruń,1,Autobus,3,Standardowy,1
-183512,2,Bieruń FSM II,,50.102734,19.088072,2,Bieruń,1,Autobus,3,Standardowy,1
 176350,1,Bieruń Plac Autobusowy,,50.089227,19.091529,2,Bieruń,1,Autobus,3,Standardowy,1
 176351,1,Bieruń Baraniec,,50.085668,19.105262,2,Bieruń,1,Autobus,3,Standardowy,1
 184802,1,Urbanowice,,50.112436,19.043034,34,Tychy,1,Autobus,3,Standardowy,1
@@ -3829,6 +3798,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 159771,1,Lędziny Droga do Górek,,50.122419,19.109049,16,Lędziny,1,Autobus,3,Standardowy,1
 159774,1,Lędziny Gospoda,,50.126893,19.105895,16,Lędziny,1,Autobus,3,Standardowy,1
 159776,2,Lędziny Jagiellońska,,50.119625,19.112075,16,Lędziny,1,Autobus,3,Standardowy,1
+182988,2,Goławiec Czapli,,50.107784,19.161670,16,Lędziny,1,Autobus,3,Standardowy,1
 182990,3,Górki Poczta,,50.103464,19.139014,16,Lędziny,1,Autobus,3,Standardowy,1
 182992,2,Górki Polna,,50.098093,19.142854,16,Lędziny,1,Autobus,3,Standardowy,1
 182993,1,Górki Szenwalda,,50.095884,19.146049,16,Lędziny,1,Autobus,3,Standardowy,1
@@ -3846,63 +3816,32 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 182991,1,Górki Polna,,50.097543,19.143797,16,Lędziny,1,Autobus,3,Standardowy,1
 182994,2,Górki Szenwalda,,50.095695,19.146302,16,Lędziny,1,Autobus,3,Standardowy,1
 159743,1,Górki Leśna,,50.107417,19.135770,16,Lędziny,1,Autobus,3,Standardowy,1
-157958,2,Chorzów Składowa,,50.306473,18.932823,6,Chorzów,1,Autobus,3,Standardowy,1
-157961,1,Chorzów Stabika,,50.310214,18.950133,6,Chorzów,1,Autobus,3,Standardowy,1
-157966,3,Chorzów Stary Bożogrobców,,50.302649,18.974659,6,Chorzów,1,Autobus,3,Standardowy,1
 157967,2,Chorzów Stary Bożogrobców,,50.303684,18.973758,6,Chorzów,1,Autobus,3,Standardowy,1
-157968,2,Chorzów Stary Dom Pomocy,,50.301361,18.979927,6,Chorzów,1,Autobus,3,Standardowy,1
-157969,1,Chorzów Stary Dom Pomocy,,50.301107,18.980592,6,Chorzów,1,Autobus,3,Standardowy,1
-157971,1,Chorzów Stary Dworzec PKP,,50.314917,18.957504,6,Chorzów,1,Autobus,3,Standardowy,1
+180497,1,Chorzów Batory Plac Nowary,,50.276053,18.936068,6,Chorzów,1,Autobus,3,Standardowy,1
 157973,2,Chorzów Stary Plac Jana,,50.309556,18.973672,6,Chorzów,1,Autobus,3,Standardowy,1
 157974,3,Chorzów Stary Plac Piastowski,,50.300908,18.970883,6,Chorzów,1,Autobus,3,Standardowy,1
-157977,1,Chorzów Stary Węzłowiec,,50.298654,18.990924,6,Chorzów,1,Autobus,3,Standardowy,1
-157978,2,Chorzów Stary Węzłowiec,,50.298798,18.990796,6,Chorzów,1,Autobus,3,Standardowy,1
-157979,1,Chorzów Stary Wiejska,,50.315510,18.963550,6,Chorzów,1,Autobus,3,Standardowy,1
+157853,3,Chorzów Batory 16 Lipca,,50.276231,18.940595,6,Chorzów,1,Autobus,3,Standardowy,1
 157983,2,Chorzów Stary Zakłady Azotowe,,50.317189,18.981032,6,Chorzów,1,Autobus,3,Standardowy,1
-157998,1,Chorzów Wodociągi,,50.302841,18.933825,6,Chorzów,1,Autobus,3,Standardowy,1
-184373,2,Michałkowice Kościelna,,50.323977,19.003134,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
-184376,2,Michałkowice Tarnogórska [nż],,50.329292,19.008659,28,Siemianowice Śląskie,1,Autobus,2,Na żądanie,1
-158020,1,Maciejkowice Szyb Zygmunt,,50.323108,18.971232,6,Chorzów,1,Autobus,3,Standardowy,1
-160838,1,Węzłowiec Centrum Handlowe,,50.300997,18.999926,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
-158019,1,Maciejkowice Spółdzielnia,,50.322375,18.975191,6,Chorzów,1,Autobus,3,Standardowy,1
-160840,1,Węzłowiec Jagiełły,,50.302903,18.999079,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
-160837,2,Węzłowiec Centrum Handlowe,,50.300895,19.000452,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
-160839,2,Węzłowiec Jagiełły,,50.302834,18.999196,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
-160841,1,Węzłowiec Pętla,,50.305055,18.996906,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
-180563,2,Chorzów Stary Kościół [nż],,50.305815,18.974391,6,Chorzów,1,Autobus,2,Na żądanie,1
-157913,2,Chorzów Krzyżowa,,50.309861,18.944877,6,Chorzów,1,Autobus,3,Standardowy,1
-160732,2,Bytków Kościół,,50.304218,19.004732,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
-160734,1,Bytków Osiedle Chemik,,50.297300,19.003816,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
-160733,2,Bytków Osiedle Chemik,,50.297187,19.004121,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
-157920,2,Chorzów Mariańska,,50.307426,18.942018,6,Chorzów,1,Autobus,3,Standardowy,1
-160738,2,Bytków Watoły,,50.307761,19.003488,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
-160752,2,Michałkowice Kościół,,50.318449,19.003262,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
-157936,2,Chorzów Opolska,,50.308960,18.936170,6,Chorzów,1,Autobus,3,Standardowy,1
-160756,2,Michałkowice Park Górnik,,50.315284,19.003584,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
-157957,1,Chorzów Składowa,,50.307008,18.932641,6,Chorzów,1,Autobus,3,Standardowy,1
-157965,1,Chorzów Stary Bożogrobców,,50.301868,18.972814,6,Chorzów,1,Autobus,3,Standardowy,1
-157970,2,Chorzów Stary Dworzec PKP,,50.315325,18.956866,6,Chorzów,1,Autobus,3,Standardowy,1
-157972,1,Chorzów Stary Plac Jana,,50.309296,18.973887,6,Chorzów,1,Autobus,3,Standardowy,1
-157975,1,Chorzów Stary Szyb Prezydent,,50.298142,18.969163,6,Chorzów,1,Autobus,3,Standardowy,1
-157980,2,Chorzów Stary Wiejska,,50.315764,18.963529,6,Chorzów,1,Autobus,3,Standardowy,1
-157984,1,Chorzów Stary Zakłady Azotowe,,50.317079,18.981193,6,Chorzów,1,Autobus,3,Standardowy,1
-176426,3,Chorzów Stabika,,50.310310,18.950251,6,Chorzów,1,Autobus,3,Standardowy,1
-157999,2,Chorzów Wodociągi,,50.302690,18.934158,6,Chorzów,1,Autobus,3,Standardowy,1
-176437,2,Chorzów Centrum Edukacji,,50.296851,18.935177,6,Chorzów,1,Autobus,3,Standardowy,1
-158018,2,Maciejkowice Spółdzielnia,,50.322628,18.974633,6,Chorzów,1,Autobus,3,Standardowy,1
-158021,2,Maciejkowice Szyb Zygmunt,,50.323354,18.970642,6,Chorzów,1,Autobus,3,Standardowy,1
-180562,1,Chorzów Stary Kościół [nż],,50.305829,18.974563,6,Chorzów,1,Autobus,2,Na żądanie,1
-157914,1,Chorzów Krzyżowa,,50.310228,18.946352,6,Chorzów,1,Autobus,3,Standardowy,1
-160731,1,Bytków Kościół,,50.304986,19.004786,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
-157921,1,Chorzów Mariańska,,50.307350,18.942329,6,Chorzów,1,Autobus,3,Standardowy,1
-157935,1,Chorzów Opolska,,50.309132,18.935870,6,Chorzów,1,Autobus,3,Standardowy,1
+157855,1,Chorzów Batory Czempiela,,50.267968,18.932195,6,Chorzów,1,Autobus,3,Standardowy,1
+157863,1,Chorzów Batory Graniczna,,50.270702,18.931317,6,Chorzów,1,Autobus,3,Standardowy,1
+157865,1,Chorzów Batory Kaliny,,50.274747,18.931188,6,Chorzów,1,Autobus,3,Standardowy,1
 158013,2,Maciejkowice Dwór,,50.321511,18.979176,6,Chorzów,1,Autobus,3,Standardowy,1
 184383,1,Michałkowice Maciejkowicka [nż],,50.319627,18.997008,28,Siemianowice Śląskie,1,Autobus,2,Na żądanie,1
 158016,2,Maciejkowice Michałkowicka,,50.321052,18.984659,6,Chorzów,1,Autobus,3,Standardowy,1
+180563,2,Chorzów Stary Kościół [nż],,50.305815,18.974391,6,Chorzów,1,Autobus,2,Na żądanie,1
 178805,1,Michałkowice Plac 11 Listopada,,50.319769,19.005623,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
+157965,1,Chorzów Stary Bożogrobców,,50.301868,18.972814,6,Chorzów,1,Autobus,3,Standardowy,1
+157972,1,Chorzów Stary Plac Jana,,50.309296,18.973887,6,Chorzów,1,Autobus,3,Standardowy,1
+157975,1,Chorzów Stary Szyb Prezydent,,50.298142,18.969163,6,Chorzów,1,Autobus,3,Standardowy,1
+157854,2,Chorzów Batory Czempiela,,50.267529,18.933450,6,Chorzów,1,Autobus,3,Standardowy,1
+157984,1,Chorzów Stary Zakłady Azotowe,,50.317079,18.981193,6,Chorzów,1,Autobus,3,Standardowy,1
+157862,1,Chorzów Batory Farna,,50.274167,18.937591,6,Chorzów,1,Autobus,3,Standardowy,1
+157864,2,Chorzów Batory Graniczna,,50.270875,18.931476,6,Chorzów,1,Autobus,3,Standardowy,1
+157866,2,Chorzów Batory Kaliny,,50.274777,18.931422,6,Chorzów,1,Autobus,3,Standardowy,1
 158015,1,Maciejkowice Dwór,,50.321547,18.978454,6,Chorzów,1,Autobus,3,Standardowy,1
 184384,2,Michałkowice Maciejkowicka [nż],,50.319504,18.997104,28,Siemianowice Śląskie,1,Autobus,2,Na żądanie,1
 158017,1,Maciejkowice Michałkowicka,,50.321032,18.983511,6,Chorzów,1,Autobus,3,Standardowy,1
+180562,1,Chorzów Stary Kościół [nż],,50.305829,18.974563,6,Chorzów,1,Autobus,2,Na żądanie,1
 178809,2,Michałkowice Plac 11 Listopada,,50.319659,19.004056,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 180608,1,Dąbrówka Wielka Przychodnia Zdrowia,,50.346590,18.999604,22,Piekary Śląskie,1,Autobus,3,Standardowy,1
 157729,1,Rozbark Dom Kopalni,,50.342639,18.941942,4,Bytom,1,Autobus,3,Standardowy,1
@@ -3923,7 +3862,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 157728,2,Rozbark Dom Kopalni,,50.342790,18.941932,4,Bytom,1,Autobus,3,Standardowy,1
 157731,2,Rozbark Droga do Szybu Lompy [nż],,50.341339,18.955128,4,Bytom,1,Autobus,2,Na żądanie,1
 157740,2,Rozbark Zakłady Orzeł Biały,,50.342119,18.947918,4,Bytom,1,Autobus,3,Standardowy,1
-183055,2,Niwka Watta [nż],,50.253313,19.157886,31,Sosnowiec,1,Autobus,2,Na żądanie,1
 184995,2,Ćmok Pętla,,50.230358,19.124241,20,Mysłowice,1,Autobus,3,Standardowy,1
 160052,2,Mysłowice Cmentarz,,50.237612,19.131751,20,Mysłowice,1,Autobus,3,Standardowy,1
 161226,3,Niwka Pawiak,,50.250292,19.163659,31,Sosnowiec,1,Autobus,3,Standardowy,1
@@ -4036,8 +3974,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 158797,1,Gliwice Zabrska,,50.295772,18.687261,11,Gliwice,1,Autobus,3,Standardowy,1
 179983,1,Gliwice Odlewników,,50.291108,18.691832,11,Gliwice,1,Autobus,3,Standardowy,1
 179200,2,Świerklaniec Sady [nż],,50.430723,18.944671,32,Świerklaniec,1,Autobus,2,Na żądanie,1
+157956,1,Chorzów Rynek,,50.298229,18.954865,6,Chorzów,1,Autobus,3,Standardowy,1
 176901,1,Piekary Dwór,,50.391557,18.946009,22,Piekary Śląskie,1,Autobus,3,Standardowy,1
 157960,2,Chorzów Stabika,,50.310790,18.949018,6,Chorzów,1,Autobus,3,Standardowy,1
+180616,2,Piekary Kopalnia,,50.380677,18.950809,22,Piekary Śląskie,1,Autobus,3,Standardowy,1
 176909,2,Piekary Technoszczot,,50.383708,18.953609,22,Piekary Śląskie,1,Autobus,3,Standardowy,1
 180126,2,Bytom Teatr Tańca-Rozbark,,50.341763,18.932356,4,Bytom,1,Autobus,3,Standardowy,1
 160172,2,Kozłowa Góra,,50.412716,18.948584,22,Piekary Śląskie,1,Autobus,3,Standardowy,1
@@ -4079,7 +4019,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 179465,2,Osiedle Wesoła [nż],,50.558786,18.687842,136,Tworóg,1,Autobus,2,Na żądanie,1
 179487,2,Tworóg Graniczny [nż],,50.560788,18.679128,136,Tworóg,1,Autobus,2,Na żądanie,1
 180540,2,Ziętek,,50.572775,18.646754,85,Krupski Młyn,1,Autobus,3,Standardowy,1
-183384,2,Tworóg [nż],,50.540331,18.709045,136,Tworóg,1,Autobus,2,Na żądanie,1
 183385,2,Koty Szkolna,,50.551498,18.700004,136,Tworóg,1,Autobus,3,Standardowy,1
 179175,1,Krupski Młyn Słoneczna,,50.569062,18.616489,85,Krupski Młyn,1,Autobus,3,Standardowy,1
 179176,1,Krupski Młyn Nitroerg,,50.574247,18.615297,85,Krupski Młyn,1,Autobus,3,Standardowy,1
@@ -4129,15 +4068,18 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 184898,2,Obroki Droga do MPGK [nż],,50.267742,18.961281,14,Katowice,1,Autobus,2,Na żądanie,1
 159427,1,Obroki MPGK,,50.265749,18.960680,14,Katowice,1,Autobus,3,Standardowy,1
 184077,2,Obroki MPGK,,50.265317,18.960948,14,Katowice,1,Autobus,3,Standardowy,1
+159249,2,Katowice Osiedle Kopalni Wujek,,50.251781,18.989519,14,Katowice,1,Autobus,3,Standardowy,1
 159476,2,Osiedle Witosa Centrum,,50.261521,18.970422,14,Katowice,1,Autobus,3,Standardowy,1
 184246,2,Obroki Elkop,,50.267090,18.955348,14,Katowice,1,Autobus,3,Standardowy,1
 159480,2,Osiedle Witosa Droga Kochłowicka,,50.256603,18.971816,14,Katowice,1,Autobus,3,Standardowy,1
 180313,1,Osiedle Witosa Plac Św. Herberta,,50.259793,18.969595,14,Katowice,1,Autobus,3,Standardowy,1
 159482,2,Osiedle Witosa II,,50.266185,18.973372,14,Katowice,1,Autobus,3,Standardowy,1
+162108,1,Katowice Dworzec,,50.258538,19.016816,14,Katowice,1,Autobus,3,Standardowy,1
 159422,2,Obroki Dulęby,,50.267042,18.968083,14,Katowice,1,Autobus,3,Standardowy,1
 159424,1,Obroki Elkop,,50.267282,18.955616,14,Katowice,1,Autobus,3,Standardowy,1
 184897,1,Obroki Droga do MPGK [nż],,50.267714,18.961087,14,Katowice,1,Autobus,2,Na żądanie,1
 159426,1,Obroki Hale Targowe,,50.268112,18.958626,14,Katowice,1,Autobus,3,Standardowy,1
+159248,1,Katowice Osiedle Kopalni Wujek,,50.252302,18.989862,14,Katowice,1,Autobus,3,Standardowy,1
 159475,1,Osiedle Witosa Centrum,,50.260643,18.970196,14,Katowice,1,Autobus,3,Standardowy,1
 159479,1,Osiedle Witosa Droga Kochłowicka,,50.256555,18.972042,14,Katowice,1,Autobus,3,Standardowy,1
 159481,1,Osiedle Witosa II,,50.265924,18.973383,14,Katowice,1,Autobus,3,Standardowy,1
@@ -4146,7 +4088,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 159525,1,Piotrowice Tyska,,50.211137,18.984830,14,Katowice,1,Autobus,3,Standardowy,1
 180646,1,Osiedle Odrodzenia Bażantów,,50.201421,18.989819,14,Katowice,1,Autobus,3,Standardowy,1
 163631,2,Ochojec Ziołowa,,50.212236,18.986440,14,Katowice,1,Autobus,3,Standardowy,1
+162106,10,Katowice Dworzec,,50.258411,19.016800,14,Katowice,1,Autobus,3,Standardowy,1
 162107,9,Katowice Dworzec,,50.258373,19.017229,14,Katowice,1,Autobus,3,Standardowy,1
+183615,2A,Katowice Sądowa,,50.258631,19.011009,14,Katowice,1,Autobus,3,Standardowy,1
 184009,2,Brynów Różyckiego,,50.239270,18.994594,14,Katowice,1,Autobus,3,Standardowy,1
 184010,1,Brynów Różyckiego,,50.238385,18.994379,14,Katowice,1,Autobus,3,Standardowy,1
 184011,1,Brynów Rzepakowa,,50.222950,18.993864,14,Katowice,1,Autobus,3,Standardowy,1
@@ -4165,6 +4109,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 183647,1,Brynów Centrum Przesiadkowe,,50.227078,18.994572,14,Katowice,1,Autobus,3,Standardowy,1
 183648,2,Brynów Centrum Przesiadkowe,,50.227043,18.995420,14,Katowice,1,Autobus,3,Standardowy,1
 159074,1,Brynów Kościuszki,,50.227455,18.993177,14,Katowice,1,Autobus,3,Standardowy,1
+183654,1B,Katowice Sądowa,,50.258989,19.011243,14,Katowice,1,Autobus,3,Standardowy,1
 159086,1,Brynów W. Pola,,50.245126,18.996546,14,Katowice,1,Autobus,3,Standardowy,1
 159087,2,Brynów W. Pola,,50.244138,18.996739,14,Katowice,1,Autobus,3,Standardowy,1
 160513,2,Halemba Energetyków,,50.241841,18.830911,26,Ruda Śląska,1,Autobus,3,Standardowy,1
@@ -4177,6 +4122,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 160538,1,Halemba Pętla,,50.244728,18.824488,26,Ruda Śląska,1,Autobus,3,Standardowy,1
 160546,2,Halemba Solidarności,,50.237331,18.835442,26,Ruda Śląska,1,Autobus,3,Standardowy,1
 160553,1,Halemba Żytnia [nż],,50.237722,18.869109,26,Ruda Śląska,1,Autobus,2,Na żądanie,1
+157873,1,Chorzów Batory Pętla,,50.265972,18.944018,6,Chorzów,1,Autobus,3,Standardowy,1
+157880,1,Chorzów Batory Szyb Kleofas [nż],,50.254051,18.943138,6,Chorzów,1,Autobus,2,Na żądanie,1
 160576,2,Kochłowice Park Pamięci,,50.248695,18.893466,26,Ruda Śląska,1,Autobus,3,Standardowy,1
 180314,1,Załęska Hałda Bocheńskiego Autostrada,,50.255581,18.983961,14,Katowice,1,Autobus,3,Standardowy,1
 159485,2,Osiedle Witosa Rataja,,50.260773,18.977181,14,Katowice,1,Autobus,3,Standardowy,1
@@ -4338,11 +4285,16 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 160804,2,Siemianowice Korfantego,,50.302067,19.011331,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 184370,1,Siemianowice Śląska,,50.306582,19.025546,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 160819,2,Siemianowice Plac Skargi,,50.298688,19.027027,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
+184373,2,Michałkowice Kościelna,,50.323977,19.003134,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
+184376,2,Michałkowice Tarnogórska [nż],,50.329292,19.008659,28,Siemianowice Śląskie,1,Autobus,2,Na żądanie,1
 160829,1,Siemianowice Strzelnica [nż],,50.316462,19.023069,28,Siemianowice Śląskie,1,Autobus,2,Na żądanie,1
 160835,1,Siemianowice Urząd Skarbowy [nż],,50.312218,19.023525,28,Siemianowice Śląskie,1,Autobus,2,Na żądanie,1
 160726,1,Bańgów Zwycięstwa [nż],,50.327457,19.021566,28,Siemianowice Śląskie,1,Autobus,2,Na żądanie,1
 160730,2,Bytków Kapicy,,50.303622,19.009689,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 160736,2,Bytków Osiedle Młodych,,50.306576,19.010204,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
+160738,2,Bytków Watoły,,50.307761,19.003488,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
+160752,2,Michałkowice Kościół,,50.318449,19.003262,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
+160756,2,Michałkowice Park Górnik,,50.315284,19.003584,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 159504,2,Piotrowice Barcelońska,,50.206681,18.965085,14,Katowice,1,Autobus,3,Standardowy,1
 159518,1,Piotrowice Pętla,,50.200885,18.963411,14,Katowice,1,Autobus,3,Standardowy,1
 159521,4,Piotrowice Skrzyżowanie,,50.208514,18.975314,14,Katowice,1,Autobus,3,Standardowy,1
@@ -4351,17 +4303,25 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 159516,1,Piotrowice Osiedle,,50.210519,18.982588,14,Katowice,1,Autobus,3,Standardowy,1
 159520,2,Piotrowice Skrzyżowanie,,50.208411,18.973651,14,Katowice,1,Autobus,3,Standardowy,1
 183614,1A,Katowice Sądowa,,50.258812,19.011524,14,Katowice,1,Autobus,3,Standardowy,1
+158019,1,Maciejkowice Spółdzielnia,,50.322375,18.975191,6,Chorzów,1,Autobus,3,Standardowy,1
+158020,1,Maciejkowice Szyb Zygmunt,,50.323108,18.971232,6,Chorzów,1,Autobus,3,Standardowy,1
 183583,1,Maciejkowice Granica,,50.335360,18.977106,6,Chorzów,1,Autobus,3,Standardowy,1
 160133,2,Brzeziny Śląskie Harcerska,,50.338312,18.974483,22,Piekary Śląskie,1,Autobus,3,Standardowy,1
 180264,5,Chorzów Nowa,,50.309015,18.951324,6,Chorzów,1,Autobus,3,Standardowy,1
 160137,4,Brzeziny Śląskie Skrzyżowanie,,50.345248,18.980249,22,Piekary Śląskie,1,Autobus,3,Standardowy,1
+157971,1,Chorzów Stary Dworzec PKP,,50.314917,18.957504,6,Chorzów,1,Autobus,3,Standardowy,1
 180146,1,Maciejkowice Kluczborska,,50.326957,18.976644,6,Chorzów,1,Autobus,3,Standardowy,1
+157979,1,Chorzów Stary Wiejska,,50.315510,18.963550,6,Chorzów,1,Autobus,3,Standardowy,1
 180478,2,Chorzów Nowa Zakłady,,50.307809,18.957579,6,Chorzów,1,Autobus,3,Standardowy,1
 160132,1,Brzeziny Śląskie Harcerska,,50.338120,18.974140,22,Piekary Śląskie,1,Autobus,3,Standardowy,1
+157970,2,Chorzów Stary Dworzec PKP,,50.315325,18.956866,6,Chorzów,1,Autobus,3,Standardowy,1
+157980,2,Chorzów Stary Wiejska,,50.315764,18.963529,6,Chorzów,1,Autobus,3,Standardowy,1
 183584,2,Maciejkowice Granica,,50.335066,18.976837,6,Chorzów,1,Autobus,3,Standardowy,1
 176430,4,Chorzów Nowa,,50.309056,18.951174,6,Chorzów,1,Autobus,3,Standardowy,1
 180147,2,Maciejkowice Kluczborska,,50.326649,18.976290,6,Chorzów,1,Autobus,3,Standardowy,1
 158014,3,Maciejkowice Dwór,,50.321977,18.978136,6,Chorzów,1,Autobus,3,Standardowy,1
+158018,2,Maciejkowice Spółdzielnia,,50.322628,18.974633,6,Chorzów,1,Autobus,3,Standardowy,1
+158021,2,Maciejkowice Szyb Zygmunt,,50.323354,18.970642,6,Chorzów,1,Autobus,3,Standardowy,1
 176889,5,Brzeziny Śląskie Stare Osiedle,,50.340407,18.964988,22,Piekary Śląskie,1,Autobus,3,Standardowy,1
 180477,1,Chorzów Nowa Zakłady,,50.307645,18.957869,6,Chorzów,1,Autobus,3,Standardowy,1
 183618,2B,Katowice Sądowa,,50.258747,19.010622,14,Katowice,1,Autobus,3,Standardowy,1
@@ -4695,7 +4655,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 161051,2,Sławków Wrzosowa,,50.286885,19.378982,30,Sławków,1,Autobus,3,Standardowy,1
 161030,1,Sławków Krakowska,,50.290971,19.381213,30,Sławków,1,Autobus,3,Standardowy,1
 183599,1,Sławków Krakowska II,,50.293238,19.384353,30,Sławków,1,Autobus,3,Standardowy,1
-183600,2,Sławków Poczta,,50.296095,19.382151,30,Sławków,1,Autobus,3,Standardowy,1
 161013,1,Miedawa [nż],,50.280121,19.379369,30,Sławków,1,Autobus,2,Na żądanie,1
 161052,1,Sławków Wrzosowa,,50.287173,19.378617,30,Sławków,1,Autobus,3,Standardowy,1
 179988,4,Ożarowice Punkt Widokowy,,50.476023,19.048439,44,Ożarowice,1,Autobus,3,Standardowy,1
@@ -4745,6 +4704,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 160818,3,Siemianowice Plac Skargi,,50.299305,19.028229,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 162104,8,Katowice Dworzec,,50.258339,19.017648,14,Katowice,1,Autobus,3,Standardowy,1
 184377,1,Siemianowice Michałkowicka,,50.312639,19.012275,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
+160838,1,Węzłowiec Centrum Handlowe,,50.300997,18.999926,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
+160840,1,Węzłowiec Jagiełły,,50.302903,18.999079,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 159306,2,Kolonia Agnieszki Promienna,,50.287344,19.007539,14,Katowice,1,Autobus,3,Standardowy,1
 159187,2,Józefowiec Cmentarz,,50.276197,19.016122,14,Katowice,1,Autobus,3,Standardowy,1
 180180,2,Bytkowska Centrum Targowe,,50.290518,19.005597,14,Katowice,1,Autobus,3,Standardowy,1
@@ -4753,15 +4714,19 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 176599,2,Koszutka Iłłakowiczówny,,50.274904,19.022121,14,Katowice,1,Autobus,3,Standardowy,1
 159194,2,Józefowiec Szczecińska,,50.279289,19.015719,14,Katowice,1,Autobus,3,Standardowy,1
 159196,2,Józefowiec Szpital,,50.284859,19.013064,14,Katowice,1,Autobus,3,Standardowy,1
+160734,1,Bytków Osiedle Chemik,,50.297300,19.003816,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 159199,2,Józefowiec Ściegiennego,,50.277719,19.008451,14,Katowice,1,Autobus,3,Standardowy,1
 159337,1,Koszutka Kino Kosmos,,50.268441,19.019469,14,Katowice,1,Autobus,3,Standardowy,1
 159339,2,Koszutka Kościół,,50.271650,19.019098,14,Katowice,1,Autobus,3,Standardowy,1
 160763,1,Michałkowice Urząd Miasta,,50.317860,19.010934,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 159283,2,Katowice Sokolska,,50.264120,19.018186,14,Katowice,1,Autobus,3,Standardowy,1
+160837,2,Węzłowiec Centrum Handlowe,,50.300895,19.000452,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
+160839,2,Węzłowiec Jagiełły,,50.302834,18.999196,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 159307,1,Kolonia Agnieszki Promienna,,50.287523,19.007388,14,Katowice,1,Autobus,3,Standardowy,1
 180179,1,Bytkowska Centrum Targowe,,50.291594,19.005558,14,Katowice,1,Autobus,3,Standardowy,1
 160727,2,Bytków Centrum Kultury,,50.303156,19.005275,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 159195,1,Józefowiec Szczecińska,,50.278973,19.015987,14,Katowice,1,Autobus,3,Standardowy,1
+160733,2,Bytków Osiedle Chemik,,50.297187,19.004121,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 159197,1,Józefowiec Szpital,,50.284088,19.013734,14,Katowice,1,Autobus,3,Standardowy,1
 159334,1,Koszutka Iłłakowiczówny,,50.274715,19.022199,14,Katowice,1,Autobus,3,Standardowy,1
 159338,1,Koszutka Kościół,,50.271313,19.020308,14,Katowice,1,Autobus,3,Standardowy,1
@@ -5379,7 +5344,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 180175,1,Żychcice Cmentarz,,50.370998,19.018733,35,Wojkowice,1,Autobus,3,Standardowy,1
 157403,2,Bobrowniki Dąbrowskiej [nż],,50.392344,19.019630,3,Bobrowniki,1,Autobus,2,Na żądanie,1
 157409,2,Bobrowniki Pustkowie,,50.386742,19.019201,3,Bobrowniki,1,Autobus,3,Standardowy,1
-183930,1,Siedliska Cargo,,50.469509,19.096264,44,Ożarowice,1,Autobus,3,Standardowy,1
 157315,2,Łagisza Energetyczna [nż],,50.350034,19.159470,1,Będzin,1,Autobus,2,Na żądanie,1
 176348,3,Będzin Dworzec PKP,,50.319093,19.134800,1,Będzin,1,Autobus,3,Standardowy,1
 157306,2,Łagisza Cmentarz [nż],,50.352608,19.144621,1,Będzin,1,Autobus,2,Na żądanie,1
@@ -5544,6 +5508,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 179535,1,Kolonia Kotków,,50.495746,18.640478,140,Wielowieś,1,Autobus,3,Standardowy,1
 159541,1,Stara Ligota Rolna,,50.231381,18.982615,14,Katowice,1,Autobus,3,Standardowy,1
 183870,1,Stara Ligota Filarowa,,50.231607,18.978629,14,Katowice,1,Autobus,3,Standardowy,1
+160841,1,Węzłowiec Pętla,,50.305055,18.996906,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 159436,1,Ochojec Szpital,,50.211941,18.999164,14,Katowice,1,Autobus,3,Standardowy,1
 159076,1,Brynów Orkana,,50.231285,18.989418,14,Katowice,1,Autobus,3,Standardowy,1
 159277,1,Katowice Sobieskiego,,50.260342,19.011626,14,Katowice,1,Autobus,3,Standardowy,1
@@ -5787,7 +5752,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 181405,2,Łaziska Dolne Kościół,,50.154679,18.874126,97,Łaziska Górne,1,Autobus,3,Standardowy,1
 182945,2,Woszczyce Centrum,,50.082735,18.757358,38,Orzesze,1,Autobus,3,Standardowy,1
 182949,2,Woszczyce Skrzyżowanie,,50.089302,18.757969,38,Orzesze,1,Autobus,3,Standardowy,1
-182953,2,Zawada I,,50.129987,18.764771,38,Orzesze,1,Autobus,3,Standardowy,1
 162093,2,Orzesze Kościół,,50.145178,18.777184,38,Orzesze,1,Autobus,3,Standardowy,1
 182961,2,Zazdrość I,,50.101519,18.759106,38,Orzesze,1,Autobus,3,Standardowy,1
 182963,2,Zazdrość Las,,50.115438,18.762004,38,Orzesze,1,Autobus,3,Standardowy,1
@@ -5997,6 +5961,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 160780,1,Pszczelnik Szkoła,,50.309392,19.032552,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 159304,1,Kolonia Agnieszki Bytomska,,50.285678,19.006889,14,Katowice,1,Autobus,3,Standardowy,1
 184394,1,Pszczelnik Stara Szosa [nż],,50.310653,19.036329,28,Siemianowice Śląskie,1,Autobus,2,Na żądanie,1
+160731,1,Bytków Kościół,,50.304986,19.004786,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 162818,2,Siemianowice Liceum Katolickie,,50.303485,19.032960,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 160779,2,Pszczelnik Szkoła,,50.309426,19.032273,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 185021,2,Pszczelnik Park,,50.310522,19.042455,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
@@ -6332,6 +6297,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 160128,2,Brzeziny Śląskie Bednorza [nż],,50.354415,18.980963,22,Piekary Śląskie,1,Autobus,2,Na żądanie,1
 160162,2,Kamień,,50.367207,18.980196,22,Piekary Śląskie,1,Autobus,3,Standardowy,1
 160181,1,Osiedle Powstańców,,50.363683,18.990233,22,Piekary Śląskie,1,Autobus,3,Standardowy,1
+160732,2,Bytków Kościół,,50.304218,19.004732,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 160126,1,Brzeziny Śląskie,,50.347145,18.981028,22,Piekary Śląskie,1,Autobus,3,Standardowy,1
 158336,2,Okradzionów Białej Przemszy,,50.342174,19.375935,9,Dąbrowa Górnicza,1,Autobus,3,Standardowy,1
 158208,2,Gołonóg Dworzec PKP,,50.342929,19.227386,9,Dąbrowa Górnicza,1,Autobus,3,Standardowy,1
@@ -6630,7 +6596,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 176405,7,Bytom Dworzec,,50.343762,18.913612,4,Bytom,1,Autobus,3,Standardowy,1
 161569,1,Piaśniki Korfantego,,50.301553,18.912228,33,Świętochłowice,1,Autobus,3,Standardowy,1
 161572,1,Piaśniki Krasickiego,,50.298804,18.916445,33,Świętochłowice,1,Autobus,3,Standardowy,1
-184103,31,Świętochłowice Polna,,50.295471,18.917239,33,Świętochłowice,1,Autobus,3,Standardowy,1
 157691,2,Łagiewniki Targowisko,,50.321155,18.926744,4,Bytom,1,Autobus,3,Standardowy,1
 161583,1,Piaśniki Szpital,,50.306356,18.912486,33,Świętochłowice,1,Autobus,3,Standardowy,1
 161591,1,Świętochłowice Kościół,,50.291022,18.917056,33,Świętochłowice,1,Autobus,3,Standardowy,1_2
@@ -6913,13 +6878,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 177709,2,Wilkowyje Działki,,50.140128,18.956614,34,Tychy,1,Autobus,3,Standardowy,1
 182725,2,Wilkowyje Wąska,,50.143827,18.955208,34,Tychy,1,Autobus,3,Standardowy,1
 184013,2,Wilkowyje Obywatelska,,50.136470,18.957504,34,Tychy,1,Autobus,3,Standardowy,1
-159390,1,Murcki Bielska,,50.197808,19.045384,14,Katowice,1,Autobus,3,Standardowy,1
-159399,1,Murcki Leśników [nż],,50.186616,19.037120,14,Katowice,1,Autobus,2,Na żądanie,1
-159409,1,Murcki Wzgórze Wandy,,50.192534,19.042476,14,Katowice,1,Autobus,3,Standardowy,1
-159316,1,Kolonia Zuzanna [nż],,50.235204,19.054209,14,Katowice,1,Autobus,2,Na żądanie,1
-159398,2,Murcki Leśników [nż],,50.187389,19.038281,14,Katowice,1,Autobus,2,Na żądanie,1
-159410,2,Murcki Wzgórze Wandy,,50.194965,19.045362,14,Katowice,1,Autobus,3,Standardowy,1
-159315,2,Kolonia Zuzanna [nż],,50.235341,19.054670,14,Katowice,1,Autobus,2,Na żądanie,1
 161290,1,Porąbka Hurtownie [nż],,50.288441,19.213017,31,Sosnowiec,1,Autobus,2,Na żądanie,1
 161315,1,Porąbka Wiejska,,50.287619,19.222394,31,Sosnowiec,1,Autobus,3,Standardowy,1
 180047,3,Ostrowy Górnicze Pomnik,,50.289773,19.267124,31,Sosnowiec,1,Autobus,3,Standardowy,1
@@ -7065,11 +7023,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 159712,1,Knurów Wilsona,,50.218648,18.655826,15,Knurów,1,Autobus,3,Standardowy,1
 180208,2,Wilcza Polna [nż],,50.196790,18.614410,43,Pilchowice,1,Autobus,2,Na żądanie,1
 176883,2,Wilcza Szkoła,,50.187214,18.610105,43,Pilchowice,1,Autobus,3,Standardowy,1
+157961,1,Chorzów Stabika,,50.310214,18.950133,6,Chorzów,1,Autobus,3,Standardowy,1
 160788,2,Siemianowice Fabryczna,,50.295782,19.034017,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
 184409,2,Siemianowice Fabryczna Zakłady [nż],,50.295827,19.035777,28,Siemianowice Śląskie,1,Autobus,2,Na żądanie,1
 184410,1,Siemianowice Głowackiego [nż],,50.300107,19.030954,28,Siemianowice Śląskie,1,Autobus,2,Na żądanie,1
 180600,2,Siemianowice Stalmacha [nż],,50.295837,19.037541,28,Siemianowice Śląskie,1,Autobus,2,Na żądanie,1
 160787,1,Siemianowice Fabryczna,,50.295940,19.033728,28,Siemianowice Śląskie,1,Autobus,3,Standardowy,1
+176426,3,Chorzów Stabika,,50.310310,18.950251,6,Chorzów,1,Autobus,3,Standardowy,1
 184408,1,Siemianowice Fabryczna Zakłady [nż],,50.295919,19.035996,28,Siemianowice Śląskie,1,Autobus,2,Na żądanie,1
 184411,2,Siemianowice Głowackiego [nż],,50.299956,19.031318,28,Siemianowice Śląskie,1,Autobus,2,Na żądanie,1
 180599,1,Siemianowice Stalmacha [nż],,50.296017,19.038997,28,Siemianowice Śląskie,1,Autobus,2,Na żądanie,1
@@ -7183,13 +7143,18 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 178032,4,Boniowice Skrzyżowanie,,50.394156,18.712908,41,Zbrosławice,1,Autobus,3,Standardowy,1
 177961,3,Boniowice Skrzyżowanie,,50.394136,18.712769,41,Zbrosławice,1,Autobus,3,Standardowy,1
 178013,1,Ziemięcice Leśniczówka [nż],,50.379975,18.715032,41,Zbrosławice,1,Autobus,2,Na żądanie,1
-184037,6,Ożarowice Urząd Gminy,,50.467657,19.048321,44,Ożarowice,1,Autobus,3,Standardowy,1
-184036,5,Ożarowice Urząd Gminy,,50.467493,19.048345,44,Ożarowice,1,Autobus,3,Standardowy,1
 178097,2,Karchowice II,,50.394606,18.679949,41,Zbrosławice,1,Autobus,3,Standardowy,1
 180568,1,Pyskowice Korty Tenisowe [nż],,50.397200,18.645317,24,Pyskowice,1,Autobus,2,Na żądanie,1
 178029,2,Zawada,,50.394058,18.663298,41,Zbrosławice,1,Autobus,3,Standardowy,1
 178061,1,Karchowice II,,50.394495,18.679370,41,Zbrosławice,1,Autobus,3,Standardowy,1
 180567,2,Pyskowice Korty Tenisowe [nż],,50.397299,18.645328,24,Pyskowice,1,Autobus,2,Na żądanie,1
+159398,2,Murcki Leśników [nż],,50.187389,19.038281,14,Katowice,1,Autobus,2,Na żądanie,1
+159410,2,Murcki Wzgórze Wandy,,50.194965,19.045362,14,Katowice,1,Autobus,3,Standardowy,1
+159315,2,Kolonia Zuzanna [nż],,50.235341,19.054670,14,Katowice,1,Autobus,2,Na żądanie,1
+159390,1,Murcki Bielska,,50.197808,19.045384,14,Katowice,1,Autobus,3,Standardowy,1
+159399,1,Murcki Leśników [nż],,50.186616,19.037120,14,Katowice,1,Autobus,2,Na żądanie,1
+159409,1,Murcki Wzgórze Wandy,,50.192534,19.042476,14,Katowice,1,Autobus,3,Standardowy,1
+159316,1,Kolonia Zuzanna [nż],,50.235204,19.054209,14,Katowice,1,Autobus,2,Na żądanie,1
 159149,3,Giszowiec Karolinki,,50.226741,19.056488,14,Katowice,1,Autobus,3,Standardowy,1
 159418,2,Nikiszowiec Szyb Wilson,,50.249963,19.082201,14,Katowice,1,Autobus,3,Standardowy,1
 159419,1,Nikiszowiec Szyb Wilson,,50.250059,19.081857,14,Katowice,1,Autobus,3,Standardowy,1
@@ -7626,8 +7591,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 161996,1,Zabrze Osiedle Wyzwolenia,,50.293575,18.760196,36,Zabrze,1,Autobus,3,Standardowy,1
 162036,2,Zabrze Stadion,,50.295055,18.768119,36,Zabrze,1,Autobus,3,Standardowy,1
 183156,2,Sośnica Zespół Szkół,,50.290628,18.744650,11,Gliwice,1,Autobus,3,Standardowy,1
-158833,1,Łabędy Partyzantów,,50.339664,18.631712,11,Gliwice,1,Autobus,3,Standardowy,1
-158841,1,Łabędy Wolności,,50.342139,18.629298,11,Gliwice,1,Autobus,3,Standardowy,1
 183695,1,Ornontowice Chudowska [nż],,50.200085,18.760166,37,Ornontowice,1,Autobus,2,Na żądanie,1
 183591,2,Chudów Szyb [nż],,50.203761,18.768605,10,Gierałtowice,1,Autobus,2,Na żądanie,1
 158580,4,Paniówki Skrzyżowanie,,50.232334,18.789562,10,Gierałtowice,1,Autobus,3,Standardowy,1
@@ -7700,10 +7663,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 178767,3,Bytom Dworzec,,50.343865,18.913022,4,Bytom,1,Autobus,3,Standardowy,1
 157653,1,Łagiewniki Adamka,,50.324608,18.933316,4,Bytom,1,Autobus,3,Standardowy,1
 157655,2,Łagiewniki Boisko,,50.328936,18.932415,4,Bytom,1,Autobus,3,Standardowy,1
+157914,1,Chorzów Krzyżowa,,50.310228,18.946352,6,Chorzów,1,Autobus,3,Standardowy,1
 157919,1,Chorzów Łagiewnicka,,50.310015,18.941636,6,Chorzów,1,Autobus,3,Standardowy,1
 157679,2,Łagiewniki Różana [nż],,50.319230,18.932555,4,Bytom,1,Autobus,2,Na żądanie,1
 157937,1,Chorzów Oswaldów,,50.316929,18.936567,6,Chorzów,1,Autobus,3,Standardowy,1
 180127,1,Łagiewniki Lelewela Teatr Górnośląski,,50.327793,18.931493,4,Bytom,1,Autobus,3,Standardowy,1
+157913,2,Chorzów Krzyżowa,,50.309861,18.944877,6,Chorzów,1,Autobus,3,Standardowy,1
 157918,2,Chorzów Łagiewnicka,,50.310509,18.941191,6,Chorzów,1,Autobus,3,Standardowy,1
 157671,1,Łagiewniki Ludowa,,50.323868,18.930151,4,Bytom,1,Autobus,3,Standardowy,1
 157678,1,Łagiewniki Różana [nż],,50.319443,18.932458,4,Bytom,1,Autobus,2,Na żądanie,1
@@ -7846,22 +7811,20 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 183458,1,Makoszowy Koksownia [nż],,50.275395,18.781718,36,Zabrze,1,Autobus,2,Na żądanie,1
 180414,1,Guido Osiedle,,50.282765,18.788971,36,Zabrze,1,Autobus,3,Standardowy,1
 180575,2,Przyszowice Grobla [nż],,50.254544,18.752941,10,Gierałtowice,1,Autobus,2,Na żądanie,1
-161562,1,Lipiny Targowisko,,50.306952,18.898259,33,Świętochłowice,1,Autobus,3,Standardowy,1
-184320,13,Gliwice Centrum Przesiadkowe,,50.302548,18.676484,11,Gliwice,1,Autobus,3,Standardowy,1
-161565,2,Lipiny Targowisko,,50.306829,18.898195,33,Świętochłowice,1,Autobus,3,Standardowy,1
-161576,2,Piaśniki Skrzyżowanie,,50.305568,18.915941,33,Świętochłowice,1,Autobus,3,Standardowy,1
 179328,2,Celiny Droga do Pyrzowic [nż],,50.451733,19.068444,44,Ożarowice,1,Autobus,2,Na żądanie,1
 157470,2,Siemonia Droga do Myszkowic [nż],,50.431343,19.058071,3,Bobrowniki,1,Autobus,2,Na żądanie,1
 157486,2,Siemonia Piekarnia [nż],,50.427231,19.055895,3,Bobrowniki,1,Autobus,2,Na żądanie,1
 183602,1,Celiny Szmaragdowa,,50.447153,19.065792,44,Ożarowice,1,Autobus,3,Standardowy,1
 178924,2,Myszkowice Remiza [nż],,50.438641,19.062314,3,Bobrowniki,1,Autobus,2,Na żądanie,1
 157432,2,Myszkowice,,50.434958,19.060593,3,Bobrowniki,1,Autobus,3,Standardowy,1
+183930,1,Siedliska Cargo,,50.469509,19.096264,44,Ożarowice,1,Autobus,3,Standardowy,1
 157471,1,Siemonia Droga do Myszkowic [nż],,50.431131,19.058114,3,Bobrowniki,1,Autobus,2,Na żądanie,1
 157485,1,Siemonia Piekarnia [nż],,50.427461,19.056140,3,Bobrowniki,1,Autobus,2,Na żądanie,1
 183601,2,Celiny Szmaragdowa,,50.447645,19.066608,44,Ożarowice,1,Autobus,3,Standardowy,1
 178923,1,Myszkowice Remiza [nż],,50.438600,19.062391,3,Bobrowniki,1,Autobus,2,Na żądanie,1
 157433,1,Myszkowice,,50.435539,19.060764,3,Bobrowniki,1,Autobus,3,Standardowy,1
 183712,2,Zabrze Rondo Sybiraków,,50.290056,18.781733,36,Zabrze,1,Autobus,3,Standardowy,1
+184320,13,Gliwice Centrum Przesiadkowe,,50.302548,18.676484,11,Gliwice,1,Autobus,3,Standardowy,1
 183711,1,Zabrze Rondo Sybiraków,,50.289558,18.782656,36,Zabrze,1,Autobus,3,Standardowy,1
 182711,2,Tychy Wejchertów,,50.117990,19.007086,34,Tychy,1,Autobus,3,Standardowy,1
 182456,2,Tychy Cyganerii,,50.117592,18.987019,34,Tychy,1,Autobus,3,Standardowy,1
@@ -7962,17 +7925,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 159171,1,Janów Osiedle,,50.240138,19.093015,14,Katowice,1,Autobus,3,Standardowy,1
 159178,1,Janów Strumienna,,50.235362,19.091084,14,Katowice,1,Autobus,3,Standardowy,1
 159484,1,Osiedle Witosa Pętla,,50.260252,18.965557,14,Katowice,1,Autobus,3,Standardowy,1
-158008,2,Klimzowiec Racławicka,,50.281510,18.954860,6,Chorzów,1,Autobus,3,Standardowy,1
-183246,2,Chorzów Racławicka OPS,,50.280232,18.949328,6,Chorzów,1,Autobus,3,Standardowy,1
-157861,3,Chorzów Batory Dworzec PKP,,50.279954,18.944758,6,Chorzów,1,Autobus,3,Standardowy,1
-183245,1,Chorzów Racławicka OPS,,50.280468,18.947848,6,Chorzów,1,Autobus,3,Standardowy,1
-176434,2,Chorzów Dom Działkowca,,50.285103,18.951212,6,Chorzów,1,Autobus,3,Standardowy,1
-184281,31,Chorzów Wojskowe Centrum Rekrutacji,,50.293794,18.937098,6,Chorzów,1,Autobus,3,Standardowy,1
-184160,2,Chorzów Szkoła Niewidomych,,50.288311,18.947773,6,Chorzów,1,Autobus,3,Standardowy,1
-183494,22,Chorzów Hajducka,,50.288832,18.945436,6,Chorzów,1,Autobus,3,Standardowy,1
-157901,1,Chorzów Dom Działkowca,,50.285418,18.950530,6,Chorzów,1,Autobus,3,Standardowy,1
-184282,32,Chorzów Wojskowe Centrum Rekrutacji,,50.293685,18.936872,6,Chorzów,1,Autobus,3,Standardowy,1
-184161,1,Chorzów Szkoła Niewidomych,,50.288736,18.947279,6,Chorzów,1,Autobus,3,Standardowy,1
 159121,1,Dąbrówka Mała Grzegorzka,,50.279796,19.066515,14,Katowice,1,Autobus,3,Standardowy,1
 159133,1,Dąbrówka Mała Pitery,,50.277342,19.065651,14,Katowice,1,Autobus,3,Standardowy,1
 159142,2,Dąbrówka Mała Zespół Szkół,,50.273269,19.062417,14,Katowice,1,Autobus,3,Standardowy,1
@@ -7982,20 +7934,16 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 159141,1,Dąbrówka Mała Zespół Szkół,,50.273461,19.062459,14,Katowice,1,Autobus,3,Standardowy,1
 176588,2,Dąbrówka Mała Wiertnicza [nż],,50.272477,19.054963,14,Katowice,1,Autobus,2,Na żądanie,1
 157982,4,Chorzów Stary Wiejska,,50.315497,18.963078,6,Chorzów,1,Autobus,3,Standardowy,1
+157861,3,Chorzów Batory Dworzec PKP,,50.279954,18.944758,6,Chorzów,1,Autobus,3,Standardowy,1
+158003,1,Klimzowiec Gałeczki,,50.284818,18.959044,6,Chorzów,1,Autobus,3,Standardowy,1
+158007,1,Klimzowiec Racławicka,,50.281970,18.955278,6,Chorzów,1,Autobus,3,Standardowy,1
+183245,1,Chorzów Racławicka OPS,,50.280468,18.947848,6,Chorzów,1,Autobus,3,Standardowy,1
+157930,1,Chorzów Młodzieżowa,,50.290100,18.958712,6,Chorzów,1,Autobus,3,Standardowy,1
 158011,2,Maciejkowice Dolina Górnika,,50.322847,18.953927,6,Chorzów,1,Autobus,3,Standardowy,1
 157981,3,Chorzów Stary Wiejska,,50.315730,18.963068,6,Chorzów,1,Autobus,3,Standardowy,1
+158008,2,Klimzowiec Racławicka,,50.281510,18.954860,6,Chorzów,1,Autobus,3,Standardowy,1
+183246,2,Chorzów Racławicka OPS,,50.280232,18.949328,6,Chorzów,1,Autobus,3,Standardowy,1
 158012,1,Maciejkowice Dolina Górnika,,50.323340,18.954077,6,Chorzów,1,Autobus,3,Standardowy,1
-184134,32,Katowice Rynek,,50.261003,19.021646,14,Katowice,1,Autobus,3,Standardowy,1
-184519,31,Chorzów Nowa,,50.309578,18.951638,6,Chorzów,1,Autobus,3,Standardowy,1
-184520,32,Chorzów Teatr Rozrywki,,50.293534,18.957504,6,Chorzów,1,Autobus,3,Standardowy,1
-184521,31,Chorzów Floriańska,,50.302176,18.945477,6,Chorzów,1,Autobus,3,Standardowy,1
-178862,4,Katowice Piotra Skargi,,50.262152,19.018036,14,Katowice,1,Autobus,3,Standardowy,1
-184366,31,Park Śląski Wejście Główne,,50.280962,18.978200,14,Katowice,1,Autobus,3,Standardowy,1
-183568,5,Chorzów Stadion Śląski,,50.287564,18.967772,6,Chorzów,1,Autobus,3,Standardowy,1
-183565,31,Park Śląski Wesołe Miasteczko,,50.273053,18.989858,14,Katowice,1,Autobus,3,Standardowy,1
-183442,2,Chorzów Floriańska,,50.302872,18.945214,6,Chorzów,1,Autobus,3,Standardowy,1
-184367,32,Park Śląski Wejście Główne,,50.281778,18.976237,14,Katowice,1,Autobus,3,Standardowy,1
-184517,31,Katowice Stadion Śląski,,50.286937,18.968104,14,Katowice,1,Autobus,3,Standardowy,1
 184494,4t,Bytom Plac Sikorskiego,,50.345148,18.920624,4,Bytom,2,Tramwaj,3,Standardowy,2
 184481,2,Zagórze Hala Sportowa,,50.312625,19.194443,31,Sosnowiec,1,Autobus,3,Standardowy,1
 161473,1,Zagórze Kosynierów,,50.302814,19.198351,31,Sosnowiec,1,Autobus,3,Standardowy,1
@@ -8452,6 +8400,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 157509,1t,Bobrek Wytrwałych,,50.339120,18.873278,4,Bytom,2,Tramwaj,3,Standardowy,2
 157786,1t,Szombierki Elektrownia,,50.338011,18.884329,4,Bytom,2,Tramwaj,3,Standardowy,2
 157810,1t,Szombierki Ratusz,,50.337956,18.890047,4,Bytom,2,Tramwaj,3,Standardowy,2
+157959,1t,Chorzów Sobieskiego,,50.294690,18.950863,6,Chorzów,2,Tramwaj,3,Standardowy,2
 161547,2t,Chropaczów Osiedle Na Wzgórzu,,50.311180,18.924170,33,Świętochłowice,2,Tramwaj,3,Standardowy,2
 178955,4t,Chorzów Rynek,,50.298027,18.954478,6,Chorzów,2,Tramwaj,3,Standardowy,2
 161549,1t,Chropaczów Ratusz,,50.314005,18.913372,33,Świętochłowice,2,Tramwaj,3,Standardowy,2
@@ -8509,6 +8458,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 161739,2t,Biskupice Pętla,,50.329882,18.840523,36,Zabrze,2,Tramwaj,3,Standardowy,2
 157902,1t,Chorzów Dworcowa,,50.297959,18.951807,6,Chorzów,2,Tramwaj,3,Standardowy,2
 161750,2t,Biskupice Zamkowa,,50.325012,18.830003,36,Zabrze,2,Tramwaj,3,Standardowy,2
+157912,2t,Chorzów Kościół św. Jadwigi,,50.292657,18.947054,6,Chorzów,2,Tramwaj,3,Standardowy,2
 161754,2t,Biskupice Ziemska [nż],,50.328135,18.834412,36,Zabrze,2,Tramwaj,2,Na żądanie,2
 157662,2t,Łagiewniki Fabryczna,,50.323990,18.927133,4,Bytom,2,Tramwaj,3,Standardowy,2
 157666,2t,Łagiewniki Krzyżowa,,50.327605,18.927989,4,Bytom,2,Tramwaj,3,Standardowy,2
@@ -8586,8 +8536,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 176357,4,Bieruń Plac Autobusowy,,50.088972,19.091679,2,Bieruń,1,Autobus,3,Standardowy,1
 182901,10,Babice ul. Śląska II,,50.056222,19.198742,164,Oświęcim,1,Autobus,3,Standardowy,1
 182899,12,Babice ul. Śląska I,,50.053125,19.201681,164,Oświęcim,1,Autobus,3,Standardowy,1
-179742,3,Zbrosławice Kościół,,50.415286,18.752304,41,Zbrosławice,1,Autobus,3,Standardowy,1
-179743,4,Zbrosławice Kościół,,50.415190,18.752605,41,Zbrosławice,1,Autobus,3,Standardowy,1
 160388,1,Pyskowice Powstańców Śląskich,,50.393178,18.630924,24,Pyskowice,1,Autobus,3,Standardowy,1
 160372,1,Pyskowice Centrala Nasienna [nż],,50.384210,18.634577,24,Pyskowice,1,Autobus,2,Na żądanie,1
 180512,1,Czechowice Kąpielisko [nż],,50.359733,18.641754,11,Gliwice,1,Autobus,2,Na żądanie,1
@@ -8841,10 +8789,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 178880,2,Świętochłowice Sikorskiego Szkoła,,50.293294,18.912926,33,Świętochłowice,1,Autobus,3,Standardowy,1
 178882,2,Świętochłowice Szpitalna Cmentarz,,50.292106,18.928506,33,Świętochłowice,1,Autobus,3,Standardowy,1
 178883,2,Chorzów Gwarecka,,50.295211,18.930847,6,Chorzów,1,Autobus,3,Standardowy,1
+163603,1,Chorzów Centrum Edukacji,,50.296077,18.935757,6,Chorzów,1,Autobus,3,Standardowy,1
 178875,1,Osiedle Ustronie Chopina,,50.289953,18.902242,33,Świętochłowice,1,Autobus,3,Standardowy,1
 178876,1,Osiedle Ustronie Szkoła,,50.289871,18.906141,33,Świętochłowice,1,Autobus,3,Standardowy,1
 178878,2,Osiedle Ustronie Morcinka,,50.292060,18.906295,33,Świętochłowice,1,Autobus,3,Standardowy,1
 178881,1,Świętochłowice Szpitalna Cmentarz,,50.291982,18.928142,33,Świętochłowice,1,Autobus,3,Standardowy,1
+157907,1,Chorzów Gwarecka,,50.296783,18.930929,6,Chorzów,1,Autobus,3,Standardowy,1
 180604,1,Osiedle Ustronie Dmowskiego [nż],,50.291711,18.903699,33,Świętochłowice,1,Autobus,3,Standardowy,1
 178877,1,Osiedle Ustronie Morcinka,,50.292259,18.906660,33,Świętochłowice,1,Autobus,3,Standardowy,1
 178879,1,Świętochłowice Sikorskiego Szkoła,,50.293363,18.913087,33,Świętochłowice,1,Autobus,3,Standardowy,1
@@ -8858,8 +8808,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 157676,1,Łagiewniki Ostatnia [nż],,50.320943,18.917524,4,Bytom,1,Autobus,2,Na żądanie,1
 178547,1,Łagiewniki Cmentarz [nż],,50.324796,18.943492,4,Bytom,1,Autobus,2,Na żądanie,1
 183685,31,Chorzów Polna,,50.312896,18.948250,6,Chorzów,1,Autobus,3,Standardowy,1
+178862,4,Katowice Piotra Skargi,,50.262152,19.018036,14,Katowice,1,Autobus,3,Standardowy,1
+183568,5,Chorzów Stadion Śląski,,50.287564,18.967772,6,Chorzów,1,Autobus,3,Standardowy,1
 157530,1,Bytom Dworzec,,50.343680,18.913398,4,Bytom,1,Autobus,3,Standardowy,1
 183684,32,Chorzów Polna,,50.313381,18.947850,6,Chorzów,1,Autobus,3,Standardowy,1
+184517,31,Katowice Stadion Śląski,,50.286937,18.968104,14,Katowice,1,Autobus,3,Standardowy,1
 183714,2,Ruda Południowa DTŚ,,50.299469,18.860633,26,Ruda Śląska,1,Autobus,3,Standardowy,1
 160489,4,Chebzie Rondo,,50.300826,18.883449,26,Ruda Śląska,1,Autobus,3,Standardowy,1
 183713,1,Ruda Południowa DTŚ,,50.298407,18.856782,26,Ruda Śląska,1,Autobus,3,Standardowy,1
@@ -8909,7 +8862,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 157255,3,Grodziec Kościół,,50.350335,19.090928,1,Będzin,1,Autobus,3,Standardowy,1
 184269,1,Psary Kościół,,50.377321,19.096373,23,Psary,1,Autobus,3,Standardowy,1
 157281,1,Grodziec Wojska Polskiego [nż],,50.355510,19.096835,1,Będzin,1,Autobus,2,Na żądanie,1
-180754,1,Bytom Chrobrego,,50.350088,18.922539,4,Bytom,1,Autobus,3,Standardowy,1
 160281,2,Gródków Klinkiernia,,50.371577,19.103792,23,Psary,1,Autobus,3,Standardowy,1
 160287,2,Gródków Szkoła,,50.366190,19.108219,23,Psary,1,Autobus,3,Standardowy,1
 160338,1,Strzyżowice Belna 125,,50.389745,19.099479,23,Psary,1,Autobus,3,Standardowy,1
@@ -8962,6 +8914,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 160135,3,Brzeziny Śląskie Skrzyżowanie,,50.344960,18.979863,22,Piekary Śląskie,1,Autobus,3,Standardowy,1
 179260,3,Kolonia Szczedłowiec,,50.464679,19.031908,44,Ożarowice,1,Autobus,3,Standardowy,1
 160156,2,Dąbrówka Wielka Skrzyżowanie,,50.345727,19.015021,22,Piekary Śląskie,1,Autobus,3,Standardowy,1
+184036,5,Ożarowice Urząd Gminy,,50.467493,19.048345,44,Ożarowice,1,Autobus,3,Standardowy,1
+184037,6,Ożarowice Urząd Gminy,,50.467657,19.048321,44,Ożarowice,1,Autobus,3,Standardowy,1
 183562,4,Pszczyna Centrum Przesiadkowe,,49.975917,18.952618,165,Pszczyna,1,Autobus,3,Standardowy,1
 185106,19,Bojszowy Brzozowa [nż],,50.061055,19.066734,168,Bojszowy,1,Autobus,2,Na żądanie,1
 185110,21,Bojszowy Nowe Cichy Kącik [nż],,50.055724,19.055727,168,Bojszowy,1,Autobus,2,Na żądanie,1
@@ -9407,22 +9361,18 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 161369,1t,Sosnowiec Brynica,,50.274366,19.114435,31,Sosnowiec,2,Tramwaj,3,Standardowy,2
 159216,1t,Katowice Dąbrówki,,50.261861,19.008831,14,Katowice,2,Tramwaj,3,Standardowy,2
 159092,2t,Burowiec,,50.268373,19.079669,14,Katowice,2,Tramwaj,3,Standardowy,2
+162842,2t,Zabrze Św. Floriana,,50.302032,18.793031,36,Zabrze,2,Tramwaj,3,Standardowy,2
+162843,1t,Zaborze Skargi,,50.293157,18.815379,36,Zabrze,2,Tramwaj,3,Standardowy,2
+161918,2t,Zaborze Skargi,,50.293267,18.815122,36,Zabrze,2,Tramwaj,3,Standardowy,2
+161895,1t,Zaborze Elektrociepłownia,,50.294302,18.809135,36,Zabrze,2,Tramwaj,3,Standardowy,2
 161896,2t,Zaborze Elektrociepłownia,,50.294398,18.809167,36,Zabrze,2,Tramwaj,3,Standardowy,2
 162026,2t,Zabrze Sienkiewicza,,50.298023,18.800204,36,Zabrze,2,Tramwaj,3,Standardowy,2
-161900,2t,Zaborze Lompy,,50.294374,18.824112,36,Zabrze,2,Tramwaj,3,Standardowy,2
-180410,2t,Zaborze Wolności,,50.298085,18.833296,36,Zabrze,2,Tramwaj,3,Standardowy,2
-161909,1t,Zaborze Pętla,,50.295522,18.827771,36,Zabrze,2,Tramwaj,3,Standardowy,2
-161913,2t,Zaborze Skansen Luiza,,50.295953,18.804790,36,Zabrze,2,Tramwaj,3,Standardowy,2
-162842,2t,Zabrze Św. Floriana,,50.302032,18.793031,36,Zabrze,2,Tramwaj,3,Standardowy,2
-161918,2t,Zaborze Skargi,,50.293267,18.815122,36,Zabrze,2,Tramwaj,3,Standardowy,2
-160639,1t,Ruda Klary,,50.299154,18.845066,26,Ruda Śląska,2,Tramwaj,3,Standardowy,2
-160640,2t,Ruda Klary,,50.299085,18.845291,26,Ruda Śląska,2,Tramwaj,3,Standardowy,2
-162843,1t,Zaborze Skargi,,50.293157,18.815379,36,Zabrze,2,Tramwaj,3,Standardowy,2
-180409,1t,Zaborze Wolności,,50.298003,18.833597,36,Zabrze,2,Tramwaj,3,Standardowy,2
-161895,1t,Zaborze Elektrociepłownia,,50.294302,18.809135,36,Zabrze,2,Tramwaj,3,Standardowy,2
 162027,1t,Zabrze Sienkiewicza,,50.298592,18.798884,36,Zabrze,2,Tramwaj,3,Standardowy,2
 161899,1t,Zaborze Lompy,,50.294254,18.824059,36,Zabrze,2,Tramwaj,3,Standardowy,2
+161900,2t,Zaborze Lompy,,50.294374,18.824112,36,Zabrze,2,Tramwaj,3,Standardowy,2
+161909,1t,Zaborze Pętla,,50.295522,18.827771,36,Zabrze,2,Tramwaj,3,Standardowy,2
 161911,1t,Zaborze Skansen Luiza,,50.295649,18.805433,36,Zabrze,2,Tramwaj,3,Standardowy,2
+161913,2t,Zaborze Skansen Luiza,,50.295953,18.804790,36,Zabrze,2,Tramwaj,3,Standardowy,2
 162046,1t,Zabrze św. Floriana,,50.302471,18.792323,36,Zabrze,2,Tramwaj,3,Standardowy,2
 160685,1t,Wirek Katowicka,,50.271719,18.882467,26,Ruda Śląska,2,Tramwaj,3,Standardowy,2
 160691,1t,Wirek Kopalnia Pokój,,50.275353,18.870547,26,Ruda Śląska,2,Tramwaj,3,Standardowy,2
@@ -9472,10 +9422,47 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 185188,3,Strzemieszyce Ordona Przejazd Kolejowy,,50.316199,19.285774,9,Dąbrowa Górnicza,1,Autobus,3,Standardowy,1
 185190,2,Strzemieszyce Cmentarz [nż],,50.321865,19.283178,9,Dąbrowa Górnicza,1,Autobus,2,Na żądanie,1
 185191,1,Gołonóg Laski,,50.332926,19.252386,9,Dąbrowa Górnicza,1,Autobus,3,Standardowy,1
+157957,1,Chorzów Składowa,,50.307008,18.932641,6,Chorzów,1,Autobus,3,Standardowy,1
+157969,1,Chorzów Stary Dom Pomocy,,50.301107,18.980592,6,Chorzów,1,Autobus,3,Standardowy,1
+183442,2,Chorzów Floriańska,,50.302872,18.945214,6,Chorzów,1,Autobus,3,Standardowy,1
+157977,1,Chorzów Stary Węzłowiec,,50.298654,18.990924,6,Chorzów,1,Autobus,3,Standardowy,1
+157999,2,Chorzów Wodociągi,,50.302690,18.934158,6,Chorzów,1,Autobus,3,Standardowy,1
 185271,2,Chorzów Miasto PKP,,50.298329,18.950359,6,Chorzów,1,Autobus,3,Standardowy,1
+157921,1,Chorzów Mariańska,,50.307350,18.942329,6,Chorzów,1,Autobus,3,Standardowy,1
+157935,1,Chorzów Opolska,,50.309132,18.935870,6,Chorzów,1,Autobus,3,Standardowy,1
+157958,2,Chorzów Składowa,,50.306473,18.932823,6,Chorzów,1,Autobus,3,Standardowy,1
+157966,3,Chorzów Stary Bożogrobców,,50.302649,18.974659,6,Chorzów,1,Autobus,3,Standardowy,1
+157968,2,Chorzów Stary Dom Pomocy,,50.301361,18.979927,6,Chorzów,1,Autobus,3,Standardowy,1
+157978,2,Chorzów Stary Węzłowiec,,50.298798,18.990796,6,Chorzów,1,Autobus,3,Standardowy,1
+157987,2,Chorzów Styczyńskiego,,50.302711,18.938278,6,Chorzów,1,Autobus,3,Standardowy,1
+157998,1,Chorzów Wodociągi,,50.302841,18.933825,6,Chorzów,1,Autobus,3,Standardowy,1
 185270,1,Chorzów Miasto PKP,,50.298528,18.950165,6,Chorzów,1,Autobus,3,Standardowy,1
+157904,1,Chorzów Filarowa,,50.300038,18.946421,6,Chorzów,1,Autobus,3,Standardowy,1
+157906,1,Chorzów Floriańska,,50.303060,18.943353,6,Chorzów,1,Autobus,3,Standardowy,1
+157920,2,Chorzów Mariańska,,50.307426,18.942018,6,Chorzów,1,Autobus,3,Standardowy,1
+157936,2,Chorzów Opolska,,50.308960,18.936170,6,Chorzów,1,Autobus,3,Standardowy,1
+157988,1,Chorzów Styczyńskiego,,50.301854,18.939780,6,Chorzów,1,Autobus,3,Standardowy,1
+157917,1,Chorzów Lompy,,50.297023,18.942655,6,Chorzów,1,Autobus,3,Standardowy,1
+180275,1,Chorzów Amelung,,50.299161,18.934759,6,Chorzów,1,Autobus,3,Standardowy,1
+157994,2,Chorzów Szkoła 13,,50.296872,18.941342,6,Chorzów,1,Autobus,3,Standardowy,1
+184281,31,Chorzów Wojskowe Centrum Rekrutacji,,50.293794,18.937098,6,Chorzów,1,Autobus,3,Standardowy,1
 157948,2,Chorzów Raciborska,,50.294809,18.940048,6,Chorzów,1,Autobus,3,Standardowy,1
+176437,2,Chorzów Centrum Edukacji,,50.296851,18.935177,6,Chorzów,1,Autobus,3,Standardowy,1
+184282,32,Chorzów Wojskowe Centrum Rekrutacji,,50.293685,18.936872,6,Chorzów,1,Autobus,3,Standardowy,1
 157947,1,Chorzów Raciborska,,50.294884,18.940381,6,Chorzów,1,Autobus,3,Standardowy,1
+184134,32,Katowice Rynek,,50.261003,19.021646,14,Katowice,1,Autobus,3,Standardowy,1
+184519,31,Chorzów Nowa,,50.309578,18.951638,6,Chorzów,1,Autobus,3,Standardowy,1
+184520,32,Chorzów Teatr Rozrywki,,50.293534,18.957504,6,Chorzów,1,Autobus,3,Standardowy,1
+184521,31,Chorzów Floriańska,,50.302176,18.945477,6,Chorzów,1,Autobus,3,Standardowy,1
+184366,31,Park Śląski Wejście Główne,,50.280962,18.978200,14,Katowice,1,Autobus,3,Standardowy,1
+183565,31,Park Śląski Wesołe Miasteczko,,50.273053,18.989858,14,Katowice,1,Autobus,3,Standardowy,1
+184367,32,Park Śląski Wejście Główne,,50.281778,18.976237,14,Katowice,1,Autobus,3,Standardowy,1
+180410,2t,Zaborze Wolności,,50.298085,18.833296,36,Zabrze,2,Tramwaj,3,Standardowy,2
+160639,1t,Ruda Klary,,50.299154,18.845066,26,Ruda Śląska,2,Tramwaj,3,Standardowy,2
+160640,2t,Ruda Klary,,50.299085,18.845291,26,Ruda Śląska,2,Tramwaj,3,Standardowy,2
+180409,1t,Zaborze Wolności,,50.298003,18.833597,36,Zabrze,2,Tramwaj,3,Standardowy,2
+179742,3,Zbrosławice Kościół,,50.415286,18.752304,41,Zbrosławice,1,Autobus,3,Standardowy,1
+179743,4,Zbrosławice Kościół,,50.415190,18.752605,41,Zbrosławice,1,Autobus,3,Standardowy,1
 178727,1t,Chorzów Batory Hotel,,50.281511,18.939786,6,Chorzów,2,Tramwaj,3,Standardowy,2
 157845,2t,Chorzów AKS,,50.290262,18.963619,6,Chorzów,2,Tramwaj,3,Standardowy,2
 157954,1t,Chorzów Rynek,,50.298096,18.954725,6,Chorzów,2,Tramwaj,3,Standardowy,2
@@ -9516,21 +9503,32 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 185180,1t,Katowice Grundmanna Office Park,,50.266611,19.011007,14,Katowice,2,Tramwaj,3,Standardowy,2
 178728,2t,Chorzów Batory Hotel,,50.281658,18.939587,6,Chorzów,2,Tramwaj,3,Standardowy,2
 159255,3t,Katowice Plac Miarki,,50.254441,19.017671,14,Katowice,2,Tramwaj,3,Standardowy,2
+161562,1,Lipiny Targowisko,,50.306952,18.898259,33,Świętochłowice,1,Autobus,3,Standardowy,1
+161565,2,Lipiny Targowisko,,50.306829,18.898195,33,Świętochłowice,1,Autobus,3,Standardowy,1
+161576,2,Piaśniki Skrzyżowanie,,50.305568,18.915941,33,Świętochłowice,1,Autobus,3,Standardowy,1
 185269,2,Chorzów Uniwersytet PKP,,50.292818,18.940252,6,Chorzów,1,Autobus,3,Standardowy,1
 185268,1,Chorzów Uniwersytet PKP,,50.293298,18.939515,6,Chorzów,1,Autobus,3,Standardowy,1
 185272,1,Chorzów Szpital Miejski,,50.292620,18.944823,6,Chorzów,1,Autobus,3,Standardowy,1
 185273,2,Chorzów Szpital Miejski,,50.292174,18.944898,6,Chorzów,1,Autobus,3,Standardowy,1
 157889,1,Chorzów Boczna,,50.297283,18.936460,6,Chorzów,1,Autobus,3,Standardowy,1
 157993,1,Chorzów Szkoła 13,,50.297345,18.941492,6,Chorzów,1,Autobus,3,Standardowy,1
+157931,2,Chorzów Młodzieżowa,,50.290265,18.958894,6,Chorzów,1,Autobus,3,Standardowy,1
+158004,2,Klimzowiec Gałeczki,,50.284914,18.959194,6,Chorzów,1,Autobus,3,Standardowy,1
 180276,1,Chorzów Powstańców Kościół Św. Jadwigi,,50.291752,18.946818,6,Chorzów,1,Autobus,3,Standardowy,1
 176441,1,Chorzów Powstańców Szkoła,,50.295940,18.951828,6,Chorzów,1,Autobus,3,Standardowy,1
 185275,1,Chorzów Zjednoczenia,,50.293908,18.950081,6,Chorzów,1,Autobus,3,Standardowy,1
+157910,1,Chorzów Kościół św. Jadwigi,,50.292127,18.946575,6,Chorzów,1,Autobus,3,Standardowy,1
 178871,1,Chorzów Sobieskiego,,50.295090,18.951260,6,Chorzów,1,Autobus,3,Standardowy,1
 185274,1,Chorzów Szkoła 38,,50.295683,18.935147,6,Chorzów,1,Autobus,3,Standardowy,1
+157901,1,Chorzów Dom Działkowca,,50.285418,18.950530,6,Chorzów,1,Autobus,3,Standardowy,1
+184161,1,Chorzów Szkoła Niewidomych,,50.288736,18.947279,6,Chorzów,1,Autobus,3,Standardowy,1
+176434,2,Chorzów Dom Działkowca,,50.285103,18.951212,6,Chorzów,1,Autobus,3,Standardowy,1
+184160,2,Chorzów Szkoła Niewidomych,,50.288311,18.947773,6,Chorzów,1,Autobus,3,Standardowy,1
 180624,1,Bytom Plac Sikorskiego,,50.345380,18.921643,4,Bytom,1,Autobus,3,Standardowy,1
 185276,1,Bytom Szkoła Medyczna,,50.351564,18.891107,4,Bytom,1,Autobus,3,Standardowy,1
 185278,2,Bytom Lodowisko,,50.348710,18.894531,4,Bytom,1,Autobus,3,Standardowy,1
 185280,2,Bytom Pułaskiego,,50.348167,18.900166,4,Bytom,1,Autobus,3,Standardowy,1
+185282,2,Bytom Didura,,50.347701,18.903327,4,Bytom,1,Autobus,3,Standardowy,1
 185285,1,Bytom Kochanowskiego,,50.347458,18.933857,4,Bytom,1,Autobus,3,Standardowy,1
 185286,1,Bytom Musialika,,50.350608,18.936656,4,Bytom,1,Autobus,3,Standardowy,1
 185287,1,Bytom Sokoła,,50.349434,18.929041,4,Bytom,1,Autobus,3,Standardowy,1
@@ -9548,3 +9546,5 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,community_id,community_n
 185290,2,Bytom Grottgera,,50.356374,18.921721,4,Bytom,1,Autobus,3,Standardowy,1
 185291,1,Bytom Kraszewskiego,,50.355028,18.918423,4,Bytom,1,Autobus,3,Standardowy,1
 185294,3,Bytom Fałata,,50.356136,18.909331,4,Bytom,1,Autobus,3,Standardowy,1
+158833,1,Łabędy Partyzantów,,50.339664,18.631712,11,Gliwice,1,Autobus,3,Standardowy,1
+158841,1,Łabędy Wolności,,50.342139,18.629298,11,Gliwice,1,Autobus,3,Standardowy,1
