@@ -7,7 +7,7 @@ on:
       - 'main'
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron: '30 0 * * *'
+    - cron: '36 23 * * *'
 
 env:
   FEED_NAME: "24-ZTM-Katowice"
