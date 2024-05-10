@@ -1,47 +1,40 @@
 stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
-157317,2,Łagisza Fabryka,,50.343772,19.133763,/rozklady/przystanek/157317/,0
-157637,2,Karb,,50.352989,18.874359,/rozklady/przystanek/157637/,0
-157868,2,Chorzów Batory Klonowa,,50.263236,18.936443,/rozklady/przystanek/157868/,0
-158154,1,Błędów Zagórze,,50.356017,19.454969,/rozklady/przystanek/158154/,0
-158288,1,Kuźniczka Nowa,,50.322063,19.403427,/rozklady/przystanek/158288/,0
-158614,2,Bojków I [nż],,50.248769,18.663754,/rozklady/przystanek/158614/,0
-158681,1,Gliwice Dworcowa,,50.296932,18.675367,/rozklady/przystanek/158681/,0
+179661,2,Lasowice,,50.452367,18.880374,/rozklady/przystanek/179661/,0
+158398,2,Strzemieszyce Aleja Za Remizą,,50.306322,19.273447,/rozklady/przystanek/158398/,0
 159283,2,Katowice Sokolska,,50.264120,19.018186,/rozklady/przystanek/159283/,0
-159402,1,Murcki Rynek,,50.197994,19.043249,/rozklady/przystanek/159402/,0
-159427,1,Obroki MPGK,,50.265749,18.960680,/rozklady/przystanek/159427/,0
-159744,2,Górki Poczta,,50.103119,19.136826,/rozklady/przystanek/159744/,0
-160529,1,Halemba Most,,50.236833,18.864472,/rozklady/przystanek/160529/,0
-160842,1,Brudzowice Kapliczka,,50.507124,19.190080,/rozklady/przystanek/160842/,0
-160987,2,Warężyn,,50.407082,19.179769,/rozklady/przystanek/160987/,0
-161098,2,Dębowa Góra Wiadukt,,50.267495,19.147694,/rozklady/przystanek/161098/,0
-161164,1,Konstantynów Okrzei,,50.294364,19.145747,/rozklady/przystanek/161164/,0
-161284,2,Pogoń Sucha,,50.295809,19.127052,/rozklady/przystanek/161284/,0
-161441,2,Środula K-D,,50.300625,19.157468,/rozklady/przystanek/161441/,0
-161500,3,Zagórze Zajezdnia,,50.290539,19.206301,/rozklady/przystanek/161500/,0
-161697,2,Wojkowice Park,,50.365425,19.036500,/rozklady/przystanek/161697/,0
-162876,1t,Bytom Urząd Pracy,,50.339332,18.918794,/rozklady/przystanek/162876/,0
-176485,3,Gliwice Zwycięstwa,,50.295649,18.669059,/rozklady/przystanek/176485/,0
-178042,1,Świętoszowice OSP,,50.365118,18.727643,/rozklady/przystanek/178042/,0
-179330,2,Celiny Autostrada,,50.449064,19.050206,/rozklady/przystanek/179330/,0
-180540,2,Ziętek,,50.572775,18.646754,/rozklady/przystanek/180540/,0
-180666,1,Sosnowiec Jagiellońska,,50.266884,19.135646,/rozklady/przystanek/180666/,0
+160329,2,Psary Wiejska,,50.379305,19.118979,/rozklady/przystanek/160329/,0
+160410,1,Radzionków Knosały,,50.405406,18.901055,/rozklady/przystanek/160410/,0
+160686,2,Wirek Katowicka,,50.270697,18.882005,/rozklady/przystanek/160686/,0
+161231,1,Niwka Tuwima,,50.242587,19.165279,/rozklady/przystanek/161231/,0
+161770,2,Helenka PCK,,50.375380,18.805049,/rozklady/przystanek/161770/,0
+161788,1,Maciejów M1,,50.317593,18.754300,/rozklady/przystanek/161788/,0
+161943,1,Zabrze Gdańska,,50.315092,18.785124,/rozklady/przystanek/161943/,0
+162086,6,Katowice Dworzec,,50.258274,19.018474,/rozklady/przystanek/162086/,0
+177385,2,Sosnowiec Wspólna,,50.274486,19.127541,/rozklady/przystanek/177385/,0
+177955,2,Kuźnica,,50.330982,18.708810,/rozklady/przystanek/177955/,0
+178029,2,Zawada,,50.394058,18.663298,/rozklady/przystanek/178029/,0
+178078,1,Zawada,,50.394673,18.660659,/rozklady/przystanek/178078/,0
+178305,1t,Katowice Jordana,,50.251744,19.015182,/rozklady/przystanek/178305/,0
+178792,2t,Chorzów Targowisko,,50.303540,18.949736,/rozklady/przystanek/178792/,0
+178846,2,Sosnowiec Kosów,,50.275333,19.165021,/rozklady/przystanek/178846/,0
+180043,2,Gliwice Teatr,,50.287938,18.659146,/rozklady/przystanek/180043/,0
+180101,2,Janów Lwowska Szkoła,,50.247753,19.089898,/rozklady/przystanek/180101/,0
+180245,2,Gliwice Strzody,,50.294923,18.671763,/rozklady/przystanek/180245/,0
 181049,12,Bojszowy Gospoda,,50.057177,19.101002,/rozklady/przystanek/181049/,0
-183615,2A,Katowice Sądowa,,50.258631,19.011009,/rozklady/przystanek/183615/,0
-183854,31,Sosnowiec Sąd,,50.273348,19.139025,/rozklady/przystanek/183854/,0
-183917,3,Sławków Poczta,,50.296012,19.382119,/rozklady/przystanek/183917/,0
-184001,2,Żwaków Żorska,,50.103480,18.959564,/rozklady/przystanek/184001/,0
-184077,2,Obroki MPGK,,50.265317,18.960948,/rozklady/przystanek/184077/,0
-184156,1,Czułów Osiedle,,50.155944,19.008176,/rozklady/przystanek/184156/,0
-184576,2,Łosień Poboczna,,50.351304,19.337466,/rozklady/przystanek/184576/,0
-185003,2,Zendek VII [nż],,50.489574,19.110703,/rozklady/przystanek/185003/,0
-177398,1,Środula K-D,,50.299990,19.160719,/rozklady/przystanek/177398/,0
-184330,1,Gliwice Dworzec,,50.299917,18.676686,/rozklady/przystanek/184330/,0
-161698,1,Wojkowice Park,,50.365240,19.036672,/rozklady/przystanek/161698/,0
+182456,2,Tychy Cyganerii,,50.117592,18.987019,/rozklady/przystanek/182456/,0
+183114,1,Gliwice Rybnicka,,50.284164,18.663229,/rozklady/przystanek/183114/,0
+183237,7,Tarnowskie Góry Dworzec,,50.447506,18.863262,/rozklady/przystanek/183237/,0
+183806,31,Mysłowice Szpital,,50.248404,19.133019,/rozklady/przystanek/183806/,0
+183955,1,Tychy Tężnia,,50.102984,18.981700,/rozklady/przystanek/183955/,0
+184103,31,Świętochłowice Polna,,50.295471,18.917239,/rozklady/przystanek/184103/,0
+184332,3,Gliwice Dworzec,,50.301258,18.674606,/rozklady/przystanek/184332/,0
+184364,5,Zendek Szkoła,,50.495830,19.089402,/rozklady/przystanek/184364/,0
+184569,2,Łęka Remiza,,50.361301,19.342933,/rozklady/przystanek/184569/,0
+184834,1,Wygorzele Wiadukt,,50.134758,19.038968,/rozklady/przystanek/184834/,0
 183432,1,Świętoszowice Przedszkole,,50.363720,18.734801,/rozklady/przystanek/183432/,0
 183181,1,Żerniki Rogozińskiego,,50.324648,18.702930,/rozklady/przystanek/183181/,0
 177658,2,Repty Śląskie Długa,,50.418826,18.828356,/rozklady/przystanek/177658/,0
 158998,1,Żerniki Olszewskiego,,50.322121,18.700709,/rozklady/przystanek/158998/,0
-177955,2,Kuźnica,,50.330982,18.708810,/rozklady/przystanek/177955/,0
 158757,1,Gliwice Radiostacja,,50.314336,18.693042,/rozklady/przystanek/158757/,0
 178089,2,Wieszowa Leśniczówka [nż],,50.386690,18.792096,/rozklady/przystanek/178089/,0
 178090,2,Szałsza,,50.339129,18.716061,/rozklady/przystanek/178090/,0
@@ -53,7 +46,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 157633,1,Górniki Gospoda,,50.393575,18.798938,/rozklady/przystanek/157633/,0
 177601,2,Tarnowskie Góry Gliwicka,,50.441381,18.850774,/rozklady/przystanek/177601/,0
 157636,1,Górniki Skrzyżowanie,,50.397632,18.803681,/rozklady/przystanek/157636/,0
-183237,7,Tarnowskie Góry Dworzec,,50.447506,18.863262,/rozklady/przystanek/183237/,0
 183124,1,Gliwice Zamenhofa,,50.317545,18.696123,/rozklady/przystanek/183124/,0
 183129,1,Gliwice Michałowskiego,,50.309919,18.688607,/rozklady/przystanek/183129/,0
 161760,2,Grzybowice Hallera [nż],,50.356235,18.754806,/rozklady/przystanek/161760/,0
@@ -64,6 +56,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 178034,3,Czekanów Droga do Świętoszowic [nż],,50.354475,18.748498,/rozklady/przystanek/178034/,0
 178036,1,Świętoszowice Czarna Droga,,50.358519,18.742123,/rozklady/przystanek/178036/,0
 178039,1,Świętoszowice Skrzyżowanie,,50.366851,18.718669,/rozklady/przystanek/178039/,0
+178042,1,Świętoszowice OSP,,50.365118,18.727643,/rozklady/przystanek/178042/,0
 184318,15,Gliwice Centrum Przesiadkowe,,50.302639,18.676374,/rozklady/przystanek/184318/,0
 178048,1,Szałsza,,50.339172,18.716416,/rozklady/przystanek/178048/,0
 184327,5,Gliwice Centrum Przesiadkowe,,50.302235,18.676889,/rozklady/przystanek/184327/,0
@@ -122,7 +115,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 162110,7,Katowice Dworzec,,50.258308,19.018053,/rozklady/przystanek/162110/,0
 159425,2,Obroki Hale Targowe,,50.268242,18.959624,/rozklady/przystanek/159425/,0
 184898,2,Obroki Droga do MPGK [nż],,50.267742,18.961281,/rozklady/przystanek/184898/,0
+159427,1,Obroki MPGK,,50.265749,18.960680,/rozklady/przystanek/159427/,0
 159205,2,Katowice AWF,,50.251053,19.004335,/rozklady/przystanek/159205/,0
+184077,2,Obroki MPGK,,50.265317,18.960948,/rozklady/przystanek/184077/,0
 159246,2,Katowice Mikołowska,,50.252624,19.008691,/rozklady/przystanek/159246/,0
 159247,1,Katowice Mikołowska Sąd,,50.256720,19.013004,/rozklady/przystanek/159247/,0
 159249,2,Katowice Osiedle Kopalni Wujek,,50.251781,18.989519,/rozklady/przystanek/159249/,0
@@ -169,6 +164,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 160077,1,Mysłowice Targ Miejski,,50.255684,19.131676,/rozklady/przystanek/160077/,0
 161488,2,Zagórze Osiedle,,50.290676,19.181243,/rozklady/przystanek/161488/,0
 160090,2,Wesoła Dzierżonia,,50.191249,19.113995,/rozklady/przystanek/160090/,0
+161500,3,Zagórze Zajezdnia,,50.290539,19.206301,/rozklady/przystanek/161500/,0
 161373,2,Sosnowiec Dworzec PKP,,50.277922,19.126953,/rozklady/przystanek/161373/,0
 160093,2,Wesoła Mostek,,50.195604,19.112815,/rozklady/przystanek/160093/,0
 160095,2,Wesoła Piastów Śląskich,,50.185428,19.103427,/rozklady/przystanek/160095/,0
@@ -176,10 +172,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 160102,2,Wesoła Rynek,,50.188618,19.102966,/rozklady/przystanek/160102/,0
 161384,2,Sosnowiec Jagiellońska,,50.267165,19.134444,/rozklady/przystanek/161384/,0
 161385,2,Sosnowiec Jagiellońska Kościół,,50.269497,19.129348,/rozklady/przystanek/161385/,0
-177385,2,Sosnowiec Wspólna,,50.274486,19.127541,/rozklady/przystanek/177385/,0
 161390,2,Sosnowiec Kościelna,,50.271685,19.128489,/rozklady/przystanek/161390/,0
 159600,1,Wesoła Kopalnia,,50.181639,19.095316,/rozklady/przystanek/159600/,0
-183806,31,Mysłowice Szpital,,50.248404,19.133019,/rozklady/przystanek/183806/,0
 160023,1,Larysz,,50.198729,19.127170,/rozklady/przystanek/160023/,0
 160025,1,Larysz Storczyków [nż],,50.197348,19.119735,/rozklady/przystanek/160025/,0
 184476,2,Zagórze Centrum Przesiadkowe,,50.294129,19.182715,/rozklady/przystanek/184476/,0
@@ -193,6 +187,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 160055,1,Mysłowice Dworzec PKP,,50.237928,19.140570,/rozklady/przystanek/160055/,0
 160056,2,Mysłowice Katowicka,,50.242930,19.134208,/rozklady/przystanek/160056/,0
 161337,2,Sielec Kąpielisko,,50.286933,19.143119,/rozklady/przystanek/161337/,0
+180666,1,Sosnowiec Jagiellońska,,50.266884,19.135646,/rozklady/przystanek/180666/,0
 160062,2,Mysłowice Kopalnia,,50.246443,19.129122,/rozklady/przystanek/160062/,0
 159935,1,Brzęczkowice Kościół,,50.222582,19.153595,/rozklady/przystanek/159935/,0
 159936,1,Brzęczkowice Ogródki Działkowe [nż],,50.211529,19.157082,/rozklady/przystanek/159936/,0
@@ -216,6 +211,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 157852,2,Chorzów Batory 16 Lipca,,50.275847,18.940263,/rozklady/przystanek/157852/,0
 157856,2,Chorzów Batory Dworzec PKP,,50.279769,18.943374,/rozklady/przystanek/157856/,0
 180004,2,Chorzów Rynek,,50.297975,18.954993,/rozklady/przystanek/180004/,0
+157868,2,Chorzów Batory Klonowa,,50.263236,18.936443,/rozklady/przystanek/157868/,0
 160558,1,Kochłowice Kalinowa,,50.249997,18.919905,/rozklady/przystanek/160558/,0
 157870,2,Chorzów Batory Kościół,,50.271366,18.938493,/rozklady/przystanek/157870/,0
 157872,1,Chorzów Batory Osiedle,,50.267474,18.937387,/rozklady/przystanek/157872/,0
@@ -260,6 +256,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 160514,1,Halemba Grunwald [nż],,50.241407,18.849868,/rozklady/przystanek/160514/,0
 179969,1,Halemba Park Wodny,,50.242759,18.844486,/rozklady/przystanek/179969/,0
 160518,1,Halemba Kopalnia,,50.240007,18.855586,/rozklady/przystanek/160518/,0
+160529,1,Halemba Most,,50.236833,18.864472,/rozklady/przystanek/160529/,0
 160533,1,Halemba Orzeszkowej,,50.239817,18.873446,/rozklady/przystanek/160533/,0
 160537,1,Halemba Panewnicka,,50.241710,18.883853,/rozklady/przystanek/160537/,0
 160538,1,Halemba Pętla,,50.244728,18.824488,/rozklady/przystanek/160538/,0
@@ -290,7 +287,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 158982,1,Trynek Toruńska,,50.274966,18.672889,/rozklady/przystanek/158982/,0
 158856,2,Osiedle Kopernika Kąpielisko,,50.326981,18.650964,/rozklady/przystanek/158856/,0
 158860,2,Osiedle Kopernika Oriona,,50.323981,18.661818,/rozklady/przystanek/158860/,0
-184332,3,Gliwice Dworzec,,50.301258,18.674606,/rozklady/przystanek/184332/,0
 158865,2,Osiedle Kopernika Saturna,,50.324871,18.656373,/rozklady/przystanek/158865/,0
 158888,2,Przyszówka Kaplica,,50.338380,18.639684,/rozklady/przystanek/158888/,0
 158892,2,Przyszówka Osiedle Literatów,,50.333505,18.642023,/rozklady/przystanek/158892/,0
@@ -301,7 +297,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 158777,2,Gliwice Świętojańska,,50.311577,18.668748,/rozklady/przystanek/158777/,0
 158784,2,Gliwice Toszecka,,50.307725,18.671010,/rozklady/przystanek/158784/,0
 183746,2,Trynek Asnyka,,50.276457,18.670486,/rozklady/przystanek/183746/,0
-183114,1,Gliwice Rybnicka,,50.284164,18.663229,/rozklady/przystanek/183114/,0
+158681,1,Gliwice Dworcowa,,50.296932,18.675367,/rozklady/przystanek/158681/,0
 158817,2,Łabędy Dworzec PKP I,,50.340938,18.622931,/rozklady/przystanek/158817/,0
 158689,1,Gliwice Górnych Wałów,,50.291624,18.666708,/rozklady/przystanek/158689/,0
 158820,4,Łabędy Huta,,50.355715,18.614846,/rozklady/przystanek/158820/,0
@@ -386,6 +382,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 159520,2,Piotrowice Skrzyżowanie,,50.208411,18.973651,/rozklady/przystanek/159520/,0
 159397,1,Murcki Kołodzieja,,50.193523,19.037998,/rozklady/przystanek/159397/,0
 159400,2,Murcki Osiedle,,50.203914,19.042916,/rozklady/przystanek/159400/,0
+159402,1,Murcki Rynek,,50.197994,19.043249,/rozklady/przystanek/159402/,0
 159531,2,Podlesie Dworzec PKP,,50.183894,18.959701,/rozklady/przystanek/159531/,0
 159533,1,Podlesie Kaczeńców,,50.190866,18.965585,/rozklady/przystanek/159533/,0
 163630,1,Ochojec Ziołowa II,,50.212854,18.989165,/rozklady/przystanek/163630/,0
@@ -460,7 +457,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 160542,1,Halemba Poniatowskiego,,50.236398,18.863991,/rozklady/przystanek/160542/,0
 178679,4,Ruda Urząd Skarbowy,,50.301137,18.871037,/rozklady/przystanek/178679/,0
 160548,1,Halemba Stara Kuźnica,,50.232685,18.863262,/rozklady/przystanek/160548/,0
-160686,2,Wirek Katowicka,,50.270697,18.882005,/rozklady/przystanek/160686/,0
 160688,2,Wirek Kopalnia Pokój,,50.275724,18.870274,/rozklady/przystanek/160688/,0
 177072,1,Chebzie Rondo,,50.300812,18.881726,/rozklady/przystanek/177072/,0
 160564,1,Kochłowice Kopalnia Nowy Wirek,,50.272124,18.909096,/rozklady/przystanek/160564/,0
@@ -507,7 +503,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 160510,2,Halemba Elektrownia,,50.236967,18.849786,/rozklady/przystanek/160510/,0
 183680,1,Radzionków Plac Letochów,,50.399060,18.902782,/rozklady/przystanek/183680/,0
 177049,1,Radzionków Kościół,,50.404093,18.907235,/rozklady/przystanek/177049/,0
-160410,1,Radzionków Knosały,,50.405406,18.901055,/rozklady/przystanek/160410/,0
 160412,2,Radzionków Knosały Sady [nż],,50.416527,18.886603,/rozklady/przystanek/160412/,0
 160414,1,Radzionków Norwida,,50.407868,18.908125,/rozklady/przystanek/160414/,0
 178976,2,Osada Jana,,50.433523,18.864989,/rozklady/przystanek/178976/,0
@@ -557,6 +552,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 179627,2,Strzybnica Centrum Handlu Gwarek,,50.462777,18.821537,/rozklady/przystanek/179627/,0
 179629,2,Strzybnica Fazos,,50.456568,18.832298,/rozklady/przystanek/179629/,0
 184239,2,Tarnowskie Góry Opolska,,50.447155,18.848485,/rozklady/przystanek/184239/,0
+180540,2,Ziętek,,50.572775,18.646754,/rozklady/przystanek/180540/,0
 179411,2,Tworóg Dworzec PKP,,50.529488,18.716513,/rozklady/przystanek/179411/,0
 183384,2,Tworóg [nż],,50.540331,18.709045,/rozklady/przystanek/183384/,0
 183385,2,Koty Szkolna,,50.551498,18.700004,/rozklady/przystanek/183385/,0
@@ -645,7 +641,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 177653,1,Tarnowskie Góry Wyszyńskiego,,50.442379,18.846600,/rozklady/przystanek/177653/,0
 183936,1,Urbanowice Pogodna Szkoła,,50.115294,19.045309,/rozklady/przystanek/183936/,0
 184833,1,Wygorzele Ułańska,,50.128705,19.058119,/rozklady/przystanek/184833/,0
-184834,1,Wygorzele Wiadukt,,50.134758,19.038968,/rozklady/przystanek/184834/,0
 184832,1,Wygorzele Tartak,,50.131388,19.038024,/rozklady/przystanek/184832/,0
 183940,1,Wygorzele Goździków,,50.121252,19.040663,/rozklady/przystanek/183940/,0
 183944,2,Wygorzele Sportowa,,50.123226,19.050259,/rozklady/przystanek/183944/,0
@@ -758,7 +753,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 179146,2,Brynica,,50.472266,18.994701,/rozklady/przystanek/179146/,0
 179659,2,Lasowice Zalew [nż],,50.473778,18.906456,/rozklady/przystanek/179659/,0
 179148,2,Bibiela Leśniczówka,,50.489000,18.999743,/rozklady/przystanek/179148/,0
-179661,2,Lasowice,,50.452367,18.880374,/rozklady/przystanek/179661/,0
 179150,2,Bibiela Droga do Żyglina [nż],,50.495581,19.000947,/rozklady/przystanek/179150/,0
 179663,2,Lasowice Częstochowska,,50.450229,18.869367,/rozklady/przystanek/179663/,0
 179152,2,Bibiela Kościół,,50.503941,19.012150,/rozklady/przystanek/179152/,0
@@ -814,7 +808,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 160228,2,Szarlej Wyszyńskiego,,50.373345,18.947848,/rozklady/przystanek/160228/,0
 160126,1,Brzeziny Śląskie,,50.347145,18.981028,/rozklady/przystanek/160126/,0
 180132,2,Janów Oswobodzenia Cmentarna,,50.244821,19.093814,/rozklady/przystanek/180132/,0
-180101,2,Janów Lwowska Szkoła,,50.247753,19.089898,/rozklady/przystanek/180101/,0
 180134,2,Larysz Sienkiewicza [nż],,50.200163,19.128342,/rozklady/przystanek/180134/,0
 160038,2,Morgi Kościół,,50.204875,19.122835,/rozklady/przystanek/160038/,0
 160041,2,Morgi Sienkiewicza,,50.208288,19.118834,/rozklady/przystanek/160041/,0
@@ -842,7 +835,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 161330,3,Rudna Stawowa,,50.296509,19.113651,/rozklady/przystanek/161330/,0
 161207,1,Niwka Fabryka,,50.242985,19.159464,/rozklady/przystanek/161207/,0
 161220,1,Niwka Kościół,,50.238151,19.156101,/rozklady/przystanek/161220/,0
-161231,1,Niwka Tuwima,,50.242587,19.165279,/rozklady/przystanek/161231/,0
 161233,2,Osiedle Bór Bloki,,50.242797,19.174211,/rozklady/przystanek/161233/,0
 161235,2,Osiedle Bór Długa I,,50.244917,19.178771,/rozklady/przystanek/161235/,0
 161237,2,Osiedle Bór Długa II,,50.245630,19.183851,/rozklady/przystanek/161237/,0
@@ -852,6 +844,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 161375,1,Sosnowiec Dworzec PKP,,50.278111,19.127301,/rozklady/przystanek/161375/,0
 161263,1,Pogoń Akademiki,,50.297742,19.134380,/rozklady/przystanek/161263/,0
 161271,1,Pogoń Grota-Roweckiego,,50.286590,19.124531,/rozklady/przystanek/161271/,0
+161284,2,Pogoń Sucha,,50.295809,19.127052,/rozklady/przystanek/161284/,0
 161320,2,Rudna Gospodarcza I,,50.289743,19.117793,/rozklady/przystanek/161320/,0
 161322,2,Rudna Gospodarcza II,,50.294535,19.120657,/rozklady/przystanek/161322/,0
 161200,2,Modrzejów Rynek,,50.241551,19.149110,/rozklady/przystanek/161200/,0
@@ -983,6 +976,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 162811,1,Panewniki Stare Cmentarz [nż],,50.229017,18.916767,/rozklady/przystanek/162811/,0
 180476,1,Panewniki Bazylika,,50.225863,18.963094,/rozklady/przystanek/180476/,0
 159487,1,Panewniki Bałtycka,,50.228036,18.928847,/rozklady/przystanek/159487/,0
+184576,2,Łosień Poboczna,,50.351304,19.337466,/rozklady/przystanek/184576/,0
 158208,2,Gołonóg Dworzec PKP,,50.342929,19.227386,/rozklady/przystanek/158208/,0
 158336,2,Okradzionów Białej Przemszy,,50.342174,19.375935,/rozklady/przystanek/158336/,0
 158342,5,Okradzionów Skrzyżowanie,,50.352094,19.363950,/rozklady/przystanek/158342/,0
@@ -1004,9 +998,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 158149,2,Błędów LZS Tęcza,,50.344403,19.439186,/rozklady/przystanek/158149/,0
 158150,2,Błędów Szkoła,,50.344865,19.447700,/rozklady/przystanek/158150/,0
 158152,2,Błędów Sztorcowa,,50.343824,19.428828,/rozklady/przystanek/158152/,0
+158154,1,Błędów Zagórze,,50.356017,19.454969,/rozklady/przystanek/158154/,0
 184524,2,Błędów Kościół,,50.346423,19.461534,/rozklady/przystanek/184524/,0
 158285,2,Kuźnica Błędowska,,50.351790,19.466162,/rozklady/przystanek/158285/,0
 184655,2,Tworzeń Leśna,,50.356698,19.277116,/rozklady/przystanek/184655/,0
+158288,1,Kuźniczka Nowa,,50.322063,19.403427,/rozklady/przystanek/158288/,0
 158545,2,Ząbkowice Starosiedle,,50.364128,19.280984,/rozklady/przystanek/158545/,0
 184657,2,Tworzeń Wiadukt,,50.341151,19.259059,/rozklady/przystanek/184657/,0
 158290,2,Kuźniczka Nowa Skrzyżowanie,,50.321162,19.411383,/rozklady/przystanek/158290/,0
@@ -1014,7 +1010,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 158298,2,Łęka Kościół,,50.357304,19.358714,/rozklady/przystanek/158298/,0
 158302,2,Łęka Przelotowa,,50.359159,19.353130,/rozklady/przystanek/158302/,0
 184675,2,Ząbkowice Las,,50.362414,19.285678,/rozklady/przystanek/184675/,0
-184569,2,Łęka Remiza,,50.361301,19.342933,/rozklady/przystanek/184569/,0
 158311,2,Łosień Cmentarz,,50.355582,19.339478,/rozklady/przystanek/158311/,0
 158320,2,Łosień Koksownicza Parking,,50.352214,19.353216,/rozklady/przystanek/158320/,0
 158322,2,Łosień Las,,50.355154,19.306583,/rozklady/przystanek/158322/,0
@@ -1273,6 +1268,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 184651,1,Tucznawa Smardz,,50.382648,19.296130,/rozklady/przystanek/184651/,0
 158550,1,Ząbkowice Willowa,,50.362601,19.255503,/rozklady/przystanek/158550/,0
 184678,1,Ząbkowice Szosowa,,50.378912,19.279670,/rozklady/przystanek/184678/,0
+184001,2,Żwaków Żorska,,50.103480,18.959564,/rozklady/przystanek/184001/,0
 184003,2,Żwaków Sosnowe,,50.103278,18.956195,/rozklady/przystanek/184003/,0
 184005,1,Żwaków Rogatki,,50.103109,18.953137,/rozklady/przystanek/184005/,0
 182631,1,Tychy Rynek,,50.129634,18.981923,/rozklady/przystanek/182631/,0
@@ -1355,7 +1351,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 158655,2,Gliwice Aleja Majowa,,50.296519,18.649684,/rozklady/przystanek/158655/,0
 180545,2,Osiedle Wojska Polskiego Ordona,,50.301224,18.638107,/rozklady/przystanek/180545/,0
 180547,2,Osiedle Wojska Polskiego Czwartaków,,50.298762,18.643919,/rozklady/przystanek/180547/,0
-180043,2,Gliwice Teatr,,50.287938,18.659146,/rozklady/przystanek/180043/,0
 158673,4,Gliwice Cmentarz Centralny,,50.304071,18.633488,/rozklady/przystanek/158673/,0
 183766,2,Stare Łabędy Starogliwicka [nż],,50.326608,18.617342,/rozklady/przystanek/183766/,0
 158806,1,Gliwice Zakład Opla,,50.319436,18.622116,/rozklady/przystanek/158806/,0
@@ -1493,12 +1488,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 157563,1,Bytom Matejki,,50.348302,18.927544,/rozklady/przystanek/157563/,0
 179199,1,Świerklaniec Sady [nż],,50.428969,18.944492,/rozklady/przystanek/179199/,0
 161160,1,Konstantynów Fabryczna,,50.291135,19.147850,/rozklady/przystanek/161160/,0
+161164,1,Konstantynów Okrzei,,50.294364,19.145747,/rozklady/przystanek/161164/,0
 181410,1,Środula Cmentarz,,50.298722,19.170568,/rozklady/przystanek/181410/,0
 161443,1,Środula Kolonia Zuzanna,,50.299360,19.164437,/rozklady/przystanek/161443/,0
 184484,3,Zagórze Rondo Jana Pawła II,,50.284780,19.179044,/rozklady/przystanek/184484/,0
 161278,2,Pogoń Orla,,50.286512,19.131987,/rozklady/przystanek/161278/,0
 161450,1,Środula Północna,,50.300319,19.156744,/rozklady/przystanek/161450/,0
 161453,1,Środula Wapienna,,50.299374,19.147142,/rozklady/przystanek/161453/,0
+183854,31,Sosnowiec Sąd,,50.273348,19.139025,/rozklady/przystanek/183854/,0
 161456,1,Zagórze Aleja Paderewskiego,,50.286878,19.194231,/rozklady/przystanek/161456/,0
 161467,1,Zagórze Gwiezdna,,50.283738,19.184076,/rozklady/przystanek/161467/,0
 161342,1,Sielec Narutowicza,,50.278981,19.148118,/rozklady/przystanek/161342/,0
@@ -1581,6 +1578,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 158162,2,Dąbrowa Górnicza Centrum,,50.325039,19.187831,/rozklady/przystanek/158162/,0
 158225,1,Gołonóg Manhattan,,50.331940,19.218826,/rozklady/przystanek/158225/,0
 180117,2,Katowice Strefa Kultury NOSPR,,50.263256,19.028035,/rozklady/przystanek/180117/,0
+177398,1,Środula K-D,,50.299990,19.160719,/rozklady/przystanek/177398/,0
 158229,1,Gołonóg Osiedle,,50.337538,19.224169,/rozklady/przystanek/158229/,0
 184532,2,Dąbrowa Górnicza Liceum Żeromskiego,,50.319001,19.188313,/rozklady/przystanek/184532/,0
 184892,3,Katowice Sokolska,,50.264285,19.018379,/rozklady/przystanek/184892/,0
@@ -1588,6 +1586,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 180114,2,Katowice Strefa Kultury,,50.262433,19.037262,/rozklady/przystanek/180114/,0
 180116,1,Katowice Strefa Kultury NOSPR,,50.263562,19.027902,/rozklady/przystanek/180116/,0
 158230,2,Gołonóg Osiedle,,50.336045,19.224652,/rozklady/przystanek/158230/,0
+161441,2,Środula K-D,,50.300625,19.157468,/rozklady/przystanek/161441/,0
 159137,2,Dąbrówka Mała Skrzyżowanie,,50.275696,19.072845,/rozklady/przystanek/159137/,0
 158371,2,Reden,,50.325196,19.203066,/rozklady/przystanek/158371/,0
 184616,2,Reden Komenda Policji,,50.328269,19.209911,/rozklady/przystanek/184616/,0
@@ -1667,6 +1666,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 158805,1,Gliwice Zakład Energetyczny,,50.313259,18.647885,/rozklady/przystanek/158805/,0
 183132,1,Gliwice Śliwki,,50.306377,18.662446,/rozklady/przystanek/183132/,0
 183134,1,Gliwice Edisona,,50.316500,18.645644,/rozklady/przystanek/183134/,0
+179330,2,Celiny Autostrada,,50.449064,19.050206,/rozklady/przystanek/179330/,0
 157443,2,Podtąpkowice Droga do Sączowa,,50.447854,19.040198,/rozklady/przystanek/157443/,0
 179210,2,Bizja [nż],,50.451070,18.980039,/rozklady/przystanek/179210/,0
 179212,2,Świerklaniec Oświęcimska,,50.438273,18.943174,/rozklady/przystanek/179212/,0
@@ -1801,7 +1801,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 184717,2,Paprocany Dymarek,,50.096293,18.993210,/rozklady/przystanek/184717/,0
 184718,1,Paprocany Pętla,,50.093253,18.994604,/rozklady/przystanek/184718/,0
 184719,2,Paprocany Pętla,,50.093398,18.994240,/rozklady/przystanek/184719/,0
-183955,1,Tychy Tężnia,,50.102984,18.981700,/rozklady/przystanek/183955/,0
 180378,1,"Tychy Osiedle ""R""",,50.111861,18.970078,/rozklady/przystanek/180378/,0
 184745,1,Tychy Jezioro Paprocańskie,,50.090456,18.996117,/rozklady/przystanek/184745/,0
 180138,1,Tychy Stoczniowców 70,,50.115281,18.969842,/rozklady/przystanek/180138/,0
@@ -1859,7 +1858,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 157854,2,Chorzów Batory Czempiela,,50.267529,18.933450,/rozklady/przystanek/157854/,0
 161569,1,Piaśniki Korfantego,,50.301553,18.912228,/rozklady/przystanek/161569/,0
 161572,1,Piaśniki Krasickiego,,50.298804,18.916445,/rozklady/przystanek/161572/,0
-184103,31,Świętochłowice Polna,,50.295471,18.917239,/rozklady/przystanek/184103/,0
 157864,2,Chorzów Batory Graniczna,,50.270875,18.931476,/rozklady/przystanek/157864/,0
 157691,2,Łagiewniki Targowisko,,50.321155,18.926744,/rozklady/przystanek/157691/,0
 161583,1,Piaśniki Szpital,,50.306356,18.912486,/rozklady/przystanek/161583/,0
@@ -2020,6 +2018,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 157314,2,Łagisza Elektrownia,,50.347165,19.135506,/rozklady/przystanek/157314/,0
 160899,2,Kuźnica Warężyńska [nż],,50.401529,19.181625,/rozklady/przystanek/160899/,0
 157186,1,Będzin Rondo,,50.324244,19.123533,/rozklady/przystanek/157186/,0
+157317,2,Łagisza Fabryka,,50.343772,19.133763,/rozklady/przystanek/157317/,0
 160262,2,Goląszka Autostrada [nż],,50.384279,19.176315,/rozklady/przystanek/160262/,0
 160903,1,Kuźnica Warężyńska Skrzyżowanie,,50.402021,19.192128,/rozklady/przystanek/160903/,0
 160901,2,Kuźnica Warężyńska Skrzyżowanie,,50.403772,19.194531,/rozklady/przystanek/160901/,0
@@ -2051,6 +2050,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 160334,2,Sarnów Główna,,50.373238,19.150188,/rozklady/przystanek/160334/,0
 176719,1,Przeczyce Ośrodek Panda [nż],,50.440579,19.171137,/rozklady/przystanek/176719/,0
 157141,1,Będzin 11 Listopada,,50.320586,19.129326,/rozklady/przystanek/157141/,0
+160987,2,Warężyn,,50.407082,19.179769,/rozklady/przystanek/160987/,0
 176732,1,Przeczyce Przystań,,50.434067,19.173443,/rozklady/przystanek/176732/,0
 157147,2,Będzin Brzozowicka [nż],,50.333011,19.131129,/rozklady/przystanek/157147/,0
 160989,2,Wojkowice Kościelne,,50.413181,19.205432,/rozklady/przystanek/160989/,0
@@ -2115,6 +2115,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 178041,1,Czekanów,,50.347719,18.734709,/rozklady/przystanek/178041/,0
 162106,10,Katowice Dworzec,,50.258411,19.016800,/rozklady/przystanek/162106/,0
 162107,9,Katowice Dworzec,,50.258373,19.017229,/rozklady/przystanek/162107/,0
+183615,2A,Katowice Sądowa,,50.258631,19.011009,/rozklady/przystanek/183615/,0
 184009,2,Brynów Różyckiego,,50.239270,18.994594,/rozklady/przystanek/184009/,0
 184010,1,Brynów Różyckiego,,50.238385,18.994379,/rozklady/przystanek/184010/,0
 184011,1,Brynów Rzepakowa,,50.222950,18.993864,/rozklady/przystanek/184011/,0
@@ -2261,6 +2262,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 157465,1,Rogoźnik Szkoła,,50.389033,19.041650,/rozklady/przystanek/157465/,0
 157215,1,Będzin Zamek,,50.325012,19.127728,/rozklady/przystanek/157215/,0
 161696,1,Wojkowice Ośrodek Zdrowia [nż],,50.362991,19.043839,/rozklady/przystanek/161696/,0
+161697,2,Wojkowice Park,,50.365425,19.036500,/rozklady/przystanek/161697/,0
 158071,1,Piaski Centrum Handlowe,,50.322340,19.103641,/rozklady/przystanek/158071/,0
 161701,2,Żychcice Alfred,,50.366550,19.027392,/rozklady/przystanek/161701/,0
 157351,1,Osiedle Syberka Kościół,,50.319319,19.114209,/rozklady/przystanek/157351/,0
@@ -2305,6 +2307,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 161690,2,Wojkowice Łęg,,50.356557,19.063516,/rozklady/przystanek/161690/,0
 161695,2,Wojkowice Ośrodek Zdrowia [nż],,50.363477,19.041961,/rozklady/przystanek/161695/,0
 157216,2,Będzin Zamek,,50.325315,19.127699,/rozklady/przystanek/157216/,0
+161698,1,Wojkowice Park,,50.365240,19.036672,/rozklady/przystanek/161698/,0
 177569,2,Wojkowice Brzeziny 76 [nż],,50.370540,19.073140,/rozklady/przystanek/177569/,0
 161702,1,Żychcice Alfred,,50.366523,19.028068,/rozklady/przystanek/161702/,0
 161705,1,Żychcice Pętla,,50.367529,19.016480,/rozklady/przystanek/161705/,0
@@ -2326,7 +2329,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 160327,3,Psary Urząd Gminy,,50.378224,19.131880,/rozklady/przystanek/160327/,0
 157257,1,Grodziec Kościół,,50.350314,19.090456,/rozklady/przystanek/157257/,0
 160330,2,Sarnów Autostrada,,50.374991,19.144771,/rozklady/przystanek/160330/,0
-160329,2,Psary Wiejska,,50.379305,19.118979,/rozklady/przystanek/160329/,0
 157265,1,Grodziec Podgórna [nż],,50.348185,19.093578,/rozklady/przystanek/157265/,0
 183507,1,Grodziec DK86 [nż],,50.340051,19.108469,/rozklady/przystanek/183507/,0
 176339,1,Grodziec Poczta,,50.351423,19.082549,/rozklady/przystanek/176339/,0
@@ -2431,7 +2433,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 158251,2,Grabocin Sosnowiecka,,50.302711,19.263909,/rozklady/przystanek/158251/,0
 184634,2,Strzemieszyce Jamki,,50.315569,19.258117,/rozklady/przystanek/184634/,0
 184638,2,Strzemieszyce Ordona Przejazd Kolejowy,,50.315372,19.285476,/rozklady/przystanek/184638/,0
-158398,2,Strzemieszyce Aleja Za Remizą,,50.306322,19.273447,/rozklady/przystanek/158398/,0
 158406,2,Strzemieszyce Dworzec Południowy,,50.310420,19.286729,/rozklady/przystanek/158406/,0
 184525,1,Dąbrowa Górnicza Fabryka Pełna Życia,,50.326673,19.186436,/rozklady/przystanek/184525/,0
 158417,2,Strzemieszyce Kościół,,50.314887,19.279594,/rozklady/przystanek/158417/,0
@@ -2477,6 +2478,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 161202,2,Niwka Baza,,50.247479,19.153498,/rozklady/przystanek/161202/,0
 161212,2,Niwka Kolonia Staszic,,50.255471,19.150419,/rozklady/przystanek/161212/,0
 161091,2,Dębowa Góra Kolonia Ludmiła,,50.259011,19.149282,/rozklady/przystanek/161091/,0
+161098,2,Dębowa Góra Wiadukt,,50.267495,19.147694,/rozklady/przystanek/161098/,0
 161361,2,Sielec Wawel,,50.280214,19.141149,/rozklady/przystanek/161361/,0
 158057,1,Czeladź Szpital,,50.327240,19.073973,/rozklady/przystanek/158057/,0
 158063,1,Czeladź Tuwima,,50.323279,19.072882,/rozklady/przystanek/158063/,0
@@ -2590,7 +2592,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 157703,2,Miechowice Kopalnia,,50.353675,18.841182,/rozklady/przystanek/157703/,0
 157708,2,Miechowice Park,,50.356475,18.856717,/rozklady/przystanek/157708/,0
 161814,1,Mikulczyce Chopina,,50.335025,18.781701,/rozklady/przystanek/161814/,0
-161943,1,Zabrze Gdańska,,50.315092,18.785124,/rozklady/przystanek/161943/,0
 157722,2,Miechowice Warszawska,,50.355177,18.862742,/rozklady/przystanek/157722/,0
 157,1,Mikulczyce Moniuszki [nż],,50.331573,18.781294,/rozklady/przystanek/157/,0
 161952,6,Zabrze Goethego,,50.305380,18.783032,/rozklady/przystanek/161952/,0
@@ -2600,6 +2601,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 180400,3,Rokitnica Pomorska,,50.366499,18.793589,/rozklady/przystanek/180400/,0
 184129,1,Mikulczyce Moniuszki Przychodnia,,50.329518,18.783761,/rozklady/przystanek/184129/,0
 161987,1,Zabrze Mostostal,,50.320080,18.785703,/rozklady/przystanek/161987/,0
+157637,2,Karb,,50.352989,18.874359,/rozklady/przystanek/157637/,0
 161870,2,Rokitnica Andersa,,50.369411,18.785939,/rozklady/przystanek/161870/,0
 161874,1,Rokitnica Budowlana,,50.364381,18.785607,/rozklady/przystanek/161874/,0
 161876,1,Rokitnica Grzybowska,,50.369486,18.785059,/rozklady/przystanek/161876/,0
@@ -2696,7 +2698,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 157806,1,Szombierki Osiedle,,50.332576,18.890240,/rozklady/przystanek/157806/,0
 160502,1,Godula Osiedle Paryż,,50.323491,18.890663,/rozklady/przystanek/160502/,0
 158738,1,Gliwice Plac Piastów,,50.298637,18.677556,/rozklady/przystanek/158738/,0
-180245,2,Gliwice Strzody,,50.294923,18.671763,/rozklady/przystanek/180245/,0
 158742,1,Gliwice Plac Piłsudskiego,,50.296796,18.667976,/rozklady/przystanek/158742/,0
 162075,1,Brzezinka Lubelska [nż],,50.329981,18.569049,/rozklady/przystanek/162075/,0
 162083,1,Brzezinka Park Logistyczny,,50.340154,18.554964,/rozklady/przystanek/162083/,0
@@ -2821,7 +2822,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 161894,2,Rokitnica Śląski Uniwersytet Med.,,50.372593,18.802708,/rozklady/przystanek/161894/,0
 161766,1,Helenka ELZAB,,50.379093,18.812321,/rozklady/przystanek/161766/,0
 161768,2,Helenka Kościół,,50.378364,18.808588,/rozklady/przystanek/161768/,0
-161770,2,Helenka PCK,,50.375380,18.805049,/rozklady/przystanek/161770/,0
 161873,2,Rokitnica Boczna [nż],,50.358382,18.796229,/rozklady/przystanek/161873/,0
 161816,2,Mikulczyce Cmentarz [nż],,50.343958,18.779749,/rozklady/przystanek/161816/,0
 161882,3,Rokitnica Pętla,,50.363802,18.801304,/rozklady/przystanek/161882/,0
@@ -2834,7 +2834,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 161815,1,Mikulczyce Cmentarz [nż],,50.343869,18.779808,/rozklady/przystanek/161815/,0
 161885,1,Rokitnica Pętla,,50.363844,18.801188,/rozklady/przystanek/161885/,0
 160916,2,Marcinków Przeczycka [nż],,50.422997,19.195561,/rozklady/przystanek/160916/,0
-184364,5,Zendek Szkoła,,50.495830,19.089402,/rozklady/przystanek/184364/,0
+185003,2,Zendek VII [nż],,50.489574,19.110703,/rozklady/przystanek/185003/,0
 185008,2,Zawada Nowowiejska,,50.436841,19.096013,/rozklady/przystanek/185008/,0
 185012,2,Zendek VI,,50.493457,19.099672,/rozklady/przystanek/185012/,0
 179772,2,Zadzień Posesja 31,,50.476290,19.116749,/rozklady/przystanek/179772/,0
@@ -3047,6 +3047,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 183945,1,Czułów Leszczynowa,,50.149857,19.003896,/rozklady/przystanek/183945/,0
 177546,2,Czułów Droga do Kostuchny,,50.170006,19.019066,/rozklady/przystanek/177546/,0
 177819,3,Czułów Katowicka,,50.141160,18.995752,/rozklady/przystanek/177819/,0
+184156,1,Czułów Osiedle,,50.155944,19.008176,/rozklady/przystanek/184156/,0
 161634,1,Czułów Astrów,,50.135047,18.992714,/rozklady/przystanek/161634/,0
 161636,1,Czułów Fabryka,,50.159893,19.010837,/rozklady/przystanek/161636/,0
 161639,1,Czułów Szkoła,,50.146385,18.999690,/rozklady/przystanek/161639/,0
@@ -3250,7 +3251,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 159129,1,Dąbrówka Mała Oczyszczalnia,,50.282529,19.071240,/rozklady/przystanek/159129/,0
 157214,1,Będzin Zagórska,,50.315887,19.137164,/rozklady/przystanek/157214/,0
 161183,2,Milowice Most,,50.291530,19.073182,/rozklady/przystanek/161183/,0
-162086,6,Katowice Dworzec,,50.258274,19.018474,/rozklady/przystanek/162086/,0
 157183,1,Będzin Robotnicza [nż],,50.311496,19.146166,/rozklady/przystanek/157183/,0
 158029,2,Czeladź Józefów,,50.297948,19.074019,/rozklady/przystanek/158029/,0
 158042,2,Czeladź Park,,50.312402,19.070346,/rozklady/przystanek/158042/,0
@@ -3469,7 +3469,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 161577,2t,Piaśniki Skrzyżowanie,,50.305072,18.918837,/rozklady/przystanek/161577/,0
 157997,2t,Chorzów Wodociągi,,50.302743,18.934539,/rozklady/przystanek/157997/,0
 161586,2t,Piaśniki Szpital,,50.305777,18.914728,/rozklady/przystanek/161586/,0
-178792,2t,Chorzów Targowisko,,50.303540,18.949736,/rozklady/przystanek/178792/,0
 157547,1t,Bytom Jagiellońska,,50.345190,18.918676,/rozklady/przystanek/157547/,0
 157932,1t,Chorzów Nowa,,50.308959,18.951135,/rozklady/przystanek/157932/,0
 157943,2t,Chorzów Pokoju,,50.304373,18.922871,/rozklady/przystanek/157943/,0
@@ -3560,7 +3559,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 161915,2,Zaborze Skargi,,50.293431,18.813829,/rozklady/przystanek/161915/,0
 162047,2,Zabrze św. Floriana,,50.301861,18.793396,/rozklady/przystanek/162047/,0
 182711,2,Tychy Wejchertów,,50.117990,19.007086,/rozklady/przystanek/182711/,0
-182456,2,Tychy Cyganerii,,50.117592,18.987019,/rozklady/przystanek/182456/,0
 182467,1,Czułów Kościół,,50.142526,18.990159,/rozklady/przystanek/182467/,0
 182469,1,Czułów Narcyzów,,50.141844,18.993312,/rozklady/przystanek/182469/,0
 184778,2,Tychy Rybna 43 [nż],,50.119075,19.008852,/rozklady/przystanek/184778/,0
@@ -3901,7 +3899,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 155,1,Osiedle Kopernika Brożka,,50.330981,18.770232,/rozklady/przystanek/155/,0
 161845,2,Osiedle Kopernika Makro,,50.323895,18.769273,/rozklady/przystanek/161845/,0
 161779,1,Maciejów Kąpielisko,,50.320052,18.743099,/rozklady/przystanek/161779/,0
-161788,1,Maciejów M1,,50.317593,18.754300,/rozklady/przystanek/161788/,0
 156,2,Osiedle Kopernika Brożka,,50.331235,18.770146,/rozklady/przystanek/156/,0
 161780,2,Maciejów Kąpielisko,,50.320045,18.742938,/rozklady/przystanek/161780/,0
 184840,2,Żwaków Bielska,,50.105453,18.972664,/rozklady/przystanek/184840/,0
@@ -4037,6 +4034,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 159188,1,Józefowiec Jabłoniowa,,50.274928,19.008976,/rozklady/przystanek/159188/,0
 159198,1,Józefowiec Ściegiennego,,50.277335,19.008584,/rozklady/przystanek/159198/,0
 159077,2,Brynów Orkana,,50.231477,18.988495,/rozklady/przystanek/159077/,0
+159744,2,Górki Poczta,,50.103119,19.136826,/rozklady/przystanek/159744/,0
 159776,2,Lędziny Jagiellońska,,50.119625,19.112075,/rozklady/przystanek/159776/,0
 182988,2,Goławiec Czapli,,50.107784,19.161670,/rozklady/przystanek/182988/,0
 182990,3,Górki Poczta,,50.103464,19.139014,/rozklady/przystanek/182990/,0
@@ -4387,8 +4385,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 180044,3,Gliwice Teatr,,50.288075,18.657676,/rozklady/przystanek/180044/,0
 158799,4,Gliwice Zajezdnia,,50.304773,18.730514,/rozklady/przystanek/158799/,0
 158680,3,Gliwice Dąbrowskiego,,50.297503,18.694943,/rozklady/przystanek/158680/,0
+176485,3,Gliwice Zwycięstwa,,50.295649,18.669059,/rozklady/przystanek/176485/,0
 158702,5,Gliwice Jasnogórska,,50.296574,18.659039,/rozklady/przystanek/158702/,0
 158712,6,Gliwice Kościuszki,,50.295481,18.652634,/rozklady/przystanek/158712/,0
+184330,1,Gliwice Dworzec,,50.299917,18.676686,/rozklady/przystanek/184330/,0
 158732,2,Gliwice Park Mickiewicza,,50.295632,18.662247,/rozklady/przystanek/158732/,0
 158796,2,Gliwice Zabrska,,50.295145,18.688457,/rozklady/przystanek/158796/,0
 158677,4,Gliwice Dąbrowskiego,,50.297434,18.695372,/rozklady/przystanek/158677/,0
@@ -4405,6 +4405,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 160957,2,Siewierz Pawilon,,50.477189,19.235076,/rozklady/przystanek/160957/,0
 160958,3,Siewierz Przejazd Kolejowy,,50.480314,19.241225,/rozklady/przystanek/160958/,0
 160959,4,Siewierz Przejazd Kolejowy,,50.480697,19.240634,/rozklady/przystanek/160959/,0
+160842,1,Brudzowice Kapliczka,,50.507124,19.190080,/rozklady/przystanek/160842/,0
 160843,2,Brudzowice Kapliczka,,50.507199,19.190051,/rozklady/przystanek/160843/,0
 160844,1,Brudzowice Komorne I,,50.502805,19.171948,/rozklady/przystanek/160844/,0
 160845,2,Brudzowice Komorne I,,50.502517,19.172096,/rozklady/przystanek/160845/,0
@@ -4945,6 +4946,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 157270,2,Grodziec Remiza,,50.344721,19.088718,/rozklady/przystanek/157270/,0
 158069,1,Czeladź Zespół Szkół,,50.321655,19.078075,/rozklady/przystanek/158069/,0
 161031,2,Sławków Krakowska,,50.290642,19.381707,/rozklady/przystanek/161031/,0
+183917,3,Sławków Poczta,,50.296012,19.382119,/rozklady/przystanek/183917/,0
 183598,2,Sławków Krakowska II,,50.293106,19.384372,/rozklady/przystanek/183598/,0
 161042,2,Sławków Rynek,,50.298759,19.388726,/rozklady/przystanek/161042/,0
 161014,2,Miedawa [nż],,50.280052,19.379466,/rozklady/przystanek/161014/,0
@@ -5356,7 +5358,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 161298,2,Porąbka Osiedle Juliusz I,,50.272508,19.235681,/rozklady/przystanek/161298/,0
 178842,2,Sosnowiec Zielona Dolina,,50.272796,19.175675,/rozklady/przystanek/178842/,0
 178844,2,Sielec Klimontowska,,50.277787,19.150988,/rozklady/przystanek/178844/,0
-178846,2,Sosnowiec Kosów,,50.275333,19.165021,/rozklady/przystanek/178846/,0
 159035,1,Szczakowa Batorego,,50.245366,19.274659,/rozklady/przystanek/159035/,0
 159037,1,Szczakowa Dworzec PKP,,50.246668,19.292949,/rozklady/przystanek/159037/,0
 159039,1,Szczakowa Góra Piasku,,50.239349,19.276800,/rozklady/przystanek/159039/,0
@@ -5470,9 +5471,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 179742,3,Zbrosławice Kościół,,50.415286,18.752304,/rozklady/przystanek/179742/,0
 178097,2,Karchowice II,,50.394606,18.679949,/rozklady/przystanek/178097/,0
 180568,1,Pyskowice Korty Tenisowe [nż],,50.397200,18.645317,/rozklady/przystanek/180568/,0
-178029,2,Zawada,,50.394058,18.663298,/rozklady/przystanek/178029/,0
 178061,1,Karchowice II,,50.394495,18.679370,/rozklady/przystanek/178061/,0
-178078,1,Zawada,,50.394673,18.660659,/rozklady/przystanek/178078/,0
 179743,4,Zbrosławice Kościół,,50.415190,18.752605,/rozklady/przystanek/179743/,0
 180567,2,Pyskowice Korty Tenisowe [nż],,50.397299,18.645328,/rozklady/przystanek/180567/,0
 157185,1t,Będzin Rondo,,50.324817,19.124262,/rozklady/przystanek/157185/,0
@@ -5555,10 +5554,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 159287,1t,Katowice Stęślickiego,,50.266947,19.014263,/rozklady/przystanek/159287/,0
 184890,1t,Katowice Szkoła Filmowa UŚ,,50.257865,19.030836,/rozklady/przystanek/184890/,0
 162875,1t,Łagiewniki Gojny [nż],,50.336024,18.922904,/rozklady/przystanek/162875/,0
+162876,1t,Bytom Urząd Pracy,,50.339332,18.918794,/rozklady/przystanek/162876/,0
 162886,2t,Świętochłowice Mijanka,,50.286193,18.928343,/rozklady/przystanek/162886/,0
 162889,2t,Katowice Sobieskiego,,50.260325,19.011888,/rozklady/przystanek/162889/,0
 178791,2t,Świętochłowice Muzeum Powstań Śląskich,,50.288466,18.923515,/rozklady/przystanek/178791/,0
-178305,1t,Katowice Jordana,,50.251744,19.015182,/rozklady/przystanek/178305/,0
 157845,2t,Chorzów AKS,,50.290262,18.963619,/rozklady/przystanek/157845/,0
 157849,2t,Chorzów Bałtycka,,50.287104,18.939447,/rozklady/przystanek/157849/,0
 157859,1t,Chorzów Batory Dworzec PKP,,50.279083,18.944340,/rozklady/przystanek/157859/,0
@@ -5887,6 +5886,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 250,1,Bytom Didura,,50.347633,18.903863,/rozklady/przystanek/250/,0
 183297,2,Knurów Kosmonautów,,50.232589,18.659474,/rozklady/przystanek/183297/,0
 183690,1,Knurów Rybna [nż],,50.218219,18.694734,/rozklady/przystanek/183690/,0
+158614,2,Bojków I [nż],,50.248769,18.663754,/rozklady/przystanek/158614/,0
 158618,2,Bojków Kościół,,50.251664,18.679423,/rozklady/przystanek/158618/,0
 158619,2,Bojków Piekarnia,,50.249267,18.671257,/rozklady/przystanek/158619/,0
 158623,1,Bojków Skrzyżowanie,,50.247881,18.658025,/rozklady/przystanek/158623/,0
@@ -6456,6 +6456,48 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 160873,2,Gołuchowice Skrzyżowanie [nż],,50.442401,19.252511,/rozklady/przystanek/160873/,0
 184555,2,Kazdębie Strefa Ekonomiczna,,50.330283,19.313852,/rozklady/przystanek/184555/,0
 184554,1,Kazdębie Strefa Ekonomiczna,,50.329773,19.313246,/rozklady/przystanek/184554/,0
+158228,2,Gołonóg Morcinka,,50.333319,19.211402,/rozklady/przystanek/158228/,0
+183832,4,Antoniów Skrzyżowanie,,50.375074,19.236391,/rozklady/przystanek/183832/,0
+158264,2,Kolonia Piekło Kostury,,50.368843,19.221375,/rozklady/przystanek/158264/,0
+158528,1,Ząbkowice Osiedle Młodych Hutników,,50.383253,19.247918,/rozklady/przystanek/158528/,0
+158145,2,Antoniów Spacerowa,,50.372306,19.229851,/rozklady/przystanek/158145/,0
+184522,2,Antoniów Konstytucji,,50.379234,19.239222,/rozklady/przystanek/184522/,0
+158309,2,Łęknice Zakładowa [nż],,50.351033,19.216547,/rozklady/przystanek/158309/,0
+184557,2,Kolonia Piekło Pogoria III,,50.361421,19.210608,/rozklady/przystanek/184557/,0
+184559,2,Kolonia Piekło Przejazd Kolejowy,,50.363878,19.211681,/rozklady/przystanek/184559/,0
+158227,1,Gołonóg Morcinka,,50.333662,19.211541,/rozklady/przystanek/158227/,0
+158265,1,Kolonia Piekło Kostury,,50.368774,19.221740,/rozklady/przystanek/158265/,0
+158140,1,Antoniów Konstytucji,,50.379454,19.239771,/rozklady/przystanek/158140/,0
+158141,3,Antoniów Skrzyżowanie,,50.374294,19.236046,/rozklady/przystanek/158141/,0
+158144,1,Antoniów Spacerowa,,50.372306,19.230323,/rozklady/przystanek/158144/,0
+158310,1,Łęknice Zakładowa [nż],,50.351252,19.216826,/rozklady/przystanek/158310/,0
+184556,1,Kolonia Piekło Pogoria III,,50.362061,19.210678,/rozklady/przystanek/184556/,0
+184558,1,Kolonia Piekło Przejazd Kolejowy,,50.363782,19.211788,/rozklady/przystanek/184558/,0
+158473,2,Tucznawa Gilowa,,50.388007,19.305049,/rozklady/przystanek/158473/,0
+184620,2,Sikorka Pomłynie,,50.385075,19.283648,/rozklady/przystanek/184620/,0
+184622,2,Sikorka Wilgowa,,50.386646,19.287937,/rozklady/przystanek/184622/,0
+158386,2,Sikorka Dworzec PKP,,50.388308,19.297003,/rozklady/przystanek/158386/,0
+158388,1,Sikorka Pętla,,50.386285,19.283110,/rozklady/przystanek/158388/,0
+158392,2,Sikorka Skład Opałowy,,50.385606,19.280212,/rozklady/przystanek/158392/,0
+159814,2,Chruszczobród Dworcowa,,50.397822,19.329371,/rozklady/przystanek/159814/,0
+159840,2,Trzebyczka,,50.398739,19.351881,/rozklady/przystanek/159840/,0
+159841,1,Trzebyczka Pętla,,50.399122,19.357867,/rozklady/przystanek/159841/,0
+184677,2,Ząbkowice Rapackiego,,50.380541,19.265572,/rozklady/przystanek/184677/,0
+184681,2,Ząbkowice Wygiełzów,,50.382480,19.273367,/rozklady/przystanek/184681/,0
+158472,1,Tucznawa Gilowa,,50.387829,19.305232,/rozklady/przystanek/158472/,0
+184619,1,Sikorka Pomłynie,,50.384933,19.283425,/rozklady/przystanek/184619/,0
+184621,1,Sikorka Wilgowa,,50.386547,19.287931,/rozklady/przystanek/184621/,0
+158387,1,Sikorka Dworzec PKP,,50.388137,19.296938,/rozklady/przystanek/158387/,0
+158391,1,Sikorka Skład Opałowy,,50.385586,19.280448,/rozklady/przystanek/158391/,0
+159815,1,Chruszczobród Dworcowa,,50.396290,19.328170,/rozklady/przystanek/159815/,0
+159839,1,Trzebyczka,,50.398616,19.352192,/rozklady/przystanek/159839/,0
+184676,1,Ząbkowice Rapackiego,,50.380294,19.265593,/rozklady/przystanek/184676/,0
+184680,1,Ząbkowice Wygiełzów,,50.382439,19.273549,/rozklady/przystanek/184680/,0
+161093,1,Dębowa Góra Lipowa,,50.268650,19.157045,/rozklady/przystanek/161093/,0
+177366,1,Dańdówka KSSE,,50.269237,19.184666,/rozklady/przystanek/177366/,0
+177394,1,Dańdówka Jedności Szkoła,,50.267892,19.181340,/rozklady/przystanek/177394/,0
+184610,1,Pogoria III Graniczna,,50.339206,19.199268,/rozklady/przystanek/184610/,0
+184611,1,Pogoria III Plaża,,50.343143,19.196403,/rozklady/przystanek/184611/,0
 158465,2,Trzebiesławice Modrzewiowa,,50.425781,19.261020,/rozklady/przystanek/158465/,0
 158466,1,Trzebiesławice Zachodnia,,50.431336,19.244871,/rozklady/przystanek/158466/,0
 184603,4,Podbuczyny Cmentarz,,50.409079,19.249957,/rozklady/przystanek/184603/,0
@@ -6491,54 +6533,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 183978,2,Trzebiesławice Glinianki,,50.433397,19.236786,/rozklady/przystanek/183978/,0
 158507,1,Ujejsce Szkoła,,50.401515,19.247274,/rozklady/przystanek/158507/,0
 160945,2,Podwarpie Bar,,50.427770,19.212128,/rozklady/przystanek/160945/,0
-158388,1,Sikorka Pętla,,50.386285,19.283110,/rozklady/przystanek/158388/,0
-158391,1,Sikorka Skład Opałowy,,50.385586,19.280448,/rozklady/przystanek/158391/,0
-158528,1,Ząbkowice Osiedle Młodych Hutników,,50.383253,19.247918,/rozklady/przystanek/158528/,0
 158541,3,Ząbkowice Stadion,,50.376171,19.260079,/rozklady/przystanek/158541/,0
 184664,1,Ujejsce Górka,,50.388055,19.242189,/rozklady/przystanek/184664/,0
 184672,1,Ząbkowice Kusocińskiego,,50.375317,19.249871,/rozklady/przystanek/184672/,0
-184676,1,Ząbkowice Rapackiego,,50.380294,19.265593,/rozklady/przystanek/184676/,0
-184680,1,Ząbkowice Wygiełzów,,50.382439,19.273549,/rozklady/przystanek/184680/,0
 160881,2,Karsów Autostrada,,50.409361,19.223200,/rozklady/przystanek/160881/,0
 160882,2,Karsów [nż],,50.410610,19.238842,/rozklady/przystanek/160882/,0
 160884,2,Karsów Spółdzielnia,,50.410446,19.230666,/rozklady/przystanek/160884/,0
-158473,2,Tucznawa Gilowa,,50.388007,19.305049,/rozklady/przystanek/158473/,0
-184620,2,Sikorka Pomłynie,,50.385075,19.283648,/rozklady/przystanek/184620/,0
-184622,2,Sikorka Wilgowa,,50.386646,19.287937,/rozklady/przystanek/184622/,0
-158386,2,Sikorka Dworzec PKP,,50.388308,19.297003,/rozklady/przystanek/158386/,0
-158392,2,Sikorka Skład Opałowy,,50.385606,19.280212,/rozklady/przystanek/158392/,0
-159814,2,Chruszczobród Dworcowa,,50.397822,19.329371,/rozklady/przystanek/159814/,0
-159840,2,Trzebyczka,,50.398739,19.351881,/rozklady/przystanek/159840/,0
-159841,1,Trzebyczka Pętla,,50.399122,19.357867,/rozklady/przystanek/159841/,0
-184677,2,Ząbkowice Rapackiego,,50.380541,19.265572,/rozklady/przystanek/184677/,0
-184681,2,Ząbkowice Wygiełzów,,50.382480,19.273367,/rozklady/przystanek/184681/,0
-158472,1,Tucznawa Gilowa,,50.387829,19.305232,/rozklady/przystanek/158472/,0
-184619,1,Sikorka Pomłynie,,50.384933,19.283425,/rozklady/przystanek/184619/,0
-184621,1,Sikorka Wilgowa,,50.386547,19.287931,/rozklady/przystanek/184621/,0
-158387,1,Sikorka Dworzec PKP,,50.388137,19.296938,/rozklady/przystanek/158387/,0
-159815,1,Chruszczobród Dworcowa,,50.396290,19.328170,/rozklady/przystanek/159815/,0
-159839,1,Trzebyczka,,50.398616,19.352192,/rozklady/przystanek/159839/,0
-161093,1,Dębowa Góra Lipowa,,50.268650,19.157045,/rozklady/przystanek/161093/,0
-177366,1,Dańdówka KSSE,,50.269237,19.184666,/rozklady/przystanek/177366/,0
-177394,1,Dańdówka Jedności Szkoła,,50.267892,19.181340,/rozklady/przystanek/177394/,0
-158228,2,Gołonóg Morcinka,,50.333319,19.211402,/rozklady/przystanek/158228/,0
-183832,4,Antoniów Skrzyżowanie,,50.375074,19.236391,/rozklady/przystanek/183832/,0
-158264,2,Kolonia Piekło Kostury,,50.368843,19.221375,/rozklady/przystanek/158264/,0
-158145,2,Antoniów Spacerowa,,50.372306,19.229851,/rozklady/przystanek/158145/,0
-184522,2,Antoniów Konstytucji,,50.379234,19.239222,/rozklady/przystanek/184522/,0
-158309,2,Łęknice Zakładowa [nż],,50.351033,19.216547,/rozklady/przystanek/158309/,0
-184557,2,Kolonia Piekło Pogoria III,,50.361421,19.210608,/rozklady/przystanek/184557/,0
-184559,2,Kolonia Piekło Przejazd Kolejowy,,50.363878,19.211681,/rozklady/przystanek/184559/,0
-158227,1,Gołonóg Morcinka,,50.333662,19.211541,/rozklady/przystanek/158227/,0
-158265,1,Kolonia Piekło Kostury,,50.368774,19.221740,/rozklady/przystanek/158265/,0
-158140,1,Antoniów Konstytucji,,50.379454,19.239771,/rozklady/przystanek/158140/,0
-158141,3,Antoniów Skrzyżowanie,,50.374294,19.236046,/rozklady/przystanek/158141/,0
-158144,1,Antoniów Spacerowa,,50.372306,19.230323,/rozklady/przystanek/158144/,0
-158310,1,Łęknice Zakładowa [nż],,50.351252,19.216826,/rozklady/przystanek/158310/,0
-184556,1,Kolonia Piekło Pogoria III,,50.362061,19.210678,/rozklady/przystanek/184556/,0
-184558,1,Kolonia Piekło Przejazd Kolejowy,,50.363782,19.211788,/rozklady/przystanek/184558/,0
-184610,1,Pogoria III Graniczna,,50.339206,19.199268,/rozklady/przystanek/184610/,0
-184611,1,Pogoria III Plaża,,50.343143,19.196403,/rozklady/przystanek/184611/,0
 161049,2,Sławków Wrocławska,,50.302464,19.375259,/rozklady/przystanek/161049/,0
 184628,2,Strzemieszyce DK 94,,50.306045,19.340180,/rozklady/przystanek/184628/,0
 158181,2,Dąbrowa Górnicza Limanowskiego,,50.330532,19.187257,/rozklady/przystanek/158181/,0
@@ -6750,18 +6750,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 159352,1,Ligota Dom Kultury [nż],,50.227908,18.974311,/rozklady/przystanek/159352/,0
 159355,1,Ligota Franciszkańska,,50.228004,18.970492,/rozklady/przystanek/159355/,0
 159149,3,Giszowiec Karolinki,,50.226741,19.056488,/rozklady/przystanek/159149/,0
-159114,2,Dąb Szkoła,,50.274318,18.999653,/rozklady/przystanek/159114/,0
-159383,1,Muchowiec Droga do Lotniska,,50.240890,19.024955,/rozklady/przystanek/159383/,0
-159387,1,Muchowiec Park,,50.234689,19.026078,/rozklady/przystanek/159387/,0
-184381,1,Michałkowice Wyzwolenia,,50.321046,19.011766,/rozklady/przystanek/184381/,0
-180684,1,Muchowiec Korty Pętla,,50.230207,19.026372,/rozklady/przystanek/180684/,0
-159455,1,Osiedle Paderewskiego Trzy Stawy,,50.243424,19.036179,/rozklady/przystanek/159455/,0
-159104,3,Dąb Kościół,,50.271259,18.996804,/rozklady/przystanek/159104/,0
-159113,1,Dąb Szkoła,,50.275127,19.000554,/rozklady/przystanek/159113/,0
-159382,2,Muchowiec Droga do Lotniska,,50.241030,19.025145,/rozklady/przystanek/159382/,0
-159386,2,Muchowiec Park,,50.235025,19.026346,/rozklady/przystanek/159386/,0
-184385,2,Michałkowice Towarowa [nż],,50.325211,19.011585,/rozklady/przystanek/184385/,0
-159456,2,Osiedle Paderewskiego Trzy Stawy,,50.241873,19.035256,/rozklady/przystanek/159456/,0
 159563,2,Szopienice Osiedlowa,,50.264793,19.104066,/rozklady/przystanek/159563/,0
 159577,2,Szopienice Szpital Geriatryczny,,50.265588,19.094625,/rozklady/przystanek/159577/,0
 159555,2,Szopienice Kocura [nż],,50.266274,19.088767,/rozklady/przystanek/159555/,0
@@ -6818,6 +6806,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 160505,2t,Godula Plac Niepodległości,,50.314435,18.886962,/rozklady/przystanek/160505/,0
 185076,32,Mikołów Św. Wojciecha,,50.168645,18.903592,/rozklady/przystanek/185076/,0
 185075,31,Mikołów Św. Wojciecha,,50.168645,18.903592,/rozklady/przystanek/185075/,0
+159456,2,Osiedle Paderewskiego Trzy Stawy,,50.241873,19.035256,/rozklady/przystanek/159456/,0
 185077,32,Mikołów Bpa Bandurskiego,,50.165223,18.900008,/rozklady/przystanek/185077/,0
 160135,3,Brzeziny Śląskie Skrzyżowanie,,50.344960,18.979863,/rozklady/przystanek/160135/,0
 183618,2B,Katowice Sądowa,,50.258747,19.010622,/rozklady/przystanek/183618/,0
@@ -6910,6 +6899,28 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type
 159639,2,Załęże Pośpiecha,,50.263086,19.005001,/rozklady/przystanek/159639/,0
 159098,1,Burowiec Szpital,,50.271054,19.085885,/rozklady/przystanek/159098/,0
 159055,1,Borki Korczaka,,50.278525,19.089876,/rozklady/przystanek/159055/,0
+159114,2,Dąb Szkoła,,50.274318,18.999653,/rozklady/przystanek/159114/,0
+159383,1,Muchowiec Droga do Lotniska,,50.240890,19.024955,/rozklady/przystanek/159383/,0
+159387,1,Muchowiec Park,,50.234689,19.026078,/rozklady/przystanek/159387/,0
+184381,1,Michałkowice Wyzwolenia,,50.321046,19.011766,/rozklady/przystanek/184381/,0
+180684,1,Muchowiec Korty Pętla,,50.230207,19.026372,/rozklady/przystanek/180684/,0
+159455,1,Osiedle Paderewskiego Trzy Stawy,,50.243424,19.036179,/rozklady/przystanek/159455/,0
+159104,3,Dąb Kościół,,50.271259,18.996804,/rozklady/przystanek/159104/,0
+159113,1,Dąb Szkoła,,50.275127,19.000554,/rozklady/przystanek/159113/,0
+159382,2,Muchowiec Droga do Lotniska,,50.241030,19.025145,/rozklady/przystanek/159382/,0
+159386,2,Muchowiec Park,,50.235025,19.026346,/rozklady/przystanek/159386/,0
+184385,2,Michałkowice Towarowa [nż],,50.325211,19.011585,/rozklady/przystanek/184385/,0
+15,32,Ujejsce Skrzyżowanie,,50.396186,19.241123,/rozklady/przystanek/15/,0
+185081,33,Ujejsce Skrzyżowanie,,50.395845,19.241368,/rozklady/przystanek/185081/,0
+185080,32,Kolonia Piekło Pogoria III,,50.361157,19.210930,/rozklady/przystanek/185080/,0
+157202,1,Będzin Szyb Ostatek [nż],,50.306735,19.144011,/rozklady/przystanek/157202/,0
+161437,2,Środula Estakada [nż],,50.298375,19.144772,/rozklady/przystanek/161437/,0
+161440,2,Środula Izba Wytrzeźwień [nż],,50.302692,19.145277,/rozklady/przystanek/161440/,0
+157157,1,Będzin Huta,,50.310577,19.140866,/rozklady/przystanek/157157/,0
+157203,2,Będzin Szyb Ostatek [nż],,50.307071,19.143989,/rozklady/przystanek/157203/,0
+161438,1,Środula Estakada [nż],,50.298361,19.144837,/rozklady/przystanek/161438/,0
+161439,1,Środula Izba Wytrzeźwień [nż],,50.302370,19.145352,/rozklady/przystanek/161439/,0
+157158,2,Będzin Huta,,50.310797,19.140780,/rozklady/przystanek/157158/,0
 157878,4,Chorzów Batory Rondo Gębały,,50.258976,18.937023,/rozklady/przystanek/157878/,0
 176447,2,Chorzów Batory Niedźwiedziniec Cmentarz,,50.259889,18.941100,/rozklady/przystanek/176447/,0
 176450,1,Chorzów Batory Park Logistyczny,,50.259141,18.944544,/rozklady/przystanek/176450/,0
