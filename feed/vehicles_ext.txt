@@ -1,0 +1,24 @@
+vehicle_class_id,vehicle_short_name,vehicle_long_name,low_floor
+2,"105N","",0
+4,"116Nd","tramwaj niskopodłogowy",1
+8,"M N","autobus niskopodłogowy o długości ok.8 metrów",1
+10," N","",0
+12,"B N","autobus niskopodłogowy o długości ok.12 metrów",1
+14,"C N","autobus niskopodłogowy o długości ok.18 metrów",1
+16,"A N","autobus niskopodłogowy o długości ok.11 metrów",1
+17,"MF AC","tramwaj niskopodłogowy",1
+18,"105HF","",0
+20,"2x105HF","",0
+21,"C N e","autobus niskopodłogowy o długości ok.18 metrów",1
+23,"2012N","tramwaj niskopodłogowy",1
+24,"Ptm","tramwaj niskopodłogowy",1
+27,"13N","",0
+30,"B N e","autobus niskopodłogowy o długości ok.12 metrów",1
+31,"TN","trolejbus niskopodłogowy o długości ok.12 metrów",1
+32,"MF10","tramwaj niskopodłogowy",1
+33,"MF11B","tramwaj niskopodłogowy",1
+34,"2017N","tramwaj niskopodłogowy",1
+35,"2020N","tramwaj niskopodłogowy",1
+36,"116Ndm","tramwaj niskopodłogowy",1
+37,"105Na","",0
+38,"2x105Na","",0

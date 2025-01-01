@@ -1,0 +1,10 @@
+stop_type_id,stop_attr_name
+1,"Na żądanie"
+2,"Standardowy"
+3,"Przystanek zadaszony"
+4,"Biletomat"
+5,"Przystanek techniczny"
+6,"Przystanek graniczny"
+7,"Przystanek tymczasowy"
+8,"Dworzec kolejowy"
+9,"Rowerowy"

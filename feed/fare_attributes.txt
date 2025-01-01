@@ -1,0 +1,7 @@
+fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
+20minutE,4.20,PLN,0,,1,1200
+20minutPap,4.60,PLN,0,,1,1200
+40minutE,5.20,PLN,0,,1,2400
+40minutPap,5.60,PLN,0,,1,2400
+90minutE,6.60,PLN,0,,1,5400
+90minutPap,7.00,PLN,0,,1,5400
