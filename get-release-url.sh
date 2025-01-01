@@ -4,10 +4,10 @@
 # get URL to download latest GTFS feed
 #
 
-RELEASE_URL=$(curl --connect-timeout 30 -s https://otwartedane.metropoliagzm.pl/dataset/86b5ce0c-daea-4b40-bc60-af2c80477d21.jsonld | \
+RELEASE_URL=$(curl --connect-timeout 30 -s https://otwartedane.metropoliagzm.pl/dataset/317435cc-0075-4d10-b8ef-6e9b0010e90a.jsonld | \
               jq ' ."@graph"[]."dcat:accessURL"."@id"'                                                                              | \
-              grep -F 'schedule_2'                                                                                                  | \
-              sed -e 's/^"//' -e 's/"$//' -e 's/^\(.*\)\(schedule.*\)$/\2 \1/'                                                      | \
+              grep -F 'schedule_ztm'                                                                                                | \
+              sed -e 's/^"//' -e 's/"$//' -e 's/^\(.*\)\(schedule_ztm.*\)$/\2 \1/'                                                  | \
               sort -r                                                                                                               | \
               head -1                                                                                                               | \
               sed -e 's/^\(.*\) \(http.*\)$/\2\1/')
