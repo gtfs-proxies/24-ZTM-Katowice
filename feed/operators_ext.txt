@@ -7,6 +7,7 @@ operator_id,operator_name,post_code,city,street,house_number,apartment_number,ni
 9,"Krzysztof Pawelec Usługi Transportowe","28-133","Pacanów","Biechów","93b","","6340004477","271057910","","105","https://rj.metropoliaztm.pl/operatorzy/"
 10,"P.P.U.H. Kłosok","44-240","Żory","Gajowa","62","","6420407852","271699033","","107","https://rj.metropoliaztm.pl/operatorzy/"
 11,"Przedsiębiorstwo Komunikacji Miejskiej, Metropolitalna Sp. z o.o. w Świerklańcu","42-622","Świerklaniec","Parkowa","3","","9542246280","271523831","","108","https://rj.metropoliaztm.pl/operatorzy/"
+15,"Transgór S.A.","41-404","Mysłowice","Fabryczna","7a","","6370002276","273435278","","131","https://rj.metropoliaztm.pl/operatorzy/"
 24,"Konsorcjum (S.J. LZ Apolinary Lazar, Marcin Lazar, PKS Południe Sp. z o.o.)","42-625","Zendek","Główna","155A","","6451964223","273313842","","159","https://rj.metropoliaztm.pl/operatorzy/"
 41,"Konsorcjum (METEOR Sp. z o.o., IREX-1 Sp. z o.o., Krzysztof Pawelec Usługi Transportowe)","41-605","Świętochłowice","Sądowa","24","","6321712374","273574933","","189","https://rj.metropoliaztm.pl/operatorzy/"
 44,"Przedsiębiorstwo Komunikacji Miejskiej Sp. z o.o. w Tychach","43-100","Tychy","Towarowa","1","","6460009023","","","283","https://rj.metropoliaztm.pl/operatorzy/"

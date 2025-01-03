@@ -1,2 +1,4 @@
 service_id,name
+1,"dni robocze szkolne - dni zajęć szkolnych zgodnie z kalendarzem MEN"
 2,"soboty niewakacyjne - "
+7,"święta i niedziele niehandlowe poza wakacjami - zgodnie z ustawą o ograniczeniu handlu"
