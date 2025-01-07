@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_contact_email,feed_version
-"GZM ZTM","https://otwartedane.metropoliagzm.pl/dataset/rozklady-jazdy-i-lokalizacja-przystankow-gtfs","pl","20250111","20250123","kancelaria@metropoliaztm.pl","schedule_ZTM_2025.01.03_3532_0135"
+"GZM ZTM","https://otwartedane.metropoliagzm.pl/dataset/rozklady-jazdy-i-lokalizacja-przystankow-gtfs","pl","20250113","20250127","kancelaria@metropoliaztm.pl","schedule_ZTM_2025.01.07_3563_0027"
