@@ -25,9 +25,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5385,"3",43,3,2,"","Sosnowiec","Wiejska",0
 1129,"1",38,3,2_3_4,"","Ruda Śląska","1 Maja",0
 1929,"1",17,3,2_3,"","Katowice","Gen. Waltera Jankego",0
-4014,"2",23,3,1,"","Mierzęcice","Wolności",0
 1348,"2",38,3,2_3,"","Ruda Śląska","Księdza Ludwika Tunkla",0
 1680,"1",41,3,1_3,"","Siemianowice Śląskie","Tarnogórska",0
+4014,"2",23,3,1,"","Mierzęcice","Wolności",0
 1737,"2",49,3,2_3,"","Zabrze","11 Listopada",0
 263,"2",14,3,2,"","Gliwice","Rolników",0
 1741,"1t",49,2,2,"","Zabrze","Tarnopolska",0
@@ -58,9 +58,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5015,"1",42,3,2,"","Siewierz","Młyńska",0
 4944,"1",42,3,1_3,"","Siewierz","Graniczna",0
 2338,"2t",43,2,2_3,"","Sosnowiec","3 Maja",0
+3839,"2",30,3,2_3,"","Ożarowice","Świerczewskiego",0
 3879,"1",30,3,2,"","Ożarowice","Przysieki",0
 6214,"2",46,3_3,2_3,"","Tychy","Nowa",0
-3839,"2",30,3,2_3,"","Ożarowice","Świerczewskiego",0
 6192,"02",46,3,2,"","Tychy","Powstańców",0
 5338,"1",26,3,1_3,"","Mysłowice","Laryska",0
 2316,"2",12,3,2_3,"","Dąbrowa Górnicza","Broniewskiego",0
@@ -113,12 +113,12 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4458,"3t",17,2,2,"","Katowice","Wiosny Ludów",0
 2252,"2",10,3,2_3_4,"","Czeladź","Nowopogońska",0
 1476,"1",52,3,1,"","Świerklaniec","Bytomska",0
-3875,"1",30,3,2,"","Ożarowice","Oparowa",0
 2120,"2",31,3,2,"","Piekary Śląskie","Kasztanowa",0
 5941,"2",58,3,2,"","Wielowieś","DW 901",0
 8709,"01",46,3,2,"","Tychy","Skowronków",0
 9856,"02",26,3,1,"","Mysłowice","Szabelnia",0
 6204,"2",46,3,2,"","Tychy","Borowa",0
+3875,"1",30,3,2,"","Ożarowice","Oparowa",0
 773,"2/Kato",49,3,2_3,"","Zabrze","Goethego",0
 7169,"2A",17,3,2_3_4,"","Katowice","Goeppert-Mayer",0
 4693,"1t",49,2,2_3,"","Zabrze","Wolności",0
@@ -148,10 +148,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 125,"1",8,3,2_3,"","Chorzów","Szpitalna",0
 1420,"1",7,3,2_3,"","Chełm Śląski","Chełmska",0
 9738,"02",17,3,2,"","Katowice","Skłodowskiej-Curie",0
-5984,"1",52,3,2,"","Świerklaniec","Główna",0
 8415,"2",21,3,2_3,"","Lędziny","Lipowa",0
-49,"2",52,3,1,"","Świerklaniec","Parkowa",0
 5055,"1",,,6,"","Chorzów","Szymały",0
+49,"2",52,3,1,"","Świerklaniec","Parkowa",0
 1042,"2",6,3,2_3,"","Będzin","Norberta Barlickiego",0
 1906,"1",52,3,2_3,"","Świerklaniec","Lasowicka",0
 4608,"2t",5,2,2_3,"","Bytom","Chorzowska",0
@@ -268,16 +267,16 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4289,"1t",53,2,2,"","Świętochłowice","Barlickiego",0
 2592,"1",43,3,2_3_4,"","Sosnowiec","Grota-Roweckiego",0
 200,"2",49,3,1,"","Zabrze","Kasprowicza",0
-4618,"2",5,3,2,"","Bytom","Chorzowska",0
 8575,"4",43,3,2,"","Sosnowiec","Główna",0
 3808,"1",49,3,1,"","Zabrze","Ofiar Katynia",0
 8612,"1",17,3,2,"","Katowice","Żurawia",0
 6513,"1",54,3,2,"","Łaziska Górne","Cieszyńska",0
+4618,"2",5,3,2,"","Bytom","Chorzowska",0
 5901,"2",57,3,2,"","Toszek","Sarnowska",0
 5612,"1",12,3,2,"","Dąbrowa Górnicza","Łaskowa",0
 5370,"2",17,3,2_3,"","Katowice","Konduktorska",0
-4846,"1",2,3,2,"","Sączów","Kościuszki",0
 2358,"1",43,3,2_3,"","Sosnowiec","Orla",0
+4846,"1",2,3,2,"","Sączów","Kościuszki",0
 4537,"1t",8,2,2_3,"","<Żadna>","",0
 404,"2",30,3,2_3,"","Ożarowice","Męczenników",0
 7397,"2",,,6,"","<Żadna>","",0
@@ -414,13 +413,13 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 6482,"2",54,3,2_3,"","Łaziska Górne","Wyrska",0
 4595,"2t",5,2,2_3,"","Bytom","Świętochłowicka",0
 10009,"1",6,3,2_3,"","Będzin","Pokoju",0
-7948,"2",51,3,2,"","Zbrosławice","Pyskowicka",0
 8795,"30/tech.",30,3,5,"","Ożarowice","Sportowa",0
+7948,"2",51,3,2,"","Zbrosławice","Pyskowicka",0
 6448,"2",24,3,2_3,"","Mikołów","Krakowska",0
 5195,"2",41,3,1,"","Siemianowice Śląskie","Chemiczna",0
 7285,"1",49,3,2_3,"","Zabrze","Matejki",0
-4156,"2",36,3,2,"","Pyskowice","Traugutta",0
 44,"1/Piek",52,3,2_3_4,"","Świerklaniec","Parkowa",0
+4156,"2",36,3,2,"","Pyskowice","Traugutta",0
 8040,"1",49,3,2,"","Zabrze","Aleja Jana Pawła II",0
 6201,"2",46,3,2,"","Tychy","Stoczniowców 70",0
 5682,"5/wy",31,3,2_4,"","Piekary Śląskie","Jana Pawła II",0
@@ -437,13 +436,13 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1574,"2",10,3,2_3,"","Czeladź","Legionów",0
 4295,"2",53,3,2,"","Świętochłowice","Łagiewnicka",0
 6502,"2",54,3,2_3,"","Łaziska Górne","Ogrodowa",0
-4603,"1",5,3,2,"","Bytom","Chorzowska",0
 248,"2",17,3,2_3,"","Katowice","Leopolda",0
 7108,"1",,,6,"","<Żadna>","",0
 3679,"2t",14,2,2,"","Gliwice","Chorzowska",0
 2085,"3",5,3,2_4,"","Bytom","Łokietka",0
 3309,"1",42,3,2_3,"","Wojkowice Kościelne","Dąbrowska",0
 3105,"2",12,3,2,"","Dąbrowa Górnicza","Ząbkowicka",0
+4603,"1",5,3,2,"","Bytom","Chorzowska",0
 8798,"1",48,3,2,"","Wyry","Pszczyńska",0
 5188,"1",48,3,2_3,"","Wyry","Pszczyńska",0
 2776,"4",5,3,2,"","Bytom","Suchogórska",0
@@ -457,9 +456,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 2939,"1",14,3,2_3,"","Gliwice","Strzelnicza",0
 8794,"01",17,3,2,"","Katowice","Radockiego",0
 5508,"2",14,3,2,"","Gliwice","Robotnicza",0
-3898,"2",30,3,2_3,"","Ożarowice","Dworcowa",0
 672,"1",49,3,2,"","Zabrze","Mikulczycka",0
 3618,"1",14,3,2_3,"","Gliwice","Juliusza Słowackiego",0
+3898,"2",30,3,2_3,"","Ożarowice","Dworcowa",0
 4982,"1",,,6,"","<Żadna>","",0
 1379,"2",12,3,2,"","Dąbrowa Górnicza","Jasna",0
 5047,"3t/wys",8,2,2,"","Chorzów","Armii Krajowej",0
@@ -490,10 +489,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 6022,"1",44,3,2,"","Smolnica","Wiejska",0
 7966,"2",56,3,2,"","Tworóg","Powstańców Śląskich",0
 1970,"1",28,3,2_3,"","Ornontowice","Orzeska",0
-8594,"2",60,3,2,"","Tarnowskie Góry","Opolska",0
 2570,"1",38,3,2,"","Ruda Śląska","Wiktora Bujoczka",0
 6286,"2",46,3,2_3,"","Tychy","Edukacji",0
 5279,"2",17,3,2_3,"","Katowice","Kijowska",0
+8594,"2",60,3,2,"","Tarnowskie Góry","Opolska",0
 4612,"1t",8,2,2_3,"","Chorzów","Katowicka",0
 29,"1",14,3,2_3,"","Gliwice","Toszecka",0
 3448,"1",21,3,2,"","Lędziny","Zakole",0
@@ -501,8 +500,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 8603,"1",60,3,2,"","Tarnowskie Góry","Andersa",0
 722,"2",13,3,1_3,"","Przyszowice","Gierałtowicka",0
 4734,"2t",49,2,2,"","Zabrze","Tarnopolska",0
-5734,"1",60,3,1,"","Tarnowskie Góry","Strzybnicka",0
 5353,"1",30,3,2_3,"","Ożarowice","Główna",0
+5734,"1",60,3,1,"","Tarnowskie Góry","Strzybnicka",0
 3097,"2",12,3,2_3,"","Dąbrowa Górnicza","Łaskowa",0
 4959,"1",12,3,2_3,"","Dąbrowa Górnicza","Zachodnia",0
 1535,"1",42,3,2_3,"","Siewierz","DK86",0
@@ -519,10 +518,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1593,"3",17,3,2_3,"","Katowice","Poleska",0
 5408,"3/Ligot",17,3,2_3_4,"","Katowice","Dworcowa",0
 951,"2",,,6,"","<Żadna>","",0
+6000,"1",,,6,"","<Żadna>","",0
 2913,"1",31,3,2_3,"","Piekary Śląskie","Wyszyńskiego",0
 9755,"1",18,3,2,"","Knurów","26 Stycznia",0
 2961,"1",17,3,2_3,"","Katowice","Bednorza",0
-6000,"1",,,6,"","<Żadna>","",0
 3559,"15/wys",5,3,2_4,"","Bytom","Plac Wolskiego",0
 4063,"1",6,3,2,"","Będzin","Julisza Słowackiego",0
 7075,"1",49,3,2_3,"","Zabrze","Goduli",0
@@ -568,13 +567,13 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3457,"2",17,3,2_3,"","Katowice","Gen. Grota-Roweckiego",0
 5436,"1",42,3,2,"","Wojkowice Kościelne","Przeczycka",0
 6386,"1",46,3,2_3,"","Tychy","Oświęcimska",0
-2614,"1",5,3,2,"","Bytom","Sandomierska",0
 3867,"3",30,3,2,"","Ożarowice","Tarnogórska",0
+2614,"1",5,3,2,"","Bytom","Sandomierska",0
 3704,"1",18,3,2_3,"","Knurów","Dworcowa",0
 3182,"1t",38,2,2_3,"","Ruda Śląska","Zabrzańska",0
-3844,"2",30,3,2_3,"","Ożarowice","Wolności",0
 3069,"1",6,3,2_3,"","Będzin","Pokoju",0
 902,"2",,,6,"","<Żadna>","",0
+3844,"2",30,3,2_3,"","Ożarowice","Wolności",0
 1816,"1",38,3,2,"","Ruda Śląska","Chorzowska",0
 3932,"2",18,3,2,"","Knurów","Zwycięstwa",0
 1541,"1",12,3,1_3,"","Dąbrowa Górnicza","Kuźniczka Nowa",0
@@ -608,8 +607,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 8592,"2t/tech",49,2,5,"Biskupice Bytomska [tech]","Zabrze","Bytomska",0
 1026,"2",12,3,2_3,"","Dąbrowa Górnicza","Sosnowiecka",0
 4844,"1",26,3,2,"","Mysłowice","Stadionowa",0
-865,"1",,,6,"","<Żadna>","",0
 6897,"1t",17,,5,"","Katowice","Aleja Wojciecha Korfantego",0
+865,"1",,,6,"","<Żadna>","",0
 8693,"1",86,3,2_3,"","Żory","Mikołowska",0
 3816,"1",5,3,2_3,"","Bytom","Grota-Roweckiego",0
 8654,"2",49,3,2,"","Zabrze","Szczecińska",0
@@ -619,10 +618,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1192,"2",17,3,2_3,"","Katowice","Chorzowska",0
 3650,"1",12,3,2_3,"","Dąbrowa Górnicza","Wojska Polskiego",0
 4722,"1t",49,2,2_3,"","Zabrze","3 Maja",0
-5391,"1",23,3,2,"","Mierzęcice","Jana Pawła II",0
 553,"2",31,3,2_3,"","Piekary Śląskie","Przyjaźni",0
 4725,"1t",49,2,2_3,"","Zabrze","Makoszowska",0
 8713,"01",46,3,2,"","Tychy","Powstańców",0
+5391,"1",23,3,2,"","Mierzęcice","Jana Pawła II",0
 584,"1t",43,2,2,"","Sosnowiec","Wojska Polskiego",0
 5631,"1",5,3,1,"","Bytom","Łagiewnicka",0
 3439,"2",42,3,2,"","Siewierz","Krakowska",0
@@ -662,8 +661,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 2923,"2",16,3,2_3,"","Jaworzno","Górnośląska",0
 4871,"2",53,3,2_3,"","Świętochłowice","Powstańców Śląskich",0
 8303,"32",26,3,2_7,"","Mysłowice","Bernarda Świerczyny",0
-5935,"2",36,3,2,"","Pyskowice","Poznańska",0
 3897,"2",30,3,2_3,"","Ożarowice","Główna",0
+5935,"2",36,3,2,"","Pyskowice","Poznańska",0
 5440,"2",17,3,1,"","Katowice","Pod Młynem",0
 1997,"1",43,,2,"","Sosnowiec","Długa",0
 5765,"2",56,3,2,"","Tworóg","Zamkowa",0
@@ -686,10 +685,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1161,"1",49,3,2_3,"","Zabrze","Jordana",0
 869,"1",,,6,"","<Żadna>","",0
 3119,"1",14,3,1,"","Gliwice","Rybnicka",0
+859,"1",,,6,"","<Żadna>","",0
 2636,"2",43,3,2_3,"","Sosnowiec","Narutowicza",0
 3714,"1",51,3,1,"","Zbrosławice","Księżoleśna",0
 1517,"2",47,3,2_3,"","Wojkowice","Plaka",0
-859,"1",,,6,"","<Żadna>","",0
 2555,"2",43,3,2_3,"","Sosnowiec","1 Maja",0
 6084,"1",26,3,2,"","Mysłowice","Jerzego Chromika",0
 973,"2",,,6,"","<Żadna>","",0
@@ -705,15 +704,15 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5098,"1",51,3,2,"","Zbrosławice","Wolności",0
 2800,"2",34,3,2_3,"","Strzyżowice","Belna",0
 4581,"1t",5,2,2_3,"","Bytom","Chrzanowskiego",0
-8708,"01",46,3,2,"","Tychy","Ziębia",0
 5535,"1",30,3,2,"","Ożarowice","Transportowa",0
+8708,"01",46,3,2,"","Tychy","Ziębia",0
 5394,"1",41,3,1,"","Siemianowice Śląskie","Chemiczna",0
 3716,"1",51,3,2,"","Zbrosławice","Wolności",0
 7980,"1",,,6,"","<Żadna>","",0
-4119,"2",23,3,2_3,"","Mierzęcice","Szcześniaka",0
 854,"2",,,6,"","<Żadna>","",0
 4242,"1",42,3,2_3,"","Siewierz","Przemysłowa",0
 590,"2t",43,2,2_3,"","Sosnowiec","Andersa",0
+4119,"2",23,3,2_3,"","Mierzęcice","Szcześniaka",0
 4033,"2",23,3,2_3,"","Mierzęcice","Dworska",0
 5615,"3",31,3,2,"","Piekary Śląskie","Bp. H. Bednorza",0
 3505,"2",26,3,2,"","Mysłowice","Obrzeżna Zachodnia ",0
@@ -753,8 +752,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 9026,"2",60,3,2,"","Tarnowskie Góry","Młodości",0
 3498,"1",14,3,2,"","Gliwice","Zygmunta Starego",0
 5708,"1",32,3,2_3,"","Kuźnia Nieborowska","Knurowska",0
-5961,"2",58,3,2,"","Wielowieś","Główna",0
 5315,"1",31,3,2_3,"","Piekary Śląskie","droga wewnętrzna",0
+5961,"2",58,3,2,"","Wielowieś","Główna",0
 1454,"2",6,3,2_3,"","Będzin","Hugona Kołłątaja",0
 1335,"1",49,3,2_3,"","Zabrze","Paderewskiego",0
 3639,"2",10,3,2_3,"","Czeladź","Dehnelów",0
@@ -767,8 +766,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 8956,"2",51,,1,"","Zbrosławice","Główna",0
 1132,"2",38,3,2_3,"","Ruda Śląska","Kochłowicka",0
 4936,"1",13,3,2,"","Chudów","Topolowa",0
-3841,"2",30,3,1_3,"","Ożarowice","Wolności",0
 8297,"4",18,3,1,"","Knurów","Jęczmnienna",0
+3841,"2",30,3,1_3,"","Ożarowice","Wolności",0
 614,"1",2,3,2,"","Bobrowniki","Dąbrowskiej",0
 3480,"1t",53,2,2,"","Świętochłowice","Śląska",0
 603,"2",49,3,2,"","Zabrze","Wolności",0
@@ -800,10 +799,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5417,"3/Bat",8,,2_3,"","Chorzów","Rynek",0
 2057,"1",14,3,2_3,"","Gliwice","Ignacego Paderewskiego ",0
 1457,"2",26,3,2_3,"","Mysłowice","Jurija Gagarina",0
+8756,"2/Ożar",52,3,2_3_4,"","Świerklaniec","Parkowa",0
 1963,"2",60,3,2,"","Tarnowskie Góry","Wiejska",0
 3191,"2",14,3,1_3,"","Gliwice","Pionierów",0
 4769,"1",24,3,2_3,"","Mikołów","Krakowska",0
-8756,"2/Ożar",52,3,2_3_4,"","Świerklaniec","Parkowa",0
 3688,"1",17,3,2_3,"","Katowice","Jagiellońska",0
 1194,"1t",12,2,2_3,"","Dąbrowa Górnicza","Sobieskiego",0
 5418,"2t/Kat",8,2,2_3,"","Chorzów","Rynek",0
@@ -835,10 +834,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4569,"1t",53,2,2_3,"","Świętochłowice","Katowicka",0
 3708,"2",51,3,1,"","Zbrosławice","Mickiewicza",0
 3153,"3",2,3,2,"","Twardowice","Wolności",0
-3865,"1",30,3,2_3,"","Ożarowice","Dworcowa",0
 4523,"1t",17,2,2,"","Katowice","Gliwicka",0
 6690,"3",1,3,2_3,"","Bieruń","Chemików",0
 1794,"1",17,3,1,"","Katowice","Bielska",0
+3865,"1",30,3,2_3,"","Ożarowice","Dworcowa",0
 8928,"3/tech",41,3,5,"","Siemianowice Śląskie","park Pszczelnik ",0
 3572,"1",60,3,2_3,"","Tarnowskie Góry","Wyszyńskiego",0
 3043,"2t",5,2,2,"","Bytom","Świętochłowicka",0
@@ -963,8 +962,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 7886,"2",56,3,2,"","Tworóg","Kaletańska",0
 2275,"1",17,3,2_3,"","Katowice","Radockiego",0
 6095,"3",42,3,2,"","<Żadna>","",0
-1837,"2",52,3,2_3,"","Świerklaniec","Główna",0
 3159,"2t",12,2,2_3,"","Dąbrowa Górnicza","aleja Piłsudskiego",0
+1837,"2",52,3,2_3,"","Świerklaniec","Główna",0
 3517,"2",15,3,2,"","Imielin","Brata Alberta",0
 1176,"3",21,3,2,"","Lędziny","Pokoju",0
 70,"1",47,3,2,"","Wojkowice","Piaski",0
@@ -1007,9 +1006,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1466,"1",26,3,2_3,"","Mysłowice","Kosztowska",0
 207,"2",49,3,2,"","Zabrze","Bytomska",0
 1384,"2",43,3,1_3,"","Sosnowiec","Kolonia Wągródka",0
+3918,"1",30,3,2_3,"","Ożarowice","Główna",0
 292,"1",17,3,2_3,"","Katowice","Tadeusza Kościuszki",0
 4540,"1t",8,2,2_3,"","Chorzów","Aleja Bojowników o Wolność i Demokrację",0
-3918,"1",30,3,2_3,"","Ożarowice","Główna",0
 7359,"2",12,3,2_3,"","Dąbrowa Górnicza","Droga 790",0
 4827,"2",13,3,2,"","Paniówki","Zabrska",0
 6118,"2",46,3,2_3,"","Tychy","Mikołowska",0
@@ -1020,8 +1019,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4727,"1t",49,2,2,"","Zabrze","Makoszowska",0
 2708,"3/Bog",17,3,2_3_4,"","Katowice","Sokolska",0
 3453,"2t",5,2,2,"","Bytom","Zabrzańska",0
-1990,"2",43,3,2_3_4,"","Sosnowiec","3 Maja",0
 2342,"1",2,3,1_3,"","Sączów","Sienkiewicza",0
+1990,"2",43,3,2_3_4,"","Sosnowiec","3 Maja",0
 3412,"4",43,3,2_3,"","Sosnowiec","Dworska",0
 4512,"1t",17,2,2_3_4,"","Katowice","Chorzowska",0
 1842,"1",5,3,2,"","Bytom","Nawrota",0
@@ -1032,11 +1031,11 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 609,"2",2,3,1_3,"","Dobieszowice","Mickiewicza",0
 2983,"2",26,3,2_3,"","Mysłowice","Mikołowska",0
 2352,"1t",43,2,2_3,"","Sosnowiec","Będzińska",0
-3286,"2",38,3,2_3,"","Ruda Śląska","1 Maja",0
-4328,"1",43,3,2_3,"","Sosnowiec","3 Maja",0
 5870,"4/Nakł",60,3,2_3_8,"","Tarnowskie Góry","Pokoju",0
-4785,"2",28,3,2_3,"","Ornontowice","Zwycięstwa",0
+3286,"2",38,3,2_3,"","Ruda Śląska","1 Maja",0
 40,"1",52,3,2,"","Świerklaniec","Główna",0
+4328,"1",43,3,2_3,"","Sosnowiec","3 Maja",0
+4785,"2",28,3,2_3,"","Ornontowice","Zwycięstwa",0
 1360,"2",38,3,2_3,"","Ruda Śląska","Marszałka Józefa Piłsudskiego",0
 3137,"2",12,3,2_3,"","Dąbrowa Górnicza","Gilowa",0
 8875,"2t",49,2,2,"","Zabrze","Zwrotnicza",0
@@ -1073,10 +1072,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3787,"1",60,3,2_3,"","Tarnowskie Góry","Okrężna",0
 234,"2",60,3,2_3,"","Tarnowskie Góry","Radzionkowska",0
 2506,"1",37,3,2_3,"","Radzionków","Szymały",0
+3882,"1",30,3,2,"","Ożarowice","Podłączna",0
 937,"2",,,6,"","<Żadna>","",0
 4288,"2t",53,2,2_3,"","Świętochłowice","Chorzowska",0
 1320,"2",7,3,2,"","Chełm Śląski","Śląska",0
-3882,"1",30,3,2,"","Ożarowice","Podłączna",0
 6409,"2",46,3,2,"","Tychy","Rymarska",0
 6001,"1",42,3,2,"","Podwarpie","S1",0
 1441,"2",17,3,2_3,"","Katowice","Boya-Żeleńskiego",0
@@ -1276,11 +1275,11 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 2401,"1",43,3,2_3,"","Sosnowiec","Kościelna",0
 1874,"1",43,3,2,"","Sosnowiec","Wojska Polskiego",0
 9086,"32",24,3,2,"","Mikołów","Przelotowa",0
-3869,"1",30,3,2,"","Ożarowice","Tarnogórska",0
 8461,"5",49,3,5,"","Zabrze","Plac Dworcowy",0
 2414,"2",41,3,2_3,"","Siemianowice Śląskie","Powstańców",0
 4766,"1",6,3,1_3,"","Będzin","Stefana Żeromskiego",0
 2846,"1",12,3,2_3,"","Dąbrowa Górnicza","Oddziału AK Ordona",0
+3869,"1",30,3,2,"","Ożarowice","Tarnogórska",0
 8055,"1",46,3,5,"","Tychy","Wyszyńskiego",0
 2827,"1",12,3,2_3,"","Dąbrowa Górnicza","Rodzinna",0
 2141,"1",43,3,2_3,"","Sosnowiec","Ostrogórska",0
@@ -1298,17 +1297,17 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5053,"1",,,6,"","Chorzów","Szymały",0
 1090,"2",14,3,2_3,"","Gliwice","Kozielska",0
 1017,"2",,,6,"","<Żadna>","",0
-3836,"2",30,3,2_3,"","Ożarowice","Zwycięstwa",0
 6893,"3t",43,2,2_3,"","Sosnowiec","3 Maja",0
 6827,"2",35,3,1,"","Pszczyna","Bieruńska",0
+3836,"2",30,3,2_3,"","Ożarowice","Zwycięstwa",0
 190,"1t",49,2,2,"","Zabrze","Bytomska",0
 1337,"1",14,3,2_3,"","Gliwice","Kochanowskiego",0
 1281,"2",49,3,2,"","Zabrze","Kasprowicza",0
 5069,"2",12,3,2_3,"","Dąbrowa Górnicza","Letnia",0
 988,"2",,,6,"","<Żadna>","",0
 909,"2",,,6,"","<Żadna>","",0
-8574,"3/tech",43,3,5,"","Sosnowiec","Armii Krajowej",0
 4843,"1",,,6,"","<Żadna>","",0
+8574,"3/tech",43,3,5,"","Sosnowiec","Armii Krajowej",0
 3951,"1",11,3,2_3,"","Stanowice","Wyzwolenia",0
 6740,"2",81,3,2,"","Oświęcim","Powstańców Śląskich",0
 3471,"1",51,3,2,"","Zbrosławice","Bytomska",0
@@ -1410,10 +1409,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1298,"1",38,3,2_3,"","Ruda Śląska","Zabrzańska",0
 3908,"1",23,3,2,"","Mierzęcice","Topolowa",0
 8530,"2",17,3,2,"","Katowice","Obroki",0
-3884,"1",30,3,2,"","Ożarowice","Podłączna",0
 3996,"3",1,3,2,"","Bieruń","Wawelska",0
 6083,"2",45,3,2,"","Sławków","Szerokotorowa",0
 715,"1",17,3,2_3,"","Katowice","Gawronów",0
+3884,"1",30,3,2,"","Ożarowice","Podłączna",0
 5495,"2",17,3,2,"","Katowice","Pstrągowa",0
 6879,"2t",17,2,2,"","Katowice","św. Jana",0
 703,"2",14,3,2_3,"","Gliwice","Bojkowska",0
@@ -1478,11 +1477,11 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 9022,"1",60,3,2,"","Tarnowskie Góry","Repecka",0
 8667,"1",60,3,2,"","Tarnowskie Góry","Mickiewicza",0
 4102,"1",16,3,2_3,"","Jaworzno","Jagiellońska",0
-7920,"1",30,3,2,"","Ożarowice","Maczka",0
 4545,"2t",17,2,2,"","Katowice","Tadeusza Kościuszki",0
 4572,"1t",5,2,2,"","Bytom","Moniuszki",0
 3091,"2",12,3,2_3,"","Dąbrowa Górnicza","Łazy Błędowskie",0
 468,"3",14,3,2_3,"","Gliwice","Toszecka",0
+7920,"1",30,3,2,"","Ożarowice","Maczka",0
 8672,"1",21,3,2,"","Lędziny","Zakole",0
 5438,"2",8,3,2,"","Chorzów","3 Maja",0
 3683,"1",17,3,2_3,"","Katowice","Sokolska",0
@@ -1493,12 +1492,12 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5926,"2",57,3,2_3,"","Toszek","Ujazdowska",0
 6093,"3",42,3,2,"","Siewierz","Karsów",0
 6479,"1",54,3,2_3,"","Łaziska Górne","Wyrska",0
-1718,"2",17,3,2_3_4,"","Katowice","Mikołowska",0
 3881,"2",30,3,2,"","Ożarowice","Przysieki",0
+1718,"2",17,3,2_3_4,"","Katowice","Mikołowska",0
 8465,"2",34,3,2,"","Gródków","Zwycięstwa",0
 3194,"1",42,3,2_3,"","<Żadna>","",0
-3866,"2",30,3,2_3,"","Ożarowice","Dworcowa",0
 1439,"2",17,3,2,"","Katowice","Armii Krajowej",0
+3866,"2",30,3,2_3,"","Ożarowice","Dworcowa",0
 7194,"2",26,3,2,"","Mysłowice","Wiosny Ludów",0
 6150,"01",46,3,2,"","Tychy","Gilów",0
 4392,"1t",6,2,2_3,"","Będzin","Małobądzka",0
@@ -1575,17 +1574,17 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3230,"1",17,3,2,"","Katowice","Bytkowska",0
 4364,"1t",12,2,2_3,"","Dąbrowa Górnicza","Sobieskiego",0
 9632,"1",34,,1,"","Psary","Brzękowice Dolne",0
-6919,"1",,,6,"","<Żadna>","",0
 6572,"1",24,3,2_3,"","Mikołów","Wolności",0
 8873,"3",12,3,2,"","Dąbrowa Górnicza","Obwodnica Śródmieścia",0
 3027,"2",8,3,2_3,"","Chorzów","Łagiewnicka",0
+6919,"1",,,6,"","<Żadna>","",0
 8638,"2",7,3,2,"","Chełm Śląski","Techników",0
 8000,"2",38,3,2,"","Ruda Śląska","Magazynowa",0
 1060,"2",34,3,2_3,"","Brzękowice Górne","Brzękowice Górne",0
 6294,"2",46,3_3,2_3,"","Tychy","Aleja Piłsudskiego",0
+1907,"2",52,3,2,"","Świerklaniec","Lasowicka",0
 8467,"2",46,3,2_3,"","Tychy","Aleja Bielska",0
 6496,"2",54,3,2_3_4,"","Łaziska Górne","Dworcowa",0
-1907,"2",52,3,2,"","Świerklaniec","Lasowicka",0
 1429,"2",17,3,2_3_4,"","Katowice","Aleja Wojciecha Korfantego",0
 24,"2",43,3,2_3,"","Sosnowiec","Północna",0
 5912,"3",57,3,2,"","Toszek","Wiejska",0
@@ -1731,10 +1730,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5756,"1",56,3,2,"","Tworóg","Potępska",0
 1625,"2",49,3,2,"","Zabrze","Wolności",0
 3604,"1",42,3,2,"","Siewierz","Bytomska",0
+4120,"1",23,3,1,"","Mierzęcice","Jana Pawła II",0
 4692,"2t",49,2,2,"","Zabrze","Bytomska",0
 1258,"1",47,3,1,"","Wojkowice","Jana III Sobieskiego",0
 1484,"2",31,3,1,"","Piekary Śląskie","Brynicka",0
-4120,"1",23,3,1,"","Mierzęcice","Jana Pawła II",0
 8949,"1",5,3,2,"","Bytom","Sokoła",0
 5632,"2",5,3,1,"","Bytom","Łagiewnicka",0
 5841,"1",58,3,2,"","Wielowieś","Wiejska",0
@@ -1767,9 +1766,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5579,"2",2,3,1,"","Wymysłów","Kościuszki",0
 830,"1",,,6,"","Chorzów","Lasowicka",0
 4352,"2t",12,2,2_3,"","Dąbrowa Górnicza","Kasprzaka",0
-4118,"1",23,3,2_3,"","Mierzęcice","Szcześniaka",0
 5233,"2",12,3,2,"","Dąbrowa Górnicza","Jasna",0
 1525,"1",14,3,2_3,"","Gliwice","Kujawska",0
+4118,"1",23,3,2_3,"","Mierzęcice","Szcześniaka",0
 3143,"2",15,3,2_3,"","Imielin","Turystyczna",0
 4670,"1",38,3,2_3,"","Ruda Śląska","Piastowska",0
 8221,"1",15,3,2_3_8,"","Imielin","Adamskiego",0
@@ -1839,17 +1838,17 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1650,"1",34,3,2_3,"","Malinowice","Szkolna",0
 5351,"1",18,3,1_3,"","Knurów","Lignozy",0
 3799,"2",22,3,2_3,"","Miasteczko Śląskie","Śląska",0
+4888,"1",,,6,"","<Żadna>","",0
 3461,"1t",17,2,2_3,"","Katowice","Gliwicka",0
 4386,"1t",10,2,2_3_4,"","Czeladź","Kombatantów",0
 5630,"1",5,3,2,"","Bytom","Świętych Cyryla i Metodego",0
-4888,"1",,,6,"","<Żadna>","",0
 4590,"2",5,3,1,"","Bytom","Łagiewnicka",0
 3008,"2/Szob",14,3,2_3,"","Gliwice","Mechaników",0
 4813,"2",17,3,2_3,"","Katowice","Rataja",0
+3531,"2",31,3,2_3,"","Piekary Śląskie","Bytomska",0
 6163,"8",46,3,2_4,"","Tychy","Generała Andersa",0
 740,"2",17,3,2_3,"","Katowice","Szopienicka",0
 6147,"02",46,3,2,"","Tychy","Krucza",0
-3531,"2",31,3,2_3,"","Piekary Śląskie","Bytomska",0
 3567,"9/Bobr",5,3,2_3_4_8,"","Bytom","Plac Wolskiego",0
 7880,"2",56,,1,"","Tworóg","Potępska",0
 5232,"1",12,3,2_3,"","Dąbrowa Górnicza","Jasna",0
@@ -1895,9 +1894,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5962,"1",58,3,2,"","Wielowieś","Główna",0
 9041,"1",5,3,2,"","Bytom","Pułaskiego",0
 4048,"1t",17,2,2_3,"","Katowice","1 Maja",0
+3989,"1",23,3,2_3,"","Mierzęcice","Wolności",0
 579,"1",43,3,1,"","Sosnowiec","Niwecka",0
 772,"1/Ruda",49,3,2_3,"","Zabrze","Goethego",0
-3989,"1",23,3,2_3,"","Mierzęcice","Wolności",0
 5598,"2",49,3,1,"","Zabrze","Ziemska",0
 4470,"3t/wyj",17,2,2,"","Katowice","1 Maja",0
 1262,"1",47,3,2_3,"","Wojkowice","Jana III Sobieskiego",0
@@ -1948,11 +1947,11 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1332,"2",49,3,2,"","Zabrze","Beskidzka",0
 9814,"2",55,3,2,"","Łazy","Grabowska",0
 6383,"1",46,3,2_3,"","Tychy","Oświęcimska",0
+3818,"2",31,3,2_3,"","Piekary Śląskie","Ziętka",0
 782,"2",34,3,2,"","Strzyżowice","Parkowa",0
 606,"2",49,3,2_3,"","Zabrze","de Gaulle'a",0
-3818,"2",31,3,2_3,"","Piekary Śląskie","Ziętka",0
-3903,"4",23,3,2,"","Mierzęcice","Topolowa",0
 5623,"3",30,3,2,"","Ożarowice","Kościuszki",0
+3903,"4",23,3,2,"","Mierzęcice","Topolowa",0
 1749,"1t",43,2,2,"","Sosnowiec","Baczyńskiego",0
 2548,"1",49,3,2_3,"","Zabrze","Budowlana",0
 6331,"1",46,3,2,"","Tychy","Gajowa",0
@@ -1977,8 +1976,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4797,"1",14,3,2_3,"","Gliwice","Antoniego Koroczka",0
 3278,"3",17,3,2_3,"","Katowice","Lwowska",0
 2886,"1",60,3,2,"","Tarnowskie Góry","Powstańców Warszawskich",0
-2912,"2",31,3,2_3,"","Piekary Śląskie","Ziętka",0
 5186,"2",48,3,2_3,"","Wyry","Główna",0
+2912,"2",31,3,2_3,"","Piekary Śląskie","Ziętka",0
 6652,"1",48,3,2,"","Wyry","Rybnicka",0
 6258,"1",46,3_3,2_3,"","Tychy","Wyszyńskiego",0
 9017,"01",26,3,2,"","Mysłowice","Kolejowa",0
@@ -2021,9 +2020,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 2325,"1",17,3,2_3,"","Katowice","Armii Krajowej",0
 6756,"3",81,3,2_3,"","Oświęcim","Powstańców Śląskich",0
 3697,"2",17,3,2_3_4,"","Katowice","Piotra Skargi",0
-4906,"2",23,3,2,"","Mierzęcice","Jana Pawła II",0
 4699,"1t/tech",14,2,5,"","Gliwice","Chorzowska",0
 2946,"2t",5,2,2,"","Bytom","Zabrzańska",0
+4906,"2",23,3,2,"","Mierzęcice","Jana Pawła II",0
 4866,"1",12,3,1_3,"","Dąbrowa Górnicza","Staszica",0
 3369,"2",12,3,2,"","Dąbrowa Górnicza","Świętego Antoniego",0
 7401,"1",32,3,1_3,"","Pilchowice","Gliwicka",0
@@ -2080,8 +2079,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5290,"4",8,3,2,"","Chorzów","Niedzwiedziniec",0
 4993,"1",26,3,1,"","Mysłowice","Wielka Skotnica",0
 3380,"1",12,3,2,"","Dąbrowa Górnicza","Szosowa",0
-4246,"1",42,3,2,"","Brudzowice","Przykościelna",0
 1901,"1",52,3,1,"","Świerklaniec","Lasowicka",0
+4246,"1",42,3,2,"","Brudzowice","Przykościelna",0
 6241,"1",46,3,2_3,"","Tychy","Edukacji",0
 3393,"2",43,3,2_3,"","Sosnowiec","Aleja Ignacego Paderewskiego",0
 6356,"2",46,3,2,"","Tychy","Kościelna",0
@@ -2100,12 +2099,12 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 7030,"1",39,,2,"","<Żadna>","",0
 2344,"3",2,3,1_3,"","Sączów","Ogrodowa",0
 5303,"1",6,3,2,"","Będzin","1 Maja",0
-5640,"1",30,3,2_3,"","Ożarowice","Mickiewicza",0
 3276,"1",17,3,2_3,"","Katowice","Krakowska",0
 6170,"3",46,3,2_3_4,"","Tychy","Dworcowa",0
 4659,"2t",5,2,2_3,"","Bytom","Zabrzańska",0
 1383,"1",43,3,1_3,"","Sosnowiec","Kolonia Wągródka",0
 6369,"1",46,3,2,"","Tychy","Długa",0
+5640,"1",30,3,2_3,"","Ożarowice","Mickiewicza",0
 5564,"1",43,3,2,"","Sosnowiec","Skwerowa",0
 5074,"1",17,3,2_3,"","Katowice","Stęślickiego",0
 3600,"1",8,3,2,"","Chorzów","Lompy",0
@@ -2144,18 +2143,19 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3832,"1",37,3,2,"","Radzionków","Sikorskiego",0
 2259,"2",17,3,2_3,"","Katowice","Armii Krajowej",0
 8022,"3/Gli",18,3,2_3,"","Knurów","Szpitalna",0
-5626,"4",30,3,2,"","Ożarowice","Kopernika",0
 7208,"1",17,3,1,"","Katowice","Zaopusta",0
 8821,"2",12,3,2,"","Dąbrowa Górnicza","Limanowskiego",0
+5626,"4",30,3,2,"","Ożarowice","Kopernika",0
 3718,"1",51,3,1,"","Zbrosławice","Reptowska",0
 9016,"01",26,3,2,"","Mysłowice","Kolejowa",0
 5568,"2",31,3,1,"","Piekary Śląskie","Sadowskiego",0
 1854,"2",17,3,2_3,"","Katowice","Szopienicka",0
+8118,"4/tech",8,3,5,"","Chorzów","Rynek",0
 5822,"1",58,3,2,"","Wielowieś","Główna",0
 6878,"1t",17,2,2,"","Katowice","św. Jana",0
 387,"2",41,3,2_3,"","Siemianowice Śląskie","Niepodległości",0
-2276,"1",17,3,2_3,"","Katowice","Tadeusza Kościuszki",0
 5536,"1",23,3,2,"Mierzęcice Ogródki Działkowe","Mierzęcice","Transportowa",0
+2276,"1",17,3,2_3,"","Katowice","Tadeusza Kościuszki",0
 446,"2",55,3,2,"","Łazy","Piaski",0
 4926,"1",12,3,1,"","Dąbrowa Górnicza","Rodzinna",0
 1954,"1",12,3,2_3,"","Dąbrowa Górnicza","Białej Przemszy",0
@@ -2229,8 +2229,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 6888,"2t",8,2,2,"","Chorzów","Wolności",0
 3345,"1",12,3,2_3,"","Chorzów","Gospodarcza",0
 6530,"2",24,3,2,"","Mikołów","Grudniowa",0
-2904,"1",31,3,2_3,"","Piekary Śląskie","Ziętka",0
 1686,"1",5,3,1_3,"","Bytom","Frenzla",0
+2904,"1",31,3,2_3,"","Piekary Śląskie","Ziętka",0
 8134,"2",46,3,1,"","Tychy","Rybna",0
 9111,"1",8,3,2,"","Chorzów","Śląska",0
 1993,"1",10,3,2_3,"","Czeladź","Borowa",0
@@ -2287,13 +2287,13 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5219,"1",,,6,"","<Żadna>","",0
 7028,"2",39,,1,"","<Żadna>","",0
 4473,"1t",17,2,2_3_4,"","Katowice","1 Maja",0
-7338,"1",,,6,"","<Żadna>","",0
+4849,"2",2,3,2_3,"","Sączów","Kościuszki",0
 630,"2",14,3,1,"","Gliwice","Knurowska",0
 5758,"1",56,3,2,"","Tworóg","Zamkowa",0
-4849,"2",2,3,2_3,"","Sączów","Kościuszki",0
 5813,"4",58,3,2,"","Wielowieś","Szafranka",0
 995,"1",,,6,"","<Żadna>","",0
 1251,"2",14,3,2_3,"","Gliwice","Toszecka",0
+7338,"1",,,6,"","<Żadna>","",0
 5149,"1",41,3,2_3,"","Siemianowice Śląskie","Niepodległości",0
 3955,"1",11,3,2_3,"","Przegędza","Leszczyńska",0
 1612,"1",14,3,2_3,"","Gliwice","Bojkowska",0
@@ -2405,9 +2405,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 422,"2",7,3,2_3,"","Chełm Śląski","Górnośląska",0
 5666,"1",55,3,2,"","Łazy","Dworcowa",0
 1207,"2t",49,2,2,"","Zabrze","3 Maja",0
+2140,"1",52,3,1_3,"","Świerklaniec","Ostrożnica",0
 3487,"2t",53,2,2_4,"","Świętochłowice","Śląska",0
 3355,"2",12,3,2_3,"","Dąbrowa Górnicza","Armii Krajowej",0
-2140,"1",52,3,1_3,"","Świerklaniec","Ostrożnica",0
 1471,"1",49,3,2_3,"","Zabrze","Franciszkańska",0
 1796,"1",17,3,1_3,"","Katowice","Bielska",0
 5179,"2",48,3,2,"","Wyry","Pszczyńska",0
@@ -2437,10 +2437,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 7360,"1",12,3,2_3,"","Dąbrowa Górnicza","Droga 790",0
 4070,"2",6,3,2,"","Będzin","Adama Mickiewicza",0
 4298,"2t",53,2,2_3,"","Świętochłowice","Bytomska",0
-3920,"1",23,3,2,"","Mierzęcice","Leśna",0
 4376,"1",6,3,2_3,"","Będzin","Gzichowska",0
 3375,"2",12,3,2_3,"","Dąbrowa Górnicza","aleja Zwycięstwa",0
 6297,"1",46,3,2,"","Tychy","Armii Krajowej",0
+3920,"1",23,3,2,"","Mierzęcice","Leśna",0
 6413,"2",46,3,2,"","Tychy","Jaroszowicka",0
 3775,"1",18,3,2_3,"","Knurów","26 Stycznia",0
 3614,"1",14,3,2_3,"","Gliwice","Juliusza Słowackiego",0
@@ -2460,9 +2460,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4804,"1",26,3,2_3,"","Mysłowice","Franciszka Kościelniaka",0
 1181,"2",21,3,2,"","Lędziny","Fredry",0
 7122,"1",26,3,2,"","Mysłowice","Polskiego Czerwonego Krzyża",0
-1905,"1",52,3,2_3,"","Świerklaniec","Lasowicka",0
 4714,"2t",49,2,2_3,"","Zabrze","Wolności",0
 1701,"2",5,3,2_3,"","Bytom","Stolarzowicka",0
+1905,"1",52,3,2_3,"","Świerklaniec","Lasowicka",0
 3981,"2",12,3,2_3,"","Dąbrowa Górnicza","Grynia",0
 5594,"2",38,3,2_3,"","Ruda Śląska","Kłodnicka",0
 1033,"2",6,3,1,"","Będzin","Boleradz",0
@@ -2504,8 +2504,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 8768,"1",36,3,2,"","Pyskowice","Nad Kanałem",0
 6869,"2t",8,2,2,"","Chorzów","Armii Krajowej",0
 7072,"3",49,3,2,"","Zabrze","Młodzieżowa",0
+5354,"2",30,3,2_3,"","Ożarowice","Główna",0
 4397,"1t",43,2,2,"","Sosnowiec","Baczyńskiego",0
-3871,"1",30,3,2,"","Ożarowice","Tarnogórska",0
 6512,"1",54,3,2_3,"","Łaziska Górne","Werkowskie Rondo",0
 6105,"1",8,3,2,"","Chorzów","DTŚ",0
 116,"1",18,3,2_3,"","Knurów","Niepodległości",0
@@ -2513,12 +2513,12 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5908,"2",57,3,2_3,"","Toszek","Wiejska",0
 8478,"2t",43,2,2_3,"","Sosnowiec","Białostocka",0
 5104,"1",12,3,2,"","Dąbrowa Górnicza","Zakawie",0
-5354,"2",30,3,2_3,"","Ożarowice","Główna",0
+3871,"1",30,3,2,"","Ożarowice","Tarnogórska",0
 2491,"2",8,3,2,"","Chorzów","Styczyńskiego",0
+45,"4/TGóry",52,3,2_3_4,"","Świerklaniec","Parkowa",0
 5234,"1",17,3,2_3,"","Katowice","Aleja Roździeńskiego",0
 3173,"1",12,3,2_3,"","Dąbrowa Górnicza","Ujejska",0
 5152,"2",41,3,2_3_4,"","Siemianowice Śląskie","Śląska",0
-45,"4/TGóry",52,3,2_3_4,"","Świerklaniec","Parkowa",0
 9744,"1",17,3,2,"","Katowice","Kopernika",0
 277,"1",51,3,2,"","Zbrosławice","Bytomska",0
 6075,"1",6,,1,"","Będzin","Kijowska",0
@@ -2614,17 +2614,17 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1269,"2",5,3,2_3_4,"","Bytom","Miechowicka",0
 1946,"1",12,3,2_3,"","Dąbrowa Górnicza","Białej Przemszy",0
 36,"2",51,3,2,"","Zbrosławice","Mikulczycka",0
-5994,"3",30,3,2,"","Ożarowice","Główna",0
 7898,"3",17,3,2,"","Katowice","Gospodarcza",0
 1550,"1",21,3,2,"","Lędziny","Lędzińska",0
+5994,"3",30,3,2,"","Ożarowice","Główna",0
 6020,"1",44,3,1,"","Smolnica","Kościelna",0
 5824,"2",58,3,2,"","Wielowieś","Główna",0
 1159,"1",49,3,2_3,"","Zabrze","Jordana",0
 974,"1",,,6,"","<Żadna>","",0
 3588,"1",51,3,2,"","Zbrosławice","Wolności",0
-5683,"1",52,3,1_3,"","Świerklaniec","Lasowicka",0
-2134,"2",60,3,2_3,"","Tarnowskie Góry","Bytomska",0
 2911,"1",31,3,2_3,"","Piekary Śląskie","Ziętka",0
+2134,"2",60,3,2_3,"","Tarnowskie Góry","Bytomska",0
+5683,"1",52,3,1_3,"","Świerklaniec","Lasowicka",0
 158,"2",14,3,2_3,"","Gliwice","Pszczyńska",0
 6524,"1",24,3,2_3,"","Mikołów","Grudniowa",0
 7317,"5",8,3,2_3,"","Chorzów","Kruszcowa",0
@@ -2722,20 +2722,21 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4073,"1",6,3,2,"","Będzin","Marii Konopnickiej",0
 3581,"2",49,3,2_3,"","Zabrze","de Gaulle'a",0
 5762,"2",56,3,2_3,"","Tworóg","Tarnogórska",0
-1633,"1",43,3,2,"","Sosnowiec","Krakowska",0
 4125,"1",23,3,2_3,"","Mierzęcice","Daleka",0
+1633,"1",43,3,2,"","Sosnowiec","Krakowska",0
 3164,"2",12,3,2_3,"","Dąbrowa Górnicza","Roździeńskiego",0
 9815,"1",55,3,2,"","Łazy","Dąbrowska",0
 4886,"2",17,3,2_3,"","Katowice","Ligocka",0
-6005,"1",31,3,2_3,"","Piekary Śląskie","Maczka",0
 1766,"2",26,3,2,"","Mysłowice","Bronisława Pukowca",0
 6728,"1",19,3,2_3,"","Kobiór","Przelotowa",0
+6005,"1",31,3,2_3,"","Piekary Śląskie","Maczka",0
 1571,"1",32,3,2,"","Leboszowice","Wiejska",0
 1228,"2",17,3,2_3,"","Katowice","Oswobodzenia",0
 2499,"1",37,3,2_3,"","Radzionków","św. Wojciecha",0
 905,"2",,,6,"","<Żadna>","",0
 7117,"2",26,3,1,"","Mysłowice","Polskiego Czerwonego Krzyża",0
 8703,"2",46,3_3,2_3,"","Tychy","Stoczniowców 70",0
+9711,"32",8,3,2_7,"","Chorzów","Katowicka",0
 314,"1",34,3,2_3,"","Brzękowice Dolne","Brzękowice Dolne",0
 4139,"1/Łab",36,3,2,"","Pyskowice","Czerwionka",0
 6422,"1",46,3,2,"","Tychy","Kościelna",0
@@ -2789,8 +2790,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5396,"1",41,3,1,"","Siemianowice Śląskie","Fabryczna",0
 8640,"4",21,3,2,"","Lędziny","Goławiecka",0
 6721,"14",1,3,2_3,"","Bieruń","Warszawska ",0
-3645,"2",12,3,2_3_8,"","Dąbrowa Górnicza","Kolejowa",0
 5625,"3",30,3,2,"","Ożarowice","Kopernika",0
+3645,"2",12,3,2_3_8,"","Dąbrowa Górnicza","Kolejowa",0
 2314,"2",7,3,2_3,"","Chełm Śląski","Odrodzenia",0
 6723,"1",1,3,2,"","Bieruń","Bijasowicka",0
 2029,"2",49,3,2,"","Zabrze","Bruno",0
@@ -2864,8 +2865,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 2421,"4",34,3,2,"","Preczów","Sosnowa",0
 1667,"1",22,3,2_3,"","Miasteczko Śląskie","Metalowa",0
 1722,"2",49,,2_3,"","Zabrze","Tarnopolska",0
-3990,"2",23,3,2_3,"","Mierzęcice","Wolności",0
 980,"1",,,6,"","<Żadna>","",0
+3990,"2",23,3,2_3,"","Mierzęcice","Wolności",0
 319,"2",34,3,1,"","Goląsza Biska","Goląsza Biska",0
 8567,"1",5,3,2,"","Bytom","Fałata",0
 5254,"1",17,3,2,"","Katowice","Ziołowa",0
@@ -3023,16 +3024,16 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 2565,"2t",5,2,2_3,"","Bytom","Chorzowska",0
 5248,"1",31,3,1,"","Piekary Śląskie","Roździeńskiego",0
 9010,"2t",53,2,2_3,"","<Żadna>","",0
-4098,"1",30,3,2_3,"","Ożarowice","Strąków",0
 6860,"1t",6,2,2,"","Będzin","Piastowska",0
 2408,"2",14,3,2_3,"","Gliwice","Portowa",0
 6596,"1",29,3,2,"","Orzesze","Św. Wawrzyńca",0
 5262,"2",43,3,2,"","Sosnowiec","Jedności",0
 4796,"2",14,3,2_3,"","Gliwice","Władysława Sikorskiego",0
 4337,"2",43,3,2,"","Sosnowiec","Staszica",0
+4098,"1",30,3,2_3,"","Ożarowice","Strąków",0
 5467,"2",6,3,1,"","Będzin","Wiejska",0
-5613,"2",2,3,1,"","Myszkowice","Wolności",0
 1573,"1",10,3,2_3,"","Czeladź","Legionów",0
+5613,"2",2,3,1,"","Myszkowice","Wolności",0
 192,"2t",49,2,2,"","Zabrze","Bytomska",0
 1331,"1",49,3,2_3,"","Zabrze","Beskidzka",0
 8826,"2",12,3,1,"","Dąbrowa Górnicza","Kościelna",0
@@ -3071,8 +3072,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5654,"1",5,3,2_3,"","Bytom","Zabrzańska",0
 1076,"2",34,3,1,"","Gródków","Pokoju",0
 5410,"1/Wito",17,3,2_3_4,"","Katowice","Dworcowa",0
-1668,"1",41,3,2_3,"","Siemianowice Śląskie","Kościelna",0
 7151,"1",60,3,2_3,"","Tarnowskie Góry","Obwodnica",0
+1668,"1",41,3,2_3,"","Siemianowice Śląskie","Kościelna",0
 1261,"2",47,3,2_3,"","Wojkowice","Jana III Sobieskiego",0
 6735,"1",86,3,2_3,"","Żory","Mikołowska",0
 5548,"2",47,3,2,"","Wojkowice","Połaniecka",0
@@ -3103,20 +3104,20 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 2727,"2",60,3,2,"","Tarnowskie Góry","Wyszyńskiego",0
 7977,"1",,,6,"","<Żadna>","",0
 4429,"2t",43,2,2,"","Sosnowiec","Batalionów Chłopskich",0
-1530,"2",12,3,2,"","Dąbrowa Górnicza","Żołnierska",0
 3895,"2",30,3,2_3,"","Ożarowice","Główna",0
+1530,"2",12,3,2,"","Dąbrowa Górnicza","Żołnierska",0
 4680,"4t",49,2,2,"","Zabrze","Bytomska",0
 586,"2t",43,2,2,"","Sosnowiec","Wojska Polskiego",0
 1925,"2",17,3,2_3,"","Katowice","Gen. Waltera Jankego",0
 3856,"2t",6,2,2_3,"","Będzin","Czeladzka",0
 3022,"1",6,3,1,"","Będzin","Niepiekło",0
 1083,"1",5,3,2_3,"","Bytom","Żołnierska",0
-4616,"1",5,3,2,"","Bytom","Chorzowska",0
 5886,"2",56,3,2,"","Tworóg","Bytomska",0
 5959,"2",58,3,2,"","Wielowieś","DW 907",0
 9642,"32",17,3,2_7,"","Katowice","Wrocławska",0
 7168,"2",56,3,2,"","Tworóg","Chrobrego",0
 3271,"1",32,3,2_3,"","Wilcza","Karola Miarki",0
+4616,"1",5,3,2,"","Bytom","Chorzowska",0
 1171,"1",21,3,2_3,"","Lędziny","Hołdunowska",0
 7215,"1",53,3,1,"","Świętochłowice","Dmowskiego",0
 2361,"1",43,3,2_3,"","Sosnowiec","Orla",0
@@ -3281,9 +3282,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3863,"1",30,3,2,"","Ożarowice","Dworcowa",0
 54,"1",32,3,2_3,"","Żernica","Górnicza",0
 2594,"1",43,3,2,"","Sosnowiec","Plonów",0
+5621,"4",30,3,2,"","Ożarowice","Tarnogórska",0
 1334,"2",49,3,2_3,"","Zabrze","Paderewskiego",0
 2467,"2",34,3,1_3,"","Psary","Malinowicka",0
-5621,"4",30,3,2,"","Ożarowice","Tarnogórska",0
 1626,"2t",49,2,2_3,"","Zabrze","Wolności",0
 3772,"1",14,3,1,"","Gliwice","Ceramików",0
 5795,"2",58,3,2,"","Wielowieś","Młyńska",0
@@ -3325,12 +3326,12 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5000,"2",24,3,2,"","Mikołów","Przelotowa",0
 5875,"2",60,3,2,"","Tarnowskie Góry","droga wewnętrzna",0
 3267,"1",32,3,2_3,"","Wilcza","Karola Miarki",0
+2744,"2",60,3,2,"","Tarnowskie Góry","Nakielska",0
 6122,"1",46,3,2_3,"","Tychy","Graniczna",0
 2450,"2",14,3,2_3_4,"","Gliwice","Przyszowska",0
 4530,"1",17,3,2_3,"","Katowice","Jana Pawła II",0
 3188,"2",41,3,2_3,"","Siemianowice Śląskie","Władysława Jagiełły",0
 5141,"2",17,3,1,"","Katowice","Obroki",0
-2744,"2",60,3,2,"","Tarnowskie Góry","Nakielska",0
 6438,"1",24,3,2,"","Mikołów","Cicha",0
 2103,"2",14,3,2_3,"","Gliwice","Szafirowa",0
 4602,"2t",5,2,2_3,"","Bytom","Chorzowska",0
@@ -3354,8 +3355,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5647,"2",23,3,1,"","Mierzęcice","Zawadzkiego",0
 6225,"2",46,3,2_3,"","Tychy","Jaśkowicka",0
 9082,"2t",12,2,2,"","Dąbrowa Górnicza","aleja Piłsudskiego",0
-761,"1",38,3,2_3_4,"","Ruda Śląska","Plac Niepodległości",0
 5641,"2",30,3,2_3,"","Ożarowice","Mickiewicza",0
+761,"1",38,3,2_3_4,"","Ruda Śląska","Plac Niepodległości",0
 6724,"4",1,3,2,"","Bieruń","Bijasowicka",0
 2530,"1",2,3,2_3,"","Rogoźnik","Kościuszki",0
 10032,"2",6,3,2_3,"","Będzin","Wojciecha Kilara",0
@@ -3374,15 +3375,15 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 9858,"2",43,3,2,"","Sosnowiec","Blachnickiego",0
 7073,"4/Wiesz",49,3,2_3,"","Zabrze","Ofiar Katynia",0
 122,"1",41,3,2_3,"","Siemianowice Śląskie","Zachodnia",0
-588,"1t",43,2,2_3,"","Sosnowiec","Andersa",0
 42,"2",52,3,2_3,"","Świerklaniec","Oświęcimska",0
+588,"1t",43,2,2_3,"","Sosnowiec","Andersa",0
 6858,"1",46,3,2,"","Tychy","Kościelna",0
 891,"2",,,6,"","<Żadna>","",0
 5453,"1",17,3,2_3,"","Katowice","Porcelanowa",0
 4388,"1t",6,2,2_3,"","Będzin","Małobądzka",0
-3922,"1",23,3,2_3,"","Mierzęcice","Kolejowa",0
 6952,"1",,,6,"","<Żadna>","",0
 1536,"2",42,3,2_3,"","Siewierz","DK86",0
+3922,"1",23,3,2_3,"","Mierzęcice","Kolejowa",0
 6875,"1t",5,3,2,"","Bytom","Katowicka",0
 7089,"2",8,3,2,"","Chorzów","Nowa",0
 5075,"1t",17,2,2,"","Katowice","Chorzowska",0
@@ -3405,12 +3406,12 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3634,"2",32,3,2_3,"","Pilchowice","Dworcowa",0
 1709,"2",5,3,2_3,"","Bytom","Frenzla",0
 6235,"1",46,3_3,2_3,"","Tychy","Żwakowska",0
+1236,"2",31,3,1_3,"","Piekary Śląskie","Jana Pawła II",0
 47,"2",52,3,2_3,"","Świerklaniec","Tarnogórska",0
 2262,"1",17,3,2_3,"","Katowice","Tadeusza Kościuszki",0
 3094,"3",7,3,2,"","Chełm Śląski","Techników",0
 4752,"2",14,3,2_3,"","Gliwice","Błogosławionego Czesława ",0
 9075,"1",60,,1,"","Tarnowskie Góry","Waliski",0
-1236,"2",31,3,1_3,"","Piekary Śląskie","Jana Pawła II",0
 4718,"2t",49,2,2,"","Zabrze","Lutra",0
 6965,"3",39,3,2,"","Rudno","Gliwicka",0
 7260,"2",17,3,2,"","Katowice","Storczyków",0
@@ -3432,14 +3433,14 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 2118,"2",31,3,2,"","Piekary Śląskie","Chopina",0
 61,"1",14,3,2_3,"","Gliwice","Tarnogórska",0
 149,"2",8,3,2_3,"","Chorzów","Batorego",0
-5103,"1",30,3,2_3,"","Ożarowice","Dworcowa",0
 4042,"2",12,3,2_3,"","Dąbrowa Górnicza","Morcinka",0
+5103,"1",30,3,2_3,"","Ożarowice","Dworcowa",0
 4745,"2",14,3,2_3,"","Gliwice","Jana Siemińskiego",0
 1302,"2",39,3,1,"","Kleszczów","Osiedleńcza",0
 336,"1",26,3,2,"","Mysłowice","Fabryczna",0
+2743,"1",60,3,2_3,"","Tarnowskie Góry","Nakielska",0
 6275,"1",46,3,2,"","Tychy","Targiela",0
 9843,"1",55,3,2_3,"","Łazy","Dąbrowska",0
-2743,"1",60,3,2_3,"","Tarnowskie Góry","Nakielska",0
 5996,"2",30,3,2,"","Ożarowice","Kolejowa",0
 3007,"1/Stref",14,3,2_3,"","Gliwice","Mechaników",0
 3270,"2",32,3,2,"","Wilcza","Karola Miarki",0
@@ -3551,10 +3552,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 6714,"12",1,3,2_3,"","Bieruń","Warszawska ",0
 5264,"2",43,3,2_3,"","Sosnowiec","Jedności",0
 2638,"1",43,3,2_3,"","Sosnowiec","Wawel",0
-5347,"1",30,3,2_3,"","Ożarowice","Męczenników",0
 2974,"1t",17,2,2,"","Katowice","Obrońców Westerplatte",0
 9100,"1",14,3,5,"","Gliwice","Biegusa",0
 2729,"2",60,3,2_3,"","Tarnowskie Góry","Pyskowicka",0
+5347,"1",30,3,2_3,"","Ożarowice","Męczenników",0
 4759,"1",45,3,2,"","Sławków","Krakowska",0
 3965,"1",38,3,2_3,"","Ruda Śląska","Karola Goduli",0
 1219,"1",17,3,2_3,"","Katowice","Leśnego Potoku",0
@@ -3570,16 +3571,16 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 2518,"1",60,3,2_3,"","Tarnowskie Góry","Gliwicka",0
 811,"2",12,3,2_3_4,"","Dąbrowa Górnicza","Wybickiego",0
 312,"2",26,3,2_3,"","Mysłowice","Generała Jerzego Ziętka",0
+1479,"3",31,3,2,"","Piekary Śląskie","Józefska",0
 1091,"1",49,3,2_3,"","Zabrze","Grunwaldzka",0
 1595,"2",17,3,2_3,"","Katowice","Medyków",0
 7102,"2",17,3,1,"","Katowice","Słonecznikowa",0
-3423,"4",43,3,2_3,"","Sosnowiec","Zaruskiego",0
 5810,"1",58,3,2,"","Wielowieś","Szkolna",0
+3423,"4",43,3,2_3,"","Sosnowiec","Zaruskiego",0
 5981,"2",22,3,2,"","Miasteczko Śląskie","Dworcowa",0
 6189,"1",46,3,2_3,"","Tychy","Zwierzyniecka",0
 5024,"3",42,3,2,"","<Żadna>","",0
 2658,"1",43,3,2_3,"","Sosnowiec","Sienkiewicza",0
-1479,"3",31,3,2,"","Piekary Śląskie","Józefska",0
 9031,"2",60,3,2,"","Tarnowskie Góry","Kopernika",0
 202,"5",49,3,2,"","Zabrze","Szybowa",0
 6890,"2t",8,2,2,"","Chorzów","Aleja Bojowników o Wolność i Demokrację",0
@@ -3589,15 +3590,15 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1699,"2",5,3,2,"","Bytom","Wolnego",0
 8172,"1",,,6,"","Chorzów","Logistyczna",0
 7962,"1",56,3,1,"","Tworóg","Pyskowicka",0
-7928,"2",30,3,2_3,"","Ożarowice","Wyzwolenia",0
 6760,"16",83,3,1,"","Bojszowy","Skromna",0
+7928,"2",30,3,2_3,"","Ożarowice","Wyzwolenia",0
 8305,"32",17,3,2_7,"","Katowice","Wiosny Ludów",0
 4863,"2",12,3,1_3,"","Dąbrowa Górnicza","Łazy Błędowskie",0
-1238,"2",31,3,2_3,"","Piekary Śląskie","Jana Pawła II",0
 8003,"3",,,6,"","<Żadna>","",0
 6210,"1",46,3_3,2_3,"","Tychy","Legionów Polskich",0
 7949,"2",51,3,1,"","Zbrosławice","Główna",0
 2762,"1",10,3,2_3,"","Czeladź","Stanisława Staszica",0
+1238,"2",31,3,2_3,"","Piekary Śląskie","Jana Pawła II",0
 2473,"3",34,3,2,"","Psary","Graniczna",0
 1410,"1",8,3,2_3,"","Chorzów","Kościuszki",0
 1246,"2",12,3,2,"","Dąbrowa Górnicza","Ludowa",0
@@ -3628,11 +3629,11 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3603,"1",5,3,2,"","Bytom","Matejki",0
 844,"1",,,6,"","<Żadna>","",0
 5498,"2",17,3,2,"","Katowice","Szarotek",0
-3885,"2",30,3,2_3,"","Ożarowice","Podłączna",0
 2874,"1",60,3,2_3,"","Tarnowskie Góry","Zagórska",0
 1870,"1",45,3,2,"","Sławków","Niwa",0
 3706,"2/Szcz",18,3,2_3,"","Knurów","Szpitalna",0
 8489,"2",12,3,2_3,"","Dąbrowa Górnicza","Zachodnia",0
+3885,"2",30,3,2_3,"","Ożarowice","Podłączna",0
 6355,"1",46,3,2_3,"","Tychy","Pogodna",0
 3089,"2",12,3,2_3,"","Dąbrowa Górnicza","Łazy Błędowskie",0
 1336,"2",49,3,2_3,"","Zabrze","Paderewskiego",0
@@ -3681,11 +3682,11 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1151,"2",38,3,2,"","Ruda Śląska","Józefa Poniatowskiego",0
 6155,"02",46,3,2,"","Tychy","Szpakowa",0
 3221,"1",26,3,2_3,"","Mysłowice","Jana Dzierżona",0
-2564,"2",5,3,2,"","Bytom","Chorzowska",0
 1968,"1",28,3,2_3,"","Ornontowice","Zwycięstwa",0
 457,"1",26,3,2_3,"","Mysłowice","Mikołowska",0
 1260,"1",47,3,2,"","Wojkowice","Jana III Sobieskiego",0
 6181,"1",46,3,2,"","Tychy","Karola Miarki",0
+2564,"2",5,3,2,"","Bytom","Chorzowska",0
 17,"1",43,3,1,"","Sosnowiec","Piotrkowska",0
 8103,"2",46,3,2_3,"","Tychy","Sadowa",0
 1502,"2",14,3,1_3,"","Gliwice","Królewskiej Tamy ",0
@@ -3738,9 +3739,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5928,"2",57,3,2,"","Toszek","Gliwicka",0
 5244,"3",17,3,2_3_4,"","Katowice","Plac Wolności",0
 2586,"2",38,3,2_3,"","Ruda Śląska","1 Maja",0
-3929,"2",23,3,2_3,"","Ożarowice","Wolności",0
 3779,"1",60,3,2_3,"","Tarnowskie Góry","Kościelna",0
 5815,"2",58,3,2,"","Wielowieś","Wiejska",0
+3929,"2",23,3,2_3,"","Ożarowice","Wolności",0
 86,"2",17,3,2,"","Katowice","Mieszka I",0
 755,"1",38,3,2_3,"","Ruda Śląska","Karola Goduli",0
 6727,"2",19,3,2_3,"","Kobiór","Kobiórska",0
@@ -3811,10 +3812,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3108,"1",12,3,2_3,"","Dąbrowa Górnicza","Łaskowa",0
 3512,"2",26,3,2_3,"","Mysłowice","3 Maja",0
 4497,"3",8,,2,"","<Żadna>","",0
-5649,"1",,,6,"","<Żadna>","",0
 6124,"1",46,3,2_3,"","Tychy","Murarska",0
 4484,"1t",17,2,2_3,"","Katowice","Warszawska",0
 5891,"2",57,3,2,"","Toszek","Kolejowa",0
+5649,"1",,,6,"","<Żadna>","",0
 453,"1",26,3,2,"","Mysłowice","Nowochrzanowska",0
 2365,"2t",43,2,2_3,"","Sosnowiec","Będzińska",0
 6796,"11",83,3,2_3,"","Bojszowy","Barwna",0
@@ -3893,8 +3894,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3613,"2",14,3,2_3,"","Gliwice","Księcia Józefa Poniatowskiego",0
 5844,"1",58,3,2,"","Wielowieś","Główna",0
 4427,"2t",43,2,2_3,"","Sosnowiec","Makuszyńskiego",0
-400,"1",14,3,2_3,"","Gliwice","Rybnicka",0
 1839,"2",60,3,2_3,"","Tarnowskie Góry","Nakielska",0
+400,"1",14,3,2_3,"","Gliwice","Rybnicka",0
 3099,"2",12,3,2_3,"","Dąbrowa Górnicza","Gołonoska",0
 118,"1",41,3,2_3,"","Siemianowice Śląskie","Henryka Krupanka",0
 6358,"2",46,3,2,"","Tychy","Kościelna",0
@@ -4149,10 +4150,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4065,"1",6,3,1,"","Będzin","Adama Mickiewicza",0
 8420,"31",17,3,2_4_7,"","Katowice","Bednorza",0
 5736,"5/tech",60,3,5,"","Tarnowskie Góry","Lotników",0
+5577,"5",2,3,2,"","Sączów","Kościuszki",0
 6618,"2",29,3,2_3,"","Orzesze","Pisarka",0
 2311,"2",49,3,2_3,"","Zabrze","Plac Teatralny",0
 1352,"2",38,3,2_3,"","Ruda Śląska","Oświęcimska",0
-5577,"5",2,3,2,"","Sączów","Kościuszki",0
 2510,"2t",12,2,2_3_4,"","Dąbrowa Górnicza","Królowej Jadwigi",0
 5304,"2",6,3,2,"","Kozłów","Marcina",0
 2015,"1t",49,2,2_3,"","Zabrze","Makoszowska",0
@@ -4207,9 +4208,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5497,"2",17,3,2,"","Katowice","Kamieńska",0
 8715,"2",46,3,2,"","Tychy","Pogodna",0
 6082,"2",17,3,2,"","Katowice","Owsiana",0
+7454,"7/wys",60,3,2_3_8,"","Tarnowskie Góry","Pokoju",0
 87,"1",17,3,2_3,"","Katowice","Tysiąclecia",0
 5847,"1",58,3,2,"","Wielowieś","Szkolna",0
-7454,"7/wys",60,3,2_3_8,"","Tarnowskie Góry","Pokoju",0
 3152,"2",2,3,2_3,"","Twardowice","Wolności",0
 608,"1",2,3,1,"","Dobieszowice","Mickiewicza",0
 3735,"2",51,3,1,"","Zbrosławice","Pyskowicka",0
@@ -4296,9 +4297,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1008,"2",,,6,"","<Żadna>","",0
 2798,"2",49,3,2_3,"","Zabrze","Struzika",0
 6665,"2",48,3,2,"","Wyry","Rybnicka",0
-3899,"1",30,3,2,"","Ożarowice","Dworcowa",0
 6695,"1",1,3,2_3,"","Bieruń","Warszawska ",0
 3033,"2t",5,2,2,"","Bytom","Świętochłowicka",0
+3899,"1",30,3,2,"","Ożarowice","Dworcowa",0
 5393,"2",41,3,1,"","Siemianowice Śląskie","Chemiczna",0
 8671,"1",46,3,5,"","Tychy","Gajowa",0
 278,"4",51,3,2,"","Zbrosławice","Gliwicka",0
@@ -4326,7 +4327,6 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 2247,"1",10,3,2_3,"","Czeladź","Wiejska",0
 4812,"1",17,3,2_3,"","Katowice","Rataja",0
 5986,"2",22,3,1,"","Miasteczko Śląskie","Starowiejska",0
-5645,"1",23,3,2_3,"","Mierzęcice","Zawadzkiego",0
 7964,"1",56,3,2,"","Tworóg","Powstańców Śląskich",0
 1399,"1t",12,2,2,"","Dąbrowa Górnicza","Sobieskiego",0
 4629,"2t",5,2,2_3,"","Bytom","Leśna",0
@@ -4337,10 +4337,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1761,"1",26,3,2,"","Mysłowice","Mikołaja Reja",0
 5688,"8",14,3,2,"","Gliwice","Jagiellońska",0
 10002,"2",6,3,2_3,"","Będzin","Wolności",0
+3854,"1",30,3,2_3,"","Ożarowice","Siedliska",0
 653,"3",10,3,2_3,"","Czeladź","Handlowa",0
 4892,"2",38,3,2_3,"","Ruda Śląska","Edmunda Kokota",0
 1945,"2",12,3,2,"","Dąbrowa Górnicza","Białej Przemszy",0
-3854,"1",30,3,2_3,"","Ożarowice","Siedliska",0
 205,"1",49,3,2,"","Zabrze","Bytomska",0
 3224,"2",26,3,2_3,"","Mysłowice","3 Maja",0
 1615,"2",8,3,2_3,"","Chorzów","Michałowicka",0
@@ -4432,8 +4432,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4893,"1",,,6,"","<Żadna>","",0
 2756,"2",14,3,1_3,"","Gliwice","Starogliwicka",0
 1994,"2",10,3,2_3,"","Czeladź","Borowa",0
-8179,"2",14,3,2_3,"","Gliwice","Usługowa",0
 3849,"3",23,3,2,"","Mierzęcice","Wojska Polskiego",0
+8179,"2",14,3,2_3,"","Gliwice","Usługowa",0
 3000,"2",12,3,2,"","Dąbrowa Górnicza","Łaskowa",0
 4578,"2t",5,2,2,"","Bytom","Piekarska",0
 2302,"1",49,3,2_3,"","Zabrze","Wolności",0
@@ -4529,11 +4529,11 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 762,"1t",38,2,2_3_4,"","Ruda Śląska","Karola Goduli",0
 5580,"1",2,3,1,"","Wymysłów","Kościuszki",0
 3424,"1",43,3,2_3,"","Sosnowiec","Braci Mieroszewskich",0
-658,"1",2,3,2,"","Sączów","Ogrodowa",0
 1926,"1",17,3,2_3,"","Katowice","Ziołowa",0
 2951,"1",5,3,1,"","Bytom","Frycza-Modrzewskiego",0
 3975,"2",17,3,2,"","Katowice","Ligocka",0
 3627,"2",60,3,2,"","Tarnowskie Góry","Mickiewicza",0
+658,"1",2,3,2,"","Sączów","Ogrodowa",0
 7410,"2",49,3,1,"","Zabrze","Dorotki",0
 2441,"2",13,3,1,"","Przyszowice","Makoszowska",0
 8906,"1",17,3,2,"","Katowice","Marzanny",0
@@ -4546,7 +4546,6 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 961,"2",,,6,"","<Żadna>","",0
 2611,"2",2,3,2_3,"","Sączów","Ogrodowa",0
 1561,"1",60,3,2_3,"","Tarnowskie Góry","Częstochowska",0
-4086,"1",31,3,1,"","Piekary Śląskie","Bytomska",0
 7416,"2",45,3,2_3,"","Sławków","Fabryczna",0
 9980,"2",57,3,2,"","Toszek","Wiejska",0
 335,"2",14,3,2_3,"","Gliwice","Kozielska",0
@@ -4555,6 +4554,7 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 2468,"1",34,3,1,"","Psary","Malinowicka",0
 3402,"3",43,3,2,"","Sosnowiec","Szymanowskiego",0
 1808,"2",24,3,2,"","Mikołów","Musioła",0
+4086,"1",31,3,1,"","Piekary Śląskie","Bytomska",0
 1407,"2",8,3,2_3,"","Chorzów","Rębaczy",0
 2558,"4",43,3,2_3,"","Sosnowiec","Mikołajczyka",0
 2745,"1",14,3,2,"","Gliwice","Kozielska",0
@@ -4576,11 +4576,11 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3374,"1",12,3,2,"","Dąbrowa Górnicza","aleja Zwycięstwa",0
 1824,"1",38,3,2_3,"","Ruda Śląska","Piotra Niedurnego",0
 742,"2",17,3,2_3,"","Katowice","Górniczego Stanu",0
-4055,"1",6,3,2,"","Będzin","Ludomira Różyckiego",0
 2905,"1",31,3,2_3_4,"","Piekary Śląskie","Bytomska",0
+4055,"1",6,3,2,"","Będzin","Ludomira Różyckiego",0
+43,"1",52,3,2,"","Świerklaniec","Oświęcimska",0
 1748,"1",43,3,2_3,"","Sosnowiec","Baczyńskiego",0
 3141,"2",12,3,2_3,"","Dąbrowa Górnicza","Idzikowskiego",0
-43,"1",52,3,2,"","Świerklaniec","Oświęcimska",0
 5278,"2",17,3,2_3,"","Katowice","Panewnicka",0
 3562,"4/Tarn",5,3,2_3_4_8,"","Bytom","Plac Wolskiego",0
 5239,"1",14,3,2_3,"","Gliwice","Jana Gutenberga",0
@@ -4607,8 +4607,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1043,"1",6,3,2_3,"","Będzin","Czeslawa Miłosza",0
 1496,"2",26,3,2,"","Mysłowice","Polskiego Czerwonego Krzyża",0
 3605,"2",42,3,2,"","Siewierz","Bytomska",0
-8593,"1",60,3,2,"","Tarnowskie Góry","Opolska",0
 3823,"1",51,,2,"","Zbrosławice","Mikulczycka",0
+8593,"1",60,3,2,"","Tarnowskie Góry","Opolska",0
 1881,"2t",43,2,2_4,"","Sosnowiec","Wojska Polskiego",0
 8006,"1",14,3,1,"","Gliwice","Toszecka",0
 2937,"1",14,3,2_3,"","Gliwice","Ignacego Paderewskiego ",0
@@ -4651,9 +4651,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 2980,"1",21,3,2_3,"","Lędziny","Lędzińska",0
 7121,"1",26,3,2,"","Mysłowice","Polskiego Czerwonego Krzyża",0
 1934,"2",14,3,1_3,"","Gliwice","Rybnicka",0
+3891,"2",30,3,1_3,"","Ożarowice","Główna",0
 2990,"1",47,3,2_3,"","Wojkowice","Jana III Sobieskiego",0
 4128,"1",36,3,2_3,"","Pyskowice","Szpitalna",0
-3891,"2",30,3,1_3,"","Ożarowice","Główna",0
 1890,"1",43,3,2,"","Sosnowiec","Szybowa",0
 6884,"2t",5,2,2,"","Bytom","Piekarska",0
 8902,"2",12,3,2,"","Dąbrowa Górnicza","Laski",0
@@ -4712,8 +4712,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 2957,"2",5,3,2_3,"","Bytom","Zabrzańska",0
 6017,"1",17,3,2_3,"","Katowice","Francuska",0
 8372,"1t",38,2,2,"","Ruda Śląska","Dworcowa",0
-796,"1",21,3,2,"","Lędziny","Goławiecka",0
 1898,"1",52,3,1,"","Świerklaniec","Lasowicka",0
+796,"1",21,3,2,"","Lędziny","Goławiecka",0
 2884,"1",60,3,2_3,"","Tarnowskie Góry","Zagórska",0
 1283,"1",17,3,2_3,"","Katowice","Katowicka",0
 4384,"1t",10,2,2_3,"","Czeladź","Grodziecka",0
@@ -4817,9 +4817,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 6589,"2",28,3,2,"","Ornontowice","Działkowa",0
 8204,"1",36,3,2,"","Pyskowice","Lokalna",0
 27,"1",43,3,2_3,"","Sosnowiec","Okrzei",0
-1980,"1",52,3,1_3,"","Świerklaniec","Radzionkowska",0
 9991,"1",6,3,1_3,"","Będzin","Stefana Żeromskiego",0
 5915,"1",57,3,2,"","Toszek","Dworcowa",0
+1980,"1",52,3,1_3,"","Świerklaniec","Radzionkowska",0
 8319,"1",43,3,2,"","Sosnowiec","Inwestycyjna",0
 3933,"1",11,3,2,"","Czerwionka-Leszczyny","Gliwicka",0
 8588,"3/tech",17,3,5,"","Katowice","Obroki",0
@@ -5041,10 +5041,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 401,"2",14,3,2_3,"","Gliwice","Rybnicka",0
 5608,"2",49,3,2_3,"","Zabrze","Skargi",0
 5263,"1",43,3,2,"","Sosnowiec","Jedności",0
-1840,"2",52,3,2_3,"","Świerklaniec","Główna",0
 2481,"1",51,3,2,"","Zbrosławice","Wyzwolenia",0
 355,"1",31,3,2_3,"","Piekary Śląskie","Oświęcimska",0
 983,"2",,,6,"","<Żadna>","",0
+1840,"2",52,3,2_3,"","Świerklaniec","Główna",0
 5634,"2",53,3,2,"","Świętochłowice","Sudecka",0
 8673,"2",43,3,2_3,"","Sosnowiec","Braci Mieroszewskich",0
 3293,"1",38,3,2_3,"","Ruda Śląska","1 Maja",0
@@ -5196,8 +5196,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1367,"1",38,3,2_3,"","Ruda Śląska","Wyzwolenia",0
 5663,"1",5,3,1,"","Bytom","Chorzowska",0
 3311,"1",42,3,1_3,"","Wojkowice Kościelne","Dąbrowska",0
-1900,"2",52,3,1,"","Świerklaniec","Lasowicka",0
 4934,"2t",17,2,2_3,"","Katowice","Tadeusza Kościuszki",0
+1900,"2",52,3,1,"","Świerklaniec","Lasowicka",0
 2239,"1",10,3,2_3,"","Czeladź","Nowopogońska",0
 8009,"2",,,6,"","<Żadna>","",0
 5888,"1",57,3,2_3,"","Toszek","Gliwicka",0
@@ -5249,10 +5249,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 6088,"1",45,3,2,"","Sławków","Miedawa",0
 8192,"2B",17,3,2_3_4,"","Katowice","Goeppert-Mayer",0
 8011,"2",,,6,"","<Żadna>","",0
-6632,"2",29,3,2,"","Orzesze","Żorska",0
-1563,"2",60,3,2_3,"","Tarnowskie Góry","Obwodnica",0
-8809,"1t",17,,2,"","<Żadna>","",0
 405,"1",30,3,2_3,"","Ożarowice","Męczenników",0
+6632,"2",29,3,2,"","Orzesze","Żorska",0
+8809,"1t",17,,2,"","<Żadna>","",0
+1563,"2",60,3,2_3,"","Tarnowskie Góry","Obwodnica",0
 3820,"2",51,3,2,"","Zbrosławice","Mikulczycka",0
 5807,"1",58,3,1,"","Wielowieś","Wiejska",0
 3014,"1",14,3,2,"","Gliwice","Partyzantów ",0
@@ -5279,15 +5279,15 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3106,"1",12,3,2,"","Dąbrowa Górnicza","Ząbkowicka",0
 6039,"2",44,3,2,"","Łany Wielkie","Łabędzka",0
 2733,"1",7,3,2_3,"","Chełm Śląski","Stacyjna",0
-2203,"1",12,3,2,"","Dąbrowa Górnicza","Robotnicza",0
 1982,"1",52,3,2_3,"","Świerklaniec","Bytomska",0
+2203,"1",12,3,2,"","Dąbrowa Górnicza","Robotnicza",0
 5023,"2",42,3,2_3,"","Wojkowice Kościelne","DK86",0
 5381,"3",43,3,2,"","Sosnowiec","Wiejska",0
 6171,"4",46,3,2_3_4,"","Tychy","Dworcowa",0
 6713,"8",1,3,2_3,"","Bieruń","Warszawska ",0
 5617,"1",30,3,1,"","Ożarowice","Tarnogórska",0
-5997,"1",30,3,2,"","Ożarowice","Kolejowa",0
 3987,"2",23,3,1,"","Mierzęcice","Wolności",0
+5997,"1",30,3,2,"","Ożarowice","Kolejowa",0
 6156,"01",46,3,2,"","Tychy","Krucza",0
 2353,"2",43,3,2_3,"","Sosnowiec","Będzińska",0
 8704,"1",46,3,2,"","Tychy","Oświęcimska",0
@@ -5320,8 +5320,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 6121,"1",46,3,2,"","Tychy","Wałowa",0
 78,"1",47,3,2,"","Wojkowice","Stara",0
 5197,"2",41,3,1,"","Siemianowice Śląskie","Chemiczna",0
-3852,"2",23,3,2_3,"","Mierzęcice","Osiedle",0
 589,"2",43,3,2_3,"","Sosnowiec","11 Listopada",0
+3852,"2",23,3,2_3,"","Mierzęcice","Osiedle",0
 6741,"5",81,3,2,"","Oświęcim","Więźniów Oświęcimia",0
 3310,"2",42,3,2,"","Wojkowice Kościelne","Dąbrowska",0
 6137,"02",46,3,2,"","Tychy","Drozdów",0
@@ -5351,8 +5351,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3083,"1",26,3,2,"","Mysłowice","Murckowska ",0
 9087,"31",24,3,2,"","Mikołów","Przelotowa",0
 7147,"1",24,3,2_3,"","Mikołów","Katowicka",0
-5446,"2",43,3,2,"","Sosnowiec","Aleja Mireckiego",0
 5576,"4",2,3,2_3,"","Sączów","Kościuszki",0
+5446,"2",43,3,2,"","Sosnowiec","Aleja Mireckiego",0
 1115,"1",38,3,1,"","Ruda Śląska","Kochłowicka",0
 613,"4",2,3,1,"","Dobieszowice","Wolności",0
 4672,"2",38,3,2,"","Ruda Śląska","Piastowska",0
@@ -5437,8 +5437,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 6548,"2",24,3,2,"","Mikołów","Reta",0
 1872,"1",43,3,2,"","Sosnowiec","Mikołajczyka",0
 6594,"1",29,3,2_3,"","Orzesze","Mikołowska",0
-5694,"1",30,3,1,"","Ożarowice","Główna",0
 2752,"2",14,3,2_3,"","Gliwice","Kozielska",0
+5694,"1",30,3,1,"","Ożarowice","Główna",0
 3997,"1",1,3,2_3,"","Bieruń","Wawelska",0
 3354,"1",12,3,2_3,"","Dąbrowa Górnicza","Armii Krajowej",0
 4137,"1",14,3,1,"","Gliwice","Jagodowa",0
@@ -5489,16 +5489,16 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4824,"3",13,,2,"","<Żadna>","",0
 719,"1",49,3,2_3,"","Zabrze","Gdańska",0
 6251,"1",46,3_3,2_3,"","Tychy","Generała Sikorskiego",0
+3853,"1",23,3,2_3,"","Mierzęcice","Osiedle",0
 5565,"2",49,3,1,"","Zabrze","Bytomska",0
 1716,"2",17,3,2_3_4,"","Katowice","Mikołowska",0
 3944,"2",11,3,2,"","Czerwionka-Leszczyny","Furgoła",0
-3853,"1",23,3,2_3,"","Mierzęcice","Osiedle",0
 1307,"1",43,3,2_3,"","Sosnowiec","Hubala-Dobrzańskiego",0
 1516,"1",47,3,2,"","Wojkowice","Plaka",0
-4117,"2",23,3,2_3,"","Mierzęcice","21 Stycznia",0
 500,"1",34,3,2,"","Dąbie","Kościelna",0
 4166,"2",26,3,2_3,"","Mysłowice","Franciszka Kościelniaka",0
 5549,"2",47,3,2,"","Wojkowice","Maszyńsko",0
+4117,"2",23,3,2_3,"","Mierzęcice","21 Stycznia",0
 2270,"1",17,3,2_3,"","Katowice","Barcelońska",0
 2579,"4",38,3,2_3_4,"","Ruda Śląska","Wolności",0
 4842,"1",28,3,2_3,"","Ornontowice","Zamkowa",0
@@ -5550,8 +5550,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1622,"2",8,3,2_3,"","Chorzów","Glówna",0
 2757,"1",38,3,2,"","Ruda Śląska","Starowiejska",0
 2305,"2t",49,2,2_3,"","Zabrze","Wolności",0
-4558,"1t",17,2,2_3,"","Katowice","Tadeusza Kościuszki",0
 3739,"2",60,3,1_3,"","Tarnowskie Góry","Wiśniowa",0
+4558,"1t",17,2,2_3,"","Katowice","Tadeusza Kościuszki",0
 7337,"1",,,6,"","<Żadna>","",0
 4907,"1",12,3,2_3,"","Dąbrowa Górnicza","Koksownicza",0
 7961,"2",56,3,1,"","Tworóg","Pyskowicka",0
@@ -5589,18 +5589,18 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 7369,"1",41,3,1,"","Siemianowice Śląskie","Fabryczna",0
 1087,"2",5,3,2_3,"","Bytom","Żołnierska",0
 7199,"1",43,3,2_3,"","Sosnowiec","Zuzanny",0
+3874,"2",30,3,2,"","Ożarowice","Oparowa",0
 2585,"1",38,3,2_3,"","Ruda Śląska","1 Maja",0
 8119,"2",17,3,2_3,"","Katowice","Pętla Brynowska",0
-663,"2",5,3,2,"","Bytom","Witczaka",0
 1096,"2",49,3,2_3,"","Zabrze","Witosa",0
 1423,"1",17,3,2_3,"","Katowice","Kopernika",0
-3874,"2",30,3,2,"","Ożarowice","Oparowa",0
+663,"2",5,3,2,"","Bytom","Witczaka",0
 1912,"1",15,3,2_3,"","Imielin","Brata Alberta",0
 6359,"2",46,3,2,"","Tychy","Jaroszowicka",0
 2032,"1",17,3,2_3,"","Katowice","Wrocławska",0
 484,"2t",17,2,2_3,"","Katowice","Chorzowska",0
-9752,"2",8,3,2_3,"","Chorzów","Katowicka",0
 6379,"1",46,3,2,"","Tychy","Goździków",0
+9752,"2",8,3,2_3,"","Chorzów","Katowicka",0
 2917,"2",51,3,2,"","Zbrosławice","Tarnogórska",0
 265,"2",14,3,2,"","Gliwice","Rolników",0
 627,"4",51,3,1,"","Zbrosławice","Mikulczycka",0
@@ -5637,9 +5637,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1380,"1",60,3,2_3,"","Tarnowskie Góry","Gliwicka",0
 2880,"2",60,3,2_3,"","Tarnowskie Góry","Zagórska",0
 5644,"1",34,3,2,"","Góra Siewierska","Tadeusza Kościuszki",0
-5684,"2",52,3,1_3,"","Świerklaniec","Lasowicka",0
 431,"2",8,3,2_3,"","Chorzów","Legnicka",0
 3661,"2",6,3,2_3,"","Będzin","Małobądzka",0
+5684,"2",52,3,1_3,"","Świerklaniec","Lasowicka",0
 3084,"2",26,3,2,"","Mysłowice","Murckowska ",0
 2313,"1",7,3,2,"","Chełm Śląski","Odrodzenia",0
 8379,"2",49,3,2,"","Zabrze","Zwrotnicza",0
@@ -5692,9 +5692,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4962,"1",42,3,2,"","Siewierz","Jeziorna",0
 3307,"1",42,3,2_3,"","Wojkowice Kościelne","Dąbrowska",0
 5945,"1",58,,2,"","Chorzów","Wiejska",0
-4011,"1",23,3,2_3,"","Mierzęcice","Widokowa",0
 6564,"1",24,3,2,"","Mikołów","Staromiejska",0
 4003,"2",23,3,2,"","Mierzęcice","Dąbrowska",0
+4011,"1",23,3,2_3,"","Mierzęcice","Widokowa",0
 558,"1",43,3,2_3,"","Sosnowiec","Andersa",0
 2336,"1t",43,2,2_3,"","Sosnowiec","3 Maja",0
 3778,"2",18,3,2_3,"","Knurów","Szpitalna",0
@@ -5728,8 +5728,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 9013,"01",26,3,2,"","Mysłowice","Kolejowa",0
 1976,"1",28,3,2_3,"","Ornontowice","Dworcowa",0
 2694,"2",14,3,2_3,"","Gliwice","Władysława Sikorskiego",0
-987,"1",,,6,"","<Żadna>","",0
 858,"1",,,6,"","<Żadna>","",0
+987,"1",,,6,"","<Żadna>","",0
 266,"1",14,3,2_3,"","Gliwice","Knurowska",0
 883,"1",,,6,"","<Żadna>","",0
 741,"1",17,3,2_3,"","Katowice","Przyjazna",0
@@ -5770,12 +5770,12 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3154,"1",12,3,1_3,"","Dąbrowa Górnicza","aleja Piłsudskiego",0
 5660,"1",38,3,2_3,"","Ruda Śląska","Królowej Jadwigi",0
 5137,"2",26,3,2,"","Mysłowice","Plebiscytowa",0
+2139,"2",52,3,1_3,"","Świerklaniec","Ostrożnica",0
 2909,"1",31,3,2_3,"","Piekary Śląskie","Bytomska",0
 5764,"3",56,3,2,"","Tworóg","Świniowicka",0
 3632,"1",10,3,2_3,"","Czeladź","Nowopogońska",0
 1944,"1",12,3,2_3,"","Dąbrowa Górnicza","Białej Przemszy",0
 6560,"1",24,3,2,"","Mikołów","Księdza Franciszka Górka",0
-2139,"2",52,3,1_3,"","Świerklaniec","Ostrożnica",0
 3583,"2",49,3,2_3,"","Zabrze","Roosevelta",0
 6279,"2",46,3,2,"","Tychy","Wejchertów",0
 3172,"2",12,3,2,"","Dąbrowa Górnicza","Broniewskiego",0
@@ -5848,10 +5848,10 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4027,"1",23,3,2,"","Mierzęcice","Kościelna",0
 8498,"2",23,3,5,"","Mierzęcice","Dąbrowska",0
 5087,"2",46,3,2_3,"","Tychy","Katowicka",0
-3886,"2",30,3,2,"","Ożarowice","Podłączna",0
 6056,"1",14,3,2_3,"","Gliwice","Aleja Jana Nowaka-Jeziorańskiego",0
 1867,"2",45,3,1,"","Sławków","Hrubieszowska",0
 4233,"2",42,3,1_3,"","Dziewki","Podgródkowa",0
+3886,"2",30,3,2,"","Ożarowice","Podłączna",0
 2609,"2",15,3,2_3,"","Imielin","Imielińska",0
 1853,"1",17,3,2_3,"","Katowice","Szopienicka",0
 1681,"1",41,3,2_3,"","Siemianowice Śląskie","Bytomska",0
@@ -5914,9 +5914,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1276,"1",42,3,2,"","Siewierz","Karsów",0
 3139,"2",12,3,2_3,"","Dąbrowa Górnicza","Łazowska",0
 1581,"1",17,3,2,"","Katowice","Kolejowa",0
+1475,"2",52,3,1,"","Świerklaniec","Bytomska",0
 4107,"1",23,3,1,"","Mierzęcice","21 Stycznia",0
 682,"2",12,3,2,"","Dąbrowa Górnicza","Furmana",0
-1475,"2",52,3,1,"","Świerklaniec","Bytomska",0
 2575,"1t",38,2,2_4,"","Ruda Śląska","Zabrzańska",0
 2741,"1",41,3,1,"","Siemianowice Śląskie","Stara Szosa",0
 7974,"3/tech",17,3,5,"","Katowice","Goetla",0
@@ -5994,18 +5994,18 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3455,"2",17,3,2_3,"","Katowice","Gen. Grota-Roweckiego",0
 3649,"2",12,3,2_3,"","Dąbrowa Górnicza","Łącząca",0
 4401,"2t",43,2,2_3,"","Sosnowiec","Baczyńskiego",0
+3889,"2",30,3,2,"","Ożarowice","Dworcowa",0
+3906,"1",23,3,2,"","Mierzęcice","Zawadzkiego",0
 6242,"2",46,3_3,2_3,"","Tychy","Generała Grota-Roweckiego",0
 1964,"1",14,3,2_3,"","Gliwice","Nowy Świat",0
 8025,"1",,,6,"","<Żadna>","",0
 7203,"1",17,3,2,"","Katowice","Tadeusza Kościuszki",0
-3906,"1",23,3,2,"","Mierzęcice","Zawadzkiego",0
 3769,"2",23,3,1,"","Mierzęcice","Cicha",0
-3889,"2",30,3,2,"","Ożarowice","Dworcowa",0
 4332,"1t",43,2,2,"","Sosnowiec","Staszica",0
 6743,"6",81,3,2_3,"","Oświęcim","Obozowa",0
+3892,"1",30,3,2,"","Ożarowice","Główna",0
 2760,"1",12,3,2_3,"","Dąbrowa Górnicza","Staszica",0
 5521,"4",13,3,1,"","Przyszowice","Powstańców Śląskich",0
-3892,"1",30,3,2,"","Ożarowice","Główna",0
 5614,"4",31,3,2,"","Piekary Śląskie","Bp. H. Bednorza",0
 932,"1",,,6,"","<Żadna>","",0
 7193,"2",26,3,2,"","Mysłowice","Marii Konopnickiej",0
@@ -6079,8 +6079,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3438,"1",42,3,2,"","Siewierz","Krakowska",0
 370,"2",17,3,2,"","Katowice","Korczaka",0
 3429,"3",43,3,2_3,"","Sosnowiec","Lenartowicza",0
-3842,"1",30,3,1,"","Ożarowice","Wolności",0
 4499,"2",8,3,2_3,"","Chorzów","Kościuszki",0
+3842,"1",30,3,1,"","Ożarowice","Wolności",0
 950,"1",,,6,"","<Żadna>","",0
 2512,"2",5,3,2_3,"","Bytom","Dworska",0
 8289,"5/proj.",30,3,2,"","Ożarowice","bez nazwy",0
@@ -6146,8 +6146,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4500,"1t",8,2,2_3,"","Chorzów","Wolności",0
 9014,"02",26,3,2,"","Mysłowice","Kolejowa",0
 3698,"3",17,3,2_3_4,"","Katowice","Piotra Skargi",0
-3738,"1",60,3,1,"","Tarnowskie Góry","Wiśniowa",0
 5924,"1",57,3,2_3,"","Toszek","Gliwicka",0
+3738,"1",60,3,1,"","Tarnowskie Góry","Wiśniowa",0
 10004,"2",6,3,2_3,"","Będzin","Piastowska",0
 665,"2",31,3,1,"","Piekary Śląskie","Sadowskiego",0
 6193,"01",46,3,2,"","Tychy","Powstańców",0
@@ -6182,9 +6182,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4138,"2",14,3,1,"","Gliwice","Jagodowa",0
 5426,"2",12,3,2,"","Dąbrowa Górnicza","Kuźniczka Nowa",0
 8601,"1",60,3,2,"","Tarnowskie Góry","Czarnohucka",0
+1978,"2",52,3,2_3,"","Świerklaniec","Bytomska",0
 3080,"2",6,3,2_3,"","Będzin","Gzichowska",0
 828,"1",,,6,"","<Żadna>","",0
-1978,"2",52,3,2_3,"","Świerklaniec","Bytomska",0
 6327,"1",46,3_3,2_3,"","Tychy","Generała Sikorskiego",0
 8400,"8/Pysk",14,3,2_3_4_8,"","Gliwice","Składowa",0
 4773,"1",17,3,2_3,"","Katowice","Witosa",0
@@ -6203,20 +6203,20 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 7605,"1",36,3,2,"","Pyskowice","Poznańska",0
 8636,"1",,,6,"","<Żadna>","",0
 1333,"1",49,3,2_3,"","Zabrze","Paderewskiego",0
-4847,"2",2,3,2,"","Sączów","Kościuszki",0
+1582,"1",17,3,2_3,"","Katowice","Kłodnicka",0
 6616,"2",29,3,2_3,"","Orzesze","Pisarka",0
+4136,"2",14,3,1,"","Gliwice","Oświęcimska",0
 3381,"2",12,3,2_3,"","Dąbrowa Górnicza","Szosowa",0
 6643,"2",29,3,2_3,"","Orzesze","Centralna",0
 2028,"1",49,3,2,"","Zabrze","Bruno",0
 2574,"1",38,3,2_3_4,"","Ruda Śląska","Zabrzańska",0
 1187,"2",45,3,2_3,"","Sławków","Hrubieszowska",0
-1582,"1",17,3,2_3,"","Katowice","Kłodnicka",0
 2153,"2",14,3,2,"","Gliwice","Ceramików",0
+4847,"2",2,3,2,"","Sączów","Kościuszki",0
 904,"1",,,6,"","<Żadna>","",0
 6752,"14",81,3,2_3,"","Oświęcim","Stanisława Konarskiego",0
 6617,"2",29,3,2_3,"","Orzesze","Pisarka",0
 8716,"1",46,3,2_3,"","Tychy","Oświęcimska",0
-4136,"2",14,3,1,"","Gliwice","Oświęcimska",0
 3195,"2",42,3,2,"","<Żadna>","",0
 9254,"1",12,3,2,"","Dąbrowa Górnicza","Kraszewskiego",0
 6804,"3",1,3,2_3,"","Bieruń","Świerczyniecka",0
@@ -6467,9 +6467,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5713,"1",6,3,1,"","Będzin","Energetyczna",0
 3496,"1",8,3,2_3_4,"","Chorzów","Dąbrowskiego",0
 6337,"1",46,3,2,"","Tychy","Jedności",0
+3883,"2",30,3,2_3,"","Ożarowice","Podłączna",0
 2186,"2",17,3,2_3,"","Katowice","Panewnicka",0
 152,"2",8,3,2_3,"","Chorzów","Racławicka",0
-3883,"2",30,3,2_3,"","Ożarowice","Podłączna",0
 5061,"2",43,3,1,"","Sosnowiec","Okulickiego",0
 4787,"1t/tech",43,2,5,"","Sosnowiec","Będzińska",0
 2581,"2",38,3,2_3,"","Ruda Śląska","Jana Gierałtowskiego",0
@@ -6487,6 +6487,7 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5403,"2",12,3,2,"","Dąbrowa Górnicza","Ratanice",0
 799,"2",21,3,2_3,"","Lędziny","Goławiecka",0
 3395,"2",43,3,2_3_4,"","Sosnowiec","Braci Mieroszewskich",0
+1903,"2",52,3,2_3,"","Świerklaniec","3 Maja",0
 416,"1t",38,2,2,"","Ruda Śląska","Zabrzańska",0
 129,"2",8,3,2_3,"","Chorzów","Armii Krajowej",0
 4438,"1",47,3,2_3,"","Wojkowice","Jana III Sobieskiego",0
@@ -6495,7 +6496,6 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1936,"1t",5,2,1_3,"","Bytom","Strzelców Bytomskich",0
 2523,"3",10,3,2_3,"","Czeladź","Reymonta",0
 6290,"1",46,3_3,2_3,"","Tychy","Aleja Jana Pawła II",0
-1903,"2",52,3,2_3,"","Świerklaniec","3 Maja",0
 2137,"1",26,3,2,"","Mysłowice","Stanisława Moniuszki",0
 146,"1",8,3,2_3,"","Chorzów","Czempiela",0
 4580,"1t",5,2,2_3,"","Bytom","Powstańców Warszawskich",0
@@ -6567,8 +6567,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3509,"3",26,3,1,"","Mysłowice","Mikołowska",0
 4223,"2",42,3,2,"","Siewierz","gen. Józefa Bema",0
 3024,"1",6,3,2,"","Będzin","Niepiekło",0
-2280,"1",5,3,2,"","Bytom","Witczaka",0
 5242,"1",41,3,1_3,"","Siemianowice Śląskie","Hutnicza",0
+2280,"1",5,3,2,"","Bytom","Witczaka",0
 1723,"2t",49,2,2_3,"","Zabrze","Tarnopolska",0
 5222,"2",12,3,1,"","Dąbrowa Górnicza","Zakladowa",0
 2448,"4",13,3,2,"","Przyszowice","Makoszowska",0
@@ -6641,9 +6641,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4805,"2",26,3,2,"","Mysłowice","Franciszka Kościelniaka",0
 5910,"1",57,3,2_3,"","Toszek","Strzelecka",0
 1780,"1",24,3,2_3,"","Mikołów","Katowicka",0
+3887,"1",30,3,2,"","Ożarowice","Podłączna",0
 6053,"2",14,3,1_3,"","Gliwice","Leona Wyczółkowskiego",0
 5726,"1",60,3,2,"","Tarnowskie Góry","droga prywatna",0
-3887,"1",30,3,2,"","Ożarowice","Podłączna",0
 1685,"2",5,3,2_3_4,"","Bytom","Bławatkowa",0
 7611,"2",38,3,2_3,"","Ruda Śląska","Aleja Powstań Śląskich",0
 8630,"1",60,3,2,"","Tarnowskie Góry","Leśna",0
@@ -6708,8 +6708,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 9135,"4t",38,2,2_4,"","<Żadna>","",0
 9107,"1",8,3,2_3,"","Chorzów","Strzelców Bytomskich",0
 332,"1",14,3,2,"","Gliwice","Kozielska",0
-3082,"2",14,3,2_3,"","Gliwice","Tarnogórska",0
 657,"2",2,3,2,"","Sączów","Ogrodowa",0
+3082,"2",14,3,2_3,"","Gliwice","Tarnogórska",0
 6074,"2",6,3,1,"","Będzin","Kręta",0
 157,"1",14,3,2_3,"","Gliwice","Pszczyńska",0
 3998,"2",1,3,2_3,"","Bieruń","Wawelska",0
@@ -6746,11 +6746,11 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5487,"2",17,3,2,"","Katowice","Słonecznikowa",0
 4857,"1",,,6,"","<Żadna>","",0
 6975,"1",39,,1,"","<Żadna>","",0
-8819,"1",30,3,1,"","Ożarowice","Główna",0
 2394,"1",43,3,2_3,"","Sosnowiec","Objazdowa",0
 6531,"2",24,3,2_3,"","Mikołów","Łączna",0
-4851,"2",30,3,2,"","Ożarowice","Leśna",0
+8819,"1",30,3,1,"","Ożarowice","Główna",0
 5559,"2",49,3,2,"","Zabrze","Roosevelta",0
+4851,"2",30,3,2,"","Ożarowice","Leśna",0
 5571,"1",14,3,2_3,"","Gliwice","Rybnicka",0
 2686,"1",14,3,1_3,"","Gliwice","Błonie",0
 928,"1",,,6,"","<Żadna>","",0
@@ -6768,12 +6768,12 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1883,"1t",43,2,2_3,"","Sosnowiec","Wojska Polskiego",0
 2387,"1t",43,2,2,"","Sosnowiec","Hubala-Dobrzańskiego",0
 2003,"1",43,3,2,"","Sosnowiec","Długa",0
-3877,"2",30,3,2,"","Ożarowice","Oparowa",0
 3145,"2",10,3,2_3,"","Czeladź","Szpitalna",0
 1417,"2",7,,2_3,"","Chełm Śląski","Chełmska",0
 145,"2",8,3,2_3,"","Chorzów","Batorego",0
 2998,"2",12,3,2_3,"","Dąbrowa Górnicza","Przelotowa",0
 6357,"1",46,3,2,"","Tychy","Mysłowicka",0
+3877,"2",30,3,2,"","Ożarowice","Oparowa",0
 7903,"1",,,6,"","<Żadna>","",0
 6418,"2",46,3,2_3,"","Tychy","Oświęcimska",0
 6693,"1",1,3,2_3,"","Bieruń","Krakowska",0
@@ -6844,13 +6844,13 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1549,"2",21,3,2,"","Lędziny","Lędzińska",0
 4709,"2t",49,2,2,"","Zabrze","Wolności",0
 3353,"2",12,3,1,"","Dąbrowa Górnicza","Świętego Antoniego",0
-3876,"1",30,3,2,"","Ożarowice","Oparowa",0
+1866,"1",45,3,1,"","Sławków","Hrubieszowska",0
 5168,"1",8,3,2_3,"","Chorzów","Wolności",0
 1812,"2",2,3,2,"","Myszkowice","Wolności",0
 8783,"2",14,3,2,"","Gliwice","Biegusa",0
 5514,"2",14,3,2_3,"","Gliwice","Kilińskiego",0
+3876,"1",30,3,2,"","Ożarowice","Oparowa",0
 8662,"2",46,3,2,"","Tychy","Goździków",0
-1866,"1",45,3,1,"","Sławków","Hrubieszowska",0
 5911,"2",57,3,2_3,"","Toszek","Strzelecka",0
 1688,"1",5,3,2_3,"","Bytom","Francuska",0
 4532,"2",17,3,2_3,"","Katowice","Jana Pawła II",0
@@ -7019,6 +7019,7 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3757,"1",11,3,2_3,"","Czerwionka-Leszczyny","Księdza Adolfa Pojdy",0
 5525,"6",14,3,2,"","Gliwice","Rolników",0
 310,"2",26,3,2_3_4,"","Mysłowice","Generała Jerzego Ziętka",0
+1981,"2",52,3,2_3,"","Świerklaniec","Bytomska",0
 2432,"1",41,3,2_3,"","Siemianowice Śląskie","Wiejska",0
 348,"1",31,3,2_3,"","Piekary Śląskie","Bp. H. Bednorza",0
 3958,"2",11,3,2_3,"","Czerwionka-Leszczyny","Księdza Adolfa Pojdy",0
@@ -7027,7 +7028,6 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4881,"1",23,3,1_3,"","Mierzęcice","21 Stycznia",0
 1975,"2",28,3,2,"","Ornontowice","Dworcowa",0
 5117,"1",14,3,2,"","Gliwice","Gustawa Eiffela",0
-1981,"2",52,3,2_3,"","Świerklaniec","Bytomska",0
 681,"1",12,3,2,"","Dąbrowa Górnicza","Furmana",0
 1616,"3",8,3,2,"","Chorzów","Brzezińska",0
 4333,"2",43,3,2,"","Sosnowiec","Staszica",0
@@ -7126,9 +7126,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1002,"1",,,6,"","<Żadna>","",0
 4821,"2",6,3,1,"","Będzin","Odkrywkowa",0
 328,"1",26,3,2,"","Mysłowice","Laryska",0
+4609,"1",8,3,2_3,"","Chorzów","Katowicka",0
 6269,"2",46,3,2,"","Tychy","Armii Krajowej",0
 1378,"1",12,3,2,"","Dąbrowa Górnicza","Zakladowa",0
-4609,"1",8,3,2_3,"","Chorzów","Katowicka",0
 5887,"2",57,3,2,"","Toszek","Gliwicka",0
 2783,"1t",49,2,2,"","Zabrze","Wolności",0
 6299,"1",46,,2,"","Tychy","Harcerska",0
@@ -7155,8 +7155,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1303,"1",39,3,1,"","Kleszczów","Osiedleńcza",0
 7514,"4",38,3,2,"","Ruda Śląska","Piotra Niedurnego",0
 6677,"2",29,3,2_3,"","Orzesze","Żorska",0
-2227,"2",31,3,2_3,"","Piekary Śląskie","Bytomska",0
 3915,"5",14,3,2_3,"","Gliwice","Ignacego Daszyńskiego",0
+2227,"2",31,3,2_3,"","Piekary Śląskie","Bytomska",0
 2712,"2",60,,2,"","Tarnowskie Góry","Słowackiego",0
 4406,"4",43,3,2,"","Sosnowiec","DK 86",0
 1157,"1",49,3,2,"","Zabrze","ELZAB",0
@@ -7181,9 +7181,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 8660,"2",49,3,2,"","Zabrze","Curie-Skłodowskiej",0
 4320,"2t",17,2,2,"","Katowice","Sosnowiecka",0
 1190,"1",17,3,2_3,"","Katowice","Chorzowska",0
-2423,"1",5,3,2,"","Bytom","Witczaka",0
 8285,"1",14,3,2,"","Gliwice","Lotników",0
 3489,"1",53,3,2_3,"","Świętochłowice","Wojska Polskiego",0
+2423,"1",5,3,2,"","Bytom","Witczaka",0
 4251,"1",42,3,2_3,"","Brudzowice","Główna",0
 321,"2",7,3,2_3,"","<Żadna>","",0
 250,"2",17,3,2_3_4,"","Katowice","Katowicka",0
@@ -7277,12 +7277,12 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5977,"1",56,3,2,"","Tworóg","Świniowicka",0
 3760,"2",24,3,2_3,"","Mikołów","Ludwika Spyry",0
 6094,"3",42,3,2,"","Wojkowice Kościelne","Karsów",0
+5995,"4",30,,2,"","Ożarowice","Główna",0
 2395,"2",43,3,2_3,"","Sosnowiec","Objazdowa",0
 4998,"2",24,3,2,"","Mikołów","Korfantego",0
 3824,"2",51,3,2,"","Zbrosławice","Mikulczycka",0
 6077,"1",8,3,2,"","Chorzów","Kluczborska",0
 8970,"1",5,3,2_3,"","Bytom","Łokietka",0
-5995,"4",30,,2,"","Ożarowice","Główna",0
 6207,"2",46,3,2,"","Tychy","Borowa",0
 4676,"1t",49,2,2,"","Zabrze","Bytomska",0
 1094,"2",49,3,1,"","Zabrze","Witosa",0
@@ -7295,20 +7295,20 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1672,"2",41,3,2_3_4,"","Siemianowice Śląskie","Kościelna",0
 2282,"1",5,3,1,"","Bytom","Plac Akademicki",0
 5297,"1",43,3,1_3,"","Sosnowiec","Kombajnistów",0
-1608,"2",31,3,2_3,"","Piekary Śląskie","Bytomska",0
 7161,"4",56,3,2,"","Tworóg","Armii Krajowej",0
 5125,"1",11,3,2,"","Czerwionka-Leszczyny","Marii Konopnickiej",0
 235,"1",60,3,2_3,"","Tarnowskie Góry","Radzionkowska",0
+1608,"2",31,3,2_3,"","Piekary Śląskie","Bytomska",0
 6209,"1",46,3,2_3,"","Tychy","Myśliwska",0
 2808,"2",34,3,1,"","Strzyżowice","1 Maja",0
 1493,"3",6,3,2,"","Będzin","Małobądzka",0
 4037,"1",12,3,2,"","Dąbrowa Górnicza","Ratanice",0
 5692,"1",26,3,2_3,"","Mysłowice","Piastów Śląskich",0
+4848,"1",2,3,2,"","Sączów","Kościuszki",0
 639,"1",17,3,2_3,"","Katowice","Tadeusza Kościuszki",0
 3352,"1",12,3,1,"","Dąbrowa Górnicza","Świętego Antoniego",0
 4826,"1",13,3,2_3,"","Paniówki","Zabrska",0
 1713,"1",49,3,1_3,"","Zabrze","Ofiar Katynia",0
-4848,"1",2,3,2,"","Sączów","Kościuszki",0
 2698,"1",14,3,2_3,"","Gliwice","Jesienna",0
 343,"2",26,3,2_3,"","Mysłowice","Brzeźińska",0
 252,"2",17,3,2_3,"","Katowice","Aleja Roździeńskiego",0
@@ -7463,9 +7463,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5093,"1",17,3,2_3,"","Katowice","Podhalańska",0
 462,"1",60,3,2,"","Tarnowskie Góry","Czarnohucka",0
 2864,"3",12,,2,"","Dąbrowa Górnicza","Białostockiego",0
-3925,"1",23,3,2_3,"","Mierzęcice","Kolejowa",0
 232,"1",2,3,2_3,"","Bobrowniki","Akacjowa",0
 2765,"1",5,3,1_3,"","Bytom","Suchogórska",0
+3925,"1",23,3,2_3,"","Mierzęcice","Kolejowa",0
 3257,"1",51,3,2,"","Zbrosławice","Dworcowa",0
 4428,"1t",43,2,2,"","Sosnowiec","Batalionów Chłopskich",0
 517,"3",14,3,2_3,"","Gliwice","Chorzowska",0
