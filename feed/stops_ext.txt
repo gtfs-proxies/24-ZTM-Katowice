@@ -1143,8 +1143,6 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 1185,"2",45,3,2_3,"","Sławków","Hrubieszowska",0
 1186,"1",45,3,2,"","Sławków","Hrubieszowska",0
 1187,"2",45,3,2_3,"","Sławków","Hrubieszowska",0
-1188,"1",6,3,2,"","Będzin","Sielecka",0
-1189,"2",6,3,2,"","Będzin","Sielecka",0
 1190,"1",17,3,2_3,"","Katowice","Chorzowska",0
 1191,"1t",17,2,2_3,"","Katowice","Chorzowska",0
 1192,"2",17,3,2_3,"","Katowice","Chorzowska",0
@@ -7457,6 +7455,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 9984,"3",6,3,1_3,"","Będzin","Bory",0
 9985,"1",6,3,2_3,"","Będzin","Wolności",0
 9986,"2",6,3,2_3,"","Będzin","Wolności",0
+9987,"1",6,3,1,"","Będzin","Sielecka",0
+9988,"2",6,3,1,"","Będzin","Sielecka",0
 9989,"1",6,3,1_3,"","Będzin","Tadeusza Kościuszki",0
 9990,"2",6,3,1_3,"","Będzin","Tadeusza Kościuszki",0
 9991,"1",6,3,1_3,"","Będzin","Stefana Żeromskiego",0
