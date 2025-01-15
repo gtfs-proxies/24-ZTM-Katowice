@@ -12,6 +12,7 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 11,"2",24,3,2_3,"","Mikołów","Gliwicka",0
 12,"1",24,3,2_3,"","Mikołów","Gliwicka",0
 13,"2",24,,2_3,"","<Żadna>","",0
+14,"1",43,3,2,"","Sosnowiec","Chemiczna",0
 15,"1",43,3,1_3,"","Sosnowiec","Sokolska",0
 16,"2",43,3,1_3,"","Sosnowiec","Sokolska",0
 17,"1",43,3,1,"","Sosnowiec","Piotrkowska",0
@@ -2236,12 +2237,14 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 2352,"1t",43,2,2_3,"","Sosnowiec","Będzińska",0
 2353,"2",43,3,2_3,"","Sosnowiec","Będzińska",0
 2354,"2t",43,2,2_3,"","Sosnowiec","Będzińska",0
+2356,"2",43,,2,"","Sosnowiec","Rybna",0
 2357,"1",43,3,2_3,"","Sosnowiec","Będzińska",0
 2358,"1",43,3,2_3,"","Sosnowiec","Orla",0
 2359,"1t",43,2,2_3,"","Sosnowiec","Nowopogońska",0
 2360,"2t",43,2,2_3,"","Sosnowiec","Nowopogońska",0
 2361,"1",43,3,2_3,"","Sosnowiec","Orla",0
 2362,"2",43,3,2_3,"","Sosnowiec","Orla",0
+2363,"1",43,3,2,"","Sosnowiec","Rybna",0
 2364,"1t",43,2,2_3,"","Sosnowiec","Będzińska",0
 2365,"2t",43,2,2_3,"","Sosnowiec","Będzińska",0
 2366,"1",43,3,2,"","Sosnowiec","Sucha",0
@@ -3776,8 +3779,6 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3994,"9",1,3,2_3,"","Bieruń","Warszawska ",0
 3995,"10",1,3,2_3,"","Bieruń","Warszawska ",0
 3996,"3",1,3,2,"","Bieruń","Wawelska",0
-3997,"1",1,3,2_3,"","Bieruń","Wawelska",0
-3998,"2",1,3,2_3,"","Bieruń","Wawelska",0
 3999,"1",17,3,2_3,"","Katowice","Gospodarcza",0
 4000,"1",16,3,2,"","Jaworzno","Stefana Batorego",0
 4001,"2",16,3,2,"","Jaworzno","Stefana Batorego",0
@@ -4990,6 +4991,7 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5363,"2",17,3,2,"","Katowice","Radockiego",0
 5364,"2",17,3,2,"","Katowice","Radockiego",0
 5365,"2",17,3,2,"","Katowice","Radockiego",0
+5366,"1",43,3,1,"","Sosnowiec","Elżbiety i Wilhelma Schonów",0
 5367,"3",17,3,2,"","Katowice","Stęślickiego",0
 5368,"3",17,3,2_3,"","Katowice","Gnieźnieńska",0
 5369,"1",17,3,2_3,"","Katowice","Konduktorska",0
@@ -6192,11 +6194,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 6653,"1",48,3,2,"","Wyry","Rybnicka",0
 6654,"2",48,3,2,"","Wyry","Pszczyńska",0
 6655,"1",48,3,2,"","Wyry","Pszczyńska",0
-6656,"1",48,3,2,"","Gostyń","Pszczyńska",0
 6657,"1",,,6,"","<Żadna>","",0
 6658,"1",19,3,2_3,"","Kobiór","Centralna",0
 6659,"2",19,3,2_3,"","Kobiór","Centralna",0
-6660,"2",48,3,2,"","Gostyń","Pszczyńska",0
 6661,"2",48,3,2,"","Gostyń","Pszczyńska",0
 6662,"1",48,3,2,"","Gostyń","Pszczyńska",0
 6663,"2",48,3,2,"","Wyry","Rybnicka",0
@@ -6232,8 +6232,6 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 6693,"1",1,3,2_3,"","Bieruń","Krakowska",0
 6694,"4",1,3,2,"","Bieruń","Krakowska",0
 6695,"1",1,3,2_3,"","Bieruń","Warszawska ",0
-6696,"1",1,3,2,"","Bieruń","Turystyczna",0
-6697,"3",1,3,2_3,"","Bieruń","Turystyczna",0
 6698,"4",1,3,2,"","Bieruń","Warszawska ",0
 6699,"5",1,3,2_3,"","Bieruń","Warszawska ",0
 6700,"7",1,3,2_3,"","Bieruń","Warszawska ",0
@@ -6245,8 +6243,6 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 6706,"2",21,3,2,"","Lędziny","Czapli",0
 6708,"2",1,3,2_3,"","Bieruń","Warszawska ",0
 6709,"3",1,3,2_3,"","Bieruń","Warszawska ",0
-6710,"2",1,3,2,"","Bieruń","Turystyczna",0
-6711,"4",1,3,2_3,"","Bieruń","Turystyczna",0
 6712,"6",1,3,2_3,"","Bieruń","Warszawska ",0
 6713,"8",1,3,2_3,"","Bieruń","Warszawska ",0
 6714,"12",1,3,2_3,"","Bieruń","Warszawska ",0
@@ -6335,7 +6331,6 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 6798,"15",83,3,1,"","Bojszowy","Barwna",0
 6800,"1",46,3,2_3,"","Tychy","Barwna",0
 6803,"2",1,3,2_3,"","Bieruń","Świerczyniecka",0
-6804,"3",1,3,2_3,"","Bieruń","Świerczyniecka",0
 6805,"1",1,3,2,"","Bieruń","Świerczyniecka",0
 6807,"16",83,3,1_3,"","Bojszowy","Barwna",0
 6808,"13",83,3,2_3,"","Bojszowy","Barwna",0
@@ -7440,6 +7435,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 9868,"1",14,3,2,"","Gliwice","Królewskiej Tamy ",0
 9910,"1",43,,2,"","Sosnowiec","Zaruskiego",0
 9911,"2",43,,2,"","Sosnowiec","Zaruskiego",0
+9912,"02",48,3,2,"","Wyry","Pszczyńska",0
+9913,"01",48,3,2,"","Wyry","Pszczyńska",0
 9943,"1",43,,2,"","Sosnowiec","Orląt Lwowskich",0
 9944,"2",43,,2,"","Sosnowiec","Orląt Lwowskich",0
 9945,"1",12,3,2,"","Dąbrowa Górnicza","Konstytucji",0
@@ -7515,3 +7512,12 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 10058,"5",6,3,2,"","Będzin","Małobądzka",0
 10059,"6",6,3,2,"","Będzin","Małobądzka",0
 10060,"4",6,3,2_3,"","Będzin","Józefa Piłsudskiego",0
+10062,"02",48,3,2_3,"","Gostyń","Rybnicka",0
+10065,"1",1,3,2_3,"","Bieruń","Wawelska",0
+10066,"2",1,3,2_3,"","Bieruń","Wawelska",0
+10067,"1",1,3,2,"","Bieruń","Turystyczna",0
+10068,"3",1,3,2_3,"","Bieruń","Turystyczna",0
+10069,"2",1,3,2,"","Bieruń","Turystyczna",0
+10070,"4",1,3,2_3,"","Bieruń","Turystyczna",0
+10071,"3",1,3,2_3,"","Bieruń","Świerczyniecka",0
+10074,"01",1,3,2,"","Bieruń","Władysława Jagiełły",0
