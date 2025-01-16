@@ -385,7 +385,7 @@ route_id,route_start_date,route_end_date,route_type_1
 1014,"20250102","29991231","Linia metropolitalna"
 1015,"20240909","20991231","Linia metropolitalna"
 1016,"20241118","29990101","Linia metropolitalna"
-1017,"20250111","20991231","Linia metropolitalna"
+1017,"20250126","29990101","Linia metropolitalna"
 1018,"20241120","29990101","Linia metropolitalna"
 1019,"20241007","29990101","Linia metropolitalna"
 1020,"20241228","29990101","Linia metropolitalna"
