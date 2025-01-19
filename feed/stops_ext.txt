@@ -5676,7 +5676,7 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 6112,"2",46,3_3,2_3,"","Tychy","Dmowskiego",0
 6113,"1",46,3_3,2_3_4,"","Tychy","Aleja Piłsudskiego",0
 6114,"2",46,3_3,2_3,"","Tychy","Jaśkowicka",0
-6115,"1",46,3_3,5,"","<Żadna>","",0
+6115,"1",46,3_3,5,"","Tychy","Towarowa",0
 6116,"1",46,3,2_3,"","Tychy","Katowicka",0
 6117,"1",,,6,"","<Żadna>","",0
 6118,"2",46,3,2_3,"","Tychy","Mikołowska",0
