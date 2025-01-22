@@ -3350,6 +3350,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 3519,"2",26,3,2_3,"","Mysłowice","Katowicka",0
 3520,"1",26,3,2_3,"","Mysłowice","Krakowska",0
 3521,"2",26,3,2_3,"","Mysłowice","Krakowska",0
+3523,"1t",26,2,2_3,"","Mysłowice","Bernarda Świerczyny",0
+3524,"2t",26,2,2_3,"","Mysłowice","Bernarda Świerczyny",0
 3525,"2",28,3,2_3,"","Ornontowice","Dworcowa",0
 3526,"1",28,3,2_3,"","Ornontowice","Dworcowa",0
 3527,"2",29,3,2_3,"","Orzesze","Św. Wawrzyńca",0
@@ -4140,6 +4142,8 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4441,"1t",17,2,2_3_4,"","Katowice","Rynek",0
 4442,"2t",17,2,2_3_4,"","Katowice","Rynek",0
 4443,"1t",17,2,2_3_4,"","Katowice","3 Maja",0
+4445,"1t",26,2,2,"","Mysłowice","Starokościelna",0
+4446,"2t",26,2,2,"","Mysłowice","Starokościelna",0
 4447,"1",26,3,2,"","Mysłowice","Bernarda Świerczyny",0
 4448,"1t",26,2,2,"","Mysłowice","Bernarda Świerczyny",0
 4449,"2",26,3,2,"","Mysłowice","Bernarda Świerczyny",0
@@ -4522,6 +4526,7 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 4853,"2",26,3,2,"","Mysłowice","Mikołaja Kopernika",0
 4854,"1",26,3,2,"","Mysłowice","Andrzeja Zielnioka",0
 4855,"2",26,3,2,"","Mysłowice","Andrzeja Zielnioka",0
+4856,"1t",26,2,2_3,"","Mysłowice","Powstańców",0
 4857,"1",,,6,"","<Żadna>","",0
 4858,"1",24,3,2,"","Mikołów","Księdza Franciszka Górka",0
 4859,"2",24,3,2,"","Mikołów","Księdza Franciszka Górka",0
@@ -4812,8 +4817,6 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 5176,"1",24,3,2_3,"","Mikołów","Pszczyńska",0
 5177,"2",24,3,2,"","Mikołów","Pszczyńska",0
 5178,"1",24,3,2_3,"","Mikołów","Pszczyńska",0
-5179,"2",48,3,2,"","Wyry","Pszczyńska",0
-5180,"1",48,3,2,"","Wyry","Pszczyńska",0
 5181,"2",48,,2_3,"","Wyry","Pszczyńska",0
 5182,"1",48,3,2_3,"","Wyry","Pszczyńska",0
 5183,"1",48,3,2_3,"","Wyry","Główna",0
@@ -6125,6 +6128,7 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 6579,"1",,,6,"","<Żadna>","",0
 6580,"2",29,3,2_3,"","Orzesze","Św. Wawrzyńca",0
 6581,"2",29,3,2_3,"","Orzesze","Św. Wawrzyńca",0
+6583,"1",,,6,"","<Żadna>","",0
 6584,"2",28,3,2_3,"","Ornontowice","Bujanowska",0
 6585,"1",28,3,2,"","Ornontowice","Działkowa",0
 6586,"1",,3,6,"","Orzesze","Gliwicka",0
@@ -6260,13 +6264,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 6727,"2",19,3,2_3,"","Kobiór","Kobiórska",0
 6728,"1",19,3,2_3,"","Kobiór","Przelotowa",0
 6729,"2",19,3,2_3,"","Kobiór","Przelotowa",0
-6730,"3",86,3,2,"","Żory","Mikołowska",0
-6731,"2",86,3,2_3,"","Żory","Mikołowska",0
 6732,"2",86,3,2,"","Żory","Męczenników Oświęcimskich",0
 6733,"1",86,3,2,"","Żory","Dworcowa",0
 6734,"2",86,3,2,"","Żory","Dworcowa",0
-6735,"1",86,3,2_3,"","Żory","Mikołowska",0
-6736,"4",86,3,2,"","Żory","Mikołowska",0
 6737,"1",,,6,"","<Żadna>","",0
 6738,"12",81,3,2_3,"","Radzionków","Śląska",0
 6739,"11",81,3,2,"","Radzionków","Śląska",0
@@ -6480,6 +6480,7 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 7065,"1",,,6,"","<Żadna>","",0
 7066,"1",,,6,"","<Żadna>","",0
 7067,"2",,,6,"","<Żadna>","",0
+7068,"2",51,3,2,"","Zbrosławice","Tarnogórska",0
 7069,"1",51,3,1,"Kamieniec Gospodarstwo Rolne nż","Zbrosławice","Wiejska",0
 7072,"3",49,3,2,"","Zabrze","Młodzieżowa",0
 7073,"4/Wiesz",49,3,2_3,"","Zabrze","Ofiar Katynia",0
@@ -6969,7 +6970,6 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 8297,"4",18,3,1,"","Knurów","Jęczmnienna",0
 8298,"9/wys",6,3,2,"","Będzin","Tadeusza Kościuszki",0
 8302,"31",26,3,2_7,"","Mysłowice","Bernarda Świerczyny",0
-8303,"32",26,3,2_7,"","Mysłowice","Bernarda Świerczyny",0
 8304,"31",26,3,2_7,"","Mysłowice","Obrzeżna Północna ",0
 8305,"32",17,3,2_7,"","Katowice","Wiosny Ludów",0
 8307,"32",17,3,2_7,"","Katowice","Wiosny Ludów",0
@@ -7281,7 +7281,6 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 9042,"2",5,3,2,"","Bytom","Pułaskiego",0
 9043,"1",5,3,2,"","Bytom","Pułaskiego",0
 9044,"2",5,3,2,"","Bytom","Pułaskiego",0
-9048,"31",26,3,2_7,"","Mysłowice","Plac Wolności",0
 9049,"1t",49,2,1,"","Zabrze","Bytomska",0
 9050,"2t",49,2,1,"","Zabrze","Bytomska",0
 9051,"31",5,3,2_7,"","Bytom","Tysiąclecia",0
@@ -7435,6 +7434,7 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 9911,"2",43,,2,"","Sosnowiec","Zaruskiego",0
 9912,"02",48,3,2,"","Wyry","Pszczyńska",0
 9913,"01",48,3,2,"","Wyry","Pszczyńska",0
+9942,"2t",26,2,2_3,"","Mysłowice","Karola Szymanowskiego",0
 9943,"1",43,,2,"","Sosnowiec","Orląt Lwowskich",0
 9944,"2",43,,2,"","Sosnowiec","Orląt Lwowskich",0
 9945,"1",12,3,2,"","Dąbrowa Górnicza","Konstytucji",0
@@ -7445,6 +7445,9 @@ stop_id,stop_code_add,community_ids,stop_vehicle_type_ids,stop_attribute_ids,sto
 9971,"32",14,3,2_7,"","Gliwice","Strzelców Bytomskich",0
 9972,"31",14,3,2_7,"","Gliwice","Przyszowska",0
 9973,"2",57,,2,"","Toszek","Srocza Góra",0
+9974,"1t",26,2,2,"","Mysłowice","Bytomska",0
+9975,"2t",26,2,2,"","Mysłowice","Bytomska",0
+9976,"2t",26,2,2,"","Mysłowice","Powstańców",0
 9979,"1",57,3,2,"","Toszek","Wiejska",0
 9980,"2",57,3,2,"","Toszek","Wiejska",0
 9982,"1",6,3,1_3,"","Będzin","Bory",0
