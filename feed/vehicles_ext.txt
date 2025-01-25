@@ -1,6 +1,7 @@
 vehicle_class_id,vehicle_short_name,vehicle_long_name,low_floor
 4,"116Nd","tramwaj niskopodłogowy",1
 8,"M N","autobus niskopodłogowy o długości ok.8 metrów",1
+9,"2x111N","",0
 12,"B N","autobus niskopodłogowy o długości ok.12 metrów",1
 14,"C N","autobus niskopodłogowy o długości ok.18 metrów",1
 16,"A N","autobus niskopodłogowy o długości ok.11 metrów",1
