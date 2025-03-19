@@ -25,6 +25,10 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
+      - name: Get current date
+        id: date
+        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
       - name: Restore cached feed
         id: cache-feed-restore
         uses: actions/cache/restore@v4
@@ -56,10 +60,6 @@ jobs:
 
       - name: Unzip GTFS feeds
         run: bash unzip.sh
-
-      - name: Get current date
-        id: date
-        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
       - name: Sort feed files
         id: sort
