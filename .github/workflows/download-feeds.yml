@@ -36,6 +36,11 @@ jobs:
           path: /tmp/${{ env.FEED_NAME }}/original/
           key: feed
 
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.20'
+
       - name: Install gtfstidy
         id: install-gtfstidy
         run: go install github.com/patrickbr/gtfstidy@latest
