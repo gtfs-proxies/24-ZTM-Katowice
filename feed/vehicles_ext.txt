@@ -1,7 +1,9 @@
 vehicle_class_id,vehicle_short_name,vehicle_long_name,low_floor
+2,"105N","",0
 4,"116Nd","tramwaj niskopodłogowy",1
 8,"M N","autobus niskopodłogowy o długości ok.8 metrów",1
 9,"2x111N","",0
+10," N","",0
 12,"B N","autobus niskopodłogowy o długości ok.12 metrów",1
 14,"C N","autobus niskopodłogowy o długości ok.18 metrów",1
 16,"A N","autobus niskopodłogowy o długości ok.11 metrów",1
@@ -9,9 +11,9 @@ vehicle_class_id,vehicle_short_name,vehicle_long_name,low_floor
 18,"105HF","",0
 20,"2x105HF","",0
 21,"C N e","autobus niskopodłogowy o długości ok.18 metrów",1
-22,"B N g","autobus niskopodłogowy o długości ok.12 metrów",1
 23,"2012N","tramwaj niskopodłogowy",1
 24,"Ptm","tramwaj niskopodłogowy",1
+27,"13N","",0
 30,"B N e","autobus niskopodłogowy o długości ok.12 metrów",1
 31,"TN","trolejbus niskopodłogowy o długości ok.12 metrów",1
 32,"MF10","tramwaj niskopodłogowy",1

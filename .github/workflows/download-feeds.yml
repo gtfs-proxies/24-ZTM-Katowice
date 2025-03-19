@@ -25,12 +25,25 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
+      - name: Get current date
+        id: date
+        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
       - name: Restore cached feed
         id: cache-feed-restore
         uses: actions/cache/restore@v4
         with:
           path: /tmp/${{ env.FEED_NAME }}/original/
           key: feed
+
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.20'
+
+      - name: Install gtfstidy
+        id: install-gtfstidy
+        run: go install github.com/patrickbr/gtfstidy@latest
 
       - name: Download GTFS feeds
         run: bash download.sh
@@ -40,18 +53,18 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: /tmp/${{ env.FEED_NAME }}/original/
-          key: feed
+          key: feed-${{ steps.date.outputs.DATE }}
+
+      - name: Merge gtfs feeds
+        id: merge-feeds
+        run: ./gtfsmerge.py /tmp/${{ env.FEED_NAME }}/original/*.zip /tmp/${{ env.FEED_NAME }}/output.zip
+
+      - name: Run gtfstidy
+        id: run-gtfstidy
+        run: gtfstidy -WSCRmTcsOD --keep-service-ids -o /tmp/${{ env.FEED_NAME }}/tidied.zip /tmp/${{ env.FEED_NAME }}/output.zip
 
       - name: Unzip GTFS feeds
         run: bash unzip.sh
-
-      - name: Get current date
-        id: date
-        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-
-      - name: Sort feed files
-        id: sort
-        run: bash sort_feed.sh
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         id: auto-commit-action
