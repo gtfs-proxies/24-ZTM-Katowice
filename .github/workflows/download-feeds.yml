@@ -66,10 +66,6 @@ jobs:
       - name: Unzip GTFS feeds
         run: bash unzip.sh
 
-      - name: Sort feed files
-        id: sort
-        run: bash sort_feed.sh
-
       - uses: stefanzweifel/git-auto-commit-action@v5
         id: auto-commit-action
         with:
