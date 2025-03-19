@@ -32,6 +32,10 @@ jobs:
           path: /tmp/${{ env.FEED_NAME }}/original/
           key: feed
 
+      - name: Install gtfstidy
+        id: install-gtfstidy
+        run: go install github.com/patrickbr/gtfstidy@latest
+
       - name: Download GTFS feeds
         run: bash download.sh
       
@@ -41,6 +45,14 @@ jobs:
         with:
           path: /tmp/${{ env.FEED_NAME }}/original/
           key: feed-${{ steps.date.outputs.DATE }}
+
+      - name: Merge gtfs feeds
+        id: merge-feeds
+        run: ./gtfsmerge.py /tmp/${{ env.FEED_NAME }}/original/*.zip /tmp/${{ env.FEED_NAME }}/output.zip
+
+      - name: Run gtfstidy
+        id: run-gtfstidy
+        run: gtfstidy -WSCRmTcsOD --keep-service-ids -o /tmp/${{ env.FEED_NAME }}/tidied.zip /tmp/${{ env.FEED_NAME }}/output.zip
 
       - name: Unzip GTFS feeds
         run: bash unzip.sh
