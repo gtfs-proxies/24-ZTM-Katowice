@@ -1,6 +1,5 @@
 #!/bin/bash
 
-FILE_LOCATION=/tmp/$FEED_NAME/original
-FEED_FILE=$(ls $FILE_LOCATION | sort -r | head -1)
+FILE_LOCATION=/tmp/$FEED_NAME
 
 unzip -o $FILE_LOCATION/tidied.zip -d feed/
