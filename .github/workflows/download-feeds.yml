@@ -40,7 +40,7 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: /tmp/${{ env.FEED_NAME }}/original/
-          key: feed
+          key: feed-${{ steps.date.outputs.DATE }}
 
       - name: Unzip GTFS feeds
         run: bash unzip.sh
