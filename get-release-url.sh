@@ -10,7 +10,7 @@ DATASET_URL="https://otwartedane.metropoliagzm.pl/dataset/317435cc-0075-4d10-b8e
 # Simple dataset, can be used as is
 # DATASET_URL="https://otwartedane.metropoliagzm.pl/dataset/5d8d7145-1be1-4ed2-9c18-5535e056a56d.jsonld"
 
-RELEASE_URL=$(curl --connect-timeout 30 -sk $DATASET_URL                            | \
+RELEASE_URL=$(curl --connect-timeout 30 --cacert ./home-pl.pem -s $DATASET_URL      | \
               jq ' ."@graph"[]."dcat:accessURL"."@id"'                              | \
               grep -F 'schedule_'                                                   | \
               sed -e 's/^"//' -e 's/"$//' -e 's/^\(.*\)\(schedule_.*\)$/\2 \1/'     | \
