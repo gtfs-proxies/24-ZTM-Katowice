@@ -775,7 +775,6 @@ Chebzie Pawła,2472011-02203t,8373,50.30453,18.884495,https://rj.metropoliaztm.p
 Chebzie Pawła,2472011-02204t,8374,50.304646,18.88486,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02204t/
 Chebzie Pawła nż,2472011-02201,5108,50.305008,18.883684,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02201/
 Chebzie Pawła nż,2472011-02202,5109,50.30481,18.885033,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02202/
-Chebzie Pętla,2472011-02301t,9128,50.30109,18.882584,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02301t/
 Chebzie Pętla,2472011-02301t,9133,50.30109,18.882584,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02301t/
 Chebzie Pętla,2472011-02302t,9132,50.30078,18.882069,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02302t/
 Chebzie Pętla,2472011-02303t,9131,50.30056,18.88277,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02303t/
@@ -6003,11 +6002,14 @@ Wielowieś Szkoła,2405082-02303,5812,50.50825,18.617937,https://rj.metropoliazt
 Wielowieś Szkoła,2405082-02304,5813,50.508274,18.617807,https://rj.metropoliaztm.pl/rozklady/przystanek/2405082-02304/
 Wieszowa Bytomska (ul. Sienkiewicza) nż,2413092-08931,9735,50.37994,18.7731,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-08931/
 Wieszowa Bytomska (ul. Sienkiewicza) nż,2413092-08931,9836,50.380035,18.772903,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-08931/
+Wieszowa Bytomska (ul. Sienkiewicza) nż,2413092-99131,10144,50.380035,18.772903,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-99131/
 Wieszowa Bytomska nż,2413092-05832,9734,50.37974,18.774183,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-05832/
 Wieszowa Cmentarz,2413092-08631,9726,50.382572,18.755459,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-08631/
 Wieszowa Cmentarz,2413092-08632,9725,50.38249,18.754229,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-08632/
 Wieszowa Cmentarz,2413092-08731,9819,50.382618,18.75555,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-08731/
 Wieszowa Cmentarz,2413092-08732,9818,50.38252,18.754656,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-08732/
+Wieszowa Cmentarz,2413092-98731,10134,50.382618,18.75555,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-98731/
+Wieszowa Cmentarz,2413092-98732,10133,50.38252,18.754656,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-98732/
 Wieszowa Dworcowa,2413092-05301,3257,50.382637,18.74516,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-05301/
 Wieszowa Dworcowa,2413092-05302,3258,50.382587,18.745169,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-05302/
 Wieszowa Glinice nż,2413092-08301,7907,50.39994,18.754473,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-08301/
@@ -6025,12 +6027,16 @@ Wieszowa Szkoła (ul. Sienkiewicza),2413092-08831,9727,50.380394,18.767954,https
 Wieszowa Szkoła (ul. Sienkiewicza),2413092-08832,9724,50.380474,18.767042,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-08832/
 Wieszowa Szkoła (ul. Sienkiewicza),2413092-09231,9820,50.38051,18.767338,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-09231/
 Wieszowa Szkoła (ul. Sienkiewicza),2413092-09232,9817,50.38051,18.766651,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-09232/
+Wieszowa Szkoła (ul. Sienkiewicza),2413092-99231,10135,50.38051,18.767338,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-99231/
+Wieszowa Szkoła (ul. Sienkiewicza),2413092-99232,10132,50.38051,18.766651,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-99232/
 Wieszowa Waldhof nż,2413092-05701,3255,50.372097,18.780241,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-05701/
 Wieszowa Waldhof nż,2413092-05702,3254,50.372673,18.780855,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-05702/
 Wieszowa Wojska Polskiego,2413092-08731,9732,50.38197,18.761442,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-08731/
 Wieszowa Wojska Polskiego,2413092-08732,9733,50.382156,18.760614,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-08732/
 Wieszowa Wojska Polskiego,2413092-09331,9834,50.382042,18.761309,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-09331/
 Wieszowa Wojska Polskiego,2413092-09332,9835,50.38208,18.76088,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-09332/
+Wieszowa Wojska Polskiego,2413092-99331,10142,50.382042,18.761309,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-99331/
+Wieszowa Wojska Polskiego,2413092-99332,10143,50.38208,18.76088,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-99332/
 Wilcza Gliwicka nż,2405042-03201,7990,50.207188,18.590918,https://rj.metropoliaztm.pl/rozklady/przystanek/2405042-03201/
 Wilcza Gliwicka nż,2405042-03202,7991,50.20703,18.590427,https://rj.metropoliaztm.pl/rozklady/przystanek/2405042-03202/
 Wilcza Kościół,2405042-00701,3267,50.188976,18.595404,https://rj.metropoliaztm.pl/rozklady/przystanek/2405042-00701/
