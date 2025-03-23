@@ -775,6 +775,7 @@ Chebzie Pawła,2472011-02203t,8373,50.30453,18.884495,https://rj.metropoliaztm.p
 Chebzie Pawła,2472011-02204t,8374,50.304646,18.88486,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02204t/
 Chebzie Pawła nż,2472011-02201,5108,50.305008,18.883684,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02201/
 Chebzie Pawła nż,2472011-02202,5109,50.30481,18.885033,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02202/
+Chebzie Pętla,2472011-02301t,9128,50.30109,18.882584,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02301t/
 Chebzie Pętla,2472011-02301t,9133,50.30109,18.882584,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02301t/
 Chebzie Pętla,2472011-02302t,9132,50.30078,18.882069,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02302t/
 Chebzie Pętla,2472011-02303t,9131,50.30056,18.88277,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02303t/
