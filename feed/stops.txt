@@ -52,6 +52,8 @@ Bieruń Baraniec,2414011-00101,6693,50.085667,19.10526,https://rj.metropoliaztm.
 Bieruń Baraniec,2414011-00102,6686,50.085766,19.104435,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-00102/
 Bieruń Baza Transportowa,2414011-00201,6805,50.092358,19.061539,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-00201/
 Bieruń Baza Transportowa,2414011-00202,6803,50.09227,19.062172,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-00202/
+Bieruń Bohaterów Westerplatte 57,2414011-03903,9157,50.071564,19.186977,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-03903/
+Bieruń Bohaterów Westerplatte 7,2414011-04001,9158,50.073788,19.186804,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-04001/
 Bieruń Dom Kultury,2414011-00501,183,50.084965,19.084652,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-00501/
 Bieruń Dom Kultury,2414011-00504,182,50.084908,19.084673,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-00504/
 Bieruń Domy Polne Pętla,2414011-00603,10071,50.092064,19.066252,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-00603/
@@ -68,13 +70,20 @@ Bieruń KWK Piast,2414011-01707,6700,50.07932,19.163143,https://rj.metropoliaztm
 Bieruń KWK Piast,2414011-01708,6713,50.079197,19.162554,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-01708/
 Bieruń Kościół,2414011-01612,6714,50.073627,19.180546,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-01612/
 Bieruń Krupnicza,2414011-00303,6852,50.063137,19.148119,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-00303/
+Bieruń Królowej Jadwigi,2414011-04431,10154,50.07424,19.17387,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-04431/
+Bieruń Królowej Jadwigi,2414011-04432,10153,50.073826,19.173426,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-04432/
 Bieruń Logistyczna,2414011-03501,8101,50.100822,19.071884,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-03501/
 Bieruń Majowa,2414011-01801,10074,50.06949,19.164164,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-01801/
 Bieruń Majowa,2414011-01802,6722,50.071217,19.166061,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-01802/
+Bieruń Nowy Dworzec,2414011-04501,9845,50.0743,19.183865,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-04501/
 Bieruń Osiedle,2414011-01909,3994,50.078644,19.171555,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-01909/
 Bieruń Osiedle,2414011-01910,3995,50.078697,19.16957,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-01910/
 Bieruń Osiedle Homera,2414011-02004,6387,50.099804,19.083107,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02004/
 Bieruń Osiedle Wygoda,2414011-02102,6385,50.10249,19.06255,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02102/
+Bieruń Patriotów,2414011-04202,9161,50.067482,19.189135,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-04202/
+Bieruń Patriotów,2414011-04231,9162,50.06757,19.189348,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-04231/
+Bieruń Patriotów Wiadukt,2414011-03805,9155,50.068806,19.190172,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-03805/
+Bieruń Patriotów Wiadukt,2414011-03807,9156,50.068153,19.191343,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-03807/
 Bieruń Plac Autobusowy,2414011-02201,6687,50.089226,19.091528,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02201/
 Bieruń Plac Autobusowy,2414011-02202,6688,50.08913,19.09155,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02202/
 Bieruń Plac Autobusowy,2414011-02203,6690,50.089054,19.091614,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02203/
@@ -88,11 +97,14 @@ Bieruń Pętla,2414011-03315,6717,50.065445,19.191555,https://rj.metropoliaztm.p
 Bieruń Rudnik,2414011-02501,6682,50.103184,19.097559,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02501/
 Bieruń Rudnik,2414011-02502,6080,50.10233,19.0936,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02502/
 Bieruń Rudnik,2414011-02503,8223,50.10294,19.097687,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02503/
+Bieruń Równoległa,2414011-04102,9159,50.07445,19.19397,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-04102/
 Bieruń Stacja Paliw,2414011-02603,6685,50.084545,19.11068,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02603/
 Bieruń Stacja Paliw,2414011-02604,6694,50.08452,19.110046,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02604/
 Bieruń Strefa,2414011-02703,6683,50.10136,19.098652,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02703/
 Bieruń Strefa,2414011-02704,6681,50.10142,19.098438,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02704/
 Bieruń Szkolna,2414011-01004,6724,50.063942,19.151749,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-01004/
+Bieruń Szkoła Podstawowa nr 3,2414011-04301,9164,50.077255,19.166967,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-04301/
+Bieruń Szkoła Podstawowa nr 3,2414011-04302,10290,50.07693,19.167324,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-04302/
 Bieruń Turystyczna I,2414011-00401,10067,50.076153,19.12736,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-00401/
 Bieruń Turystyczna I,2414011-00402,10069,50.07634,19.127459,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-00402/
 Bieruń Turystyczna II,2414011-01403,10068,50.067284,19.115013,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-01403/
@@ -705,7 +717,6 @@ Będzin Muzeum,2401011-01401,4376,50.32758,19.125614,https://rj.metropoliaztm.pl
 Będzin Muzeum,2401011-01401t,4377,50.32925,19.125946,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-01401t/
 Będzin Muzeum,2401011-01402t,8549,50.32916,19.12583,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-01402t/
 Będzin Niemcewicza nż,2401011-01501,4766,50.305717,19.127544,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-01501/
-Będzin Nowak-Mosty Będzin Arena,2401011-02302,10015,50.319702,19.124659,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-02302/
 Będzin Nowak-Mosty Będzin Arena,2401011-02303,10017,50.319427,19.12584,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-02303/
 Będzin Os. 27 Stycznia nż,2401011-01601,9991,50.306454,19.131826,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-01601/
 Będzin Partyzantów,2401011-01701t,4375,50.327377,19.124723,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-01701t/
