@@ -75,13 +75,13 @@ Bieruń Królowej Jadwigi,2414011-04432,10153,50.073826,19.173426,https://rj.met
 Bieruń Logistyczna,2414011-03501,8101,50.100822,19.071884,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-03501/
 Bieruń Majowa,2414011-01801,10074,50.06949,19.164164,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-01801/
 Bieruń Majowa,2414011-01802,6722,50.071217,19.166061,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-01802/
-Bieruń Nowy Dworzec,2414011-04501,9845,50.0743,19.183865,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-04501/
+Bieruń Nowy Dworzec,2414011-04531,10315,50.0743,19.183865,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-04531/
 Bieruń Osiedle,2414011-01909,3994,50.078644,19.171555,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-01909/
 Bieruń Osiedle,2414011-01910,3995,50.078697,19.16957,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-01910/
 Bieruń Osiedle Homera,2414011-02004,6387,50.099804,19.083107,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02004/
 Bieruń Osiedle Wygoda,2414011-02102,6385,50.10249,19.06255,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02102/
-Bieruń Patriotów,2414011-04202,9161,50.067482,19.189135,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-04202/
-Bieruń Patriotów,2414011-04231,9162,50.06757,19.189348,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-04231/
+Bieruń Patriotów,2414011-04202,9161,50.067448,19.189274,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-04202/
+Bieruń Patriotów,2414011-04231,9162,50.06747,19.189146,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-04231/
 Bieruń Patriotów Wiadukt,2414011-03805,9155,50.068806,19.190172,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-03805/
 Bieruń Patriotów Wiadukt,2414011-03807,9156,50.068153,19.191343,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-03807/
 Bieruń Plac Autobusowy,2414011-02201,6687,50.089226,19.091528,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02201/
