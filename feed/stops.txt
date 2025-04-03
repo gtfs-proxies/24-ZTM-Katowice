@@ -4651,6 +4651,8 @@ Rojca Nieznanego Żołnierza,2413031-01201,2535,50.387043,18.899092,https://rj.m
 Rojca Nieznanego Żołnierza,2413031-01202,2536,50.38708,18.89929,https://rj.metropoliaztm.pl/rozklady/przystanek/2413031-01202/
 Rojca Rondo,2413031-01231,10114,50.38513,18.899,https://rj.metropoliaztm.pl/rozklady/przystanek/2413031-01231/
 Rojca Rondo,2413031-01232,10115,50.384323,18.900343,https://rj.metropoliaztm.pl/rozklady/przystanek/2413031-01232/
+Rojca Rondo,2413031-99831,10136,50.38513,18.899,https://rj.metropoliaztm.pl/rozklady/przystanek/2413031-99831/
+Rojca Rondo,2413031-99832,10137,50.384323,18.900343,https://rj.metropoliaztm.pl/rozklady/przystanek/2413031-99832/
 Rojca Sikorskiego,2413031-01301,3832,50.38612,18.890894,https://rj.metropoliaztm.pl/rozklady/przystanek/2413031-01301/
 Rojca Sikorskiego,2413031-01302,3833,50.385162,18.892536,https://rj.metropoliaztm.pl/rozklady/przystanek/2413031-01302/
 Rojca Szarlejka nż,2413031-01401,4088,50.372585,18.914059,https://rj.metropoliaztm.pl/rozklady/przystanek/2413031-01401/
