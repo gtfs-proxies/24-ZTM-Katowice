@@ -2327,7 +2327,7 @@ Katowice Porcelanowa,2469011-09901,3685,50.249687,19.048956,https://rj.metropoli
 Katowice Porcelanowa,2469011-09902,3686,50.251797,19.048626,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09902/
 Katowice Porcelanowa,2469011-09903,7346,50.25089,19.047459,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09903/
 Katowice Porcelanowa Zakłady,2469011-36901,5455,50.252094,19.051983,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-36901/
-Katowice Porcelanowa Zakłady,2469011-36902,5456,50.252026,19.051874,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-36902/
+Katowice Porcelanowa Zakłady,2469011-36902,5456,50.252052,19.053137,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-36902/
 Katowice Powstańców Przychodnie,2469011-38301,5287,50.252167,19.023842,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-38301/
 Katowice Rondo,2469011-00601t,3695,50.264404,19.023632,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00601t/
 Katowice Rondo,2469011-00602t,3696,50.264366,19.02355,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00602t/
@@ -5113,7 +5113,7 @@ Sośnicowice Osiedle,2405064-00501,6040,50.27887,18.536327,https://rj.metropolia
 Sośnicowice Osiedle,2405064-00502,6041,50.27888,18.536499,https://rj.metropoliaztm.pl/rozklady/przystanek/2405064-00502/
 Sośnicowice Remiza nż,2405064-03202,6026,50.257767,18.548683,https://rj.metropoliaztm.pl/rozklady/przystanek/2405064-03202/
 Sośnicowice Rynek,2405064-01301,7373,50.272415,18.529976,https://rj.metropoliaztm.pl/rozklady/przystanek/2405064-01301/
-Sośnicowice Rynek [tech],2405065-04101,10387,50.271717,18.530186,https://rj.metropoliaztm.pl/rozklady/przystanek/2405065-04101/
+Sośnicowice Rynek [tech],2405065-04101,10387,50.27214,18.52981,https://rj.metropoliaztm.pl/rozklady/przystanek/2405065-04101/
 Sośnicowice Silvia,2405064-03402,6043,50.271,18.56703,https://rj.metropoliaztm.pl/rozklady/przystanek/2405064-03402/
 Sośnicowice Smolnicka nż,2405064-03001,6046,50.26058,18.54586,https://rj.metropoliaztm.pl/rozklady/przystanek/2405064-03001/
 Srocza Góra Wieś,2405075-04001,10286,50.420803,18.625383,https://rj.metropoliaztm.pl/rozklady/przystanek/2405075-04001/
