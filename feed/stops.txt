@@ -3393,7 +3393,6 @@ Mysłowice Szabelnia nż,2470011-13202,9856,50.262527,19.130598,https://rj.metro
 Mysłowice Szpital,2470011-07901t,3523,50.247635,19.133446,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-07901t/
 Mysłowice Szpital,2470011-07902t,3524,50.24753,19.133425,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-07902t/
 Mysłowice Szpital,2470011-07931,8302,50.248405,19.133018,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-07931/
-Mysłowice Szpital,2470011-07932,8303,50.248417,19.132717,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-07932/
 Mysłowice Targ Miejski,2470011-08101,5070,50.255684,19.131676,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-08101/
 Mysłowice Targ Miejski,2470011-08102,5071,50.256344,19.13276,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-08102/
 Mysłowice Towarowa,2470011-08301,4890,50.243164,19.13695,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-08301/
@@ -5805,8 +5804,6 @@ Tychy Metalowa,2477011-12801,6344,50.10329,19.018497,https://rj.metropoliaztm.pl
 Tychy Nad Jeziorem,2477011-06201,6272,50.09306,18.99336,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-06201/
 Tychy Niepodległości,2477011-11601,6287,50.116085,18.992588,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-11601/
 Tychy Niepodległości,2477011-11602,6261,50.115807,18.99247,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-11602/
-Tychy Oczyszczalnia,2477011-08001,6801,50.09481,19.051874,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-08001/
-Tychy Oczyszczalnia,2477011-08002,6806,50.09473,19.052011,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-08002/
 "Tychy Osiedle ""K""",2477011-10401,1200,50.11093,18.974037,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-10401/
 "Tychy Osiedle ""K""",2477011-10402,6114,50.111145,18.974434,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-10402/
 "Tychy Osiedle ""L""",2477011-15701,6230,50.107834,18.971601,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-15701/
@@ -6969,6 +6966,7 @@ granica GIER - GLIW (Schenker),GR23401,7066,50.236702,18.721363,https://rj.metro
 granica GIER - GLIW (Schenker),GR23402,7067,50.236393,18.721266,https://rj.metropoliaztm.pl/rozklady/przystanek/GR23402/
 granica GIER - KNUR (Farskie),GR11001,899,50.218483,18.703308,https://rj.metropoliaztm.pl/rozklady/przystanek/GR11001/
 granica GIER - KNUR (Farskie),GR11002,900,50.218475,18.702776,https://rj.metropoliaztm.pl/rozklady/przystanek/GR11002/
+granica GIER - MIKO (Darwina),GR29401,10440,50.21868,18.794746,https://rj.metropoliaztm.pl/rozklady/przystanek/GR29401/
 granica GIER - MIKO (Paniówki),GR10701,5010,50.230164,18.79806,https://rj.metropoliaztm.pl/rozklady/przystanek/GR10701/
 granica GIER - ORNO (Chudów),GR10801,5162,50.20044,18.761574,https://rj.metropoliaztm.pl/rozklady/przystanek/GR10801/
 granica GIER - ORNO (Zwycięstwa),GR10901,4786,50.203957,18.742275,https://rj.metropoliaztm.pl/rozklady/przystanek/GR10901/
