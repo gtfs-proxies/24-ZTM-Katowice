@@ -952,6 +952,8 @@ Chorzów Raciborska,2463011-05002,2491,50.2948,18.940136,https://rj.metropoliazt
 Chorzów Racławicka,2463011-05101,4539,50.282024,18.949158,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05101/
 Chorzów Racławicka,2463011-05101t,4540,50.28098,18.946365,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05101t/
 Chorzów Racławicka,2463011-05102t,4541,50.28104,18.946907,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05102t/
+Chorzów Racławicka,2463011-05103,7440,50.281197,18.946886,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05103/
+Chorzów Racławicka,2463011-05104,7439,50.28126,18.946522,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05104/
 Chorzów Racławicka OPS,2463011-11101,7973,50.280468,18.947847,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-11101/
 Chorzów Racławicka OPS,2463011-11102,5596,50.28023,18.949327,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-11102/
 Chorzów Rynek,2463011-00101,3610,50.29823,18.954865,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00101/
@@ -964,6 +966,7 @@ Chorzów Rynek,2463011-00104,10347,50.297787,18.955822,https://rj.metropoliaztm.
 Chorzów Rynek,2463011-00104,8118,50.297787,18.955822,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00104/
 Chorzów Rynek,2463011-00104t,5421,50.298027,18.95448,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00104t/
 Chorzów Rynek,2463011-00105t,7919,50.297318,18.95493,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00105t/
+Chorzów Rynek,2463011-00131,10434,50.29727,18.95515,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00131/
 Chorzów Rynek,2463011-00132,10348,50.297943,18.95602,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00132/
 Chorzów Składowa,2463011-05401,2676,50.307007,18.93264,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05401/
 Chorzów Składowa,2463011-05402,2677,50.306473,18.932823,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05402/
