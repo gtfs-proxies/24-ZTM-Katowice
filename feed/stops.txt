@@ -103,7 +103,6 @@ Bieruń Stacja Paliw,2414011-02604,6694,50.08452,19.110046,https://rj.metropolia
 Bieruń Strefa,2414011-02703,6683,50.10136,19.098652,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02703/
 Bieruń Strefa,2414011-02704,6681,50.10142,19.098438,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-02704/
 Bieruń Szkolna,2414011-01004,6724,50.063942,19.151749,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-01004/
-Bieruń Szkoła Podstawowa nr 3,2414011-04301,9164,50.077255,19.166967,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-04301/
 Bieruń Turystyczna I,2414011-00401,10067,50.076153,19.12736,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-00401/
 Bieruń Turystyczna I,2414011-00402,10069,50.07634,19.127459,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-00402/
 Bieruń Turystyczna II,2414011-01403,10068,50.067284,19.115013,https://rj.metropoliaztm.pl/rozklady/przystanek/2414011-01403/
@@ -4797,6 +4796,7 @@ Rudziniec Przedszkole,2405052-02402,7029,50.355938,18.408504,https://rj.metropol
 Rudziniec UG - PKP,2405052-02602,8782,50.36722,18.404305,https://rj.metropoliaztm.pl/rozklady/przystanek/2405052-02602/
 Rybna,2413041-03301,2604,50.462612,18.785704,https://rj.metropoliaztm.pl/rozklady/przystanek/2413041-03301/
 Rybna,2413041-03302,2605,50.4625,18.785723,https://rj.metropoliaztm.pl/rozklady/przystanek/2413041-03302/
+Rybna,2413041-99831,10441,50.46199,18.78588,https://rj.metropoliaztm.pl/rozklady/przystanek/2413041-99831/
 Rybna Lotników,2413041-02801,2886,50.474213,18.797268,https://rj.metropoliaztm.pl/rozklady/przystanek/2413041-02801/
 Rybna Lotników,2413041-02802,2885,50.473927,18.797249,https://rj.metropoliaztm.pl/rozklady/przystanek/2413041-02802/
 Rybna Lotników,2413041-02803,5738,50.474113,18.798256,https://rj.metropoliaztm.pl/rozklady/przystanek/2413041-02803/
@@ -5540,6 +5540,7 @@ Sławków ZWM Pętla [tech],2401081-03501,7417,50.30737,19.398687,https://rj.met
 Sławków Świętojańska,2401081-02401,5201,50.300148,19.38308,https://rj.metropoliaztm.pl/rozklady/przystanek/2401081-02401/
 Słupna Ośrodek Wypoczynkowy,2470011-01901,4844,50.22889,19.142094,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-01901/
 Słupna Ośrodek Wypoczynkowy,2470011-01902,4845,50.2287,19.141861,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-01902/
+TARN - ZBRO (Laryszowska),GR74401,10442,50.451393,18.782743,https://rj.metropoliaztm.pl/rozklady/przystanek/GR74401/
 Targoszyce Kościelna,2401052-03701,4035,50.438217,19.129118,https://rj.metropoliaztm.pl/rozklady/przystanek/2401052-03701/
 Targoszyce Kościelna,2401052-03702,4036,50.438217,19.129118,https://rj.metropoliaztm.pl/rozklady/przystanek/2401052-03702/
 Targoszyce Kościół,2401052-03801,4027,50.437996,19.135784,https://rj.metropoliaztm.pl/rozklady/przystanek/2401052-03801/
