@@ -2044,7 +2044,9 @@ Hołdunów Murckowska,2414031-02702,4753,50.1523,19.131264,https://rj.metropolia
 Hołdunów Podmiejska 10,2414031-03301,4159,50.140385,19.155039,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03301/
 Hołdunów Podmiejska 10,2414031-03302,4160,50.140167,19.154968,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03302/
 Hołdunów Podmiejska 10,2414031-03401,10261,50.13984,19.15497,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03401/
+Hołdunów Podmiejska 10,2414031-03402,10262,50.140285,19.15503,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03402/
 Hołdunów Podmiejska 32,2414031-03301,10259,50.135735,19.156282,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03301/
+Hołdunów Podmiejska 32,2414031-03302,10260,50.13545,19.156078,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03302/
 Hołdunów Podmiejska 32,2414031-03401,4161,50.135735,19.156282,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03401/
 Hołdunów Podmiejska 32,2414031-03402,4162,50.13545,19.156078,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03402/
 Hołdunów Przejazd Kolejowy (ul. Lędzińska),2414031-03601,1174,50.14092,19.126055,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03601/
