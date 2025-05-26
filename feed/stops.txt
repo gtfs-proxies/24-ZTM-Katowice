@@ -7360,8 +7360,6 @@ granica ŚWIE - TARN (Nowe Chechło),GR72901,830,50.44959,18.886362,https://rj.m
 Łaziska Górne Ratusz,2408011-00102,6496,50.14964,18.84044,https://rj.metropoliaztm.pl/rozklady/przystanek/2408011-00102/
 Łaziska Górne Ratusz,2408011-00103,6504,50.1494,18.83942,https://rj.metropoliaztm.pl/rozklady/przystanek/2408011-00103/
 Łaziska Górne Ratusz,2408011-00104,8068,50.149414,18.840979,https://rj.metropoliaztm.pl/rozklady/przystanek/2408011-00104/
-Łaziska Górne Spokojna,2408011-04001,10437,50.147392,18.837172,https://rj.metropoliaztm.pl/rozklady/przystanek/2408011-04001/
-Łaziska Górne Spokojna,2408011-04002,10438,50.147476,18.837193,https://rj.metropoliaztm.pl/rozklady/przystanek/2408011-04002/
 Łaziska Górne Wyzwolenia,2408011-00401,6511,50.129917,18.832952,https://rj.metropoliaztm.pl/rozklady/przystanek/2408011-00401/
 Łaziska Górne Wyzwolenia,2408011-00402,6516,50.130096,18.83202,https://rj.metropoliaztm.pl/rozklady/przystanek/2408011-00402/
 Łaziska Średnie Boisko,2408011-01101,6475,50.144302,18.866695,https://rj.metropoliaztm.pl/rozklady/przystanek/2408011-01101/
