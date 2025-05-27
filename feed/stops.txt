@@ -1097,7 +1097,6 @@ Czarny Las Zespół Szkół,2472011-07301,1818,50.279808,18.85927,https://rj.met
 Czarny Las Zespół Szkół,2472011-07302,1819,50.27942,18.860271,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-07302/
 Czechowice Grzybowa nż,2466011-01301,464,50.36026,18.629047,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01301/
 Czechowice Grzybowa nż,2466011-01302,463,50.360733,18.629047,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01302/
-Czechowice Kąpielisko Parking,2466011-01501,1249,50.359062,18.642494,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01501/
 Czechowice Kąpielisko nż,2466011-01401,8006,50.35978,18.64169,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01401/
 Czechowice Kąpielisko nż,2466011-01402,465,50.358967,18.641937,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01402/
 Czechowice Skrzyżowanie,2466011-01601,466,50.36382,18.639376,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01601/
@@ -2039,16 +2038,12 @@ Hołdunów Imielińska,2414031-02801,1171,50.1513,19.134611,https://rj.metropoli
 Hołdunów Imielińska,2414031-02802,1172,50.151794,19.134523,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02802/
 Hołdunów Kościół,2414031-03001,1163,50.147198,19.133505,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03001/
 Hołdunów Kościół,2414031-03002,1164,50.14766,19.133478,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03002/
-Hołdunów Murckowska,2414031-02701,4754,50.15238,19.130861,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02701/
-Hołdunów Murckowska,2414031-02702,4753,50.1523,19.131264,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02702/
 Hołdunów Podmiejska 10,2414031-03301,4159,50.140385,19.155039,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03301/
-Hołdunów Podmiejska 10,2414031-03302,4160,50.140167,19.154968,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03302/
 Hołdunów Podmiejska 10,2414031-03401,10261,50.13984,19.15497,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03401/
 Hołdunów Podmiejska 10,2414031-03402,10262,50.140285,19.15503,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03402/
 Hołdunów Podmiejska 32,2414031-03301,10259,50.135735,19.156282,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03301/
 Hołdunów Podmiejska 32,2414031-03302,10260,50.13545,19.156078,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03302/
 Hołdunów Podmiejska 32,2414031-03401,4161,50.135735,19.156282,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03401/
-Hołdunów Podmiejska 32,2414031-03402,4162,50.13545,19.156078,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03402/
 Hołdunów Przejazd Kolejowy (ul. Lędzińska),2414031-03601,1174,50.14092,19.126055,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03601/
 Hołdunów Przejazd Kolejowy (ul. Lędzińska),2414031-03602,1175,50.141113,19.126324,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03602/
 Hołdunów Przejazd Kolejowy (ul. Pokoju),2414031-03603,1176,50.141,19.126945,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03603/
@@ -6590,7 +6585,6 @@ Zarzecze Osiedle Grota nż,2469011-34601,5443,50.181656,18.93597,https://rj.metr
 Zarzecze Osiedle Grota nż,2469011-34602,5444,50.18175,18.935831,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-34602/
 Zarzecze Owsiana,2469011-27801,639,50.196686,18.93242,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27801/
 Zarzecze Owsiana,2469011-27802,640,50.195415,18.93087,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27802/
-Zarzecze Owsiana,2469011-27832,9503,50.19646,18.932602,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27832/
 Zarzecze Owsiana Pętla,2469011-34901,5492,50.19581,18.931787,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-34901/
 Zarzecze Pstrągowa,2469011-35201,5494,50.195,18.935717,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-35201/
 Zarzecze Pstrągowa,2469011-35202,5493,50.195156,18.93595,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-35202/
