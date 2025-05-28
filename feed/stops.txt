@@ -1097,6 +1097,7 @@ Czarny Las Zespół Szkół,2472011-07301,1818,50.279808,18.85927,https://rj.met
 Czarny Las Zespół Szkół,2472011-07302,1819,50.27942,18.860271,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-07302/
 Czechowice Grzybowa nż,2466011-01301,464,50.36026,18.629047,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01301/
 Czechowice Grzybowa nż,2466011-01302,463,50.360733,18.629047,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01302/
+Czechowice Kąpielisko Parking,2466011-01501,1249,50.359062,18.642494,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01501/
 Czechowice Kąpielisko nż,2466011-01401,8006,50.35978,18.64169,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01401/
 Czechowice Kąpielisko nż,2466011-01402,465,50.358967,18.641937,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01402/
 Czechowice Skrzyżowanie,2466011-01601,466,50.36382,18.639376,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01601/
@@ -1906,7 +1907,6 @@ Grzybowice Stacja Uzdatniania,2478011-21002,8649,50.366203,18.756435,https://rj.
 Grzybowice Szczecińska,2478011-17702,8654,50.361553,18.76439,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-17702/
 Grzybowice Witosa,2478011-01801,1095,50.35964,18.768494,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-01801/
 Grzybowice Witosa,2478011-01802,1096,50.359776,18.768698,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-01802/
-Grzybowice Zakład Energetyczny,2478011-01931,10120,50.364937,18.774725,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-01931/
 Grzybowice Zakład Energetyczny nż,2478011-01901,1093,50.365295,18.774801,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-01901/
 Grzybowice Zakład Energetyczny nż,2478011-01902,1094,50.364708,18.774164,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-01902/
 Gródków Centrum Dystrybucyjne,2401062-05901,5642,50.359444,19.116133,https://rj.metropoliaztm.pl/rozklady/przystanek/2401062-05901/
@@ -6585,6 +6585,7 @@ Zarzecze Osiedle Grota nż,2469011-34601,5443,50.181656,18.93597,https://rj.metr
 Zarzecze Osiedle Grota nż,2469011-34602,5444,50.18175,18.935831,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-34602/
 Zarzecze Owsiana,2469011-27801,639,50.196686,18.93242,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27801/
 Zarzecze Owsiana,2469011-27802,640,50.195415,18.93087,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27802/
+Zarzecze Owsiana,2469011-27832,9503,50.19646,18.932602,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27832/
 Zarzecze Owsiana Pętla,2469011-34901,5492,50.19581,18.931787,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-34901/
 Zarzecze Pstrągowa,2469011-35201,5494,50.195,18.935717,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-35201/
 Zarzecze Pstrągowa,2469011-35202,5493,50.195156,18.93595,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-35202/
