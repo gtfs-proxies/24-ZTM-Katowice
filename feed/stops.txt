@@ -2250,6 +2250,7 @@ Katowice Aleja Korfantego,2469011-00501,1428,50.261993,19.02294,https://rj.metro
 Katowice Aleja Korfantego,2469011-00502,1429,50.261513,19.022327,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00502/
 Katowice Andrzeja Dworzec,2469011-01501,6063,50.256252,19.016148,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01501/
 Katowice Andrzeja Dworzec,2469011-01502,5349,50.256542,19.0147,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01502/
+Katowice Arena Parking,2469011-41001,10330,50.2542,18.972889,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-41001/
 Katowice Ceglana Szpital Kliniczny,2469011-08501,4775,50.24345,19.015188,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-08501/
 Katowice Chorzowska,2469011-01001,3683,50.26613,19.019053,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01001/
 Katowice Chorzowska,2469011-01002,3684,50.26543,19.017672,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01002/
@@ -2894,7 +2895,7 @@ Ligota Rzeszótki,2469011-14801,2610,50.22736,18.982058,https://rj.metropoliaztm
 Ligota Szpital,2469011-15001,1594,50.224754,18.957708,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-15001/
 Ligota Szpital,2469011-15002,1595,50.224445,18.95788,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-15002/
 Ligota Toszecka,2405075-00801,5830,50.448833,18.455116,https://rj.metropoliaztm.pl/rozklady/przystanek/2405075-00801/
-Ligota Toszecka I,2405075-00901,5895,50.451458,18.465189,https://rj.metropoliaztm.pl/rozklady/przystanek/2405075-00901/
+Ligota Toszecka I,2405075-00901,5895,50.451416,18.464542,https://rj.metropoliaztm.pl/rozklady/przystanek/2405075-00901/
 Ligota Toszecka I,2405075-00902,5896,50.451347,18.465385,https://rj.metropoliaztm.pl/rozklady/przystanek/2405075-00902/
 Ligota Wileńska,2469011-15301,1596,50.225197,18.96481,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-15301/
 Ligota Wileńska,2469011-15302,1597,50.22328,18.964241,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-15302/
@@ -6658,7 +6659,9 @@ Załęże Dwór,2469011-27201,3460,50.267044,18.991478,https://rj.metropoliaztm.
 Załęże Dwór,2469011-27201t,3461,50.267513,18.990366,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27201t/
 Załęże Dwór,2469011-27202,3462,50.26687,18.991676,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27202/
 Załęże Dwór,2469011-27202t,3463,50.267624,18.990301,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27202t/
+Załęże Janasa,2469011-27301,10459,50.26534,18.997442,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27301/
 Załęże Janasa,2469011-27301t,4528,50.26525,18.997522,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27301t/
+Załęże Janasa,2469011-27302,10458,50.265484,18.997019,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27302/
 Załęże Janasa,2469011-27302t,4529,50.26551,18.997082,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27302t/
 Załęże Janasa,2469011-27304,5582,50.26534,18.997442,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27304/
 Załęże Janasa,2469011-27305,5581,50.265484,18.997019,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27305/
