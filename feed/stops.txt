@@ -516,6 +516,7 @@ Bykowina Gwarecka,2472011-01402,376,50.268135,18.895096,https://rj.metropoliaztm
 Bykowina Górnośląska,2472011-01201,372,50.266705,18.885326,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-01201/
 Bykowina Górnośląska,2472011-01202,373,50.266636,18.884897,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-01202/
 Bykowina Korfantego,2472011-01501,377,50.265957,18.898233,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-01501/
+Bykowina Korfantego,2472011-01502,378,50.26601,18.89833,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-01502/
 Bykowina Mijanka,2472011-01601t,4687,50.273785,18.89076,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-01601t/
 Bykowina Mijanka,2472011-01602t,4688,50.273785,18.890802,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-01602t/
 Bykowina Niedźwiedziniec,2472011-01701,379,50.27505,18.8957,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-01701/
@@ -662,6 +663,7 @@ Bytom Zajezdnia,2462011-05402,663,50.359337,18.933418,https://rj.metropoliaztm.p
 Bytom Zamłynie,2462011-05501,3451,50.342228,18.91614,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05501/
 Bytom Zamłynie,2462011-05501t,3452,50.34241,18.914621,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05501t/
 Bytom Zamłynie,2462011-05502t,3453,50.342304,18.914236,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05502t/
+Bytom Zamłynie,2462011-05532,9499,50.34221,18.914331,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05532/
 Bytom Łagiewnicka,2462011-02401,4583,50.34105,18.917574,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-02401/
 Bytom Łagiewnicka,2462011-02401t,4584,50.341595,18.917046,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-02401t/
 Bytom Łagiewnicka,2462011-02402t,4585,50.341618,18.917078,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-02402t/
@@ -2039,10 +2041,10 @@ Hołdunów Imielińska,2414031-02802,1172,50.151794,19.134523,https://rj.metropo
 Hołdunów Kościół,2414031-03001,1163,50.147198,19.133505,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03001/
 Hołdunów Kościół,2414031-03002,1164,50.14766,19.133478,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03002/
 Hołdunów Podmiejska 10,2414031-03301,4159,50.140385,19.155039,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03301/
-Hołdunów Podmiejska 10,2414031-03401,10261,50.13984,19.15497,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03401/
-Hołdunów Podmiejska 10,2414031-03402,10262,50.140285,19.15503,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03402/
-Hołdunów Podmiejska 32,2414031-03301,10259,50.135735,19.156282,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03301/
-Hołdunów Podmiejska 32,2414031-03302,10260,50.13545,19.156078,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03302/
+Hołdunów Podmiejska 10,2414031-03401,10261,50.135452,19.156084,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03401/
+Hołdunów Podmiejska 10,2414031-03402,10262,50.13577,19.156267,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03402/
+Hołdunów Podmiejska 32,2414031-03301,10259,50.139866,19.154957,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03301/
+Hołdunów Podmiejska 32,2414031-03302,10260,50.140278,19.15498,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03302/
 Hołdunów Podmiejska 32,2414031-03401,4161,50.135735,19.156282,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03401/
 Hołdunów Przejazd Kolejowy (ul. Lędzińska),2414031-03601,1174,50.14092,19.126055,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03601/
 Hołdunów Przejazd Kolejowy (ul. Lędzińska),2414031-03602,1175,50.141113,19.126324,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03602/
@@ -5452,6 +5454,7 @@ Szombierki Ratusz,2462011-13201,2955,50.337925,18.890547,https://rj.metropoliazt
 Szombierki Ratusz,2462011-13201t,2956,50.337955,18.890047,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-13201t/
 Szombierki Ratusz,2462011-13202,2957,50.337574,18.890219,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-13202/
 Szombierki Ratusz,2462011-13202t,2958,50.337887,18.889843,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-13202t/
+Szombierki Szyb Krystyna,2462011-15031,8682,50.34047,18.908945,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-15031/
 Szopienice Bednorza,2469011-24501,2961,50.263824,19.087452,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24501/
 Szopienice Bednorza,2469011-24502,2962,50.26399,19.087366,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24502/
 Szopienice Bednorza,2469011-24503,7115,50.264103,19.085564,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24503/
@@ -6489,8 +6492,8 @@ Zabrze Św. Floriana,2478011-09401,3500,50.30262,18.791979,https://rj.metropolia
 Zabrze Św. Floriana,2478011-09401t,3501,50.302628,18.792145,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-09401t/
 Zabrze Św. Floriana,2478011-09402,3502,50.30186,18.793396,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-09402/
 Zabrze Św. Floriana,2478011-09402t,3503,50.301872,18.793215,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-09402t/
-Zacharzowice,2405082-03001,5945,50.450207,18.600157,https://rj.metropoliaztm.pl/rozklady/przystanek/2405082-03001/
-Zacharzowice,2405082-03002,5946,50.450493,18.600935,https://rj.metropoliaztm.pl/rozklady/przystanek/2405082-03002/
+Zacharzowice,2405082-03001,5945,50.45007,18.600098,https://rj.metropoliaztm.pl/rozklady/przystanek/2405082-03001/
+Zacharzowice,2405082-03002,5946,50.450302,18.600273,https://rj.metropoliaztm.pl/rozklady/przystanek/2405082-03002/
 Zacharzowice Kolonia,2405082-02801,5942,50.441135,18.611765,https://rj.metropoliaztm.pl/rozklady/przystanek/2405082-02801/
 Zacharzowice Kolonia,2405082-02802,5941,50.441196,18.61166,https://rj.metropoliaztm.pl/rozklady/przystanek/2405082-02802/
 Zacharzowice Kościół,2405082-02901,5834,50.448414,18.600296,https://rj.metropoliaztm.pl/rozklady/przystanek/2405082-02901/
