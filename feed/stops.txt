@@ -794,13 +794,16 @@ Chebzie Pawła nż,2472011-02201,5108,50.305008,18.883684,https://rj.metropoliaz
 Chebzie Pawła nż,2472011-02202,5109,50.30481,18.885033,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02202/
 Chebzie Pętla,2472011-02301t,9128,50.30109,18.882584,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02301t/
 Chebzie Pętla,2472011-02301t,9133,50.30109,18.882584,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02301t/
+Chebzie Pętla,2472011-02302t,4279,50.30078,18.882069,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02302t/
 Chebzie Pętla,2472011-02302t,9132,50.30078,18.882069,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02302t/
 Chebzie Pętla,2472011-02303t,9127,50.30056,18.88277,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02303t/
 Chebzie Pętla,2472011-02303t,9131,50.30056,18.88277,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02303t/
 Chebzie Pętla,2472011-02304t,4281,50.300545,18.882843,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02304t/
 Chebzie Pętla,2472011-02304t,9135,50.300545,18.882843,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02304t/
+Chebzie Pętla,2472011-02305t,4282,50.300964,18.883234,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02305t/
 Chebzie Pętla,2472011-02305t,9419,50.300964,18.883234,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02305t/
 Chebzie Pętla Techniczny,2472011-09906t,9418,50.300743,18.881733,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-09906t/
+Chebzie Pętla Techniczny [tech],2472011-09906t,10481,50.300743,18.881733,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-09906t/
 Chebzie Rondo,2472011-02401,413,50.30081,18.881725,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02401/
 Chebzie Rondo,2472011-02402,414,50.300594,18.881008,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02402/
 Chebzie Rondo,2472011-02404,7514,50.30037,18.883585,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02404/
@@ -911,6 +914,7 @@ Chorzów Gwarecka,2463011-02901,1103,50.296783,18.93093,https://rj.metropoliaztm
 Chorzów Gwarecka,2463011-02902,5704,50.29521,18.930847,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-02902/
 Chorzów Hajducka,2463011-03001,3910,50.28925,18.945553,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03001/
 Chorzów Hala Sportowa,2463011-03101,5063,50.285545,18.941078,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03101/
+Chorzów Konstal Brama 2 (tech.),2463011-08601t,5143,50.30354,18.955297,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-08601t/
 Chorzów Kościół św. Jadwigi,2463011-03201,5168,50.292126,18.946575,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03201/
 Chorzów Kościół św. Jadwigi,2463011-03201t,5169,50.292168,18.946507,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03201t/
 Chorzów Kościół św. Jadwigi,2463011-03202t,5170,50.292656,18.947054,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03202t/
@@ -928,6 +932,7 @@ Chorzów Muzeum Hutnictwa,2463011-03701,9702,50.302208,18.951979,https://rj.metr
 Chorzów Muzeum Hutnictwa,2463011-03701t,9703,50.302406,18.952242,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03701t/
 Chorzów Muzeum Hutnictwa,2463011-03702,9752,50.30448,18.951002,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03702/
 Chorzów Muzeum Hutnictwa,2463011-03702t,9704,50.30207,18.952131,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03702t/
+Chorzów Muzeum Hutnictwa,2463011-03731t,10480,50.303562,18.95228,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03731t/
 Chorzów Młodzieżowa,2463011-04001,1940,50.2901,18.958712,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04001/
 Chorzów Młodzieżowa,2463011-04002,1941,50.290264,18.958895,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04002/
 Chorzów Nomiarki,2463011-10301,6105,50.290646,18.933558,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-10301/
@@ -976,7 +981,6 @@ Chorzów Sobieskiego,2463011-05531,10479,50.294556,18.951546,https://rj.metropol
 Chorzów Stabika,2463011-05601,2731,50.310215,18.950132,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05601/
 Chorzów Stabika,2463011-05602,2732,50.31079,18.949017,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05602/
 Chorzów Stabika,2463011-05603,5441,50.31031,18.95025,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05603/
-Chorzów Stadion Śl Pętla Zach. [tech],2469011-29001t,10084,50.286602,18.969881,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29001t/
 Chorzów Stadion Śl Pętla Zach.[tech.],2469011-29001t,8452,50.286263,18.969788,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29001t/
 Chorzów Stadion Śląski,2463011-05704,10478,50.289455,18.968336,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05704/
 Chorzów Stadion Śląski,2463011-05704,8138,50.28827,18.968254,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05704/
@@ -1384,6 +1388,7 @@ Dąbrowa Górnicza Sienkiewicza,2465011-01901t,1194,50.325863,19.18295,https://r
 Dąbrowa Górnicza Sienkiewicza,2465011-01902t,1195,50.3258,19.183228,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-01902t/
 Dąbrowa Górnicza Trzydziesty,2465011-02101,3125,50.33767,19.210217,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-02101/
 Dąbrowa Górnicza Trzydziesty,2465011-02102,3126,50.338696,19.21026,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-02102/
+Dąbrowa Górnicza Trzydziesty,2465011-02103,7332,50.33802,19.210701,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-02103/
 Dąbrowa Górnicza Urząd Pracy,2465011-02201,1398,50.323303,19.165936,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-02201/
 Dąbrowa Górnicza Urząd Pracy,2465011-02201t,1399,50.32346,19.16677,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-02201t/
 Dąbrowa Górnicza Urząd Pracy,2465011-02202,1400,50.323765,19.168566,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-02202/
