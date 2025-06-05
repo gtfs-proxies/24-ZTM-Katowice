@@ -1058,7 +1058,7 @@ Chropaczów Osiedle Wiechaczka,2476011-04701t,9009,50.318027,18.920834,https://r
 Chropaczów Osiedle Wiechaczka,2476011-0472t,9010,50.318104,18.920736,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-0472t/
 Chropaczów Ratusz,2476011-00301t,4291,50.314007,18.913372,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00301t/
 Chropaczów Ratusz,2476011-00302t,4292,50.31406,18.913258,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00302t/
-Chropaczów Sudecka,2476011-04602,5634,50.30784,18.912714,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-04602/
+Chropaczów Sudecka,2476011-04602,5634,50.30767,18.912743,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-04602/
 Chropaczów Szkoła,2476011-00401,435,50.311195,18.912943,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00401/
 Chropaczów Szkoła,2476011-00401t,436,50.311287,18.91344,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00401t/
 Chropaczów Szkoła,2476011-00402,437,50.311325,18.912893,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00402/
