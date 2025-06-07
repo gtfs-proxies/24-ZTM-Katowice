@@ -1049,6 +1049,7 @@ Chorzów Zjednoczenia,2463011-11231,8100,50.293514,18.950462,https://rj.metropol
 Chorzów Łagiewnicka,2463011-03501,1942,50.310017,18.941635,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03501/
 Chorzów Łagiewnicka,2463011-03502,1943,50.31051,18.94119,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03502/
 Chorzów Żeromskiego,2463011-07501t,4501,50.294376,18.948954,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-07501t/
+Chorzów Żeromskiego,2463011-07532t,10487,50.294197,18.949106,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-07532t/
 Chropaczów Jaśminowa [tech],2476011-03701t,9146,50.310368,18.91002,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-03701t/
 Chropaczów Konstantego Wolnego,2476011-00101,4293,50.31629,18.916683,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00101/
 Chropaczów Konstantego Wolnego,2476011-00101t,4294,50.316105,18.915783,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00101t/
