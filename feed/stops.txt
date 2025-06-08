@@ -1111,6 +1111,7 @@ Czarny Las Zespół Szkół,2472011-07301,1818,50.279808,18.85927,https://rj.met
 Czarny Las Zespół Szkół,2472011-07302,1819,50.27942,18.860271,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-07302/
 Czechowice Grzybowa nż,2466011-01301,464,50.36026,18.629047,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01301/
 Czechowice Grzybowa nż,2466011-01302,463,50.360733,18.629047,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01302/
+Czechowice Kąpielisko Parking,2466011-01501,1249,50.359062,18.642494,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01501/
 Czechowice Kąpielisko nż,2466011-01401,8006,50.35978,18.64169,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01401/
 Czechowice Kąpielisko nż,2466011-01402,465,50.358967,18.641937,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01402/
 Czechowice Skrzyżowanie,2466011-01601,466,50.36382,18.639376,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01601/
@@ -3085,7 +3086,6 @@ Miechowice Ośrodek Zdrowia nż,2462011-08801,1704,50.37028,18.845839,https://rj
 Miechowice Ośrodek Zdrowia nż,2462011-08802,1705,50.37025,18.845753,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08802/
 Miechowice Park,2462011-08901,1696,50.356613,18.856686,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08901/
 Miechowice Park,2462011-08902,1697,50.356476,18.856718,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08902/
-Miechowice Plac Szpitalny,2462011-09201,10451,50.363064,18.850798,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-09201/
 Miechowice Plac Szpitalny,2462011-09201,1700,50.363064,18.850798,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-09201/
 Miechowice Plac Szpitalny,2462011-09202,1701,50.36297,18.85038,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-09202/
 Miechowice Plac Słoneczny,2462011-09101,1698,50.361855,18.857195,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-09101/
