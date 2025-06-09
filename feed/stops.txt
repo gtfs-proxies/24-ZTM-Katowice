@@ -516,6 +516,7 @@ Bykowina Gwarecka,2472011-01402,376,50.268135,18.895096,https://rj.metropoliaztm
 Bykowina Górnośląska,2472011-01201,372,50.266705,18.885326,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-01201/
 Bykowina Górnośląska,2472011-01202,373,50.266636,18.884897,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-01202/
 Bykowina Korfantego,2472011-01501,377,50.265957,18.898233,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-01501/
+Bykowina Korfantego,2472011-01502,378,50.26601,18.89833,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-01502/
 Bykowina Mijanka,2472011-01601t,4687,50.273785,18.89076,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-01601t/
 Bykowina Mijanka,2472011-01602t,4688,50.273785,18.890802,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-01602t/
 Bykowina Niedźwiedziniec,2472011-01701,379,50.27505,18.8957,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-01701/
@@ -1391,7 +1392,6 @@ Dąbrowa Górnicza Sienkiewicza,2465011-01901t,1194,50.325863,19.18295,https://r
 Dąbrowa Górnicza Sienkiewicza,2465011-01902t,1195,50.3258,19.183228,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-01902t/
 Dąbrowa Górnicza Trzydziesty,2465011-02101,3125,50.33767,19.210217,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-02101/
 Dąbrowa Górnicza Trzydziesty,2465011-02102,3126,50.338696,19.21026,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-02102/
-Dąbrowa Górnicza Trzydziesty,2465011-02103,7332,50.33802,19.210701,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-02103/
 Dąbrowa Górnicza Urząd Pracy,2465011-02201,1398,50.323303,19.165936,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-02201/
 Dąbrowa Górnicza Urząd Pracy,2465011-02201t,1399,50.32346,19.16677,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-02201t/
 Dąbrowa Górnicza Urząd Pracy,2465011-02202,1400,50.323765,19.168566,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-02202/
