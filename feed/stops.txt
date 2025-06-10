@@ -367,6 +367,7 @@ Brynów Gawronów I,2469011-10001,717,50.236904,19.008718,https://rj.metropoliaz
 Brynów Gawronów I,2469011-10002,718,50.236835,19.00727,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10002/
 Brynów Gawronów II,2469011-10101,715,50.23752,19.004189,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10101/
 Brynów Gawronów II,2469011-10102,716,50.2373,19.004438,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10102/
+Brynów Kopalnia Wujek,2469011-10201,294,50.241333,18.98806,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10201/
 Brynów Kopalnia Wujek,2469011-10202,295,50.24133,18.987276,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10202/
 Brynów Kościuszki,2469011-10401,291,50.227455,18.993177,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10401/
 Brynów Kościuszki,2469011-10403,293,50.226734,18.99204,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10403/
@@ -380,7 +381,9 @@ Brynów Słowików,2469011-09801t,4556,50.231403,18.997206,https://rj.metropolia
 Brynów Słowików,2469011-09802t,4557,50.231453,18.997437,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09802t/
 Brynów W. Pola,2469011-36201,305,50.245125,18.996546,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-36201/
 Brynów W. Pola,2469011-36202,306,50.244137,18.996738,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-36202/
+Brynów W. Pola Tymczasowy,2469011-40831,10332,50.242695,18.98349,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-40831/
 Brynów W. Pola Tymczasowy,2469011-40832,9784,50.242325,18.984465,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-40832/
+Brynów W. Pola Tymczasowy,2469011-40833,10425,50.242687,18.982374,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-40833/
 Brynów Zgrzebnioka,2469011-36501t,4552,50.240356,19.004955,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-36501t/
 Brynów Zgrzebnioka,2469011-36502t,4553,50.240444,19.005058,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-36502t/
 Brzezinka Centrum,2470011-00501,326,50.206284,19.158176,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-00501/
@@ -1050,7 +1053,7 @@ Chorzów Zjednoczenia,2463011-11231,8100,50.293514,18.950462,https://rj.metropol
 Chorzów Łagiewnicka,2463011-03501,1942,50.310017,18.941635,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03501/
 Chorzów Łagiewnicka,2463011-03502,1943,50.31051,18.94119,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03502/
 Chorzów Żeromskiego,2463011-07501t,4501,50.294376,18.948954,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-07501t/
-Chorzów Żeromskiego,2463011-07532t,10487,50.294197,18.949106,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-07532t/
+Chorzów Żeromskiego,2463011-07532t,10487,50.29437,18.949081,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-07532t/
 Chropaczów Jaśminowa [tech],2476011-03701t,9146,50.310368,18.91002,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-03701t/
 Chropaczów Konstantego Wolnego,2476011-00101,4293,50.31629,18.916683,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00101/
 Chropaczów Konstantego Wolnego,2476011-00101t,4294,50.316105,18.915783,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00101t/
@@ -2265,6 +2268,7 @@ Katowice Aleja Korfantego,2469011-00501,1428,50.261993,19.02294,https://rj.metro
 Katowice Aleja Korfantego,2469011-00502,1429,50.261513,19.022327,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00502/
 Katowice Andrzeja Dworzec,2469011-01501,6063,50.256252,19.016148,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01501/
 Katowice Andrzeja Dworzec,2469011-01502,5349,50.256542,19.0147,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01502/
+Katowice Arena Parking,2469011-41001,10330,50.2542,18.972889,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-41001/
 Katowice Ceglana Szpital Kliniczny,2469011-08501,4775,50.24345,19.015188,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-08501/
 Katowice Chorzowska,2469011-01001,3683,50.26613,19.019053,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01001/
 Katowice Chorzowska,2469011-01002,3684,50.26543,19.017672,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01002/
@@ -2877,10 +2881,14 @@ Leszczyny Ligonia,2412014-01001,3756,50.141144,18.628983,https://rj.metropoliazt
 Leszczyny Rondo,2412014-01201,3757,50.1424,18.63313,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01201/
 Leszczyny Skrzyżowanie,2412014-01301,3959,50.140144,18.638721,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01301/
 Leszczyny Skrzyżowanie,2412014-01302,3960,50.140034,18.639076,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01302/
+Leszczyny Spółdzielnia,2412014-01401,10493,50.145554,18.670637,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01401/
+Leszczyny Spółdzielnia,2412014-01402,10494,50.145332,18.667809,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01402/
 Leszczyny Stare,2412014-01501,3957,50.1325,18.644924,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01501/
 Leszczyny Stare,2412014-01502,3958,50.132668,18.644888,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01502/
 Leszczyny Szkoła,2412014-01601,5091,50.13826,18.64065,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01601/
 Leszczyny Szkoła,2412014-01602,5092,50.138233,18.640877,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01602/
+Leszczyny Zakłady Drobiarskie,2412014-01801,10495,50.142036,18.651115,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01801/
+Leszczyny Zakłady Drobiarskie,2412014-01802,10496,50.142017,18.650064,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01802/
 Ligota Akademiki,2469011-13701,8031,50.21807,18.95856,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-13701/
 Ligota Akademiki,2469011-13702,8032,50.218025,18.958008,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-13702/
 Ligota Bronisławy,2469011-13801,1577,50.220287,18.960085,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-13801/
@@ -5479,7 +5487,7 @@ Szopienice Dwór,2469011-24701,10108,50.26187,19.10178,https://rj.metropoliaztm.
 Szopienice Dwór,2469011-24701t,4317,50.261993,19.101795,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24701t/
 Szopienice Dwór,2469011-24702,10107,50.26204,19.101496,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24702/
 Szopienice Dwór,2469011-24702t,4318,50.26206,19.10171,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24702t/
-Szopienice Dwór [tech],2469011-32103t,10346,19.103653,50.261696,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-32103t/
+Szopienice Dwór [tech],2469011-32103t,10346,50.261696,19.103653,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-32103t/
 Szopienice Kocura nż,2469011-31701,5328,50.266094,19.088858,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-31701/
 Szopienice Kocura nż,2469011-31702,5327,50.266273,19.088766,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-31702/
 Szopienice Kościół,2469011-24801,2969,50.262344,19.094748,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24801/
@@ -6664,6 +6672,9 @@ Zazdrość Szkoła,2408031-01901,6633,50.107388,18.760447,https://rj.metropoliaz
 Zazdrość Szkoła,2408031-01902,6634,50.107418,18.760588,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-01902/
 Załęska Hałda Bocheńskiego Autostrada,2469011-38601,7098,50.25558,18.983961,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-38601/
 Załęska Hałda Bocheńskiego Autostrada,2469011-38632,9683,50.255386,18.984316,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-38632/
+Załęska Hałda Brygadzistów,2469011-41131,10472,50.24524,18.981516,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-41131/
+Załęska Hałda Dobrego Urobku,2469011-41431,10474,50.24993,18.983704,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-41431/
+Załęska Hałda Dobrego Urobku,2469011-41432,10473,50.249104,18.983242,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-41432/
 Załęska Hałda Kolońska nż,2469011-26601,4935,50.255287,18.97776,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-26601/
 Załęże Bocheńskiego,2469011-26901,3458,50.262783,18.986773,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-26901/
 Załęże Bocheńskiego,2469011-26902,3459,50.261753,18.98674,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-26902/
@@ -6675,7 +6686,9 @@ Załęże Dwór,2469011-27201,3460,50.267044,18.991478,https://rj.metropoliaztm.
 Załęże Dwór,2469011-27201t,3461,50.267513,18.990366,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27201t/
 Załęże Dwór,2469011-27202,3462,50.26687,18.991676,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27202/
 Załęże Dwór,2469011-27202t,3463,50.267624,18.990301,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27202t/
+Załęże Janasa,2469011-27301,10459,50.26534,18.997442,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27301/
 Załęże Janasa,2469011-27301t,4528,50.26525,18.997522,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27301t/
+Załęże Janasa,2469011-27302,10458,50.265484,18.997019,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27302/
 Załęże Janasa,2469011-27302t,4529,50.26551,18.997082,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27302t/
 Załęże Janasa,2469011-27304,5582,50.26534,18.997442,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27304/
 Załęże Janasa,2469011-27305,5581,50.265484,18.997019,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27305/
