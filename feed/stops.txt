@@ -2268,6 +2268,7 @@ Katowice Aleja Korfantego,2469011-00501,1428,50.261993,19.02294,https://rj.metro
 Katowice Aleja Korfantego,2469011-00502,1429,50.261513,19.022327,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00502/
 Katowice Andrzeja Dworzec,2469011-01501,6063,50.256252,19.016148,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01501/
 Katowice Andrzeja Dworzec,2469011-01502,5349,50.256542,19.0147,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01502/
+Katowice Arena Parking,2469011-41001,10330,50.2542,18.972889,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-41001/
 Katowice Ceglana Szpital Kliniczny,2469011-08501,4775,50.24345,19.015188,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-08501/
 Katowice Chorzowska,2469011-01001,3683,50.26613,19.019053,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01001/
 Katowice Chorzowska,2469011-01002,3684,50.26543,19.017672,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01002/
@@ -3089,11 +3090,14 @@ Miechowice Francuska,2462011-08604,1691,50.36017,18.838652,https://rj.metropolia
 Miechowice Kopalnia,2462011-08701,1692,50.35341,18.842716,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08701/
 Miechowice Kopalnia,2462011-08702,1693,50.353676,18.841183,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08702/
 Miechowice Lidl,2462011-08501,1707,50.362392,18.849325,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08501/
+Miechowice Opolska,2462011-90431,10381,50.364635,18.854652,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-90431/
 Miechowice Ośrodek Zdrowia nż,2462011-08801,1704,50.37028,18.845839,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08801/
 Miechowice Ośrodek Zdrowia nż,2462011-08802,1705,50.37025,18.845753,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08802/
 Miechowice Park,2462011-08901,1696,50.356613,18.856686,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08901/
 Miechowice Park,2462011-08902,1697,50.356476,18.856718,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08902/
+Miechowice Plac Szpitalny,2462011-09201,10451,50.363064,18.850798,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-09201/
 Miechowice Plac Szpitalny,2462011-09201,1700,50.363064,18.850798,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-09201/
+Miechowice Plac Szpitalny,2462011-09202,10452,50.36297,18.85038,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-09202/
 Miechowice Plac Szpitalny,2462011-09202,1701,50.36297,18.85038,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-09202/
 Miechowice Plac Słoneczny,2462011-09101,1698,50.361855,18.857195,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-09101/
 Miechowice Plac Słoneczny,2462011-09102,1699,50.361717,18.857023,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-09102/
@@ -6685,7 +6689,9 @@ Załęże Dwór,2469011-27201,3460,50.267044,18.991478,https://rj.metropoliaztm.
 Załęże Dwór,2469011-27201t,3461,50.267513,18.990366,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27201t/
 Załęże Dwór,2469011-27202,3462,50.26687,18.991676,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27202/
 Załęże Dwór,2469011-27202t,3463,50.267624,18.990301,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27202t/
+Załęże Janasa,2469011-27301,10459,50.26534,18.997442,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27301/
 Załęże Janasa,2469011-27301t,4528,50.26525,18.997522,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27301t/
+Załęże Janasa,2469011-27302,10458,50.265484,18.997019,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27302/
 Załęże Janasa,2469011-27302t,4529,50.26551,18.997082,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27302t/
 Załęże Janasa,2469011-27304,5582,50.26534,18.997442,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27304/
 Załęże Janasa,2469011-27305,5581,50.265484,18.997019,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27305/
