@@ -900,6 +900,7 @@ Chorzów Boczna,2463011-02001,5038,50.297283,18.93646,https://rj.metropoliaztm.p
 Chorzów Centrum Edukacji,2463011-07601,64,50.296078,18.935757,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-07601/
 Chorzów Centrum Edukacji,2463011-07602,65,50.296852,18.935177,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-07602/
 Chorzów Cmentarz,2463011-02301,3592,50.286404,18.94315,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-02301/
+Chorzów Cmentarz,2463011-02332,10502,50.28713,18.94361,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-02332/
 Chorzów Dom Działkowca,2463011-04101,1110,50.28513,18.950827,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04101/
 Chorzów Dom Działkowca,2463011-04101t,6891,50.285378,18.94979,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04101t/
 Chorzów Dom Działkowca,2463011-04102,1111,50.285122,18.951128,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04102/
@@ -912,16 +913,17 @@ Chorzów Filarowa,2463011-09101,5437,50.300037,18.94642,https://rj.metropoliaztm
 Chorzów Filarowa,2463011-09132,9614,50.299435,18.946554,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-09132/
 Chorzów Floriańska,2463011-02801,705,50.30306,18.943352,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-02801/
 Chorzów Floriańska,2463011-02802,8015,50.30287,18.945213,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-02802/
-Chorzów Floriańska,2463011-02831,8680,50.30227,18.945545,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-02831/
+Chorzów Floriańska,2463011-02831,8680,50.302338,18.945484,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-02831/
 Chorzów Gwarecka,2463011-02901,1103,50.296783,18.93093,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-02901/
 Chorzów Gwarecka,2463011-02902,5704,50.29521,18.930847,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-02902/
 Chorzów Hajducka,2463011-03001,3910,50.28925,18.945553,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03001/
+Chorzów Hajducka,2463011-03032,10499,50.28931,18.945906,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03032/
 Chorzów Hala Sportowa,2463011-03101,5063,50.285545,18.941078,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03101/
 Chorzów Konstal Brama 2 (tech.),2463011-08601t,5143,50.30354,18.955297,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-08601t/
 Chorzów Kościół św. Jadwigi,2463011-03201,5168,50.292126,18.946575,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03201/
 Chorzów Kościół św. Jadwigi,2463011-03201t,5169,50.292168,18.946507,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03201t/
 Chorzów Kościół św. Jadwigi,2463011-03202t,5170,50.292656,18.947054,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03202t/
-Chorzów Krakusa Basen,2463011-05301,7314,50.30161,18.949013,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05301/
+Chorzów Krakusa Basen,2463011-05301,7314,50.301495,18.949368,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05301/
 Chorzów Krzyżowa,2463011-04501,2215,50.310226,18.946352,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04501/
 Chorzów Krzyżowa,2463011-04502,2216,50.30986,18.944878,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04502/
 Chorzów Liceum Katolickie,2463011-03301,4498,50.297077,18.9651,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03301/
@@ -929,13 +931,16 @@ Chorzów Liceum Katolickie,2463011-03302,4499,50.29779,18.962793,https://rj.metr
 Chorzów Lompy,2463011-03401,3600,50.297024,18.942656,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03401/
 Chorzów Mariańska,2463011-03601,1661,50.30735,18.94233,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03601/
 Chorzów Mariańska,2463011-03602,1662,50.307426,18.942017,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03602/
+Chorzów Miarki,2463011-12301,10507,50.30306,18.943352,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-12301/
 Chorzów Miasto PKP,2463011-03801,9109,50.298527,18.950165,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03801/
 Chorzów Miasto PKP,2463011-03802,9110,50.29833,18.95036,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03802/
+Chorzów Miasto PKP,2463011-03831,10504,50.297855,18.949951,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03831/
 Chorzów Muzeum Hutnictwa,2463011-03701,9702,50.302208,18.951979,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03701/
 Chorzów Muzeum Hutnictwa,2463011-03701t,9703,50.302406,18.952242,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03701t/
 Chorzów Muzeum Hutnictwa,2463011-03702,9752,50.30448,18.951002,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03702/
 Chorzów Muzeum Hutnictwa,2463011-03702t,9704,50.30207,18.952131,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03702t/
-Chorzów Muzeum Hutnictwa,2463011-03731t,10480,50.303562,18.95228,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03731t/
+Chorzów Muzeum Hutnictwa,2463011-03703,10503,50.301624,18.951786,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03703/
+Chorzów Muzeum Hutnictwa,2463011-03731t,10480,50.303196,18.95265,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03731t/
 Chorzów Młodzieżowa,2463011-04001,1940,50.2901,18.958712,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04001/
 Chorzów Młodzieżowa,2463011-04002,1941,50.290264,18.958895,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04002/
 Chorzów Nomiarki,2463011-10301,6105,50.290646,18.933558,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-10301/
@@ -954,6 +959,7 @@ Chorzów Opolska,2463011-04202,1967,50.30896,18.93617,https://rj.metropoliaztm.p
 Chorzów Oswaldów,2463011-04301,3026,50.31693,18.936567,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04301/
 Chorzów Oswaldów,2463011-04302,3027,50.316704,18.9366,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04302/
 Chorzów Pałac Ślubów,2463011-04401,2207,50.29479,18.953154,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04401/
+Chorzów Pałac Ślubów,2463011-04432,10501,50.29506,18.953964,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04432/
 Chorzów Pokoju,2463011-04801t,4648,50.30415,18.92398,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04801t/
 Chorzów Pokoju,2463011-04802t,4649,50.304375,18.92287,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04802t/
 Chorzów Polna,2463011-04901t,4612,50.313293,18.948235,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04901t/
@@ -973,9 +979,11 @@ Chorzów Rynek,2463011-00102,5293,50.297974,18.954994,https://rj.metropoliaztm.p
 Chorzów Rynek,2463011-00102t,5418,50.298054,18.95466,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00102t/
 Chorzów Rynek,2463011-00103,5417,50.297947,18.954767,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00103/
 Chorzów Rynek,2463011-00103t,5420,50.298042,18.954596,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00103t/
+Chorzów Rynek,2463011-00104,10347,50.297787,18.955822,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00104/
 Chorzów Rynek,2463011-00104,8118,50.297787,18.955822,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00104/
 Chorzów Rynek,2463011-00104t,5421,50.298027,18.95448,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00104t/
 Chorzów Rynek,2463011-00105t,7919,50.297318,18.95493,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00105t/
+Chorzów Rynek,2463011-00132,10348,50.297943,18.95602,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00132/
 Chorzów Składowa,2463011-05401,2676,50.307007,18.93264,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05401/
 Chorzów Składowa,2463011-05402,2677,50.306473,18.932823,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05402/
 Chorzów Sobieskiego,2463011-05501,9114,50.29509,18.95126,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05501/
@@ -985,9 +993,11 @@ Chorzów Stabika,2463011-05601,2731,50.310215,18.950132,https://rj.metropoliaztm
 Chorzów Stabika,2463011-05602,2732,50.31079,18.949017,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05602/
 Chorzów Stabika,2463011-05603,5441,50.31031,18.95025,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05603/
 Chorzów Stadion Śl Pętla Zach.[tech.],2469011-29001t,8452,50.286263,18.969788,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29001t/
-Chorzów Stadion Śląski,2463011-05704,10478,50.289455,18.968336,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05704/
+Chorzów Stadion Śląski,2463011-05704,10478,50.28837,18.967726,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05704/
 Chorzów Stadion Śląski,2463011-05704,8138,50.28827,18.968254,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05704/
 Chorzów Stadion Śląski,2463011-05705,8141,50.287785,18.967417,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05705/
+Chorzów Stadion Śląski,2463011-05732,10506,50.287525,18.96776,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05732/
+Chorzów Stadion Śląski,2463011-05734,10508,50.28821,18.967943,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05734/
 Chorzów Stadion Śląski,2469011-05701t,4512,50.2875,18.96789,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-05701t/
 Chorzów Stadion Śląski,2469011-05702t,4513,50.287506,18.967924,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-05702t/
 Chorzów Stadion Śląski Pętla Wsch. [tech],2469011-28901t,4973,50.284077,18.974144,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-28901t/
@@ -1031,10 +1041,13 @@ Chorzów Szpital Miejski,2463011-06701,9107,50.292618,18.944822,https://rj.metro
 Chorzów Szpital Miejski,2463011-06702,9108,50.292175,18.944897,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-06702/
 Chorzów Targowisko,2463011-07101t,4655,50.30356,18.949339,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-07101t/
 Chorzów Targowisko,2463011-07102t,8669,50.30354,18.949736,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-07102t/
+Chorzów Targowisko,2463011-07132,10505,50.30333,18.949545,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-07132/
 Chorzów Teatr Rozrywki,2463011-02101t,4506,50.294163,18.957397,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-02101t/
 Chorzów Teatr Rozrywki,2463011-02102t,4507,50.294224,18.957438,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-02102t/
 Chorzów Teatr Rozrywki,2463011-02103,6004,50.295486,18.955873,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-02103/
-Chorzów Teatr Rozrywki,2463011-02132,7315,50.29353,18.957344,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-02132/
+Chorzów Teatr Rozrywki,2463011-02132,7315,50.293972,18.95737,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-02132/
+Chorzów Truchana Szpital,2463011-11331,8140,50.29689,18.948092,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-11331/
+Chorzów Truchana Szpital,2463011-11332,8139,50.296944,18.947855,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-11332/
 Chorzów Uniwersytet PKP,2463011-12201,8839,50.293167,18.939636,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-12201/
 Chorzów Uniwersytet PKP,2463011-12202,8840,50.29277,18.9404,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-12202/
 Chorzów Wodociągi,2463011-02701,698,50.302822,18.934587,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-02701/
@@ -1043,13 +1056,13 @@ Chorzów Wodociągi,2463011-02702,700,50.302654,18.934715,https://rj.metropoliaz
 Chorzów Wodociągi,2463011-02702t,701,50.302742,18.934538,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-02702t/
 Chorzów Wojskowe Centrum Rekrutacji,2463011-11931,8616,50.293793,18.937098,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-11931/
 Chorzów Wojskowe Centrum Rekrutacji,2463011-11932,8615,50.293686,18.936872,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-11932/
-Chorzów Wolności Tymczasowy,2463011-12031,10489,50.291203,18.945011,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-12031/
-Chorzów Wolności Tymczasowy,2463011-12032,10488,50.29111,18.945133,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-12032/
+Chorzów Wolności Tymczasowy,2463011-12031,10489,50.291103,18.94483,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-12031/
+Chorzów Wolności Tymczasowy,2463011-12032,10488,50.29122,18.945312,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-12032/
 Chorzów Wolności [tech],2463011-10701t,6928,50.290756,18.944468,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-10701t/
 Chorzów ZUS,2463011-07401,3496,50.291637,18.949142,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-07401/
 Chorzów ZUS,2463011-07432,10486,50.291542,18.948738,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-07432/
 Chorzów Zjednoczenia,2463011-11201,9113,50.293907,18.95008,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-11201/
-Chorzów Zjednoczenia,2463011-11231,8100,50.293514,18.950462,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-11231/
+Chorzów Zjednoczenia,2463011-11231,8100,50.2935,18.950537,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-11231/
 Chorzów Łagiewnicka,2463011-03501,1942,50.310017,18.941635,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03501/
 Chorzów Łagiewnicka,2463011-03502,1943,50.31051,18.94119,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03502/
 Chorzów Żeromskiego,2463011-07501t,4501,50.294376,18.948954,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-07501t/
@@ -2370,7 +2383,7 @@ Katowice Sokolska,2469011-00903,2708,50.264286,19.01838,https://rj.metropoliaztm
 Katowice Sokolska,2469011-00905,2709,50.263577,19.017242,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00905/
 Katowice Stadion AWF,2469011-02201t,4548,50.248577,19.012383,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-02201t/
 Katowice Stadion AWF,2469011-02202t,6883,50.24851,19.01222,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-02202t/
-Katowice Stadion Śląski,2469011-29831,8678,50.286762,18.968245,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29831/
+Katowice Stadion Śląski,2469011-29831,8678,50.28686,18.968262,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29831/
 Katowice Strefa Kultury,2469011-08201,1182,50.26189,19.036758,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-08201/
 Katowice Strefa Kultury,2469011-08202,1183,50.262432,19.037262,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-08202/
 Katowice Strefa Kultury NOSPR,2469011-31001,5234,50.26356,19.027903,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-31001/
@@ -2659,6 +2672,8 @@ Koszelew,2401011-05702,1454,50.322357,19.156748,https://rj.metropoliaztm.pl/rozk
 Koszelew,2401011-05702t,1455,50.32229,19.156727,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-05702t/
 Koszelew Kościół,2401011-05801,1450,50.322517,19.158281,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-05801/
 Koszelew Kościół,2401011-05802,1451,50.322697,19.158981,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-05802/
+Koszelew Kościół,2401011-05831,10498,50.32368,19.161821,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-05831/
+Koszelew Kościół,2401011-05832,10497,50.323772,19.162086,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-05832/
 Kosztowy Dzióbka,2470011-04001,1458,50.19151,19.16263,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-04001/
 Kosztowy Dzióbka,2470011-04002,1459,50.19125,19.162767,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-04002/
 Kosztowy Kopernika,2470011-10001,4852,50.18906,19.145494,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-10001/
@@ -6908,6 +6923,7 @@ granica BĘDZ - DĄBR (Koszelew),GR00101t,839,50.322292,19.162933,https://rj.met
 granica BĘDZ - DĄBR (Koszelew),GR00102,6913,50.322155,19.16302,https://rj.metropoliaztm.pl/rozklady/przystanek/GR00102/
 granica BĘDZ - DĄBR (Mydlice),GR00201,842,50.32135,19.163343,https://rj.metropoliaztm.pl/rozklady/przystanek/GR00201/
 granica BĘDZ - DĄBR (Mydlice),GR00202,843,50.321434,19.162926,https://rj.metropoliaztm.pl/rozklady/przystanek/GR00202/
+granica BĘDZ - DĄBR (Paryż),GR02001,7144,50.323864,19.162354,https://rj.metropoliaztm.pl/rozklady/przystanek/GR02001/
 granica BĘDZ - DĄBR (Podłosie),GR00401,844,50.345142,19.177347,https://rj.metropoliaztm.pl/rozklady/przystanek/GR00401/
 granica BĘDZ - DĄBR (Podłosie),GR00402,845,50.34505,19.177767,https://rj.metropoliaztm.pl/rozklady/przystanek/GR00402/
 granica BĘDZ - DĄBR (Warpie),GR00301,840,50.31646,19.161816,https://rj.metropoliaztm.pl/rozklady/przystanek/GR00301/
