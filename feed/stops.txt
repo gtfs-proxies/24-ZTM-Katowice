@@ -685,6 +685,8 @@ Będzin 11 Listopada,2401011-00101,94,50.320587,19.129326,https://rj.metropoliaz
 Będzin 11 Listopada,2401011-00102,95,50.319786,19.12996,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-00102/
 Będzin Aleja Kołłątaja,2401011-00201,101,50.325253,19.137844,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-00201/
 Będzin Aleja Kołłątaja,2401011-00202,102,50.325558,19.136515,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-00202/
+Będzin Brata Alberta nż,2401011-00301,676,50.318928,19.137787,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-00301/
+Będzin Brata Alberta nż,2401011-00302,677,50.31877,19.137476,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-00302/
 Będzin Brata Alberta nż,2401011-00332,9757,50.318954,19.135948,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-00332/
 Będzin Brzozowicka nż,2401011-00401,357,50.33301,19.13132,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-00401/
 Będzin Brzozowicka nż,2401011-00402,358,50.33301,19.131128,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-00402/
@@ -6030,6 +6032,8 @@ Warpie Krakowska nż,2401011-09302,3197,50.315933,19.158222,https://rj.metropoli
 Warpie Osiedle,2401011-09401,2104,50.319004,19.151165,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-09401/
 Warpie Osiedle,2401011-09402,2105,50.319183,19.15096,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-09402/
 Warpie Promyka nż,2401011-10401,6060,50.320408,19.144592,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-10401/
+Warpie Wilcza nż,2401011-09501,3200,50.319485,19.143688,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-09501/
+Warpie Wilcza nż,2401011-09502,3201,50.319614,19.143751,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-09502/
 Wartogłowiec Beskidzka,2477011-17901,6380,50.12744,19.024517,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-17901/
 Wartogłowiec Beskidzka,2477011-17902,6401,50.125954,19.023293,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-17902/
 Wartogłowiec Cmentarna,2477011-17301,6399,50.123455,19.015392,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-17301/
