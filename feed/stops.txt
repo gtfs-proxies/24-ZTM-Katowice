@@ -501,7 +501,7 @@ Bujaków Ośrodek Zdrowia,2408021-08901,4858,50.184097,18.794426,https://rj.metr
 Bujaków Ośrodek Zdrowia,2408021-08902,4859,50.184032,18.794586,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08902/
 Bujaków Posesja,2408021-09101,6560,50.18811,18.809683,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-09101/
 Bujaków Posesja,2408021-09102,6559,50.187897,18.808891,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-09102/
-Burki,2401081-00101,367,50.267307,19.331327,https://rj.metropoliaztm.pl/rozklady/przystanek/2401081-00101/
+Burki,2401081-00102,367,50.267242,19.331474,https://rj.metropoliaztm.pl/rozklady/przystanek/2401081-00102/
 Burki Pętla,2401081-00201,366,50.26858,19.321669,https://rj.metropoliaztm.pl/rozklady/przystanek/2401081-00201/
 Burowiec,2469011-02301,2963,50.26824,19.078964,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-02301/
 Burowiec,2469011-02301t,2964,50.26828,19.079287,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-02301t/
@@ -3114,7 +3114,9 @@ Miechowice Ośrodek Zdrowia nż,2462011-08801,1704,50.37028,18.845839,https://rj
 Miechowice Ośrodek Zdrowia nż,2462011-08802,1705,50.37025,18.845753,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08802/
 Miechowice Park,2462011-08901,1696,50.356613,18.856686,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08901/
 Miechowice Park,2462011-08902,1697,50.356476,18.856718,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08902/
+Miechowice Plac Szpitalny,2462011-09201,10451,50.363064,18.850798,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-09201/
 Miechowice Plac Szpitalny,2462011-09201,1700,50.363064,18.850798,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-09201/
+Miechowice Plac Szpitalny,2462011-09202,10452,50.36297,18.85038,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-09202/
 Miechowice Plac Szpitalny,2462011-09202,1701,50.36297,18.85038,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-09202/
 Miechowice Plac Słoneczny,2462011-09101,1698,50.361855,18.857195,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-09101/
 Miechowice Plac Słoneczny,2462011-09102,1699,50.361717,18.857023,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-09102/
@@ -3924,6 +3926,7 @@ Osiedle Wieczorka Dworzec,2471011-03004,2109,50.39167,18.96099,https://rj.metrop
 Osiedle Wieczorka Dworzec,2471011-03005,5682,50.391727,18.960346,https://rj.metropoliaztm.pl/rozklady/przystanek/2471011-03005/
 Osiedle Wieczorka Konstytucji 3 Maja,2471011-03101,3817,50.38764,18.957315,https://rj.metropoliaztm.pl/rozklady/przystanek/2471011-03101/
 Osiedle Wieczorka Konstytucji 3 Maja,2471011-03102,3818,50.38828,18.955338,https://rj.metropoliaztm.pl/rozklady/przystanek/2471011-03102/
+Osiedle Wieczorka Konstytucji 3 Maja,2471011-03132,8837,50.387573,18.955896,https://rj.metropoliaztm.pl/rozklady/przystanek/2471011-03132/
 Osiedle Wieczorka MOSiR,2471011-03201,6005,50.39602,18.955095,https://rj.metropoliaztm.pl/rozklady/przystanek/2471011-03201/
 Osiedle Wieczorka Szkoła,2471011-03301,2107,50.389942,18.954441,https://rj.metropoliaztm.pl/rozklady/przystanek/2471011-03301/
 Osiedle Wieczorka Szkoła,2471011-03302,2108,50.390095,18.953926,https://rj.metropoliaztm.pl/rozklady/przystanek/2471011-03302/
@@ -4187,6 +4190,8 @@ Piekary Bazylika,2471011-03802,3531,50.38448,18.944351,https://rj.metropoliaztm.
 Piekary Dwór,2471011-03701,2226,50.391586,18.945887,https://rj.metropoliaztm.pl/rozklady/przystanek/2471011-03701/
 Piekary Dwór,2471011-03702,2227,50.390614,18.945387,https://rj.metropoliaztm.pl/rozklady/przystanek/2471011-03702/
 Piekary Dwór,2471011-03703,2228,50.390877,18.947258,https://rj.metropoliaztm.pl/rozklady/przystanek/2471011-03703/
+Piekary Dwór,2471011-03732,8835,50.388138,18.94585,https://rj.metropoliaztm.pl/rozklady/przystanek/2471011-03732/
+Piekary Dwór,2471011-03733,8836,50.388145,18.945696,https://rj.metropoliaztm.pl/rozklady/przystanek/2471011-03733/
 Piekary Kopalnia,2471011-04301,2904,50.380554,18.950283,https://rj.metropoliaztm.pl/rozklady/przystanek/2471011-04301/
 Piekary Kopalnia,2471011-04302,2903,50.380676,18.95081,https://rj.metropoliaztm.pl/rozklady/przystanek/2471011-04302/
 Piekary Lipka,2471011-03901,1607,50.399426,18.947098,https://rj.metropoliaztm.pl/rozklady/przystanek/2471011-03901/
@@ -6361,6 +6366,8 @@ Wyry Przejazd Kolejowy,2408052-00701,5188,50.12528,18.884066,https://rj.metropol
 Wyry Przejazd Kolejowy,2408052-00702,5187,50.125557,18.884,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00702/
 Wyry Skrzyżowanie,2408052-00401,5182,50.136063,18.894203,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00401/
 Wyry Skrzyżowanie,2408052-00402,5181,50.13625,18.894194,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00402/
+Wyry Skrzyżowanie,2408052-00431,8999,50.13569,18.894505,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00431/
+Wyry Skrzyżowanie,2408052-00432,8998,50.135674,18.894484,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00432/
 Wyry Tereny Przemysłowe,2408052-00801,9913,50.141876,18.896618,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00801/
 Wyry Tereny Przemysłowe,2408052-00802,9912,50.14206,18.896557,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00802/
 Wyry Urząd Gminy,2408052-00601,5185,50.132748,18.894075,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00601/
@@ -7019,7 +7026,6 @@ granica DĄBR - SOSN (Grabocińska),GR09101,980,50.3042,19.251682,https://rj.met
 granica DĄBR - SOSN (Grabocińska),GR09102,981,50.304607,19.251717,https://rj.metropoliaztm.pl/rozklady/przystanek/GR09102/
 granica DĄBR - SOSN (Józefów),GR08801,989,50.313847,19.180609,https://rj.metropoliaztm.pl/rozklady/przystanek/GR08801/
 granica DĄBR - SOSN (K-D),GR09001,4982,50.31613,19.194664,https://rj.metropoliaztm.pl/rozklady/przystanek/GR09001/
-granica DĄBR - SOSN (Kazimierzowska),GR22212,7139,50.30209,19.236467,https://rj.metropoliaztm.pl/rozklady/przystanek/GR22212/
 granica DĄBR - SOSN (Sosnowiecka),GR09201,978,50.299465,19.255342,https://rj.metropoliaztm.pl/rozklady/przystanek/GR09201/
 granica DĄBR - SOSN (Sosnowiecka),GR09202,979,50.299286,19.254934,https://rj.metropoliaztm.pl/rozklady/przystanek/GR09202/
 granica DĄBR - SOSN (Zagórze),GR08901,976,50.315834,19.196196,https://rj.metropoliaztm.pl/rozklady/przystanek/GR08901/
