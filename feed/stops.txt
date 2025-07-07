@@ -3515,6 +3515,8 @@ Niezdara,2413062-00101,3838,50.45011,18.989872,https://rj.metropoliaztm.pl/rozkl
 Niezdara,2413062-00102,3839,50.450325,18.989422,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-00102/
 Nikiszowiec Kościół,2469011-17401,1849,50.243652,19.08182,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-17401/
 Nikiszowiec Kościół,2469011-17402,1850,50.243618,19.082216,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-17402/
+Nikiszowiec Kościół,2469011-17431,8418,50.243874,19.07924,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-17431/
+Nikiszowiec Kościół,2469011-17432,8419,50.24444,19.079659,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-17432/
 Nikiszowiec Lodowisko,2469011-37501,7116,50.244892,19.082,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-37501/
 Nikiszowiec Szpital,2469011-17501,1851,50.246067,19.079905,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-17501/
 Nikiszowiec Szpital,2469011-17502,5273,50.246162,19.080399,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-17502/
