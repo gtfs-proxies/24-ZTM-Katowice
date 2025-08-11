@@ -625,7 +625,6 @@ Bytom Plac Sikorskiego,2462011-03702t,4311,50.34541,18.920908,https://rj.metropo
 Bytom Plac Sikorskiego,2462011-03703t,4312,50.345585,18.92129,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03703t/
 Bytom Plac Sikorskiego,2462011-03704t,7282,50.34515,18.920624,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03704t/
 Bytom Plac Sikorskiego,2462011-03705t,7283,50.345207,18.920639,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03705t/
-Bytom Plac Sikorskiego,2462011-03731,7376,50.344364,18.920092,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03731/
 Bytom Plac Sobieskiego,2462011-03801,2299,50.34898,18.924706,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03801/
 Bytom Pogoda,2462011-03901,2369,50.345654,18.93036,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03901/
 Bytom Powstańców Warszawskich,2462011-04101,2412,50.344467,18.914536,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-04101/
@@ -660,7 +659,6 @@ Bytom Urząd Miasta,2462011-05001t,4581,50.350845,18.912046,https://rj.metropoli
 Bytom Urząd Miasta,2462011-05002t,4582,50.35076,18.9121,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05002t/
 Bytom Urząd Pracy,2462011-14201t,6871,50.339333,18.918795,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-14201t/
 Bytom Urząd Pracy,2462011-14202t,6870,50.339375,18.91888,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-14202t/
-Bytom Urząd Pracy,2462011-14231,10638,50.339413,18.918827,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-14231/
 Bytom Wallisa,2462011-05101t,4622,50.350433,18.900051,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05101t/
 Bytom Wallisa,2462011-05102t,4623,50.35045,18.899366,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05102t/
 Bytom Wesoła,2462011-15301,8653,50.35598,18.932291,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-15301/
@@ -816,7 +814,6 @@ Chebzie Pętla Techniczny,2472011-09906t,9418,50.300743,18.881733,https://rj.met
 Chebzie Pętla Techniczny [tech],2472011-09906t,10481,50.300743,18.881733,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-09906t/
 Chebzie Rondo,2472011-02401,413,50.30081,18.881725,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02401/
 Chebzie Rondo,2472011-02402,414,50.300594,18.881008,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02402/
-Chebzie Rondo,2472011-02403,8927,50.30044,18.88383,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02403/
 Chebzie Rondo,2472011-02404,7514,50.30037,18.883585,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02404/
 Chebzie Rondo [tech],2472011-12901,9618,50.301846,18.883184,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-12901/
 Chebzie Styczyńskiego,2472011-02501,5658,50.30143,18.874369,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02501/
@@ -1081,12 +1078,8 @@ Chropaczów Konstantego Wolnego,2476011-00102,4295,50.316372,18.916285,https://r
 Chropaczów Konstantego Wolnego,2476011-00102t,4296,50.315998,18.91545,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00102t/
 Chropaczów Osiedle Na Wzgórzu,2476011-00201t,4297,50.3114,18.924412,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00201t/
 Chropaczów Osiedle Na Wzgórzu,2476011-00202t,4298,50.31118,18.92417,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00202t/
-Chropaczów Osiedle Na Wzgórzu,2476011-00231,7379,50.311054,18.92419,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00231/
-Chropaczów Osiedle Na Wzgórzu,2476011-00232,7378,50.31133,18.924753,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00232/
 Chropaczów Osiedle Wiechaczka,2476011-04701t,9009,50.318027,18.920834,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-04701t/
 Chropaczów Osiedle Wiechaczka,2476011-0472t,9010,50.318104,18.920736,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-0472t/
-Chropaczów Osiedle Wiechaczka,2476011-04731,10636,50.318096,18.920725,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-04731/
-Chropaczów Osiedle Wiechaczka,2476011-04732,10637,50.31818,18.920586,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-04732/
 Chropaczów Ratusz,2476011-00301t,4291,50.314007,18.913372,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00301t/
 Chropaczów Ratusz,2476011-00302t,4292,50.31406,18.913258,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00302t/
 Chropaczów Szkoła,2476011-00401,435,50.311195,18.912943,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00401/
@@ -2082,6 +2075,7 @@ Helenka Kościół,2478011-02101,1161,50.37868,18.809135,https://rj.metropoliazt
 Helenka Kościół,2478011-02102,1162,50.378365,18.808588,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02102/
 Helenka PCK,2478011-02201,1159,50.37511,18.804974,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02201/
 Helenka PCK,2478011-02202,1160,50.37538,18.80505,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02202/
+Hołdunów Fińskie Domki,2414031-03201,1165,50.14161,19.141954,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03201/
 Hołdunów Fińskie Domki,2414031-03202,1166,50.14152,19.141493,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03202/
 Hołdunów Imielińska,2414031-02801,1171,50.1513,19.134611,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02801/
 Hołdunów Imielińska,2414031-02802,1172,50.151794,19.134523,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02802/
@@ -2098,6 +2092,7 @@ Hołdunów Przejazd Kolejowy (ul. Pokoju),2414031-03604,1177,50.14076,19.126999,
 Hołdunów Pętla,2414031-02601,1173,50.153725,19.136059,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02601/
 Hołdunów Restauracja,2414031-03502,1179,50.14183,19.129673,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03502/
 Hołdunów Targowisko,2414031-03101,1180,50.142017,19.133764,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03101/
+Hołdunów Targowisko,2414031-03102,1181,50.14225,19.132282,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03102/
 Imielin Autostrada,2414021-00301,3976,50.15715,19.232742,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-00301/
 Imielin Centrum Przesiadkowe,2414021-02301,8221,50.142315,19.1759,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-02301/
 Imielin Dworzec PKP,2414021-00401,3516,50.143547,19.176218,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-00401/
@@ -2193,10 +2188,7 @@ Jaworzno Wysoki Brzeg,2468011-00802,7478,50.207714,19.18135,https://rj.metropoli
 Jaśkowice,2413092-02301,7929,50.41402,18.659573,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-02301/
 Jaśkowice,2413092-02302,7930,50.41402,18.659573,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-02302/
 Jaśkowice Brylantowa,2408031-05401,10797,50.146584,18.757065,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05401/
-Jaśkowice Dw.PKP,2408031-05301,10679,50.14569,18.74596,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05301/
-Jaśkowice Dw.PKP,2408031-05302,10680,50.145668,18.745531,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05302/
 Jaśkowice Osiedle,2413092-08401,5862,50.41631,18.66685,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-08401/
-Jaśkowice Posesja,2408031-05401,10681,50.146584,18.757065,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05401/
 Jaśkowice Stacja PKP,2408031-05301,10795,50.14569,18.74596,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05301/
 Jaśkowice Stacja PKP,2408031-05302,10796,50.145668,18.745531,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05302/
 Jaśkowice Wolności,2408031-05201,10678,50.143147,18.746498,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05201/
@@ -2303,6 +2295,7 @@ Katowice Aleja Korfantego,2469011-00501,1428,50.261993,19.02294,https://rj.metro
 Katowice Aleja Korfantego,2469011-00502,1429,50.261513,19.022327,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00502/
 Katowice Andrzeja Dworzec,2469011-01501,6063,50.256252,19.016148,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01501/
 Katowice Andrzeja Dworzec,2469011-01502,5349,50.256542,19.0147,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01502/
+Katowice Arena,2469011-26831,10641,50.25552,18.98386,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-26831/
 Katowice Arena Parking,2469011-41001,10330,50.2542,18.972889,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-41001/
 Katowice Ceglana Szpital Kliniczny,2469011-08501,4775,50.24345,19.015188,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-08501/
 Katowice Chorzowska,2469011-01001,3683,50.26613,19.019053,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01001/
@@ -2995,7 +2988,6 @@ Lipiny Targowisko,2476011-00901t,4286,50.306725,18.897604,https://rj.metropoliaz
 Lipiny Targowisko,2476011-00902,4287,50.30678,18.898003,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00902/
 Lipiny Targowisko,2476011-00902t,4288,50.306664,18.897873,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-00902t/
 Lipiny Wieczorka,2476011-01001,1606,50.30785,18.903204,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01001/
-Lipiny Zakłady Silesia,2476011-01101,7569,50.306244,18.89154,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01101/
 Lipiny Zakłady Silesia,2476011-01101t,4283,50.306114,18.891403,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01101t/
 Lipiny Zakłady Silesia,2476011-01102t,4284,50.306114,18.891575,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01102t/
 Lędziny Cegielnia,2414031-01101,1550,50.115044,19.104393,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01101/
@@ -3012,10 +3004,13 @@ Lędziny Kościół,2414031-00301,1551,50.128727,19.103807,https://rj.metropolia
 Lędziny Kościół,2414031-00302,1552,50.12876,19.103937,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00302/
 Lędziny Pomnik,2414031-00201,1554,50.12969,19.108265,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00201/
 Lędziny Pomnik,2414031-00202,1553,50.130714,19.108662,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00202/
+Lędziny Stadion Miejski,2414031-04631,10800,50.135323,19.11769,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-04631/
 Lędziny Urząd Miasta,2414031-00101,2980,50.13844,19.120453,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00101/
 Lędziny Urząd Miasta,2414031-00102,2981,50.137657,19.118189,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00102/
 Lędziny Zamkowa,2414031-01301,1558,50.130867,19.095798,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01301/
 Lędziny Zamkowa,2414031-01302,1557,50.130894,19.095585,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01302/
+Lędziny Zamkowa,2414031-01333,10645,50.130398,19.097422,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01333/
+Lędziny Zamkowa,2414031-01334,10655,50.130142,19.097187,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01334/
 Lędziny Zespół Szkół,2414031-00801,4997,50.121517,19.123693,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00801/
 Lędziny Zespół Szkół,2414031-00802,5681,50.122013,19.124596,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00802/
 Maciejkowice Dwór,2463011-08201,1614,50.32155,18.978455,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-08201/
@@ -3531,6 +3526,8 @@ Niegowonice Dąbrowska I,2416055-01101,9815,50.387794,19.421902,https://rj.metro
 Niegowonice Dąbrowska I,2416055-01102,9816,50.387768,19.42204,https://rj.metropoliaztm.pl/rozklady/przystanek/2416055-01102/
 Niegowonice Dąbrowska II,2416055-01001,9841,50.383144,19.416151,https://rj.metropoliaztm.pl/rozklady/przystanek/2416055-01001/
 Niegowonice Dąbrowska II,2416055-01002,9842,50.383766,19.41672,https://rj.metropoliaztm.pl/rozklady/przystanek/2416055-01002/
+Niegowonice Niwa,2416055-01301,9843,50.371643,19.40237,https://rj.metropoliaztm.pl/rozklady/przystanek/2416055-01301/
+Niegowonice Niwa,2416055-01302,9844,50.37162,19.402472,https://rj.metropoliaztm.pl/rozklady/przystanek/2416055-01302/
 Niegowoniczki Grabowska,2416055-01201,9813,50.386803,19.430023,https://rj.metropoliaztm.pl/rozklady/przystanek/2416055-01201/
 Niegowoniczki Grabowska,2416055-01202,9814,50.38675,19.42997,https://rj.metropoliaztm.pl/rozklady/przystanek/2416055-01202/
 Niepiekło Pętla,2401011-07901,3024,50.353992,19.184057,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-07901/
@@ -3808,8 +3805,6 @@ Orzesze Urząd Miejski,2408031-00201,10714,50.146732,18.778408,https://rj.metrop
 Orzesze Urząd Miejski,2408031-00201,3179,50.146732,18.778408,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-00201/
 Orzesze Urząd Miejski,2408031-00202,10715,50.14647,18.778397,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-00202/
 Orzesze Urząd Miejski,2408031-00202,3180,50.14647,18.778397,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-00202/
-Orzesze Zawada II,2408031-05101,10677,50.131565,18.748716,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05101/
-Orzesze Zawada II,2408031-05102,10676,50.131447,18.748383,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05102/
 Os. Młodego Górnika Haldex nż,2478011-00401,187,50.341946,18.812412,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-00401/
 Os. Młodego Górnika Haldex nż,2478011-00402,188,50.341953,18.813356,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-00402/
 Os. Młodego Górnika Kopalnia,2478011-00601,193,50.3429,18.829391,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-00601/
@@ -4228,16 +4223,12 @@ Piaśniki Korfantego,2476011-01202,2230,50.301662,18.91195,https://rj.metropolia
 Piaśniki Krasickiego,2476011-01302,2232,50.29864,18.916552,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01302/
 Piaśniki Osiedle Skałka,2476011-01401t,4305,50.298748,18.917904,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01401t/
 Piaśniki Osiedle Skałka,2476011-01402t,4306,50.298744,18.917786,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01402t/
-Piaśniki Osiedle Skałka,2476011-01431,8540,50.29882,18.918211,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01431/
-Piaśniki Osiedle Skałka,2476011-01432,8541,50.298954,18.917917,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01432/
 Piaśniki Skrzyżowanie,2476011-01501,4299,50.305458,18.917507,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01501/
 Piaśniki Skrzyżowanie,2476011-01501t,4300,50.305073,18.918827,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01501t/
 Piaśniki Skrzyżowanie,2476011-01502,4301,50.30557,18.915941,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01502/
 Piaśniki Skrzyżowanie,2476011-01502t,4302,50.305073,18.918837,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01502t/
 Piaśniki Skrzyżowanie,2476011-01503t,4303,50.3043,18.919127,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01503t/
 Piaśniki Skrzyżowanie,2476011-01504t,4304,50.30447,18.919117,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01504t/
-Piaśniki Skrzyżowanie,2476011-01533,8542,50.304565,18.919502,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01533/
-Piaśniki Skrzyżowanie,2476011-01534,8543,50.303913,18.91904,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01534/
 Piaśniki Szpital,2476011-01701t,2234,50.30579,18.914835,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01701t/
 Piaśniki Szpital,2476011-01702,2235,50.30565,18.912615,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01702/
 Piaśniki Szpital,2476011-01702t,2236,50.30578,18.914728,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01702t/
@@ -6792,6 +6783,7 @@ Załęska Hałda Brygadzistów,2469011-41131,10472,50.24524,18.981516,https://rj
 Załęska Hałda Dobrego Urobku,2469011-41431,10474,50.24993,18.983704,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-41431/
 Załęska Hałda Dobrego Urobku,2469011-41432,10473,50.249104,18.983242,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-41432/
 Załęska Hałda Kolońska nż,2469011-26601,4935,50.255287,18.97776,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-26601/
+Załęska Hałda Michejdy [tech],2469011-41601,10657,50.25897,18.982126,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-41601/
 Załęże Bocheńskiego,2469011-26901,3458,50.262783,18.986773,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-26901/
 Załęże Bocheńskiego,2469011-26902,3459,50.261753,18.98674,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-26902/
 Załęże Dom Kultury,2469011-27101,4530,50.27038,18.974504,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27101/
@@ -7122,6 +7114,7 @@ granica DĄBR - SŁAW (Groniec),GR09302,891,50.29871,19.301888,https://rj.metrop
 granica DĄBR - SŁAW (Strzemieszycka),GR09401,892,50.306072,19.344826,https://rj.metropoliaztm.pl/rozklady/przystanek/GR09401/
 granica DĄBR - SŁAW (Strzemieszycka),GR09402,893,50.306057,19.34521,https://rj.metropoliaztm.pl/rozklady/przystanek/GR09402/
 granica DĄBR - ŁAZY (Tucznawa),GR09701,894,50.396027,19.327383,https://rj.metropoliaztm.pl/rozklady/przystanek/GR09701/
+granica DĄBR - ŁAZY (Łęka),GR09601,895,50.368332,19.395725,https://rj.metropoliaztm.pl/rozklady/przystanek/GR09601/
 granica GIER - GLIW (Bojków),GR10301,903,50.235264,18.720497,https://rj.metropoliaztm.pl/rozklady/przystanek/GR10301/
 granica GIER - GLIW (Bojków),GR10302,7394,50.23542,18.720242,https://rj.metropoliaztm.pl/rozklady/przystanek/GR10302/
 granica GIER - GLIW (Przyszowice),GR10201,904,50.25986,18.725595,https://rj.metropoliaztm.pl/rozklady/przystanek/GR10201/
@@ -7423,7 +7416,6 @@ granica ŚWIE - TARN (Nowe Chechło),GR72901,830,50.44959,18.886362,https://rj.m
 Łagiewniki Targowisko,2462011-08103,3044,50.32023,18.927324,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08103/
 Łagiewniki Targowisko,2462011-08103t,3045,50.320045,18.925327,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08103t/
 Łagiewniki Targowisko,2462011-08104t,3047,50.32002,18.925577,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08104t/
-Łagiewniki Targowisko,2462011-08131,8814,50.3212,18.92654,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08131/
 Łagiewniki Zajezdnia,2462011-08201t,4614,50.31752,18.946571,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08201t/
 Łagiewniki Zajezdnia,2462011-08202t,4615,50.31799,18.946487,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-08202t/
 Łagiewniki Zajezdnia Dysp. [tech],2462011-90201t,5106,50.31866,18.94638,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-90201t/
@@ -7721,8 +7713,6 @@ granica ŚWIE - TARN (Nowe Chechło),GR72901,830,50.44959,18.886362,https://rj.m
 Żory Dworzec Kolejowy,2479011-00301,8693,50.05057,18.704025,https://rj.metropoliaztm.pl/rozklady/przystanek/2479011-00301/
 Żory Pszczyńska - Dworcowa,2479011-00701,10798,50.046413,18.699,https://rj.metropoliaztm.pl/rozklady/przystanek/2479011-00701/
 Żory Pszczyńska - Rondo,2479011-00803,10799,50.044167,18.703142,https://rj.metropoliaztm.pl/rozklady/przystanek/2479011-00803/
-Żory Pszczyńska-Dworcowa,2479011-00701,10688,50.046413,18.699,https://rj.metropoliaztm.pl/rozklady/przystanek/2479011-00701/
-Żory Pszczyńska-Rondo,2479011-00801,10689,50.044167,18.703142,https://rj.metropoliaztm.pl/rozklady/przystanek/2479011-00801/
 Żwaków Bielska,2477011-21801,6213,50.104797,18.972042,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-21801/
 Żwaków Bielska,2477011-21802,6231,50.105453,18.972664,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-21802/
 Żwaków Borowa I,2477011-21502,6225,50.11166,18.963758,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-21502/
