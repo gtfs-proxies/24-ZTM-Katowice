@@ -2075,7 +2075,6 @@ Helenka Kościół,2478011-02101,1161,50.37868,18.809135,https://rj.metropoliazt
 Helenka Kościół,2478011-02102,1162,50.378365,18.808588,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02102/
 Helenka PCK,2478011-02201,1159,50.37511,18.804974,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02201/
 Helenka PCK,2478011-02202,1160,50.37538,18.80505,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02202/
-Hołdunów Fińskie Domki,2414031-03201,1165,50.14161,19.141954,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03201/
 Hołdunów Fińskie Domki,2414031-03202,1166,50.14152,19.141493,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03202/
 Hołdunów Imielińska,2414031-02801,1171,50.1513,19.134611,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02801/
 Hołdunów Imielińska,2414031-02802,1172,50.151794,19.134523,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02802/
@@ -2092,7 +2091,6 @@ Hołdunów Przejazd Kolejowy (ul. Pokoju),2414031-03604,1177,50.14076,19.126999,
 Hołdunów Pętla,2414031-02601,1173,50.153725,19.136059,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02601/
 Hołdunów Restauracja,2414031-03502,1179,50.14183,19.129673,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03502/
 Hołdunów Targowisko,2414031-03101,1180,50.142017,19.133764,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03101/
-Hołdunów Targowisko,2414031-03102,1181,50.14225,19.132282,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03102/
 Imielin Autostrada,2414021-00301,3976,50.15715,19.232742,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-00301/
 Imielin Centrum Przesiadkowe,2414021-02301,8221,50.142315,19.1759,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-02301/
 Imielin Dworzec PKP,2414021-00401,3516,50.143547,19.176218,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-00401/
@@ -3004,13 +3002,10 @@ Lędziny Kościół,2414031-00301,1551,50.128727,19.103807,https://rj.metropolia
 Lędziny Kościół,2414031-00302,1552,50.12876,19.103937,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00302/
 Lędziny Pomnik,2414031-00201,1554,50.12969,19.108265,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00201/
 Lędziny Pomnik,2414031-00202,1553,50.130714,19.108662,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00202/
-Lędziny Stadion Miejski,2414031-04631,10800,50.135323,19.11769,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-04631/
 Lędziny Urząd Miasta,2414031-00101,2980,50.13844,19.120453,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00101/
 Lędziny Urząd Miasta,2414031-00102,2981,50.137657,19.118189,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00102/
 Lędziny Zamkowa,2414031-01301,1558,50.130867,19.095798,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01301/
 Lędziny Zamkowa,2414031-01302,1557,50.130894,19.095585,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01302/
-Lędziny Zamkowa,2414031-01333,10645,50.130398,19.097422,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01333/
-Lędziny Zamkowa,2414031-01334,10655,50.130142,19.097187,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01334/
 Lędziny Zespół Szkół,2414031-00801,4997,50.121517,19.123693,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00801/
 Lędziny Zespół Szkół,2414031-00802,5681,50.122013,19.124596,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00802/
 Maciejkowice Dwór,2463011-08201,1614,50.32155,18.978455,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-08201/
@@ -3795,6 +3790,7 @@ Orzesze Myto,2408031-01101,10730,50.136864,18.76642,https://rj.metropoliaztm.pl/
 Orzesze Myto,2408031-01102,10786,50.13718,18.766895,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-01102/
 Orzesze Pocztowa,2408031-00301,10718,50.15746,18.776508,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-00301/
 Orzesze Pocztowa,2408031-00302,10717,50.15721,18.77653,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-00302/
+Orzesze Rondo Górnośląskie,2408031-01001,10725,50.14288,18.774534,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-01001/
 Orzesze Rybnicka,2408031-05001,10675,50.135525,18.759756,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05001/
 Orzesze Rybnicka,2408031-05002,10674,50.135284,18.759466,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05002/
 Orzesze Szkoła,2408031-00501,10713,50.14973,18.779308,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-00501/
