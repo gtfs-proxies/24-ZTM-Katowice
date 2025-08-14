@@ -1606,9 +1606,9 @@ Gliwice Dąbrowskiego,2466011-02501,514,50.297626,18.69232,https://rj.metropolia
 Gliwice Dąbrowskiego,2466011-02502,516,50.297714,18.692453,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-02502/
 Gliwice Dąbrowskiego,2466011-02503,517,50.297558,18.69514,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-02503/
 Gliwice Dąbrowskiego,2466011-02504,515,50.297436,18.695345,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-02504/
-Gliwice Edisona,2466011-05432,10656,50.317432,18.643568,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-05432/
 Gliwice Edisona,2466011-07901,3494,50.3165,18.645643,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-07901/
 Gliwice Edisona,2466011-07902,3495,50.316063,18.645815,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-07902/
+Gliwice Edisona,2466011-07932,10656,50.317432,18.643568,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-07932/
 Gliwice Estakada Heweliusza nż,2466011-05401,2370,50.32065,18.642538,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-05401/
 Gliwice Estakada Heweliusza nż,2466011-05402,2371,50.319386,18.643482,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-05402/
 Gliwice Estakada Heweliusza nż,2466011-05432,10658,50.32084,18.642097,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-05432/
@@ -4562,7 +4562,7 @@ Psary Invest Park Akacjowa,2401062-06101,7602,50.373756,19.132452,https://rj.met
 Psary Invest Park Podgórna,2401062-06001,7603,50.370453,19.137022,https://rj.metropoliaztm.pl/rozklady/przystanek/2401062-06001/
 Psary Kościół,2401062-03701,2461,50.37732,19.096373,https://rj.metropoliaztm.pl/rozklady/przystanek/2401062-03701/
 Psary Kościół,2401062-03702,2462,50.37721,19.096298,https://rj.metropoliaztm.pl/rozklady/przystanek/2401062-03702/
-Psary Kościół,2401062-03703,10471,50.377087,19.096968,https://rj.metropoliaztm.pl/rozklady/przystanek/2401062-03703/
+Psary Kościół,2401062-03703,10471,50.377327,19.097363,https://rj.metropoliaztm.pl/rozklady/przystanek/2401062-03703/
 Psary OPS,2401062-04101,10583,50.380676,19.099855,https://rj.metropoliaztm.pl/rozklady/przystanek/2401062-04101/
 Psary OPS,2401062-04102,10584,50.380802,19.10003,https://rj.metropoliaztm.pl/rozklady/przystanek/2401062-04102/
 Psary OPS,2401062-04103,10585,50.380245,19.100473,https://rj.metropoliaztm.pl/rozklady/przystanek/2401062-04103/
