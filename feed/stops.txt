@@ -367,7 +367,9 @@ Brynów Gawronów II,2469011-10101,715,50.23752,19.004189,https://rj.metropoliaz
 Brynów Gawronów II,2469011-10102,716,50.2373,19.004438,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10102/
 Brynów Gawronów Kościół,2469011-10001,10525,50.236904,19.008718,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10001/
 Brynów Gawronów Kościół,2469011-10002,10526,50.236835,19.00727,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10002/
+Brynów Kopalnia Wujek,2469011-10201,10651,50.241398,18.987995,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10201/
 Brynów Kopalnia Wujek,2469011-10201,294,50.241333,18.98806,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10201/
+Brynów Kopalnia Wujek,2469011-10202,10652,50.24133,18.987276,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10202/
 Brynów Kopalnia Wujek,2469011-10202,295,50.24133,18.987276,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10202/
 Brynów Kościuszki,2469011-10401,291,50.227455,18.993177,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10401/
 Brynów Kościuszki,2469011-10403,293,50.226734,18.99204,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10403/
@@ -2075,6 +2077,7 @@ Helenka Kościół,2478011-02101,1161,50.37868,18.809135,https://rj.metropoliazt
 Helenka Kościół,2478011-02102,1162,50.378365,18.808588,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02102/
 Helenka PCK,2478011-02201,1159,50.37511,18.804974,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02201/
 Helenka PCK,2478011-02202,1160,50.37538,18.80505,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02202/
+Hołdunów Fińskie Domki,2414031-03201,1165,50.14161,19.141954,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03201/
 Hołdunów Fińskie Domki,2414031-03202,1166,50.14152,19.141493,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03202/
 Hołdunów Imielińska,2414031-02801,1171,50.1513,19.134611,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02801/
 Hołdunów Imielińska,2414031-02802,1172,50.151794,19.134523,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02802/
@@ -2091,6 +2094,7 @@ Hołdunów Przejazd Kolejowy (ul. Pokoju),2414031-03604,1177,50.14076,19.126999,
 Hołdunów Pętla,2414031-02601,1173,50.153725,19.136059,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02601/
 Hołdunów Restauracja,2414031-03502,1179,50.14183,19.129673,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03502/
 Hołdunów Targowisko,2414031-03101,1180,50.142017,19.133764,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03101/
+Hołdunów Targowisko,2414031-03102,1181,50.14225,19.132282,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03102/
 Imielin Autostrada,2414021-00301,3976,50.15715,19.232742,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-00301/
 Imielin Centrum Przesiadkowe,2414021-02301,8221,50.142315,19.1759,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-02301/
 Imielin Dworzec PKP,2414021-00401,3516,50.143547,19.176218,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-00401/
@@ -2185,11 +2189,7 @@ Jaworzno Wysoki Brzeg,2468011-00801,7481,50.207394,19.180567,https://rj.metropol
 Jaworzno Wysoki Brzeg,2468011-00802,7478,50.207714,19.18135,https://rj.metropoliaztm.pl/rozklady/przystanek/2468011-00802/
 Jaśkowice,2413092-02301,7929,50.41402,18.659573,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-02301/
 Jaśkowice,2413092-02302,7930,50.41402,18.659573,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-02302/
-Jaśkowice Brylantowa,2408031-05401,10797,50.146584,18.757065,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05401/
 Jaśkowice Osiedle,2413092-08401,5862,50.41631,18.66685,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-08401/
-Jaśkowice Stacja PKP,2408031-05301,10795,50.14569,18.74596,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05301/
-Jaśkowice Stacja PKP,2408031-05302,10796,50.145668,18.745531,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05302/
-Jaśkowice Wolności,2408031-05201,10678,50.143147,18.746498,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05201/
 Jedlina Bojszowska nż,2414042-02019,6762,50.049564,19.131386,https://rj.metropoliaztm.pl/rozklady/przystanek/2414042-02019/
 Jedlina Bojszowska nż,2414042-02020,6781,50.049477,19.1313,https://rj.metropoliaztm.pl/rozklady/przystanek/2414042-02020/
 Jedlina Nasypowa nż,2414042-02315,6782,50.053726,19.147587,https://rj.metropoliaztm.pl/rozklady/przystanek/2414042-02315/
@@ -3002,10 +3002,13 @@ Lędziny Kościół,2414031-00301,1551,50.128727,19.103807,https://rj.metropolia
 Lędziny Kościół,2414031-00302,1552,50.12876,19.103937,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00302/
 Lędziny Pomnik,2414031-00201,1554,50.12969,19.108265,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00201/
 Lędziny Pomnik,2414031-00202,1553,50.130714,19.108662,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00202/
+Lędziny Stadion Miejski,2414031-04631,10800,50.135323,19.11769,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-04631/
 Lędziny Urząd Miasta,2414031-00101,2980,50.13844,19.120453,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00101/
 Lędziny Urząd Miasta,2414031-00102,2981,50.137657,19.118189,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00102/
 Lędziny Zamkowa,2414031-01301,1558,50.130867,19.095798,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01301/
 Lędziny Zamkowa,2414031-01302,1557,50.130894,19.095585,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01302/
+Lędziny Zamkowa,2414031-01333,10645,50.130398,19.097422,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01333/
+Lędziny Zamkowa,2414031-01334,10655,50.130142,19.097187,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01334/
 Lędziny Zespół Szkół,2414031-00801,4997,50.121517,19.123693,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00801/
 Lędziny Zespół Szkół,2414031-00802,5681,50.122013,19.124596,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00802/
 Maciejkowice Dwór,2463011-08201,1614,50.32155,18.978455,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-08201/
@@ -3768,8 +3771,6 @@ Orzesze II,2408031-00701,6597,50.153023,18.795155,https://rj.metropoliaztm.pl/ro
 Orzesze II,2408031-00702,6580,50.15251,18.794415,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-00702/
 Orzesze II nż,2408031-00701,10729,50.153023,18.795155,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-00701/
 Orzesze II nż,2408031-00702,10720,50.15251,18.794415,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-00702/
-Orzesze Jaśkowicka,2408031-05601,10683,50.150017,18.772867,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05601/
-Orzesze Jaśkowicka II,2408031-05501,10682,50.146908,18.767462,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05501/
 Orzesze Kawika,2408031-01301,6603,50.122284,18.763151,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-01301/
 Orzesze Kawika,2408031-01302,6675,50.122147,18.76327,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-01302/
 Orzesze Kościół,2408031-00101,10719,50.14543,18.777325,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-00101/
@@ -3791,8 +3792,6 @@ Orzesze Myto,2408031-01102,10786,50.13718,18.766895,https://rj.metropoliaztm.pl/
 Orzesze Pocztowa,2408031-00301,10718,50.15746,18.776508,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-00301/
 Orzesze Pocztowa,2408031-00302,10717,50.15721,18.77653,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-00302/
 Orzesze Rondo Górnośląskie,2408031-01001,10725,50.14288,18.774534,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-01001/
-Orzesze Rybnicka,2408031-05001,10675,50.135525,18.759756,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05001/
-Orzesze Rybnicka,2408031-05002,10674,50.135284,18.759466,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05002/
 Orzesze Szkoła,2408031-00501,10713,50.14973,18.779308,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-00501/
 Orzesze Szkoła,2408031-00501,1987,50.14973,18.779308,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-00501/
 Orzesze Szpital,2408031-00301,3529,50.15746,18.776508,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-00301/
@@ -5234,6 +5233,8 @@ Stara Ligota Filarowa,2469011-14101,8363,50.231606,18.978628,https://rj.metropol
 Stara Ligota Filarowa,2469011-14102,8362,50.23173,18.978909,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-14102/
 Stara Ligota Rolna,2469011-24101,298,50.23142,18.983425,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24101/
 Stara Ligota Rolna,2469011-24102,299,50.231556,18.982813,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24102/
+Stara Ligota Stroma,2469011-24201,10653,50.240692,18.980936,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24201/
+Stara Ligota Stroma,2469011-24202,10654,50.24001,18.98072,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24202/
 Stara Ligota Stroma,2469011-24202,303,50.24001,18.98072,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24202/
 Stara Ligota Wiadukt,2469011-24301,3974,50.238586,18.9863,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24301/
 Stara Ligota Wiadukt,2469011-24302,3975,50.238518,18.986794,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24302/
@@ -6710,8 +6711,6 @@ Zawada Kawika nż,2408031-01301,10732,50.122284,18.763151,https://rj.metropoliaz
 Zawada Kawika nż,2408031-01302,10784,50.122147,18.76327,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-01302/
 Zawada Nowowiejska,2401052-03401,4030,50.4367,19.096045,https://rj.metropoliaztm.pl/rozklady/przystanek/2401052-03401/
 Zawada Nowowiejska,2401052-03402,4029,50.436794,19.095768,https://rj.metropoliaztm.pl/rozklady/przystanek/2401052-03402/
-Zawada Rybnicka,2408031-05101,10794,50.131565,18.748716,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05101/
-Zawada Rybnicka,2408031-05102,10793,50.131447,18.748383,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-05102/
 Zawada Szkolna,2408031-01201,10785,50.12971,18.764597,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-01201/
 Zawada Szkolna,2408031-01202,10731,50.129463,18.76467,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-01202/
 Zawiść Skrzyżowanie,2408031-03801,10737,50.120205,18.814188,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-03801/
