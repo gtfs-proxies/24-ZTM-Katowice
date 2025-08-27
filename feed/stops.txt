@@ -6525,6 +6525,8 @@ Wypaleniska nż,2465011-16701,4862,50.351025,19.387264,https://rj.metropoliaztm.
 Wypaleniska nż,2465011-16702,4863,50.351166,19.387093,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-16702/
 Wyry Główna,2408052-00501,5183,50.13363,18.902658,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00501/
 Wyry Główna,2408052-00502,5184,50.13338,18.9027,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00502/
+Wyry Profilowa,2408052-03731,10827,50.13455,18.892557,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-03731/
+Wyry Profilowa,2408052-03732,10826,50.134525,18.892735,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-03732/
 Wyry Przejazd Kolejowy,2408052-00701,5188,50.12528,18.884066,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00701/
 Wyry Przejazd Kolejowy,2408052-00702,5187,50.125557,18.884,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00702/
 Wyry Skrzyżowanie,2408052-00401,5182,50.136063,18.894203,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00401/
