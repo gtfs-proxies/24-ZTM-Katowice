@@ -3218,6 +3218,7 @@ Miedary Ferma nż,2413092-01201,7953,50.463154,18.743874,https://rj.metropoliazt
 Miedary Ferma nż,2413092-01202,7954,50.463154,18.743874,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-01202/
 Miedary Kopanina,2413092-00601,7958,50.46003,18.761349,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-00601/
 Miedary Kopanina,2413092-00602,7957,50.45997,18.761574,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-00602/
+Miedary Kopernika,2413092-00801,5867,50.456985,18.758667,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-00801/
 Miedary Osiedle,2413092-01101,7955,50.458233,18.750643,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-01101/
 Miedary Osiedle,2413092-01102,7956,50.458065,18.75064,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-01102/
 Miedary Posesja 17,2413092-00901,5881,50.455536,18.759224,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-00901/
