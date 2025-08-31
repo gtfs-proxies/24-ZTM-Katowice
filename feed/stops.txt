@@ -460,7 +460,6 @@ Brzozowica Osiedle,2401011-12001,5461,50.333958,19.149664,https://rj.metropoliaz
 Brzozowica Osiedle,2401011-12002,5466,50.333958,19.149536,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-12002/
 Brzozowica Park nż,2401011-11401,5458,50.332733,19.133726,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-11401/
 Brzozowica Park nż,2401011-11402,5459,50.332855,19.134111,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-11402/
-Brzozowica Plaża Miejska,2401011-12501,7876,50.33075,19.144499,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-12501/
 Brzozowica nż,2401011-11801,10036,50.3329,19.140362,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-11801/
 Brzozowica nż,2401011-11802,10035,50.332977,19.140778,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-11802/
 Brzozowice,2471011-01001,355,50.369854,18.97056,https://rj.metropoliaztm.pl/rozklady/przystanek/2471011-01001/
@@ -2377,7 +2376,6 @@ Katowice Grundmanna,2469011-29601t,8811,50.262947,19.007854,https://rj.metropoli
 Katowice Grundmanna,2469011-29602t,8812,50.26286,19.007662,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29602t/
 Katowice Grundmanna Office Park,2469011-29701t,8809,50.26661,19.011007,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29701t/
 Katowice Grundmanna Office Park,2469011-29702t,8810,50.266727,19.010803,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29702t/
-Katowice Górnośląska Os. Paderewskiego,2469011-35601,7277,50.245907,19.025833,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-35601/
 Katowice Hutnicza,2469011-37001,5454,50.252216,19.056278,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-37001/
 Katowice Jagiellońska,2469011-02001,3688,50.25406,19.02369,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-02001/
 Katowice Jordana,2469011-01901t,10606,50.25176,19.015085,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01901t/
@@ -3060,7 +3058,6 @@ Lędziny Osiedle PKP,2414031-00601,2135,50.124348,19.116959,https://rj.metropoli
 Lędziny Osiedle PKP,2414031-00602,2136,50.123966,19.118093,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00602/
 Lędziny Pomnik,2414031-00201,1554,50.12969,19.108265,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00201/
 Lędziny Pomnik,2414031-00202,1553,50.130714,19.108662,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00202/
-Lędziny Stadion Miejski,2414031-04631,10800,50.135376,19.117632,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-04631/
 Lędziny Stadionowa Przedszkole,2414031-01201,6684,50.134457,19.119137,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01201/
 Lędziny Szkoła,2414031-00501,1555,50.128246,19.111097,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00501/
 Lędziny Szkoła,2414031-00502,1556,50.12807,19.111538,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00502/
@@ -3069,8 +3066,6 @@ Lędziny Urząd Miasta,2414031-00102,2981,50.137657,19.118189,https://rj.metropo
 Lędziny Zakole,2414031-01401,8672,50.135616,19.099415,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01401/
 Lędziny Zamkowa,2414031-01301,1558,50.130867,19.095798,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01301/
 Lędziny Zamkowa,2414031-01302,1557,50.130894,19.095585,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01302/
-Lędziny Zamkowa,2414031-01333,10645,50.130375,19.097586,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01333/
-Lędziny Zamkowa,2414031-01334,10655,50.130184,19.097485,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-01334/
 Lędziny Zespół Szkół,2414031-00801,4997,50.121517,19.123693,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00801/
 Lędziny Zespół Szkół,2414031-00802,5681,50.122013,19.124596,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-00802/
 Maciejkowice Dwór,2463011-08201,1614,50.32155,18.978455,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-08201/
@@ -3279,7 +3274,6 @@ Mikołów Kopalnia Barbara,2408021-02201,1412,50.17953,18.930403,https://rj.metr
 Mikołów Kopalnia Barbara,2408021-02202,1413,50.179638,18.930275,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-02202/
 Mikołów Krakowska,2408021-01701,4769,50.16461,18.913054,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-01701/
 Mikołów Krakowska,2408021-01702,4768,50.166035,18.909739,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-01702/
-Mikołów Krakowska,2408021-01703,10589,50.16584,18.910187,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-01703/
 Mikołów Mimet,2408021-01001,6455,50.164227,18.877638,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-01001/
 Mikołów Mimet,2408021-01002,6451,50.164314,18.878025,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-01002/
 Mikołów Musioła,2408021-02001,1807,50.17322,18.912636,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-02001/
@@ -4860,8 +4854,6 @@ Rojca Nieznanego Żołnierza,2413031-01201,2535,50.387043,18.899092,https://rj.m
 Rojca Nieznanego Żołnierza,2413031-01202,2536,50.38708,18.89929,https://rj.metropoliaztm.pl/rozklady/przystanek/2413031-01202/
 Rojca Rondo,2413031-01231,10114,50.38513,18.899,https://rj.metropoliaztm.pl/rozklady/przystanek/2413031-01231/
 Rojca Rondo,2413031-01232,10115,50.384323,18.900343,https://rj.metropoliaztm.pl/rozklady/przystanek/2413031-01232/
-Rojca Rondo,2413031-99831,10136,50.38513,18.899,https://rj.metropoliaztm.pl/rozklady/przystanek/2413031-99831/
-Rojca Rondo,2413031-99832,10137,50.384323,18.900343,https://rj.metropoliaztm.pl/rozklady/przystanek/2413031-99832/
 Rojca Sikorskiego,2413031-01301,3832,50.38612,18.890894,https://rj.metropoliaztm.pl/rozklady/przystanek/2413031-01301/
 Rojca Sikorskiego,2413031-01302,3833,50.385162,18.892536,https://rj.metropoliaztm.pl/rozklady/przystanek/2413031-01302/
 Rojca Szarlejka nż,2413031-01401,4088,50.372585,18.914059,https://rj.metropoliaztm.pl/rozklady/przystanek/2413031-01401/
@@ -5612,7 +5604,6 @@ Szczakowa Lokomotywownia,2468011-00401,4104,50.252213,19.27438,https://rj.metrop
 Szczakowa Lokomotywownia,2468011-00402,4105,50.252846,19.273779,https://rj.metropoliaztm.pl/rozklady/przystanek/2468011-00402/
 Szczakowa Osiedle Gagarina,2468011-00501,2924,50.240543,19.289213,https://rj.metropoliaztm.pl/rozklady/przystanek/2468011-00501/
 Szczakowa Osiedle Gagarina,2468011-00502,2925,50.240417,19.289299,https://rj.metropoliaztm.pl/rozklady/przystanek/2468011-00502/
-Szczakowa Ośrodek Sosina,2468011-00601,4989,50.243843,19.324219,https://rj.metropoliaztm.pl/rozklady/przystanek/2468011-00601/
 Szczakowa Przychodnia,2468011-00701,4102,50.243553,19.294266,https://rj.metropoliaztm.pl/rozklady/przystanek/2468011-00701/
 Szczakowa Przychodnia,2468011-00702,4103,50.243637,19.294432,https://rj.metropoliaztm.pl/rozklady/przystanek/2468011-00702/
 Szczygłowice Centrum Przesiadkowe,2405011-03301,7922,50.18865,18.62184,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-03301/
