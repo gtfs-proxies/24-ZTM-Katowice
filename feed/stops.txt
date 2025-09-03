@@ -609,7 +609,6 @@ Bytom Matejki,2462011-02601,3602,50.348152,18.92757,https://rj.metropoliaztm.pl/
 Bytom Miarki,2462011-15201,8952,50.343597,18.926262,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-15201/
 Bytom Mickiewicza,2462011-02701,1683,50.357624,18.928923,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-02701/
 Bytom Moniuszki,2462011-02801t,4572,50.34526,18.916767,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-02801t/
-Bytom Musialika,2462011-15801,8947,50.35024,18.935738,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-15801/
 Bytom Nawrota,2462011-02901,1842,50.351704,18.91886,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-02901/
 Bytom Odrzańska nż,2462011-03001,1935,50.36118,18.903822,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03001/
 Bytom Odrzańska nż,2462011-03001t,1936,50.36314,18.899578,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03001t/
@@ -643,7 +642,6 @@ Bytom Smolenia,2462011-04501,10661,50.35239,18.919907,https://rj.metropoliaztm.p
 Bytom Smolenia,2462011-04501t,4575,50.351933,18.9196,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-04501t/
 Bytom Smolenia,2462011-04502,10662,50.35192,18.919527,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-04502/
 Bytom Smolenia,2462011-04502t,4576,50.352406,18.919878,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-04502t/
-Bytom Sokoła,2462011-15901,8949,50.349434,18.92904,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-15901/
 Bytom Stadion,2462011-04701,5164,50.356308,18.90007,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-04701/
 Bytom Stadion,2462011-04702,5165,50.35605,18.900974,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-04702/
 Bytom Strzelców Bytomskich,2462011-04801,2814,50.35057,18.91406,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-04801/
@@ -1005,6 +1003,7 @@ Chorzów Sobieskiego,2463011-05531,10479,50.294556,18.951546,https://rj.metropol
 Chorzów Stabika,2463011-05601,2731,50.310215,18.950132,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05601/
 Chorzów Stabika,2463011-05602,2732,50.31079,18.949017,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05602/
 Chorzów Stabika,2463011-05603,5441,50.31031,18.95025,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05603/
+Chorzów Stadion Śl Pętla Zach. [tech],2469011-29001t,10084,50.286602,18.969881,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29001t/
 Chorzów Stadion Śl Pętla Zach.[tech.],2469011-29001t,8452,50.286263,18.969788,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29001t/
 Chorzów Stadion Śląski,2463011-05704,10478,50.28837,18.967726,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05704/
 Chorzów Stadion Śląski,2463011-05732,10506,50.287525,18.96776,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05732/
@@ -7484,14 +7483,14 @@ granica ŚWIE - TARN (Nowe Chechło),GR72901,830,50.44959,18.886362,https://rj.m
 Łabędy Magazyny nż,2466011-19501,4137,50.368046,18.612783,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-19501/
 Łabędy Magazyny nż,2466011-19502,4138,50.367847,18.612633,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-19502/
 Łabędy Narutowicza,2466011-23131,10672,50.343227,18.631279,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-23131/
-Łabędy Narutowicza,2466011-23132,10673,50.34288,18.630978,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-23132/
+Łabędy Narutowicza,2466011-23132,10673,50.342945,18.63096,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-23132/
 Łabędy Ogródki Działkowe nż,2466011-20401,5587,50.349888,18.625017,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-20401/
 Łabędy Ogródki Działkowe nż,2466011-20402,5586,50.35048,18.625082,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-20402/
 Łabędy Olimpijska nż,2466011-09501,4792,50.34776,18.624052,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-09501/
 Łabędy Olimpijska nż,2466011-09502,4793,50.3475,18.624079,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-09502/
 Łabędy Osiedle,2466011-09001,3012,50.338943,18.631117,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-09001/
 Łabędy Osiedle,2466011-09002,3013,50.33891,18.6305,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-09002/
-Łabędy Osiedle,2466011-09032,10072,50.3388,18.632093,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-09032/
+Łabędy Osiedle,2466011-09032,10072,50.338753,18.632484,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-09032/
 Łabędy Oświęcimska nż,2466011-19401,4135,50.365902,18.621817,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-19401/
 Łabędy Oświęcimska nż,2466011-19402,4136,50.365677,18.621796,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-19402/
 Łabędy Partyzantów,2466011-09101,3014,50.339664,18.631712,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-09101/
@@ -7665,14 +7664,13 @@ granica ŚWIE - TARN (Nowe Chechło),GR72901,830,50.44959,18.886362,https://rj.m
 Łosień Koksownicza,2465011-05201,4908,50.34721,19.30852,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-05201/
 Łosień Koksownicza,2465011-05202,4909,50.347332,19.3089,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-05202/
 Łosień Koksownicza,2465011-05231,10823,50.346844,19.305166,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-05231/
-Łosień Koksownicza,2465011-05232,10824,50.3467,19.30397,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-05232/
 Łosień Koksownicza Parking,2465011-07901,3096,50.352173,19.353489,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-07901/
 Łosień Koksownicza Parking,2465011-07902,3097,50.352215,19.353216,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-07902/
 Łosień Las,2465011-08001,3104,50.354984,19.306658,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-08001/
 Łosień Las,2465011-08002,3105,50.355156,19.306583,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-08002/
 Łosień Poboczna,2465011-20201,5612,50.351215,19.337648,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-20201/
 Łosień Poboczna,2465011-20202,3095,50.351276,19.33739,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-20202/
-Łosień Pocztowa,2465011-25131,10828,50.351982,19.329441,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-25131/
+Łosień Pocztowa,2465011-25131,10828,50.351868,19.329126,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-25131/
 Łosień Szkoła,2465011-08201,3108,50.34996,19.330723,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-08201/
 Łosień Szkoła,2465011-08202,3109,50.34999,19.330503,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-08202/
 Łosień Szkoła Policyjna,2465011-08301,3106,50.352356,19.324457,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-08301/
