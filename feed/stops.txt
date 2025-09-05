@@ -2974,6 +2974,8 @@ Leszczyny Ligonia,2412014-01001,3756,50.141144,18.628983,https://rj.metropoliazt
 Leszczyny Rondo,2412014-01201,3757,50.1424,18.63313,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01201/
 Leszczyny Skrzyżowanie,2412014-01301,3959,50.140144,18.638721,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01301/
 Leszczyny Skrzyżowanie,2412014-01302,3960,50.140034,18.639076,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01302/
+Leszczyny Spółdzielnia,2412014-01401,10493,50.145554,18.670637,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01401/
+Leszczyny Spółdzielnia,2412014-01402,10494,50.145332,18.667809,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01402/
 Leszczyny Stare,2412014-01501,3957,50.1325,18.644924,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01501/
 Leszczyny Stare,2412014-01502,3958,50.132668,18.644888,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01502/
 Leszczyny Szkoła,2412014-01601,5091,50.13826,18.64065,https://rj.metropoliaztm.pl/rozklady/przystanek/2412014-01601/
@@ -4109,6 +4111,8 @@ Ostrowy Górnicze Kolonia Leśna Sklep,2475011-07602,2162,50.28025,19.271624,htt
 Ostrowy Górnicze Kościół,2475011-07701,2158,50.290016,19.259413,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-07701/
 Ostrowy Górnicze Niecała,2475011-07801,2167,50.28463,19.26659,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-07801/
 Ostrowy Górnicze Niecała,2475011-07802,2168,50.284588,19.266645,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-07802/
+Ostrowy Górnicze Niecała,2475011-07803,7163,50.285378,19.262093,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-07803/
+Ostrowy Górnicze Niecała,2475011-07804,7162,50.286064,19.26233,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-07804/
 Ostrowy Górnicze Pomnik,2475011-07901,2169,50.29071,19.268362,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-07901/
 Ostrowy Górnicze Pomnik,2475011-07902,2170,50.291424,19.26822,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-07902/
 Ostrowy Górnicze Pomnik,2475011-07903,7136,50.289772,19.267124,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-07903/
@@ -7596,6 +7600,8 @@ granica ŚWIE - TARN (Nowe Chechło),GR72901,830,50.44959,18.886362,https://rj.m
 Łagisza Pustkowie nż,2401011-07702,3076,50.354923,19.121231,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-07702/
 Łagisza Pustkowie nż,2401011-07703,3077,50.355442,19.121574,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-07703/
 Łagisza Pustkowie nż,2401011-07704,3078,50.355457,19.121918,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-07704/
+Łagisza Rzemieślnicza nż,2401011-12701,10835,50.344852,19.15849,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-12701/
+Łagisza Rzemieślnicza nż,2401011-12702,10834,50.34477,19.158312,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-12702/
 Łany Wielkie,2405065-01201,6038,50.284313,18.54162,https://rj.metropoliaztm.pl/rozklady/przystanek/2405065-01201/
 Łany Wielkie,2405065-01202,6039,50.284534,18.541973,https://rj.metropoliaztm.pl/rozklady/przystanek/2405065-01202/
 Łany Wielkie Polna,2405065-00601,6036,50.28917,18.54425,https://rj.metropoliaztm.pl/rozklady/przystanek/2405065-00601/
