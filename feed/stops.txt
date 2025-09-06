@@ -2406,6 +2406,7 @@ Katowice Osiedle Kopalni Wujek,2469011-09202,2019,50.25178,18.98952,https://rj.m
 Katowice Piotra Skargi,2469011-00802,3697,50.26188,19.018658,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00802/
 Katowice Piotra Skargi,2469011-00803,3698,50.262,19.0184,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00803/
 Katowice Piotra Skargi,2469011-00804,5416,50.262154,19.018036,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00804/
+Katowice Piotra Skargi,2469011-00831,8595,50.261265,19.019978,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00831/
 Katowice Plac Miarki,2469011-01801,9744,50.254585,19.016737,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01801/
 Katowice Plac Miarki,2469011-01801t,4544,50.254845,19.017853,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01801t/
 Katowice Plac Miarki,2469011-01802,9742,50.254906,19.017607,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01802/
