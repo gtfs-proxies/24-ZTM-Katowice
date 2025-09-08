@@ -1003,7 +1003,6 @@ Chorzów Sobieskiego,2463011-05531,10479,50.294556,18.951546,https://rj.metropol
 Chorzów Stabika,2463011-05601,2731,50.310215,18.950132,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05601/
 Chorzów Stabika,2463011-05602,2732,50.31079,18.949017,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05602/
 Chorzów Stabika,2463011-05603,5441,50.31031,18.95025,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05603/
-Chorzów Stadion Śl Pętla Zach. [tech],2469011-29001t,10084,50.286602,18.969881,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29001t/
 Chorzów Stadion Śl Pętla Zach.[tech.],2469011-29001t,8452,50.286263,18.969788,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29001t/
 Chorzów Stadion Śląski,2463011-05704,10478,50.28837,18.967726,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05704/
 Chorzów Stadion Śląski,2463011-05732,10506,50.287525,18.96776,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05732/
@@ -6045,9 +6044,7 @@ Tychy Plac Baczyńskiego,2477011-14302,6179,50.12541,18.98159,https://rj.metropo
 Tychy Plac Wolności,2477011-09001,6176,50.131767,18.979218,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-09001/
 Tychy Plac Wolności,2477011-09002,6178,50.13166,18.979103,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-09002/
 Tychy Powstańców,2477011-05301,8713,50.135704,18.983595,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05301/
-Tychy Powstańców,2477011-05301,9152,50.135708,18.983553,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05301/
 Tychy Powstańców,2477011-05302,6183,50.13501,18.983242,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05302/
-Tychy Powstańców,2477011-05302,9147,50.13501,18.983242,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05302/
 Tychy Przemysłowa Hurtownie,2477011-12701,6307,50.105267,19.019098,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-12701/
 Tychy Przemysłowa I,2477011-12501,6342,50.104683,19.032272,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-12501/
 Tychy Przemysłowa I,2477011-12502,6310,50.105007,19.031597,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-12502/
@@ -6081,9 +6078,7 @@ Tychy Skałka,2477011-10501,6113,50.110065,18.979927,https://rj.metropoliaztm.pl
 Tychy Skałka,2477011-10502,2279,50.10979,18.980238,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-10502/
 Tychy Składowa,2477011-13002,6345,50.104385,19.010872,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-13002/
 Tychy Sokola,2477011-05201,6184,50.1378,18.984634,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05201/
-Tychy Sokola,2477011-05201,9148,50.13732,18.98437,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05201/
 Tychy Sokola,2477011-05202,6192,50.137794,18.984703,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05202/
-Tychy Sokola,2477011-05202,9150,50.137894,18.984755,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05202/
 Tychy Stadion,2477011-11101,8714,50.123116,18.98894,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-11101/
 Tychy Stadion,2477011-11102,6239,50.122593,18.989626,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-11102/
 Tychy Stoczniowców 70,2477011-10201,8702,50.11528,18.969843,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-10201/
@@ -6100,9 +6095,7 @@ Tychy Szpital Woj. [tech],2477011-23501,8055,50.113956,19.005283,https://rj.metr
 Tychy Szpital Wojewódzki,2477011-11801,6283,50.112858,19.00456,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-11801/
 Tychy Szpital Wojewódzki,2477011-11802,6260,50.11338,19.004635,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-11802/
 Tychy Słowicza,2477011-05101,6193,50.140244,18.985958,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05101/
-Tychy Słowicza,2477011-05101,9151,50.14024,18.985956,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05101/
 Tychy Słowicza,2477011-05102,6185,50.140232,18.986048,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05102/
-Tychy Słowicza,2477011-05102,9149,50.14019,18.986021,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05102/
 Tychy Targiela I,2477011-15001,7871,50.091984,19.004463,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-15001/
 Tychy Targiela II,2477011-09301,6275,50.092182,18.998692,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-09301/
 Tychy Targowisko,2477011-14501,160,50.12573,18.988436,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-14501/
