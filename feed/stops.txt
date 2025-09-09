@@ -2268,6 +2268,7 @@ Józefów Auchan,2475011-02501,4092,50.30575,19.16655,https://rj.metropoliaztm.p
 Józefów Auchan,2475011-02502,4093,50.30582,19.165768,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-02502/
 Józefów Komuny Paryskiej nż,2475011-02601,1241,50.307873,19.17434,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-02601/
 Józefów Makro,2475011-02702,1242,50.308895,19.17674,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-02702/
+Józefów Makro,2475011-02731,9800,50.30801,19.178225,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-02731/
 Józefów Makro,2475011-02732,9799,50.309032,19.178293,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-02732/
 Józefów Sokolska nż,2475011-18301,5345,50.30624,19.174849,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-18301/
 Jęzor Centrum Handlowe,2475011-02301,8490,50.229015,19.172403,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-02301/
@@ -2461,6 +2462,7 @@ Katowice Stęślickiego,2469011-08301,5074,50.267475,19.013165,https://rj.metrop
 Katowice Stęślickiego,2469011-08301t,5075,50.266945,19.014263,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-08301t/
 Katowice Stęślickiego,2469011-08302t,5077,50.26688,19.014248,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-08302t/
 Katowice Szkolna,2469011-10701,3699,50.25873,19.026909,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10701/
+Katowice Szkoła Filmowa UŚ,2469011-07601,7342,50.257835,19.030777,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-07601/
 Katowice Szkoła Filmowa UŚ,2469011-07601t,4484,50.257866,19.030836,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-07601t/
 Katowice Szkoła Filmowa UŚ,2469011-07602t,4485,50.257954,19.030857,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-07602t/
 Katowice Sądowa,2469011-01201A,7170,50.258785,19.011524,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01201A/
@@ -3909,6 +3911,7 @@ Osada Jana Młodości,2413041-09601,9027,50.432236,18.87366,https://rj.metropoli
 Osada Jana Młodości,2413041-09602,9026,50.432205,18.87359,https://rj.metropoliaztm.pl/rozklady/przystanek/2413041-09602/
 Osada Jana Pawilon,2413041-06701,2132,50.433907,18.866642,https://rj.metropoliaztm.pl/rozklady/przystanek/2413041-06701/
 Osada Jana Pawilon,2413041-06702,8985,50.433704,18.86654,https://rj.metropoliaztm.pl/rozklady/przystanek/2413041-06702/
+Osada Jana Słoneczników,2413041-06832,8597,50.43658,18.864065,https://rj.metropoliaztm.pl/rozklady/przystanek/2413041-06832/
 Osada Jana Słoneczników nż,2413041-06801,2781,50.43667,18.863487,https://rj.metropoliaztm.pl/rozklady/przystanek/2413041-06801/
 Osiedle Bór Bloki,2475011-06601,1997,50.243217,19.17517,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-06601/
 Osiedle Bór Bloki,2475011-06602,1998,50.242798,19.174212,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-06602/
