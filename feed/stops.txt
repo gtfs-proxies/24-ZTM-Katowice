@@ -765,8 +765,6 @@ Będzin Zagórska,2401011-02801,3390,50.315887,19.137165,https://rj.metropoliazt
 Będzin Zagórska,2401011-02802,3391,50.316093,19.137154,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-02802/
 Będzin Zagórska,2401011-02831,10345,50.316936,19.136457,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-02831/
 Będzin Zagórska,2401011-02832,10342,50.316895,19.136307,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-02832/
-Będzin Zagórska,2401011-02833,10343,50.31563,19.136993,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-02833/
-Będzin Zagórska,2401011-02834,10344,50.315613,19.136868,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-02834/
 Będzin Zajezdnia Dysp. [tech],2401011-90101t,5133,50.328045,19.108536,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-90101t/
 Będzin Zamek,2401011-03001,3440,50.325012,19.127728,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-03001/
 Będzin Zamek,2401011-03001t,3441,50.326138,19.126043,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-03001t/
@@ -6360,9 +6358,6 @@ Wilkowyje Wierzbowa,2477011-19301,6132,50.150898,18.943438,https://rj.metropolia
 Wilkowyje Wierzbowa,2477011-19302,6133,50.15124,18.942966,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-19302/
 Wilkowyje Wąska,2477011-19101,6129,50.144566,18.956282,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-19101/
 Wilkowyje Wąska,2477011-19102,6125,50.14383,18.955208,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-19102/
-Wioski Dunikowskiego,2414021-04401,10402,50.13403,19.169216,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-04401/
-Wioski Dunikowskiego,2414021-04402,10401,50.133945,19.169624,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-04402/
-Wioski Dunikowskiego Pętla,2414021-03801,10312,50.131992,19.16868,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-03801/
 Wioski Kuczyńskiego,2414021-02401,10592,50.13953,19.174322,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-02401/
 Wioski Kuczyńskiego,2414021-02402,10593,50.139355,19.174309,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-02402/
 Wioski Kusocińskiego,2414021-03301,10304,50.138527,19.166683,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-03301/
