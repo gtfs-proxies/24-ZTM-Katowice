@@ -2411,7 +2411,6 @@ Katowice Osiedle Kopalni Wujek,2469011-09202,2019,50.25178,18.98952,https://rj.m
 Katowice Piotra Skargi,2469011-00802,3697,50.26188,19.018658,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00802/
 Katowice Piotra Skargi,2469011-00803,3698,50.262,19.0184,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00803/
 Katowice Piotra Skargi,2469011-00804,5416,50.262154,19.018036,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00804/
-Katowice Piotra Skargi,2469011-00831,8595,50.261265,19.019978,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00831/
 Katowice Plac Miarki,2469011-01801,9744,50.254585,19.016737,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01801/
 Katowice Plac Miarki,2469011-01801t,4544,50.254845,19.017853,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01801t/
 Katowice Plac Miarki,2469011-01802,9742,50.254906,19.017607,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01802/
@@ -2467,7 +2466,6 @@ Katowice Stęślickiego,2469011-08301,5074,50.267475,19.013165,https://rj.metrop
 Katowice Stęślickiego,2469011-08301t,5075,50.266945,19.014263,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-08301t/
 Katowice Stęślickiego,2469011-08302t,5077,50.26688,19.014248,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-08302t/
 Katowice Szkolna,2469011-10701,3699,50.25873,19.026909,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10701/
-Katowice Szkoła Filmowa UŚ,2469011-07601,7342,50.257835,19.030777,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-07601/
 Katowice Szkoła Filmowa UŚ,2469011-07601t,4484,50.257866,19.030836,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-07601t/
 Katowice Szkoła Filmowa UŚ,2469011-07602t,4485,50.257954,19.030857,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-07602t/
 Katowice Sądowa,2469011-01201A,7170,50.258785,19.011524,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01201A/
@@ -5150,6 +5148,7 @@ Sieroty Kościół,2405082-03101,5837,50.474186,18.602032,https://rj.metropoliaz
 Siewierz Camping nż,2401074-05401,395,50.461014,19.20143,https://rj.metropoliaztm.pl/rozklady/przystanek/2401074-05401/
 Siewierz Camping nż,2401074-05402,396,50.46116,19.20247,https://rj.metropoliaztm.pl/rozklady/przystanek/2401074-05402/
 Siewierz Dom Kultury,2401074-08201,5392,50.473587,19.234348,https://rj.metropoliaztm.pl/rozklady/przystanek/2401074-08201/
+Siewierz Kościół,2401074-08301,5397,50.468273,19.238342,https://rj.metropoliaztm.pl/rozklady/przystanek/2401074-08301/
 Siewierz Nowa Wieś,2401074-08401,7149,50.41556,19.205256,https://rj.metropoliaztm.pl/rozklady/przystanek/2401074-08401/
 Siewierz Pawilon,2401074-05601,4220,50.477295,19.235296,https://rj.metropoliaztm.pl/rozklady/przystanek/2401074-05601/
 Siewierz Pawilon,2401074-05602,4221,50.47719,19.235075,https://rj.metropoliaztm.pl/rozklady/przystanek/2401074-05602/
