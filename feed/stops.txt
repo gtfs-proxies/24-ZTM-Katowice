@@ -999,7 +999,7 @@ Chorzów Rynek,2463011-00104,10347,50.297787,18.955822,https://rj.metropoliaztm.
 Chorzów Rynek,2463011-00104,8118,50.297787,18.955822,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00104/
 Chorzów Rynek,2463011-00104t,5421,50.298027,18.95448,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00104t/
 Chorzów Rynek,2463011-00105t,7919,50.297318,18.95493,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00105t/
-Chorzów Rynek,2463011-00132,10348,50.297943,18.95602,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00132/
+Chorzów Rynek,2463011-00132,10348,50.297775,18.955755,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00132/
 Chorzów Składowa,2463011-05401,2676,50.307007,18.93264,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05401/
 Chorzów Składowa,2463011-05402,2677,50.306473,18.932823,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05402/
 Chorzów Sobieskiego,2463011-05501,9114,50.29509,18.95126,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05501/
@@ -1008,6 +1008,7 @@ Chorzów Sobieskiego,2463011-05531,10479,50.294556,18.951546,https://rj.metropol
 Chorzów Stabika,2463011-05601,2731,50.310215,18.950132,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05601/
 Chorzów Stabika,2463011-05602,2732,50.31079,18.949017,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05602/
 Chorzów Stabika,2463011-05603,5441,50.31031,18.95025,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05603/
+Chorzów Stadion Śl Pętla Zach. [tech],2469011-29001t,10084,50.286602,18.969881,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29001t/
 Chorzów Stadion Śl Pętla Zach.[tech.],2469011-29001t,8452,50.286263,18.969788,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29001t/
 Chorzów Stadion Śląski,2463011-05704,10478,50.28837,18.967726,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05704/
 Chorzów Stadion Śląski,2463011-05732,10506,50.287525,18.96776,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05732/
@@ -1165,6 +1166,8 @@ Czeladź Dworzec,2401021-04001,8267,50.320293,19.071375,https://rj.metropoliaztm
 Czeladź Dworzec,2401021-04001t,4386,50.320206,19.071991,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-04001t/
 Czeladź Dworzec,2401021-04002,8266,50.320393,19.07144,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-04002/
 Czeladź Dworzec,2401021-04002t,6886,50.320507,19.072378,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-04002t/
+Czeladź Dworzec,2401021-04031,10853,50.32049,19.072674,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-04031/
+Czeladź Dworzec,2401021-04032,10854,50.32043,19.072876,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-04032/
 Czeladź Grodziecka,2401021-01701,8275,50.31942,19.0764,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01701/
 Czeladź Grodziecka,2401021-01701t,4384,50.31952,19.077023,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01701t/
 Czeladź Grodziecka,2401021-01702t,4385,50.31957,19.076344,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01702t/
@@ -4410,7 +4413,7 @@ Podlesie Mleczna nż,2469011-39502,7209,50.17077,18.972332,https://rj.metropolia
 Podlesie Niezapominajek nż,2469011-39401,7207,50.173676,18.97128,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-39401/
 Podlesie Niezapominajek nż,2469011-39402,7206,50.173546,18.97116,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-39402/
 Podlesie Oczyszczalnia,2469011-39601,7210,50.16763,18.976784,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-39601/
-Podlesie PKP,2469011-23601,10541,50.18389,18.9597,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-23601/
+Podlesie PKP,2469011-23601,10541,50.183716,18.959827,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-23601/
 Podlesie PKP,2469011-23602,10542,50.183895,18.959702,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-23602/
 Podlesie PKP,2469011-23603,10573,50.182697,18.959854,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-23603/
 Podlesie Piwonii,2469011-31601,7264,50.17643,18.957922,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-31601/
@@ -6372,7 +6375,6 @@ Wioski Kusocińskiego,2414021-03301,10304,50.138527,19.166683,https://rj.metropo
 Wioski Kusocińskiego,2414021-03302,10303,50.13847,19.166878,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-03302/
 Wioski Rubinowa,2414021-02501,10311,50.134193,19.163134,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-02501/
 Wioski Rubinowa,2414021-02502,10275,50.13411,19.163164,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-02502/
-Wioski Rubinowa,2414021-02503,10804,50.13416,19.164465,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-02503/
 Wirek Katowicka,2472011-10301,3289,50.271465,18.881035,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-10301/
 Wirek Katowicka,2472011-10301t,3290,50.271717,18.882467,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-10301t/
 Wirek Katowicka,2472011-10302,3291,50.2707,18.882006,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-10302/
@@ -7260,8 +7262,6 @@ granica GIER - GLIW (Schenker),GR23401,7066,50.236702,18.721363,https://rj.metro
 granica GIER - GLIW (Schenker),GR23402,7067,50.236393,18.721266,https://rj.metropoliaztm.pl/rozklady/przystanek/GR23402/
 granica GIER - KNUR (Farskie),GR11001,899,50.218483,18.703308,https://rj.metropoliaztm.pl/rozklady/przystanek/GR11001/
 granica GIER - KNUR (Farskie),GR11002,900,50.218475,18.702776,https://rj.metropoliaztm.pl/rozklady/przystanek/GR11002/
-granica GIER - MIKO (Bujaków),GR23301,10802,50.200043,18.785131,https://rj.metropoliaztm.pl/rozklady/przystanek/GR23301/
-granica GIER - MIKO (Bujaków),GR23301,7997,50.200043,18.785131,https://rj.metropoliaztm.pl/rozklady/przystanek/GR23301/
 granica GIER - MIKO (Paniówki),GR10701,5010,50.230164,18.79806,https://rj.metropoliaztm.pl/rozklady/przystanek/GR10701/
 granica GIER - ORNO (Chudów),GR10801,5162,50.20044,18.761574,https://rj.metropoliaztm.pl/rozklady/przystanek/GR10801/
 granica GIER - ORNO (Zwycięstwa),GR10901,4786,50.203957,18.742275,https://rj.metropoliaztm.pl/rozklady/przystanek/GR10901/
