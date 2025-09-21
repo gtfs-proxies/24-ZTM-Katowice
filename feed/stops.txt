@@ -605,7 +605,6 @@ Bytom Kraszewskiego,2462011-16002,8950,50.35473,18.918472,https://rj.metropoliaz
 Bytom Kruszcowa,2462011-02201,1505,50.35994,18.93185,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-02201/
 Bytom Kąpielisko,2462011-01901t,4620,50.34999,18.904064,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-01901t/
 Bytom Kąpielisko,2462011-01902t,4621,50.349976,18.903582,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-01902t/
-Bytom Kąpielisko,2462011-01931,10839,50.34994,18.903366,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-01931/
 Bytom Legionów nż,2462011-02301,3810,50.354263,18.908838,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-02301/
 Bytom Legionów nż,2462011-02302,3811,50.354202,18.908945,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-02302/
 Bytom Lodowisko,2462011-14901,8945,50.349243,18.892597,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-14901/
@@ -665,13 +664,10 @@ Bytom Teatr Tańca-Rozbark,2462011-10202,2564,50.341763,18.932356,https://rj.met
 Bytom Teatr Tańca-Rozbark,2462011-10202t,2565,50.341988,18.93234,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-10202t/
 Bytom Urząd Miasta,2462011-05001t,4581,50.350845,18.912046,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05001t/
 Bytom Urząd Miasta,2462011-05002t,4582,50.35076,18.9121,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05002t/
-Bytom Urząd Miasta,2462011-05031t,10836,50.350716,18.911242,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05031t/
 Bytom Urząd Pracy,2462011-14201t,6871,50.339333,18.918795,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-14201t/
 Bytom Urząd Pracy,2462011-14202t,6870,50.339375,18.91888,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-14202t/
 Bytom Wallisa,2462011-05101t,4622,50.350433,18.900051,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05101t/
 Bytom Wallisa,2462011-05102t,4623,50.35045,18.899366,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05102t/
-Bytom Wallisa,2462011-05131,10838,50.350395,18.899204,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05131/
-Bytom Wallisa Tymczasowy,2462011-90632,10842,50.349964,18.901896,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-90632/
 Bytom Wesoła,2462011-15301,8653,50.35598,18.932291,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-15301/
 Bytom Wrocławska,2462011-05201,3324,50.348904,18.912046,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05201/
 Bytom Wrocławska,2462011-05201t,3325,50.34931,18.91033,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05201t/
