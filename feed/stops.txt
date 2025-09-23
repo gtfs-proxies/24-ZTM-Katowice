@@ -4250,6 +4250,8 @@ Park Śląski Wejście Główne,2469011-26401t,4514,50.28194,18.976612,https://r
 Park Śląski Wejście Główne,2469011-26402t,4515,50.28083,18.97834,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-26402t/
 Park Śląski Wesołe Miasteczko,2469011-26501t,4520,50.27255,18.991514,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-26501t/
 Park Śląski Wesołe Miasteczko,2469011-26502t,4521,50.27235,18.991621,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-26502t/
+Pasieczki Maratońska 11 nż,2414021-04601,10831,50.157833,19.214212,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-04601/
+Pasieczki Maratońska 11 nż,2414021-04602,10832,50.157894,19.214298,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-04602/
 Pasieczki Orla,2414021-03001,10268,50.15632,19.206467,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-03001/
 Pasieczki Orla,2414021-03002,10267,50.156445,19.206423,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-03002/
 Pasieczki Sokola,2414021-02001,10595,50.15307,19.20004,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-02001/
@@ -6376,6 +6378,7 @@ Wioski Kusocińskiego,2414021-03301,10304,50.138527,19.166683,https://rj.metropo
 Wioski Kusocińskiego,2414021-03302,10303,50.13847,19.166878,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-03302/
 Wioski Rubinowa,2414021-02501,10311,50.134193,19.163134,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-02501/
 Wioski Rubinowa,2414021-02502,10275,50.13411,19.163164,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-02502/
+Wioski Rubinowa,2414021-02503,10804,50.13416,19.164465,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-02503/
 Wirek Katowicka,2472011-10301,3289,50.271465,18.881035,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-10301/
 Wirek Katowicka,2472011-10301t,3290,50.271717,18.882467,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-10301t/
 Wirek Katowicka,2472011-10302,3291,50.2707,18.882006,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-10302/
