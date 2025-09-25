@@ -2591,7 +2591,6 @@ Kobiór Centrum,2410022-00201,6726,50.06034,18.934765,https://rj.metropoliaztm.p
 Kobiór Centrum,2410022-00202,6727,50.05994,18.933962,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00202/
 Kobiór Centrum,2410022-00231,9791,50.05934,18.93448,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00231/
 Kobiór Centrum,2410022-00232,10846,50.059925,18.93391,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00232/
-Kobiór Las,2410022-00931,10876,50.07555,18.904552,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00931/
 Kobiór Leśniczówka,2410022-00401,6728,50.06457,18.933537,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00401/
 Kobiór Leśniczówka,2410022-00402,6729,50.0644,18.933762,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00402/
 Kobiór PKP,2410022-00502,9061,50.0659,18.92454,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00502/
@@ -3349,6 +3348,9 @@ Milowice Hala Sportowa,2475011-04901,1748,50.28986,19.081385,https://rj.metropol
 Milowice Hala Sportowa,2475011-04901t,1749,50.289505,19.081171,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-04901t/
 Milowice Hala Sportowa,2475011-04902,1750,50.28988,19.081186,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-04902/
 Milowice Hala Sportowa,2475011-04902t,1751,50.28899,19.082178,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-04902t/
+Milowice Hala Sportowa,2475011-04931,10099,50.28885,19.083483,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-04931/
+Milowice Hala Sportowa,2475011-04932,10096,50.288616,19.083364,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-04932/
+Milowice Hala Sportowa,2475011-04933,10102,50.288403,19.083675,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-04933/
 Milowice Most,2475011-05001,1752,50.291653,19.073204,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-05001/
 Milowice Most,2475011-05002,1753,50.29153,19.073183,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-05002/
 Milowice Osiedle Kalety,2475011-05101,1995,50.293186,19.103245,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-05101/
@@ -4492,6 +4494,8 @@ Pogoń Orla,2475011-08903,7414,50.285263,19.130701,https://rj.metropoliaztm.pl/r
 Pogoń Rybna,2475011-09001,2363,50.295105,19.134514,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-09001/
 Pogoń Rybna,2475011-09001t,2364,50.295746,19.133886,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-09001t/
 Pogoń Rybna,2475011-09002t,2365,50.295597,19.133724,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-09002t/
+Pogoń Rybna,2475011-09031,10860,50.29496,19.13396,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-09031/
+Pogoń Rybna,2475011-09032,10861,50.29504,19.133532,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-09032/
 Pogoń Sucha,2475011-09101,2366,50.295845,19.126387,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-09101/
 Pogoń Sucha,2475011-09102,2367,50.29581,19.127052,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-09102/
 Pomłynie Leśniczówka nż,2401042-02401,2378,50.404694,19.02781,https://rj.metropoliaztm.pl/rozklady/przystanek/2401042-02401/
