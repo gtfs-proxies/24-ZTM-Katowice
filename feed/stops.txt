@@ -507,8 +507,6 @@ Bujaków Osiedle,2408021-09201,4999,50.197487,18.805937,https://rj.metropoliaztm
 Bujaków Osiedle,2408021-09202,4998,50.198288,18.80655,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-09202/
 Bujaków Ośrodek Zdrowia,2408021-08901,4858,50.184097,18.794426,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08901/
 Bujaków Ośrodek Zdrowia,2408021-08902,4859,50.184032,18.794586,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08902/
-Bujaków Posesja,2408021-09101,6560,50.18811,18.809683,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-09101/
-Bujaków Posesja,2408021-09102,6559,50.187897,18.808891,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-09102/
 Burki,2401081-00101,368,50.267307,19.331327,https://rj.metropoliaztm.pl/rozklady/przystanek/2401081-00101/
 Burki,2401081-00102,367,50.267246,19.331425,https://rj.metropoliaztm.pl/rozklady/przystanek/2401081-00102/
 Burki Pętla,2401081-00201,366,50.26858,19.321669,https://rj.metropoliaztm.pl/rozklady/przystanek/2401081-00201/
@@ -3252,6 +3250,7 @@ Mierzęcice Łubne,2401052-01402,3924,50.46164,19.118254,https://rj.metropoliazt
 Mikoszowina Ptasie Osiedle,2405021-03101,6995,50.39223,18.59802,https://rj.metropoliaztm.pl/rozklady/przystanek/2405021-03101/
 Mikołeska,2413082-01601,5788,50.536434,18.825485,https://rj.metropoliaztm.pl/rozklady/przystanek/2413082-01601/
 Mikołów Aqua Plant,2408021-01401,7183,50.166508,18.899977,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-01401/
+Mikołów Aqua Plant,2408021-01431,8565,50.16531,18.898752,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-01431/
 Mikołów Bpa Bandurskiego,2408021-01301,6454,50.165222,18.900007,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-01301/
 Mikołów Dworzec,2408021-00101,678,50.172253,18.899916,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-00101/
 Mikołów Dworzec,2408021-00102,6853,50.172253,18.900082,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-00102/
@@ -3393,20 +3392,13 @@ Mokre Kolonia,2408021-07001,6465,50.171524,18.877703,https://rj.metropoliaztm.pl
 Mokre Kolonia,2408021-07002,6460,50.171463,18.878067,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07002/
 Mokre Kręta,2408021-08201,6567,50.19066,18.844303,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08201/
 Mokre Kręta,2408021-08202,6568,50.190693,18.844444,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08202/
-Mokre Ogród Botaniczny,2408021-08301,7858,50.182056,18.830128,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08301/
-Mokre Ogród Botaniczny,2408021-08302,7857,50.182297,18.829565,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08302/
 Mokre Przychodnia,2408021-07101,6461,50.172657,18.867167,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07101/
 Mokre Sklep,2408021-08001,6527,50.183205,18.855644,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08001/
 Mokre Sklep,2408021-08002,6523,50.18335,18.855902,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08002/
-Mokre Sosnowa,2408021-08401,6558,50.183475,18.824263,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08401/
-Mokre Sosnowa,2408021-08402,6557,50.183792,18.823748,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08402/
-Mokre Sosnowa I,2408021-08502,6555,50.177757,18.819498,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08502/
-Mokre Sosnowa II,2408021-08602,6554,50.176445,18.81861,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08602/
 Mokre Sołtysówka,2408021-07901,6522,50.179996,18.85383,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07901/
 Mokre Sołtysówka,2408021-07902,6526,50.179928,18.853949,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07902/
 Mokre Szkoła,2408021-07801,6529,50.175987,18.853895,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07801/
 Mokre Szkoła,2408021-07802,6520,50.175808,18.854025,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07802/
-Mokre Szkoła,2408021-07803,10460,50.177715,18.854696,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07803/
 Mokre Wapienniki,2408021-07601,6844,50.16769,18.854002,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07601/
 Mokre Wapienniki,2408021-07602,6845,50.16733,18.853767,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07602/
 Mokre Zamkowa,2408021-07501,6521,50.175877,18.85705,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07501/
@@ -3427,6 +3419,8 @@ Morgi Szkoła,2470011-06601,1771,50.210373,19.129461,https://rj.metropoliaztm.pl
 Morgi Szkoła,2470011-06602,1772,50.21023,19.129316,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-06602/
 Mościska Chrobrego,2408031-03701,10776,50.098637,18.816141,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-03701/
 Mościska Chrobrego,2408031-03702,10783,50.098724,18.816141,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-03702/
+Mościska Chrobrego,2408031-03731,10712,50.1001,18.817225,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-03731/
+Mościska Chrobrego,2408031-03732,10711,50.099937,18.817171,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-03732/
 Mościska Gospoda,2408031-03701,6647,50.098713,18.815926,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-03701/
 Mościska Gospoda,2408031-03702,6674,50.098724,18.816141,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-03702/
 Mościska Gostyńska,2408031-03401,6670,50.111942,18.822718,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-03401/
@@ -7269,6 +7263,8 @@ granica GIER - GLIW (Schenker),GR23401,7066,50.236702,18.721363,https://rj.metro
 granica GIER - GLIW (Schenker),GR23402,7067,50.236393,18.721266,https://rj.metropoliaztm.pl/rozklady/przystanek/GR23402/
 granica GIER - KNUR (Farskie),GR11001,899,50.218483,18.703308,https://rj.metropoliaztm.pl/rozklady/przystanek/GR11001/
 granica GIER - KNUR (Farskie),GR11002,900,50.218475,18.702776,https://rj.metropoliaztm.pl/rozklady/przystanek/GR11002/
+granica GIER - MIKO (Bujaków),GR23301,10802,50.200043,18.785131,https://rj.metropoliaztm.pl/rozklady/przystanek/GR23301/
+granica GIER - MIKO (Darwina),GR29401,10803,50.21868,18.794746,https://rj.metropoliaztm.pl/rozklady/przystanek/GR29401/
 granica GIER - MIKO (Paniówki),GR10701,5010,50.230164,18.79806,https://rj.metropoliaztm.pl/rozklady/przystanek/GR10701/
 granica GIER - ORNO (Chudów),GR10801,5162,50.20044,18.761574,https://rj.metropoliaztm.pl/rozklady/przystanek/GR10801/
 granica GIER - ORNO (Zwycięstwa),GR10901,4786,50.203957,18.742275,https://rj.metropoliaztm.pl/rozklady/przystanek/GR10901/
