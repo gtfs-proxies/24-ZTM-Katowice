@@ -2593,7 +2593,6 @@ Kobiór Centralna,2410022-00102,6659,50.06631,18.916788,https://rj.metropoliaztm
 Kobiór Centrum,2410022-00201,6726,50.06034,18.934765,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00201/
 Kobiór Centrum,2410022-00202,6727,50.05994,18.933962,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00202/
 Kobiór Centrum,2410022-00231,9791,50.05934,18.93448,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00231/
-Kobiór Centrum,2410022-00232,10846,50.059925,18.93391,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00232/
 Kobiór Leśniczówka,2410022-00401,6728,50.06457,18.933537,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00401/
 Kobiór Leśniczówka,2410022-00402,6729,50.0644,18.933762,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00402/
 Kobiór PKP,2410022-00502,9061,50.0659,18.92454,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00502/
@@ -3255,7 +3254,6 @@ Mierzęcice Łubne,2401052-01402,3924,50.46164,19.118254,https://rj.metropoliazt
 Mikoszowina Ptasie Osiedle,2405021-03101,6995,50.39223,18.59802,https://rj.metropoliaztm.pl/rozklady/przystanek/2405021-03101/
 Mikołeska,2413082-01601,5788,50.536434,18.825485,https://rj.metropoliaztm.pl/rozklady/przystanek/2413082-01601/
 Mikołów Aqua Plant,2408021-01401,7183,50.166508,18.899977,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-01401/
-Mikołów Aqua Plant,2408021-01431,8565,50.16531,18.898752,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-01431/
 Mikołów Bpa Bandurskiego,2408021-01301,6454,50.165222,18.900007,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-01301/
 Mikołów Dworzec,2408021-00101,678,50.172253,18.899916,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-00101/
 Mikołów Dworzec,2408021-00102,6853,50.172253,18.900082,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-00102/
@@ -3421,8 +3419,6 @@ Morgi Szkoła,2470011-06601,1771,50.210373,19.129461,https://rj.metropoliaztm.pl
 Morgi Szkoła,2470011-06602,1772,50.21023,19.129316,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-06602/
 Mościska Chrobrego,2408031-03701,10776,50.098637,18.816141,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-03701/
 Mościska Chrobrego,2408031-03702,10783,50.098724,18.816141,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-03702/
-Mościska Chrobrego,2408031-03731,10712,50.1001,18.817225,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-03731/
-Mościska Chrobrego,2408031-03732,10711,50.099937,18.817171,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-03732/
 Mościska Gospoda,2408031-03701,6647,50.098713,18.815926,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-03701/
 Mościska Gospoda,2408031-03702,6674,50.098724,18.816141,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-03702/
 Mościska Gostyńska,2408031-03401,6670,50.111942,18.822718,https://rj.metropoliaztm.pl/rozklady/przystanek/2408031-03401/
