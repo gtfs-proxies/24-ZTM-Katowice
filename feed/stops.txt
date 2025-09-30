@@ -552,7 +552,7 @@ Bytków Osiedle Młodych,2474011-00801,392,50.306576,19.010365,https://rj.metrop
 Bytków Osiedle Młodych,2474011-00802,393,50.306576,19.010204,https://rj.metropoliaztm.pl/rozklady/przystanek/2474011-00802/
 Bytków Watoły,2474011-01101,384,50.30769,19.00366,https://rj.metropoliaztm.pl/rozklady/przystanek/2474011-01101/
 Bytków Watoły,2474011-01102,385,50.3078,19.003456,https://rj.metropoliaztm.pl/rozklady/przystanek/2474011-01102/
-Bytom Alojzjanów,2462011-90531,10829,50.350967,18.933483,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-90531/
+Bytom Alojzjanów,2462011-90531,10829,50.351025,18.933374,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-90531/
 Bytom Arki Bożka,2462011-00601,4603,50.333935,18.939178,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-00601/
 Bytom Arki Bożka,2462011-00601t,4604,50.333187,18.94007,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-00601t/
 Bytom Arki Bożka,2462011-00602,4605,50.333553,18.93978,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-00602/
@@ -4701,8 +4701,8 @@ Pyrzowice Port Lotniczy (Katowice Airport),2413062-03603,10146,50.470604,19.0700
 Pyrzowice Port Lotniczy (Katowice Airport),2413062-03603,7455,50.470604,19.07007,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-03603/
 Pyrzowice Szkoła,2413062-04001,3843,50.461666,19.071259,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-04001/
 Pyrzowice Szkoła,2413062-04002,3844,50.461666,19.071259,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-04002/
-Pyrzowice Transportowa,2413062-03501,5535,50.46281,19.082956,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-03501/
-Pyrzowice Transportowa,2413062-03502,7899,50.462894,19.082827,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-03502/
+Pyrzowice Transportowa nż,2413062-03501,5535,50.46281,19.082956,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-03501/
+Pyrzowice Transportowa nż,2413062-03502,7899,50.462894,19.082827,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-03502/
 Pyrzowice Wolności,2413062-03701,3845,50.467846,19.071957,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-03701/
 Pyrzowice Wolności,2413062-03702,3846,50.467815,19.071724,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-03702/
 Pyskowice Centrala Nasienna nż,2405021-00901,4133,50.38421,18.634577,https://rj.metropoliaztm.pl/rozklady/przystanek/2405021-00901/
@@ -5442,7 +5442,7 @@ Stroszek Tysiąclecia,2462011-11801,2793,50.395927,18.866476,https://rj.metropol
 Stroszek Wojciechowskiego,2462011-11901,2794,50.395203,18.87479,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-11901/
 Stroszek Zajezdnia,2462011-12001,8970,50.39793,18.871534,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-12001/
 Stroszek Zajezdnia,2462011-12001t,4635,50.39794,18.87162,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-12001t/
-Stroszek Zajezdnia,2462011-12002,5591,50.39755,18.871515,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-12002/
+Stroszek Zajezdnia,2462011-12002,5591,50.397533,18.871511,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-12002/
 Stroszek Zajezdnia,2462011-12002t,4636,50.397995,18.87145,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-12002t/
 Stroszek Zajezdnia,2462011-12003t,6892,50.398186,18.872244,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-12003t/
 Stroszek Zajezdnia,2462011-12032,9052,50.39771,18.870998,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-12032/
@@ -5893,6 +5893,7 @@ Tworzeń Budowlanych,2465011-15301,3155,50.336487,19.253933,https://rj.metropoli
 Tworzeń Huta Katowice,2465011-15501,3162,50.34227,19.265379,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-15501/
 Tworzeń Huta Katowice,2465011-15501t,3161,50.341255,19.264843,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-15501t/
 Tworzeń Huta Katowice,2465011-15502,3160,50.34201,19.264585,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-15502/
+Tworzeń Huta Katowice 2,2465011-19502t,9082,50.34116,19.264553,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-19502t/
 Tworzeń Huta Katowice Przychodnia,2465011-24701,9247,50.345222,19.26301,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-24701/
 Tworzeń Leśna,2465011-15901,4976,50.357117,19.277117,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-15901/
 Tworzeń Leśna,2465011-15902,4977,50.356705,19.277073,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-15902/
