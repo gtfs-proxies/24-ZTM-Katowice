@@ -507,6 +507,8 @@ Bujaków Osiedle,2408021-09201,4999,50.197487,18.805937,https://rj.metropoliaztm
 Bujaków Osiedle,2408021-09202,4998,50.198288,18.80655,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-09202/
 Bujaków Ośrodek Zdrowia,2408021-08901,4858,50.184097,18.794426,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08901/
 Bujaków Ośrodek Zdrowia,2408021-08902,4859,50.184032,18.794586,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08902/
+Bujaków Posesja,2408021-09101,6560,50.18811,18.809683,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-09101/
+Bujaków Posesja,2408021-09102,6559,50.187897,18.808891,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-09102/
 Burki,2401081-00101,368,50.267307,19.331327,https://rj.metropoliaztm.pl/rozklady/przystanek/2401081-00101/
 Burki,2401081-00102,367,50.267246,19.331425,https://rj.metropoliaztm.pl/rozklady/przystanek/2401081-00102/
 Burki Pętla,2401081-00201,366,50.26858,19.321669,https://rj.metropoliaztm.pl/rozklady/przystanek/2401081-00201/
@@ -3387,6 +3389,7 @@ Modrzejów Pastewna,2475011-05502t,4421,50.2409,19.147812,https://rj.metropoliaz
 Modrzejów Rynek,2475011-05601,1756,50.241447,19.149456,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-05601/
 Modrzejów Rynek,2475011-05602,1757,50.24155,19.14911,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-05602/
 Mokre Bar,2408021-07202,6462,50.173195,18.866009,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07202/
+Mokre Bar,2408021-07204,6463,50.172733,18.866213,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07204/
 Mokre Botaniczna,2408021-08101,6524,50.18629,18.850302,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08101/
 Mokre Botaniczna,2408021-08102,6530,50.18631,18.85058,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08102/
 Mokre Górna,2408021-08701,6464,50.172596,18.86485,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08701/
@@ -3394,15 +3397,24 @@ Mokre Kolonia,2408021-07001,6465,50.171524,18.877703,https://rj.metropoliaztm.pl
 Mokre Kolonia,2408021-07002,6460,50.171463,18.878067,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07002/
 Mokre Kręta,2408021-08201,6567,50.19066,18.844303,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08201/
 Mokre Kręta,2408021-08202,6568,50.190693,18.844444,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08202/
+Mokre Ogród Botaniczny,2408021-08301,7858,50.182056,18.830128,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08301/
+Mokre Ogród Botaniczny,2408021-08302,7857,50.182297,18.829565,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08302/
 Mokre Przychodnia,2408021-07101,6461,50.172657,18.867167,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07101/
 Mokre Sklep,2408021-08001,6527,50.183205,18.855644,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08001/
 Mokre Sklep,2408021-08002,6523,50.18335,18.855902,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08002/
+Mokre Sosnowa,2408021-08401,6558,50.183475,18.824263,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08401/
+Mokre Sosnowa,2408021-08402,6557,50.183792,18.823748,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08402/
+Mokre Sosnowa I,2408021-08502,6555,50.177757,18.819498,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08502/
+Mokre Sosnowa II,2408021-08602,6554,50.176445,18.81861,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-08602/
 Mokre Sołtysówka,2408021-07901,6522,50.179996,18.85383,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07901/
 Mokre Sołtysówka,2408021-07902,6526,50.179928,18.853949,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07902/
 Mokre Szkoła,2408021-07801,6529,50.175987,18.853895,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07801/
 Mokre Szkoła,2408021-07802,6520,50.175808,18.854025,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07802/
+Mokre Szkoła,2408021-07803,10460,50.177715,18.854696,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07803/
 Mokre Wapienniki,2408021-07601,6844,50.16769,18.854002,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07601/
 Mokre Wapienniki,2408021-07602,6845,50.16733,18.853767,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07602/
+Mokre Zamkowa,2408021-07501,6521,50.175877,18.85705,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07501/
+Mokre Zamkowa,2408021-07502,6525,50.175026,18.856674,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07502/
 Mokre Łączna,2408021-07401,6532,50.185127,18.869581,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07401/
 Mokre Łączna,2408021-07402,6531,50.185177,18.869452,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-07402/
 Morgi Kotarbińskiego nż,2470011-11101,7129,50.209698,19.121603,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-11101/
@@ -4200,12 +4212,16 @@ Paniowy Darwina,2408021-06631,9087,50.20917,18.813877,https://rj.metropoliaztm.p
 Paniowy Darwina,2408021-06632,9086,50.209095,18.813951,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06632/
 Paniowy Darwina,2408021-06633,9088,50.209,18.81552,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06633/
 Paniowy Darwina,2408021-06634,9089,50.208984,18.815851,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06634/
+Paniowy Graniczna,2408021-06401,6564,50.212093,18.832718,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06401/
 Paniowy Kościół,2408021-06101,6572,50.20841,18.8204,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06101/
 Paniowy Kościół,2408021-06102,6561,50.208366,18.820654,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06102/
 Paniowy Kąty,2408021-06701,5001,50.20511,18.809713,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06701/
 Paniowy Kąty,2408021-06702,5000,50.20491,18.809704,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06702/
 Paniowy Mokierska,2408021-06901,6565,50.20537,18.828995,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06901/
 Paniowy Mokierska,2408021-06902,6570,50.2053,18.828876,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06902/
+Paniowy Sklep,2408021-06501,6575,50.21563,18.835014,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06501/
+Paniowy Starokościelna,2408021-06201,6571,50.20864,18.822472,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06201/
+Paniowy Staromiejska,2408021-06301,6573,50.209965,18.828362,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06301/
 Paniowy Zagrodowa,2408021-06801,6566,50.194073,18.84217,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06801/
 Paniowy Zagrodowa,2408021-06802,6569,50.19416,18.842276,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06802/
 Paniówki Darwina nż,2405032-02901,8133,50.22211,18.78757,https://rj.metropoliaztm.pl/rozklady/przystanek/2405032-02901/
