@@ -1162,7 +1162,6 @@ Czeladź Dworzec,2401021-04001t,4386,50.320206,19.071991,https://rj.metropoliazt
 Czeladź Dworzec,2401021-04002,8266,50.320393,19.07144,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-04002/
 Czeladź Dworzec,2401021-04002t,6886,50.320507,19.072378,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-04002t/
 Czeladź Dworzec,2401021-04031,10853,50.32049,19.072674,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-04031/
-Czeladź Dworzec,2401021-04032,10854,50.32043,19.072876,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-04032/
 Czeladź Grodziecka,2401021-01701,8275,50.31942,19.0764,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01701/
 Czeladź Grodziecka,2401021-01701t,4384,50.31952,19.077023,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01701t/
 Czeladź Grodziecka,2401021-01702t,4385,50.31957,19.076344,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01702t/
