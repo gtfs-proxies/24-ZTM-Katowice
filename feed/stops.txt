@@ -2594,6 +2594,7 @@ Kobiór Centralna,2410022-00102,6659,50.06631,18.916788,https://rj.metropoliaztm
 Kobiór Centrum,2410022-00201,6726,50.06034,18.934765,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00201/
 Kobiór Centrum,2410022-00202,6727,50.05994,18.933962,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00202/
 Kobiór Centrum,2410022-00231,9791,50.05934,18.93448,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00231/
+Kobiór Centrum,2410022-00232,10846,50.059925,18.93391,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00232/
 Kobiór Leśniczówka,2410022-00401,6728,50.06457,18.933537,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00401/
 Kobiór Leśniczówka,2410022-00402,6729,50.0644,18.933762,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00402/
 Kobiór PKP,2410022-00502,9061,50.0659,18.92454,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00502/
@@ -4497,8 +4498,8 @@ Pogoń Orla,2475011-08903,7414,50.285263,19.130701,https://rj.metropoliaztm.pl/r
 Pogoń Rybna,2475011-09001,2363,50.295105,19.134514,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-09001/
 Pogoń Rybna,2475011-09001t,2364,50.295746,19.133886,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-09001t/
 Pogoń Rybna,2475011-09002t,2365,50.295597,19.133724,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-09002t/
-Pogoń Rybna,2475011-09031,10860,50.29496,19.13396,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-09031/
-Pogoń Rybna,2475011-09032,10861,50.29504,19.133532,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-09032/
+Pogoń Rybna,2475011-09031,10860,50.29562,19.134037,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-09031/
+Pogoń Rybna,2475011-09032,10861,50.296013,19.133553,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-09032/
 Pogoń Sucha,2475011-09101,2366,50.295845,19.126387,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-09101/
 Pogoń Sucha,2475011-09102,2367,50.29581,19.127052,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-09102/
 Pomłynie Leśniczówka nż,2401042-02401,2378,50.404694,19.02781,https://rj.metropoliaztm.pl/rozklady/przystanek/2401042-02401/
@@ -6562,8 +6563,10 @@ Wyry Skrzyżowanie,2408052-00402,5181,50.13625,18.894194,https://rj.metropoliazt
 Wyry Skrzyżowanie,2408052-00431,8999,50.13569,18.894505,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00431/
 Wyry Skrzyżowanie,2408052-00432,8998,50.135674,18.894484,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00432/
 Wyry Tereny Przemysłowe,2408052-00801,5180,50.141876,18.896618,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00801/
+Wyry Tereny Przemysłowe,2408052-00801,9000,50.142357,18.898285,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00801/
 Wyry Tereny Przemysłowe,2408052-00801,9913,50.141876,18.896618,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00801/
 Wyry Tereny Przemysłowe,2408052-00802,9912,50.14206,18.896557,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00802/
+Wyry Tereny Przemysłowe,2408052-00831,9001,50.142258,18.897629,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00831/
 Wyry Urząd Gminy,2408052-00601,5185,50.132748,18.894075,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00601/
 Wyry Urząd Gminy,2408052-00602,5186,50.132694,18.893883,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00602/
 Wójtowa Wieś,2466011-15701,3322,50.2878,18.634867,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-15701/
@@ -7812,8 +7815,8 @@ granica ŚWIE - TARN (Nowe Chechło),GR72901,830,50.44959,18.886362,https://rj.m
 Świniowice Osiedle,2413082-03302,5791,50.516705,18.651308,https://rj.metropoliaztm.pl/rozklady/przystanek/2413082-03302/
 Świniowice Skrzyżowanie,2413082-03201,5790,50.516937,18.662298,https://rj.metropoliaztm.pl/rozklady/przystanek/2413082-03201/
 Świniowice Skrzyżowanie,2413082-03202,5789,50.516937,18.662298,https://rj.metropoliaztm.pl/rozklady/przystanek/2413082-03202/
-Świniowy Ławecka,2414031-02501,1548,50.151978,19.128086,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02501/
-Świniowy Ławecka,2414031-02502,1547,50.15256,19.126232,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02502/
+Świniowy Ławecka,2414031-02501,1548,50.152584,19.126194,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02501/
+Świniowy Ławecka,2414031-02502,1547,50.15257,19.126644,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02502/
 Świętochłowice Bytomska,2476011-01801,394,50.292244,18.915894,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01801/
 Świętochłowice Dworcowa,2476011-01901,4101,50.289722,18.918756,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01901/
 Świętochłowice Gazownia,2476011-02001t,4560,50.284687,18.933815,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-02001t/
