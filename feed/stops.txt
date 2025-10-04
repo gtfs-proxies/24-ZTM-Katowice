@@ -181,8 +181,8 @@ Bobrek Ratusz,2462011-00301,221,50.33806,18.870499,https://rj.metropoliaztm.pl/r
 Bobrek Ratusz,2462011-00301t,222,50.33804,18.870611,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-00301t/
 Bobrek Ratusz,2462011-00302,223,50.336765,18.869442,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-00302/
 Bobrek Ratusz,2462011-00302t,224,50.337116,18.869312,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-00302t/
-Bobrek Stara Cynkownia,2462009-90731,10851,50.329613,18.863272,https://rj.metropoliaztm.pl/rozklady/przystanek/2462009-90731/
-Bobrek Stara Cynkownia,2462009-90732,10852,50.3292,18.86321,https://rj.metropoliaztm.pl/rozklady/przystanek/2462009-90732/
+Bobrek Stara Cynkownia,2462011-90731,10851,50.329613,18.863272,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-90731/
+Bobrek Stara Cynkownia,2462011-90732,10852,50.3292,18.86321,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-90732/
 Bobrek Szkoła,2462011-00402t,8692,50.33493,18.869404,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-00402t/
 Bobrek Szkoła nż,2462011-00401,5566,50.334137,18.867992,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-00401/
 Bobrek Szkoła nż,2462011-00401t,5050,50.33485,18.869318,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-00401t/
