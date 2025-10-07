@@ -2107,10 +2107,10 @@ Hołdunów Imielińska,2414031-02802,1172,50.151794,19.134523,https://rj.metropo
 Hołdunów Kościół,2414031-03001,1163,50.147198,19.133505,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03001/
 Hołdunów Kościół,2414031-03002,1164,50.14766,19.133478,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03002/
 Hołdunów Podmiejska 10,2414031-03301,4159,50.140385,19.155039,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03301/
-Hołdunów Podmiejska 10,2414031-03401,10261,50.135452,19.156084,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03401/
-Hołdunów Podmiejska 10,2414031-03402,10262,50.13577,19.156267,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03402/
-Hołdunów Podmiejska 32,2414031-03301,10259,50.139866,19.154957,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03301/
-Hołdunów Podmiejska 32,2414031-03302,10260,50.140278,19.15498,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03302/
+Hołdunów Podmiejska 10,2414031-03401,10261,50.1399,19.155003,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03401/
+Hołdunów Podmiejska 10,2414031-03402,10262,50.140305,19.154987,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03402/
+Hołdunów Podmiejska 32,2414031-03301,10259,50.13554,19.156137,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03301/
+Hołdunów Podmiejska 32,2414031-03302,10260,50.13599,19.156313,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03302/
 Hołdunów Podmiejska 32,2414031-03401,4161,50.135735,19.156282,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03401/
 Hołdunów Przejazd Kolejowy (ul. Lędzińska),2414031-03601,1174,50.14092,19.126055,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03601/
 Hołdunów Przejazd Kolejowy (ul. Lędzińska),2414031-03602,1175,50.141113,19.126324,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-03602/
@@ -6055,16 +6055,13 @@ Tychy Paproci,2477011-13802,6370,50.13863,19.036907,https://rj.metropoliaztm.pl/
 Tychy Paproci Pętla,2477011-08201,6374,50.135937,19.028057,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-08201/
 Tychy Park Niedźwiadków,2477011-11001,96,50.12172,18.98672,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-11001/
 Tychy Park Niedźwiadków,2477011-11002,6109,50.121635,18.986364,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-11002/
-Tychy Park Łabędzi,2477011-25531,10858,50.11025,19.006641,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-25531/
 Tychy Piłsudskiego,2477011-12001,6293,50.104286,18.993681,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-12001/
 Tychy Piłsudskiego,2477011-12002,6256,50.10423,18.992899,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-12002/
 Tychy Plac Baczyńskiego,2477011-14302,6179,50.12541,18.98159,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-14302/
 Tychy Plac Wolności,2477011-09001,6176,50.131767,18.979218,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-09001/
 Tychy Plac Wolności,2477011-09002,6178,50.13166,18.979103,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-09002/
 Tychy Powstańców,2477011-05301,8713,50.135704,18.983595,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05301/
-Tychy Powstańców,2477011-05301,9152,50.135708,18.983553,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05301/
 Tychy Powstańców,2477011-05302,6183,50.13501,18.983242,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05302/
-Tychy Powstańców,2477011-05302,9147,50.13501,18.983242,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05302/
 Tychy Przemysłowa Hurtownie,2477011-12701,6307,50.105267,19.019098,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-12701/
 Tychy Przemysłowa I,2477011-12501,6342,50.104683,19.032272,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-12501/
 Tychy Przemysłowa I,2477011-12502,6310,50.105007,19.031597,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-12502/
@@ -6098,9 +6095,7 @@ Tychy Skałka,2477011-10501,6113,50.110065,18.979927,https://rj.metropoliaztm.pl
 Tychy Skałka,2477011-10502,2279,50.10979,18.980238,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-10502/
 Tychy Składowa,2477011-13002,6345,50.104385,19.010872,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-13002/
 Tychy Sokola,2477011-05201,6184,50.1378,18.984634,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05201/
-Tychy Sokola,2477011-05201,9148,50.13732,18.98437,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05201/
 Tychy Sokola,2477011-05202,6192,50.137794,18.984703,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05202/
-Tychy Sokola,2477011-05202,9150,50.137894,18.984755,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05202/
 Tychy Stadion,2477011-11101,8714,50.123116,18.98894,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-11101/
 Tychy Stadion,2477011-11102,6239,50.122593,18.989626,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-11102/
 Tychy Stoczniowców 70,2477011-10201,8702,50.11528,18.969843,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-10201/
@@ -6117,9 +6112,7 @@ Tychy Szpital Woj. [tech],2477011-23501,8055,50.113956,19.005283,https://rj.metr
 Tychy Szpital Wojewódzki,2477011-11801,6283,50.112858,19.00456,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-11801/
 Tychy Szpital Wojewódzki,2477011-11802,6260,50.11338,19.004635,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-11802/
 Tychy Słowicza,2477011-05101,6193,50.140244,18.985958,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05101/
-Tychy Słowicza,2477011-05101,9151,50.14024,18.985956,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05101/
 Tychy Słowicza,2477011-05102,6185,50.140232,18.986048,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05102/
-Tychy Słowicza,2477011-05102,9149,50.14019,18.986021,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-05102/
 Tychy Targiela I,2477011-15001,7871,50.091984,19.004463,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-15001/
 Tychy Targiela II,2477011-09301,6275,50.092182,18.998692,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-09301/
 Tychy Targowisko,2477011-14501,160,50.12573,18.988436,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-14501/
