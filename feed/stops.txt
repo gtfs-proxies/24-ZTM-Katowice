@@ -1357,6 +1357,8 @@ Dąb Silesia Business Park,2469011-37801,5650,50.269794,18.999325,https://rj.met
 Dąb Silesia City Center,2469011-03001,5225,50.2713,19.006384,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-03001/
 Dąb Silesia City Center,2469011-03001t,5226,50.269558,19.002974,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-03001t/
 Dąb Silesia City Center,2469011-03002t,5227,50.269516,19.00295,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-03002t/
+Dąb Silesia City Center,2469011-03031,10909,50.27404,19.002855,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-03031/
+Dąb Silesia City Center,2469011-03032,10908,50.274075,19.002716,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-03032/
 Dąb Szkoła,2469011-03101,486,50.275127,19.000553,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-03101/
 Dąb Szkoła,2469011-03102,487,50.27432,18.999653,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-03102/
 Dąb Widok,2469011-30101,5127,50.270985,19.015923,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-30101/
@@ -2177,8 +2179,8 @@ Jankowice Gospoda,2410055-00501,6830,50.002388,18.98719,https://rj.metropoliaztm
 Jankowice Gospoda,2410055-00502,6831,50.001945,18.986267,https://rj.metropoliaztm.pl/rozklady/przystanek/2410055-00502/
 Jankowice Kolonia nż,2410055-00901,6828,49.99719,18.9738,https://rj.metropoliaztm.pl/rozklady/przystanek/2410055-00901/
 Jankowice Kolonia nż,2410055-00902,6829,49.996662,18.972729,https://rj.metropoliaztm.pl/rozklady/przystanek/2410055-00902/
-Jankowice Leśniczówka nż,2410055-01001,6833,50.0105,19.009,https://rj.metropoliaztm.pl/rozklady/przystanek/2410055-01001/
-Jankowice Leśniczówka nż,2410055-01002,6834,50.010487,19.009462,https://rj.metropoliaztm.pl/rozklady/przystanek/2410055-01002/
+Jankowice Leśniczówka nż,2410055-01001,6833,50.010513,19.009033,https://rj.metropoliaztm.pl/rozklady/przystanek/2410055-01001/
+Jankowice Leśniczówka nż,2410055-01002,6834,50.01051,19.009624,https://rj.metropoliaztm.pl/rozklady/przystanek/2410055-01002/
 Jankowice Stolarnia nż,2410055-00801,6819,50.006622,18.998154,https://rj.metropoliaztm.pl/rozklady/przystanek/2410055-00801/
 Jankowice Stolarnia nż,2410055-00802,6832,50.006752,18.998724,https://rj.metropoliaztm.pl/rozklady/przystanek/2410055-00802/
 Janów Janowska,2470011-03601,4971,50.237453,19.117846,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-03601/
@@ -7801,7 +7803,7 @@ granica ŚWIE - TARN (Nowe Chechło),GR72901,830,50.44959,18.886362,https://rj.m
 Świniowice Osiedle,2413082-03302,5791,50.516705,18.651308,https://rj.metropoliaztm.pl/rozklady/przystanek/2413082-03302/
 Świniowice Skrzyżowanie,2413082-03201,5790,50.516937,18.662298,https://rj.metropoliaztm.pl/rozklady/przystanek/2413082-03201/
 Świniowice Skrzyżowanie,2413082-03202,5789,50.516937,18.662298,https://rj.metropoliaztm.pl/rozklady/przystanek/2413082-03202/
-Świniowy Ławecka,2414031-02501,1548,50.152584,19.126194,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02501/
+Świniowy Ławecka,2414031-02501,1548,50.15207,19.12818,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02501/
 Świniowy Ławecka,2414031-02502,1547,50.15257,19.126644,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02502/
 Świętochłowice Bytomska,2476011-01801,394,50.292244,18.915894,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01801/
 Świętochłowice Dworcowa,2476011-01901,4101,50.289722,18.918756,https://rj.metropoliaztm.pl/rozklady/przystanek/2476011-01901/
