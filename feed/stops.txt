@@ -810,14 +810,14 @@ Chebzie Pętla,2472011-02301t,9128,50.30105,18.882456,https://rj.metropoliaztm.p
 Chebzie Pętla,2472011-02301t,9133,50.30109,18.882584,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02301t/
 Chebzie Pętla,2472011-02302t,4279,50.300392,18.881319,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02302t/
 Chebzie Pętla,2472011-02302t,9132,50.30078,18.882069,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02302t/
-Chebzie Pętla,2472011-02303t,9127,50.30056,18.88277,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02303t/
+Chebzie Pętla,2472011-02303t,9127,50.300632,18.88286,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02303t/
 Chebzie Pętla,2472011-02303t,9131,50.30056,18.88277,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02303t/
-Chebzie Pętla,2472011-02304t,4281,50.300545,18.882843,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02304t/
+Chebzie Pętla,2472011-02304t,4281,50.30047,18.88284,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02304t/
 Chebzie Pętla,2472011-02304t,9135,50.300545,18.882843,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02304t/
 Chebzie Pętla,2472011-02305t,4282,50.300964,18.883234,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02305t/
 Chebzie Pętla,2472011-02305t,9419,50.300964,18.883234,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02305t/
 Chebzie Pętla Techniczny,2472011-09906t,9418,50.300743,18.881733,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-09906t/
-Chebzie Pętla Techniczny [tech],2472011-09906t,10481,50.300743,18.881733,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-09906t/
+Chebzie Pętla Techniczny [tech],2472011-09906t,10481,50.30023,18.881756,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-09906t/
 Chebzie Rondo,2472011-02401,413,50.30081,18.881725,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02401/
 Chebzie Rondo,2472011-02402,414,50.300594,18.881008,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02402/
 Chebzie Rondo,2472011-02404,7514,50.30037,18.883585,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-02404/
@@ -1140,13 +1140,22 @@ Czarny Las Stacja Paliw,2472011-09201,5506,50.280888,18.857931,https://rj.metrop
 Czarny Las Stacja Paliw,2472011-09202,5505,50.28082,18.858551,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-09202/
 Czarny Las Zespół Szkół,2472011-07301,1818,50.279808,18.85927,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-07301/
 Czarny Las Zespół Szkół,2472011-07302,1819,50.27942,18.860271,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-07302/
+Czechowice Borówkowa nż,2466011-99801,10884,50.36638,18.656563,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-99801/
+Czechowice Borówkowa nż,2466011-99802,10883,50.366276,18.655619,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-99802/
 Czechowice Grzybowa nż,2466011-01301,464,50.36026,18.629047,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01301/
 Czechowice Grzybowa nż,2466011-01302,463,50.360733,18.629047,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01302/
+Czechowice Jagodowa nż,2466011-22401,10887,50.36702,18.636253,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-22401/
+Czechowice Kolejowa nż,2466011-22501,10888,50.364838,18.630674,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-22501/
 Czechowice Kąpielisko nż,2466011-01401,8006,50.35978,18.64169,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01401/
 Czechowice Kąpielisko nż,2466011-01402,465,50.358967,18.641937,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01402/
 Czechowice Skrzyżowanie,2466011-01601,466,50.36382,18.639376,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01601/
 Czechowice Skrzyżowanie,2466011-01602,467,50.36518,18.63845,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01602/
 Czechowice Skrzyżowanie,2466011-01603,468,50.36444,18.637705,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01603/
+Czechowice Skrzyżowanie,2466011-01604,10880,50.36466,18.640324,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01604/
+Czechowice Strażacka nż,2466011-21001,10886,50.364994,18.6434,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-21001/
+Czechowice Strażacka nż,2466011-21002,10885,50.365105,18.64443,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-21002/
+Czechowice Żeglarska,2466011-99901,10881,50.36538,18.647013,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-99901/
+Czechowice Żeglarska,2466011-99902,10882,50.365414,18.647238,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-99902/
 Czekanów,2413092-04901,469,50.34772,18.734709,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-04901/
 Czekanów,2413092-04902,470,50.34806,18.735954,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-04902/
 Czekanów Droga do Świętoszowic nż,2413092-04801,626,50.35406,18.748915,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-04801/
@@ -1161,7 +1170,6 @@ Czeladź Dworzec,2401021-04001,8267,50.320293,19.071375,https://rj.metropoliaztm
 Czeladź Dworzec,2401021-04001t,4386,50.320206,19.071991,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-04001t/
 Czeladź Dworzec,2401021-04002,8266,50.320393,19.07144,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-04002/
 Czeladź Dworzec,2401021-04002t,6886,50.320507,19.072378,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-04002t/
-Czeladź Dworzec,2401021-04031,10853,50.32049,19.072674,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-04031/
 Czeladź Grodziecka,2401021-01701,8275,50.31942,19.0764,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01701/
 Czeladź Grodziecka,2401021-01701t,4384,50.31952,19.077023,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01701t/
 Czeladź Grodziecka,2401021-01702t,4385,50.31957,19.076344,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01702t/
@@ -1191,7 +1199,6 @@ Czeladź Reymonta,2401021-01102,2522,50.308533,19.072035,https://rj.metropoliazt
 Czeladź Reymonta,2401021-01103,2523,50.308727,19.073618,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01103/
 Czeladź Reymonta,2401021-01105,8238,50.307705,19.073536,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01105/
 Czeladź Rynek,2401021-01203,7975,50.318203,19.07537,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01203/
-Czeladź Rynek,2401021-01231,10855,50.318565,19.075872,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01231/
 Czeladź Stare Miasto,2401021-01901,5258,50.319534,19.070177,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01901/
 Czeladź Stare Miasto,2401021-01902,5257,50.319252,19.070465,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01902/
 Czeladź Staszica,2401021-01501,2762,50.3189,19.064997,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01501/
@@ -3468,7 +3475,7 @@ Murcki Leśników nż,2469011-16501,1794,50.186615,19.037119,https://rj.metropol
 Murcki Leśników nż,2469011-16502,1795,50.18739,19.03828,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16502/
 Murcki Osiedle,2469011-16601,1797,50.203743,19.04312,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16601/
 Murcki Osiedle,2469011-16602,1798,50.203915,19.042915,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16602/
-Murcki PKP,2469011-16301,10533,50.202072,19.024204,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16301/
+Murcki PKP,2469011-16301,10533,50.20075,19.026583,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16301/
 Murcki Rynek,2469011-16701,1799,50.197994,19.04325,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16701/
 Murcki Szebesty nż,2469011-16801,1796,50.204086,19.047697,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16801/
 Murcki Szyb Stanisław,2469011-16901,1800,50.206696,19.04194,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16901/
@@ -7290,6 +7297,7 @@ granica GLIW - ZABR (DTŚ),GR27002,8042,50.28461,18.744612,https://rj.metropolia
 granica GLIW - ZABR (Maciejów),GR11101,1018,50.305477,18.735826,https://rj.metropoliaztm.pl/rozklady/przystanek/GR11101/
 granica GLIW - ZABR (Sośnica),GR11301,1016,50.291275,18.749851,https://rj.metropoliaztm.pl/rozklady/przystanek/GR11301/
 granica GLIW - ZABR (Sośnica),GR11302,1017,50.291187,18.749392,https://rj.metropoliaztm.pl/rozklady/przystanek/GR11302/
+granica GLIW - ZBRO (Przezchlebie),GR20301,8864,50.365944,18.664679,https://rj.metropoliaztm.pl/rozklady/przystanek/GR20301/
 granica GLIW - ZBRO (Żerniki),GR11701,910,50.329834,18.707676,https://rj.metropoliaztm.pl/rozklady/przystanek/GR11701/
 granica IMIE - LĘDZ (Hołdunów),GR12001,911,50.14494,19.15523,https://rj.metropoliaztm.pl/rozklady/przystanek/GR12001/
 granica IMIE - MYSŁ (Dziećkowice),GR11901,945,50.159046,19.235573,https://rj.metropoliaztm.pl/rozklady/przystanek/GR11901/
