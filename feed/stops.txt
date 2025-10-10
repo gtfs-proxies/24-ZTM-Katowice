@@ -1140,8 +1140,8 @@ Czarny Las Stacja Paliw,2472011-09201,5506,50.280888,18.857931,https://rj.metrop
 Czarny Las Stacja Paliw,2472011-09202,5505,50.28082,18.858551,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-09202/
 Czarny Las Zespół Szkół,2472011-07301,1818,50.279808,18.85927,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-07301/
 Czarny Las Zespół Szkół,2472011-07302,1819,50.27942,18.860271,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-07302/
-Czechowice Borówkowa nż,2466011-99801,10884,50.36638,18.656563,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-99801/
-Czechowice Borówkowa nż,2466011-99802,10883,50.366276,18.655619,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-99802/
+Czechowice Borówkowa nż,2466011-99801,10922,50.366337,18.655455,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-99801/
+Czechowice Borówkowa nż,2466011-99802,10921,50.36621,18.655487,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-99802/
 Czechowice Grzybowa nż,2466011-01301,464,50.36026,18.629047,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01301/
 Czechowice Grzybowa nż,2466011-01302,463,50.360733,18.629047,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01302/
 Czechowice Jagodowa nż,2466011-22401,10887,50.36702,18.636253,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-22401/
@@ -1151,11 +1151,11 @@ Czechowice Kąpielisko nż,2466011-01402,465,50.358967,18.641937,https://rj.metr
 Czechowice Skrzyżowanie,2466011-01601,466,50.36382,18.639376,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01601/
 Czechowice Skrzyżowanie,2466011-01602,467,50.36518,18.63845,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01602/
 Czechowice Skrzyżowanie,2466011-01603,468,50.36444,18.637705,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01603/
-Czechowice Skrzyżowanie,2466011-01604,10880,50.36466,18.640324,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01604/
-Czechowice Strażacka nż,2466011-21001,10886,50.364994,18.6434,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-21001/
-Czechowice Strażacka nż,2466011-21002,10885,50.365105,18.64443,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-21002/
-Czechowice Żeglarska,2466011-99901,10881,50.36538,18.647013,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-99901/
-Czechowice Żeglarska,2466011-99902,10882,50.365414,18.647238,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-99902/
+Czechowice Skrzyżowanie,2466011-01604,10917,50.364708,18.640142,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-01604/
+Czechowice Strażacka nż,2466011-21001,10920,50.365253,18.645155,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-21001/
+Czechowice Strażacka nż,2466011-21002,10919,50.36495,18.643585,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-21002/
+Czechowice Żeglarska,2466011-99901,10918,50.365536,18.647741,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-99901/
+Czechowice Żeglarska,2466011-99902,10882,50.3655,18.64889,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-99902/
 Czekanów,2413092-04901,469,50.34772,18.734709,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-04901/
 Czekanów,2413092-04902,470,50.34806,18.735954,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-04902/
 Czekanów Droga do Świętoszowic nż,2413092-04801,626,50.35406,18.748915,https://rj.metropoliaztm.pl/rozklady/przystanek/2413092-04801/
