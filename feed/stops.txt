@@ -2940,6 +2940,7 @@ Kuźnica Warężyńska nż,2401075-03201,1533,50.401913,19.181873,https://rj.met
 Kuźnica Warężyńska nż,2401075-03202,1534,50.401825,19.181892,https://rj.metropoliaztm.pl/rozklady/przystanek/2401075-03202/
 Kuźnica Świętojańska Parking,2401074-03101,5015,50.44882,19.227526,https://rj.metropoliaztm.pl/rozklady/przystanek/2401074-03101/
 Kuźnica Świętojańska nż,2401074-03001,1527,50.453964,19.229485,https://rj.metropoliaztm.pl/rozklady/przystanek/2401074-03001/
+Kuźnica Świętojańska nż,2401074-03002,1528,50.454483,19.23007,https://rj.metropoliaztm.pl/rozklady/przystanek/2401074-03002/
 Kuźniczka Las nż,2465011-06501,1541,50.326218,19.404871,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-06501/
 Kuźniczka Las nż,2465011-06502,1542,50.32649,19.404465,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-06502/
 Kuźniczka Nowa,2465011-06601,5428,50.322063,19.403427,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-06601/
@@ -3476,6 +3477,7 @@ Murcki Leśników nż,2469011-16502,1795,50.18739,19.03828,https://rj.metropolia
 Murcki Osiedle,2469011-16601,1797,50.203743,19.04312,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16601/
 Murcki Osiedle,2469011-16602,1798,50.203915,19.042915,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16602/
 Murcki PKP,2469011-16301,10533,50.20075,19.026583,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16301/
+Murcki PKP,2469011-16302,10571,50.1996,19.028217,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16302/
 Murcki Rynek,2469011-16701,1799,50.197994,19.04325,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16701/
 Murcki Szebesty nż,2469011-16801,1796,50.204086,19.047697,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16801/
 Murcki Szyb Stanisław,2469011-16901,1800,50.206696,19.04194,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16901/
