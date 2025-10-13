@@ -2584,7 +2584,6 @@ Knurów Różana nż,2405011-03503,8295,50.23321,18.671913,https://rj.metropolia
 Knurów Różana nż,2405011-03504,8297,50.232983,18.670895,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-03504/
 Knurów Szkoła,2405011-00701,3625,50.222275,18.66309,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-00701/
 Knurów Szkoła,2405011-00702,3626,50.222343,18.663593,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-00702/
-Knurów Szpital,2405011-04131,10151,50.221478,18.66568,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-04131/
 Knurów Urząd Miasta,2405011-01001,5116,50.22285,18.668043,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-01001/
 Knurów Ułanów,2405011-00901,3777,50.231697,18.64852,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-00901/
 Knurów Ułanów,2405011-00902,3778,50.23087,18.649393,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-00902/
