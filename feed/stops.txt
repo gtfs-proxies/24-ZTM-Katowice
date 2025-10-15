@@ -4311,7 +4311,7 @@ Pilchowice Szkolna,2405042-00401,5107,50.217113,18.55798,https://rj.metropoliazt
 Pilchowice Szkolna,2405042-00402,3741,50.217686,18.55867,https://rj.metropoliaztm.pl/rozklady/przystanek/2405042-00402/
 Pilchowice Szpital,2405042-00501,3635,50.213764,18.56033,https://rj.metropoliaztm.pl/rozklady/przystanek/2405042-00501/
 Pilchowice Szpital,2405042-00502,3634,50.214386,18.563122,https://rj.metropoliaztm.pl/rozklady/przystanek/2405042-00502/
-Pilchowice Szpital,2405042-00531,10927,50.21444,18.561249,https://rj.metropoliaztm.pl/rozklady/przystanek/2405042-00531/
+Pilchowice Szpital,2405042-00531,10927,50.21442,18.561155,https://rj.metropoliaztm.pl/rozklady/przystanek/2405042-00531/
 Pilchowice Łuże nż,2405042-03501,7401,50.21528,18.598871,https://rj.metropoliaztm.pl/rozklady/przystanek/2405042-03501/
 Piotrowice Barcelońska,2469011-22701,2256,50.206543,18.963755,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-22701/
 Piotrowice Barcelońska,2469011-22702,2257,50.20668,18.965084,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-22702/
@@ -6528,10 +6528,10 @@ Wyry Skrzyżowanie,2408052-00402,5181,50.13625,18.894194,https://rj.metropoliazt
 Wyry Skrzyżowanie,2408052-00431,8999,50.13569,18.894505,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00431/
 Wyry Skrzyżowanie,2408052-00432,8998,50.135674,18.894484,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00432/
 Wyry Tereny Przemysłowe,2408052-00801,5180,50.141876,18.896618,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00801/
-Wyry Tereny Przemysłowe,2408052-00801,9000,50.142357,18.898285,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00801/
 Wyry Tereny Przemysłowe,2408052-00801,9913,50.141876,18.896618,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00801/
 Wyry Tereny Przemysłowe,2408052-00802,9912,50.14206,18.896557,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00802/
-Wyry Tereny Przemysłowe,2408052-00831,9001,50.142258,18.897629,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00831/
+Wyry Tereny Przemysłowe,2408052-00831,9001,50.14242,18.898088,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00831/
+Wyry Tereny Przemysłowe,2408052-00832,9000,50.14236,18.89797,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00832/
 Wyry Urząd Gminy,2408052-00601,5185,50.132748,18.894075,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00601/
 Wyry Urząd Gminy,2408052-00602,5186,50.132694,18.893883,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00602/
 Wójtowa Wieś,2466011-15701,3322,50.2878,18.634867,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-15701/
