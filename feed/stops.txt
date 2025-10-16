@@ -764,8 +764,6 @@ Będzin Targowisko,2401011-02603,7289,50.33064,19.128744,https://rj.metropoliazt
 Będzin Urząd Miasta,2401011-02701,4882,50.322212,19.128407,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-02701/
 Będzin Zagórska,2401011-02801,3390,50.315887,19.137165,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-02801/
 Będzin Zagórska,2401011-02802,3391,50.316093,19.137154,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-02802/
-Będzin Zagórska,2401011-02831,10345,50.316936,19.136457,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-02831/
-Będzin Zagórska,2401011-02832,10342,50.316895,19.136307,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-02832/
 Będzin Zajezdnia Dysp. [tech],2401011-90101t,5133,50.328045,19.108536,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-90101t/
 Będzin Zamek,2401011-03001,3440,50.325012,19.127728,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-03001/
 Będzin Zamek,2401011-03001t,3441,50.326138,19.126043,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-03001t/
@@ -2820,7 +2818,6 @@ Kozłów,2405065-02701,6034,50.30249,18.558569,https://rj.metropoliaztm.pl/rozkl
 Kozłów,2405065-02702,6035,50.30286,18.558874,https://rj.metropoliaztm.pl/rozklady/przystanek/2405065-02702/
 Kozłów Pętla,2405065-00401,6042,50.306763,18.561115,https://rj.metropoliaztm.pl/rozklady/przystanek/2405065-00401/
 Kozłów Pętla,2405065-00403,6033,50.306717,18.560743,https://rj.metropoliaztm.pl/rozklady/przystanek/2405065-00403/
-Kozłów Szkoła,2405065-03801,6054,50.311047,18.56266,https://rj.metropoliaztm.pl/rozklady/przystanek/2405065-03801/
 Kończyce Beskidzka,2478011-02401,1331,50.26886,18.792334,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02401/
 Kończyce Beskidzka,2478011-02402,1332,50.26873,18.793144,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02402/
 Kończyce Cmentarz,2478011-02501,1333,50.27965,18.797007,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02501/
