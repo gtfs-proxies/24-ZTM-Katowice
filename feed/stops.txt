@@ -980,6 +980,8 @@ Chorzów Raciborska,2463011-05002,2491,50.2948,18.940136,https://rj.metropoliazt
 Chorzów Racławicka,2463011-05101,4539,50.282024,18.949158,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05101/
 Chorzów Racławicka,2463011-05101t,4540,50.28098,18.946365,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05101t/
 Chorzów Racławicka,2463011-05102t,4541,50.28104,18.946907,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05102t/
+Chorzów Racławicka,2463011-05103,7440,50.281197,18.946886,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05103/
+Chorzów Racławicka,2463011-05104,7439,50.28126,18.946522,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05104/
 Chorzów Racławicka OPS,2463011-11101,7973,50.280468,18.947847,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-11101/
 Chorzów Racławicka OPS,2463011-11102,5596,50.28023,18.949327,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-11102/
 Chorzów Rynek,2463011-00101,3610,50.29823,18.954865,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-00101/
@@ -1652,6 +1654,7 @@ Gliwice Jasnogórska,2466011-02902,5573,50.297215,18.656958,https://rj.metropoli
 Gliwice Jasnogórska,2466011-02904,1232,50.296345,18.657188,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-02904/
 Gliwice Jasnogórska,2466011-02905,1231,50.296574,18.659039,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-02905/
 Gliwice Jasnogórska,2466011-02908,5688,50.29605,18.657269,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-02908/
+Gliwice Jasnogórska,2466011-02935,7515,50.29639,18.656487,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-02935/
 Gliwice Kochanowskiego,2466011-03601,1337,50.287384,18.664103,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-03601/
 Gliwice Kochanowskiego,2466011-03602,1338,50.287434,18.664194,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-03602/
 Gliwice Komag,2466011-03701,1394,50.286945,18.673422,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-03701/
@@ -1663,6 +1666,7 @@ Gliwice Kościuszki,2466011-03802,3914,50.294273,18.654758,https://rj.metropolia
 Gliwice Kościuszki,2466011-03805,3915,50.29518,18.651834,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-03805/
 Gliwice Kościuszki,2466011-03806,3913,50.295483,18.652634,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-03806/
 Gliwice Królewskiej Tamy Rondo,2466011-17901,9868,50.28954,18.701832,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-17901/
+Gliwice Królewskiej Tamy Rondo,2466011-17932,10942,50.28981,18.704786,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-17932/
 Gliwice Królewskiej Tamy nż,2466011-03901,1501,50.29016,18.713219,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-03901/
 Gliwice Królewskiej Tamy nż,2466011-03902,1502,50.29017,18.711052,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-03902/
 Gliwice Kujawska,2466011-04001,1525,50.28699,18.67798,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-04001/
@@ -2752,8 +2756,6 @@ Koszelew,2401011-05702,1454,50.322357,19.156748,https://rj.metropoliaztm.pl/rozk
 Koszelew,2401011-05702t,1455,50.32229,19.156727,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-05702t/
 Koszelew Kościół,2401011-05801,1450,50.322517,19.158281,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-05801/
 Koszelew Kościół,2401011-05802,1451,50.322697,19.158981,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-05802/
-Koszelew Kościół,2401011-05831,10498,50.32368,19.161821,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-05831/
-Koszelew Kościół,2401011-05832,10497,50.323772,19.162086,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-05832/
 Kosztowy Dzióbka,2470011-04001,1458,50.19151,19.16263,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-04001/
 Kosztowy Dzióbka,2470011-04002,1459,50.19125,19.162767,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-04002/
 Kosztowy Kopernika,2470011-10001,4852,50.18906,19.145494,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-10001/
@@ -3091,6 +3093,8 @@ Maciejkowice Szyb Zygmunt,2463011-08501,1621,50.32307,18.971245,https://rj.metro
 Maciejkowice Szyb Zygmunt,2463011-08502,1622,50.323322,18.97076,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-08502/
 Maciejów Knurowska,2466011-21201t,4700,50.3054,18.734848,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-21201t/
 Maciejów Knurowska,2466011-21202t,4701,50.30536,18.735954,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-21202t/
+Maciejów Knurowska,2466011-21231,10945,50.304134,18.733246,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-21231/
+Maciejów Knurowska,2466011-21232,10946,50.30458,18.733027,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-21232/
 Maciejów Kondratowicza,2478011-02901,1623,50.305576,18.739586,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02901/
 Maciejów Kondratowicza,2478011-02901t,1624,50.30548,18.740942,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02901t/
 Maciejów Kondratowicza,2478011-02902,1625,50.305542,18.741533,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02902/
@@ -4136,25 +4140,13 @@ Ostrożnica Droga do Brynicy nż,2413072-00501,3802,50.451855,18.968748,https://
 Ostrożnica Droga do Brynicy nż,2413072-00502,3801,50.45191,18.968555,https://rj.metropoliaztm.pl/rozklady/przystanek/2413072-00502/
 Ostrożnica nż,2413072-00401,2140,50.44921,18.963749,https://rj.metropoliaztm.pl/rozklady/przystanek/2413072-00401/
 Ostrożnica nż,2413072-00402,2139,50.449436,18.964489,https://rj.metropoliaztm.pl/rozklady/przystanek/2413072-00402/
-Oświęcim Dworzec PKP,1213011-00502,6740,50.04163,19.200876,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-00502/
-Oświęcim Dworzec PKP,1213011-00503,6756,50.041744,19.201588,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-00503/
 Oświęcim Dąbrowskiego Kościół,1213011-00201,6748,50.039143,19.221262,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-00201/
 Oświęcim Dąbrowskiego Miasto,1213011-00111,6755,50.03807,19.225092,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-00111/
 Oświęcim Dąbrowskiego Miasto,1213011-00112,8897,50.03869,19.224728,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-00112/
-Oświęcim Garbarnia,1213011-00918,6746,50.0385,19.21254,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-00918/
-Oświęcim Garbarnia,1213011-00919,6754,50.037403,19.211199,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-00919/
-Oświęcim Muzeum I,1213011-00606,6743,50.032547,19.202894,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-00606/
-Oświęcim Muzeum II,1213011-00701,6744,50.032005,19.20417,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-00701/
 Oświęcim Niwa,1213011-00414,6752,50.044724,19.209953,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-00414/
 Oświęcim Niwa,1213011-00415,6749,50.044807,19.210083,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-00415/
-Oświęcim Orłowskiego,1213011-00801,6859,50.033276,19.20752,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-00801/
-Oświęcim Orłowskiego,1213011-00802,6745,50.03331,19.205936,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-00802/
 Oświęcim Stacja BP,1213011-00316,6747,50.042065,19.214052,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-00316/
 Oświęcim Stacja BP,1213011-00317,6753,50.04233,19.214085,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-00317/
-Oświęcim Zasole I,1213011-01103,6757,50.034645,19.20182,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-01103/
-Oświęcim Zasole I,1213011-01104,6742,50.03563,19.20106,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-01104/
-Oświęcim Zasole Walcownia,1213011-01002,6758,50.038467,19.198162,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-01002/
-Oświęcim Zasole Walcownia,1213011-01005,6741,50.0385,19.19844,https://rj.metropoliaztm.pl/rozklady/przystanek/1213011-01005/
 Ożarowice Kościuszki,2413062-01001,3899,50.461082,19.045298,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-01001/
 Ożarowice Kościuszki,2413062-01002,3898,50.461487,19.045265,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-01002/
 Ożarowice Kościuszki,2413062-01003,5623,50.461323,19.044859,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-01003/
@@ -7179,7 +7171,6 @@ granica BĘDZ - DĄBR (Koszelew),GR00101t,839,50.322292,19.162933,https://rj.met
 granica BĘDZ - DĄBR (Koszelew),GR00102,6913,50.322155,19.16302,https://rj.metropoliaztm.pl/rozklady/przystanek/GR00102/
 granica BĘDZ - DĄBR (Mydlice),GR00201,842,50.32135,19.163343,https://rj.metropoliaztm.pl/rozklady/przystanek/GR00201/
 granica BĘDZ - DĄBR (Mydlice),GR00202,843,50.321434,19.162926,https://rj.metropoliaztm.pl/rozklady/przystanek/GR00202/
-granica BĘDZ - DĄBR (Paryż),GR02001,7144,50.323864,19.162354,https://rj.metropoliaztm.pl/rozklady/przystanek/GR02001/
 granica BĘDZ - DĄBR (Podłosie),GR00401,844,50.345142,19.177347,https://rj.metropoliaztm.pl/rozklady/przystanek/GR00401/
 granica BĘDZ - DĄBR (Podłosie),GR00402,845,50.34505,19.177767,https://rj.metropoliaztm.pl/rozklady/przystanek/GR00402/
 granica BĘDZ - DĄBR (Warpie),GR00301,840,50.31646,19.161816,https://rj.metropoliaztm.pl/rozklady/przystanek/GR00301/
@@ -7236,6 +7227,7 @@ granica CHOR - ŚWIĘ (DTŚ-Nomiarki),GR23902,7392,50.290775,18.932701,https://r
 granica CHOR - ŚWIĘ (Gazownia),GR07601,874,50.28375,18.9353,https://rj.metropoliaztm.pl/rozklady/przystanek/GR07601/
 granica CHOR - ŚWIĘ (Os. Słoneczne),GR07501,829,50.272423,18.927465,https://rj.metropoliaztm.pl/rozklady/przystanek/GR07501/
 granica CHOR - ŚWIĘ (Piaśniki),GR07901,875,50.304783,18.920616,https://rj.metropoliaztm.pl/rozklady/przystanek/GR07901/
+granica CHOR - ŚWIĘ (Żołnierska),GR28501,8531,50.289978,18.933685,https://rj.metropoliaztm.pl/rozklady/przystanek/GR28501/
 granica CZEL - SIEM (Bańgów),GR17901,972,50.32083,19.050297,https://rj.metropoliaztm.pl/rozklady/przystanek/GR17901/
 granica CZEL - SIEM (Bańgów),GR17902,973,50.320736,19.050526,https://rj.metropoliaztm.pl/rozklady/przystanek/GR17902/
 granica CZEL - SOSN (Kalety),GR08201,987,50.29627,19.101477,https://rj.metropoliaztm.pl/rozklady/przystanek/GR08201/
