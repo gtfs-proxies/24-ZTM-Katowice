@@ -620,6 +620,7 @@ Bytom Odrzańska nż,2462011-03002,1937,50.362957,18.901709,https://rj.metropoli
 Bytom Odrzańska nż,2462011-03002t,1938,50.36291,18.899729,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03002t/
 Bytom Olimpijska,2462011-03101t,3812,50.355526,18.906242,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03101t/
 Bytom Olimpijska,2462011-03102t,3813,50.355473,18.906263,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03102t/
+Bytom Olimpijska,2462011-03131,10956,50.355045,18.90689,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-03131/
 Bytom Opera,2462011-15101,8951,50.34342,18.921194,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-15101/
 Bytom Park Mickiewicza,2462011-03201t,4601,50.33652,18.938042,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03201t/
 Bytom Park Mickiewicza,2462011-03202t,4602,50.336224,18.938272,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03202t/
@@ -633,6 +634,7 @@ Bytom Plac Sikorskiego,2462011-03702t,4311,50.34541,18.920908,https://rj.metropo
 Bytom Plac Sikorskiego,2462011-03703t,4312,50.345585,18.92129,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03703t/
 Bytom Plac Sikorskiego,2462011-03704t,7282,50.34515,18.920624,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03704t/
 Bytom Plac Sikorskiego,2462011-03705t,7283,50.345207,18.920639,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03705t/
+Bytom Plac Sikorskiego,2462011-03731,7376,50.344364,18.920092,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-03731/
 Bytom Plac Sobieskiego,2462011-03801,2299,50.34898,18.924706,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03801/
 Bytom Pogoda,2462011-03901,2369,50.345654,18.93036,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03901/
 Bytom Powstańców Warszawskich,2462011-04101,2412,50.344467,18.914536,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-04101/
@@ -658,12 +660,14 @@ Bytom Szpital nr 1,2462011-04901,432,50.352566,18.923752,https://rj.metropoliazt
 Bytom Szpital nr 1,2462011-04902,433,50.352287,18.923525,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-04902/
 Bytom Szpital nr 2,2462011-14301,9040,50.347874,18.909838,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-14301/
 Bytom Sąd,2462011-04401t,4573,50.3474,18.917652,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-04401t/
+Bytom Sąd,2462011-04431t,10953,50.347565,18.918236,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-04431t/
 Bytom Teatr Tańca-Rozbark,2462011-10201,2562,50.341614,18.93213,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-10201/
 Bytom Teatr Tańca-Rozbark,2462011-10201t,2563,50.34195,18.932158,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-10201t/
 Bytom Teatr Tańca-Rozbark,2462011-10202,2564,50.341763,18.932356,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-10202/
 Bytom Teatr Tańca-Rozbark,2462011-10202t,2565,50.341988,18.93234,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-10202t/
 Bytom Urząd Miasta,2462011-05001t,4581,50.350845,18.912046,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05001t/
 Bytom Urząd Miasta,2462011-05002t,4582,50.35076,18.9121,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05002t/
+Bytom Urząd Miasta,2462011-05031,10955,50.351963,18.91063,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-05031/
 Bytom Urząd Pracy,2462011-14201t,6871,50.339333,18.918795,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-14201t/
 Bytom Urząd Pracy,2462011-14202t,6870,50.339375,18.91888,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-14202t/
 Bytom Wallisa,2462011-05101t,4622,50.350433,18.900051,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-05101t/
@@ -1657,6 +1661,7 @@ Gliwice Jasnogórska,2466011-02902,5573,50.297215,18.656958,https://rj.metropoli
 Gliwice Jasnogórska,2466011-02904,1232,50.296345,18.657188,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-02904/
 Gliwice Jasnogórska,2466011-02905,1231,50.296574,18.659039,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-02905/
 Gliwice Jasnogórska,2466011-02908,5688,50.29605,18.657269,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02908/
+Gliwice Jasnogórska,2466011-02935,7515,50.29639,18.656487,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02935/
 Gliwice Kochanowskiego,2466011-03601,1337,50.287384,18.664103,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-03601/
 Gliwice Kochanowskiego,2466011-03602,1338,50.287434,18.664194,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-03602/
 Gliwice Komag,2466011-03701,1394,50.286945,18.673422,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-03701/
@@ -1668,6 +1673,7 @@ Gliwice Kościuszki,2466011-03802,3914,50.294273,18.654758,https://rj.transportg
 Gliwice Kościuszki,2466011-03805,3915,50.29518,18.651834,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-03805/
 Gliwice Kościuszki,2466011-03806,3913,50.295483,18.652634,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-03806/
 Gliwice Królewskiej Tamy Rondo,2466011-17901,9868,50.28954,18.701832,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-17901/
+Gliwice Królewskiej Tamy Rondo,2466011-17932,10942,50.28982,18.703884,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-17932/
 Gliwice Królewskiej Tamy nż,2466011-03901,1501,50.29016,18.713219,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-03901/
 Gliwice Królewskiej Tamy nż,2466011-03902,1502,50.29017,18.711052,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-03902/
 Gliwice Kujawska,2466011-04001,1525,50.28699,18.67798,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-04001/
@@ -3094,6 +3100,8 @@ Maciejkowice Szyb Zygmunt,2463011-08501,1621,50.32307,18.971245,https://rj.metro
 Maciejkowice Szyb Zygmunt,2463011-08502,1622,50.323322,18.97076,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-08502/
 Maciejów Knurowska,2466011-21201t,4700,50.3054,18.734848,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-21201t/
 Maciejów Knurowska,2466011-21202t,4701,50.30536,18.735954,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-21202t/
+Maciejów Knurowska,2466011-21231,10945,50.304005,18.73322,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-21231/
+Maciejów Knurowska,2466011-21232,10946,50.30436,18.733208,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-21232/
 Maciejów Kondratowicza,2478011-02901,1623,50.305576,18.739586,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02901/
 Maciejów Kondratowicza,2478011-02901t,1624,50.30548,18.740942,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02901t/
 Maciejów Kondratowicza,2478011-02902,1625,50.305542,18.741533,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-02902/
