@@ -1003,7 +1003,6 @@ Chorzów Sobieskiego,2463011-05531,10479,50.294556,18.951546,https://rj.transpor
 Chorzów Stabika,2463011-05601,2731,50.310215,18.950132,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05601/
 Chorzów Stabika,2463011-05602,2732,50.31079,18.949017,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05602/
 Chorzów Stabika,2463011-05603,5441,50.31031,18.95025,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-05603/
-Chorzów Stadion Śl Pętla Zach. [tech],2469011-29001t,10084,50.286602,18.969881,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29001t/
 Chorzów Stadion Śl Pętla Zach.[tech.],2469011-29001t,8452,50.286263,18.969788,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29001t/
 Chorzów Stadion Śląski,2463011-05704,10478,50.28837,18.967726,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05704/
 Chorzów Stadion Śląski,2463011-05732,10506,50.287525,18.96776,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05732/
@@ -6574,8 +6573,6 @@ Wyry Skrzyżowanie,2408052-00432,8998,50.135674,18.894484,https://rj.transportgz
 Wyry Tereny Przemysłowe,2408052-00801,5180,50.141876,18.896618,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00801/
 Wyry Tereny Przemysłowe,2408052-00801,9913,50.141876,18.896618,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00801/
 Wyry Tereny Przemysłowe,2408052-00802,9912,50.14206,18.896557,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00802/
-Wyry Tereny Przemysłowe,2408052-00831,9001,50.14242,18.898088,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00831/
-Wyry Tereny Przemysłowe,2408052-00832,9000,50.14236,18.89797,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00832/
 Wyry Urząd Gminy,2408052-00601,5185,50.132748,18.894075,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00601/
 Wyry Urząd Gminy,2408052-00602,5186,50.132694,18.893883,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00602/
 Wójtowa Wieś,2466011-15701,3322,50.2878,18.634867,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-15701/
