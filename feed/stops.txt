@@ -2350,6 +2350,8 @@ Katowice Aleja Korfantego,2469011-00501,1428,50.261993,19.02294,https://rj.metro
 Katowice Aleja Korfantego,2469011-00502,1429,50.261513,19.022327,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00502/
 Katowice Andrzeja Dworzec,2469011-01501,6063,50.256252,19.016148,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01501/
 Katowice Andrzeja Dworzec,2469011-01502,5349,50.256542,19.0147,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01502/
+Katowice Arena,2469011-26801,10905,50.25095,18.981268,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-26801/
+Katowice Arena,2469011-26802,10904,50.25085,18.981718,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-26802/
 Katowice Arena Parking,2469011-41001,10330,50.2542,18.972889,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-41001/
 Katowice Bonifraterska,2469011-29901,10666,50.26742,19.03561,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29901/
 Katowice Bonifraterska,2469011-29902,10665,50.26754,19.035362,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29902/
@@ -2389,6 +2391,7 @@ Katowice Grundmanna,2469011-29601t,8811,50.262947,19.007854,https://rj.metropoli
 Katowice Grundmanna,2469011-29602t,8812,50.26286,19.007662,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29602t/
 Katowice Grundmanna Office Park,2469011-29701t,8809,50.26661,19.011007,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29701t/
 Katowice Grundmanna Office Park,2469011-29702t,8810,50.266727,19.010803,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29702t/
+Katowice Górnośląska Os. Paderewskiego,2469011-35601,7277,50.245907,19.025833,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-35601/
 Katowice Hutnicza,2469011-37001,5454,50.252216,19.056278,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37001/
 Katowice Jagiellońska,2469011-02001,3688,50.25406,19.02369,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-02001/
 Katowice Jordana,2469011-01901t,10606,50.25176,19.015085,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01901t/
@@ -2420,6 +2423,7 @@ Katowice Osiedle Kopalni Wujek,2469011-09202,2019,50.25178,18.98952,https://rj.m
 Katowice Piotra Skargi,2469011-00802,3697,50.26188,19.018658,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00802/
 Katowice Piotra Skargi,2469011-00803,3698,50.262,19.0184,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00803/
 Katowice Piotra Skargi,2469011-00804,5416,50.262154,19.018036,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00804/
+Katowice Piotra Skargi,2469011-00831,8595,50.261265,19.019978,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00831/
 Katowice Plac Miarki,2469011-01801,9744,50.254585,19.016737,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01801/
 Katowice Plac Miarki,2469011-01801t,4544,50.254845,19.017853,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01801t/
 Katowice Plac Miarki,2469011-01802,9742,50.254906,19.017607,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01802/
