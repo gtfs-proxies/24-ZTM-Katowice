@@ -2461,6 +2461,7 @@ Katowice Skłodowskiej Dworzec,2469011-40701,9739,50.255962,19.01544,https://rj.
 Katowice Skłodowskiej Dworzec,2469011-40702,9738,50.255764,19.015419,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-40702/
 Katowice Skłodowskiej Dworzec,2469011-40703,9737,50.255566,19.015364,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-40703/
 Katowice Skłodowskiej Dworzec,2469011-40704,9715,50.255234,19.015182,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-40704/
+Katowice Sobieskiego,2469011-10301,10983,50.26034,19.011625,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-10301/
 Katowice Sobieskiego,2469011-10301,4522,50.26034,19.011625,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10301/
 Katowice Sobieskiego,2469011-10301t,4523,50.260345,19.0119,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10301t/
 Katowice Sobieskiego,2469011-10302t,6889,50.260326,19.011889,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10302t/
@@ -3786,13 +3787,11 @@ Okradzionów Cmentarz,2465011-20802,5426,50.331493,19.388277,https://rj.metropol
 Okradzionów Leśniczówka,2465011-08801,1944,50.345108,19.36829,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-08801/
 Okradzionów Leśniczówka,2465011-08802,1945,50.345272,19.36815,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-08802/
 Okradzionów Skrzyżowanie,2465011-08901,1948,50.351994,19.36409,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-08901/
+Okradzionów Skrzyżowanie,2465011-08902,10990,50.351894,19.362804,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-08902/
 Okradzionów Skrzyżowanie,2465011-08902,1949,50.352077,19.364176,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-08902/
 Okradzionów Skrzyżowanie,2465011-08903,1950,50.35185,19.36394,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-08903/
 Okradzionów Skrzyżowanie,2465011-08904,1951,50.351757,19.364101,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-08904/
 Okradzionów Skrzyżowanie,2465011-08905,1952,50.352093,19.36395,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-08905/
-Okradzionów Skrzyżowanie,2465011-08931,10317,50.35182,19.362932,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-08931/
-Okradzionów Skrzyżowanie,2465011-08932,10318,50.351894,19.362804,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-08932/
-Okradzionów Skrzyżowanie,2465011-08933,10316,50.352375,19.363749,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-08933/
 Okradzionów Spółdzielnia,2465011-09001,1954,50.33651,19.379889,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-09001/
 Okradzionów Spółdzielnia,2465011-09002,1955,50.33651,19.380001,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-09002/
 Okradzionów Szkoła,2465011-09101,1956,50.329258,19.384832,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-09101/
@@ -6983,6 +6982,7 @@ Załęże PKP,2469011-39932,10428,50.26363,18.989573,https://rj.transportgzm.pl/
 Załęże Pośpiecha,2469011-27401,10984,50.263817,19.00367,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-27401/
 Załęże Pośpiecha,2469011-27401,4524,50.263817,19.00367,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27401/
 Załęże Pośpiecha,2469011-27401t,4525,50.264015,19.003199,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27401t/
+Załęże Pośpiecha,2469011-27402,10985,50.263084,19.005001,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-27402/
 Załęże Pośpiecha,2469011-27402,4526,50.263084,19.005001,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27402/
 Załęże Pośpiecha,2469011-27402t,4527,50.26318,19.004753,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-27402t/
 Załęże Pukowca,2469011-41331,10429,50.26088,18.996794,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-41331/
