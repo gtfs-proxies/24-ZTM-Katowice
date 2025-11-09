@@ -361,6 +361,7 @@ Brynów Centrum Przesiadkowe,2469011-10505,8120,50.226727,18.99514,https://rj.me
 Brynów Centrum Przesiadkowe,2469011-10505t,8106,50.226444,18.995323,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-10505t/
 Brynów Drozdów,2469011-09401t,5171,50.23481,19.000086,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09401t/
 Brynów Drozdów,2469011-09402t,5172,50.234787,19.0002,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09402t/
+Brynów Drozdów,2469011-09432,8912,50.234673,19.0004,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09432/
 Brynów Dworska,2469011-09501,4554,50.232788,18.99556,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09501/
 Brynów Dworska,2469011-09502,4555,50.234146,18.995956,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09502/
 Brynów Dziewięciu z Wujka,2469011-09601,4885,50.240246,18.989717,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09601/
@@ -390,6 +391,7 @@ Brynów Różyckiego,2469011-34401,300,50.238384,18.994379,https://rj.metropolia
 Brynów Różyckiego,2469011-34402,301,50.23927,18.994593,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-34402/
 Brynów Słowików,2469011-09801t,4556,50.231403,18.997206,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09801t/
 Brynów Słowików,2469011-09802t,4557,50.231453,18.997437,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09802t/
+Brynów Słowików,2469011-09832,8913,50.2313,18.997654,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09832/
 Brynów W. Pola,2469011-36201,305,50.245125,18.996546,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-36201/
 Brynów W. Pola,2469011-36202,306,50.244137,18.996738,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-36202/
 Brynów W. Pola,2469011-40801,10575,50.242695,18.98349,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-40801/
@@ -2393,6 +2395,7 @@ Katowice Grundmanna,2469011-29601t,8811,50.262947,19.007854,https://rj.metropoli
 Katowice Grundmanna,2469011-29602t,8812,50.26286,19.007662,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29602t/
 Katowice Grundmanna Office Park,2469011-29701t,8809,50.26661,19.011007,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29701t/
 Katowice Grundmanna Office Park,2469011-29702t,8810,50.266727,19.010803,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29702t/
+Katowice Górnośląska Os. Paderewskiego,2469011-35601,7277,50.245907,19.025833,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-35601/
 Katowice Hutnicza,2469011-37001,5454,50.252216,19.056278,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37001/
 Katowice Jagiellońska,2469011-02001,3688,50.25406,19.02369,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-02001/
 Katowice Jordana,2469011-01901t,10606,50.25176,19.015085,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01901t/
@@ -2424,6 +2427,7 @@ Katowice Osiedle Kopalni Wujek,2469011-09202,2019,50.25178,18.98952,https://rj.m
 Katowice Piotra Skargi,2469011-00802,3697,50.26188,19.018658,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00802/
 Katowice Piotra Skargi,2469011-00803,3698,50.262,19.0184,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00803/
 Katowice Piotra Skargi,2469011-00804,5416,50.262154,19.018036,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00804/
+Katowice Piotra Skargi,2469011-00831,8595,50.261265,19.019978,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00831/
 Katowice Plac Miarki,2469011-01801,9744,50.254585,19.016737,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01801/
 Katowice Plac Miarki,2469011-01801t,4544,50.254845,19.017853,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01801t/
 Katowice Plac Miarki,2469011-01802,9742,50.254906,19.017607,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01802/
@@ -2445,6 +2449,8 @@ Katowice Porcelanowa Zakłady,2469011-36902,5456,50.252052,19.053137,https://rj.
 Katowice Powstańców Przychodnie,2469011-38301,5287,50.252167,19.023842,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-38301/
 Katowice Rondo,2469011-00601t,3695,50.264404,19.023632,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00601t/
 Katowice Rondo,2469011-00602t,3696,50.264366,19.02355,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00602t/
+Katowice Rondo,2469011-00631,8537,50.265587,19.024254,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00631/
+Katowice Rondo,2469011-00632,7347,50.265923,19.0237,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00632/
 Katowice Rynek,2469011-00401t,4441,50.260147,19.022297,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00401t/
 Katowice Rynek,2469011-00402t,4442,50.26007,19.022371,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00402t/
 Katowice Rynek /Teatr Śl./,2469011-00303t,5040,50.259308,19.023079,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00303t/
@@ -2782,6 +2788,7 @@ Kosztowy Szkoła,2470011-10601,6084,50.183685,19.161854,https://rj.transportgzm.
 Kosztowy Wita Stwosza,2470011-12201,4854,50.186527,19.145956,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12201/
 Kosztowy Wita Stwosza,2470011-12202,4855,50.186577,19.14602,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12202/
 Koszutka GIG,2469011-12801,1469,50.271034,19.024849,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-12801/
+Koszutka GIG,2469011-12832,8558,50.269684,19.02411,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-12832/
 Koszutka Iłłakowiczówny,2469011-13401,3693,50.274715,19.0222,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-13401/
 Koszutka Iłłakowiczówny,2469011-13402,3694,50.274902,19.022121,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-13402/
 Koszutka Jesionowa,2469011-29201t,6863,50.274002,19.024164,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29201t/
@@ -2800,6 +2807,7 @@ Koszutka Słoneczna,2469011-13501,3247,50.27405,19.02386,https://rj.metropoliazt
 Koszutka Słoneczna,2469011-13501t,3248,50.27307,19.024618,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-13501t/
 Koszutka Słoneczna,2469011-13502t,3249,50.27306,19.024923,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-13502t/
 Koszutka Słoneczna Pętla,2469011-13601t,5042,50.273827,19.02444,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-13601t/
+Koszutka Słoneczna Pętla,2469011-13631,8061,50.273956,19.024395,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13631/
 Kotliszowice,2405075-02801,5953,50.474384,18.546059,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02801/
 Kotliszowice,2405075-02802,5954,50.47412,18.54573,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02802/
 Kotliszowice Wiejska,2405075-04201,5952,50.47113,18.551493,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-04201/
