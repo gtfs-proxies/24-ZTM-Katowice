@@ -703,8 +703,6 @@ Będzin Cmentarz Komunalny,2401011-00502,3661,50.304802,19.137835,https://rj.met
 Będzin Cmentarz Komunalny,2401011-00502t,3662,50.304817,19.137716,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-00502t/
 Będzin Czeladzka,2401011-00601t,4380,50.32568,19.122492,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-00601t/
 Będzin Czeladzka,2401011-00602t,4381,50.32538,19.120678,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-00602t/
-Będzin Czeladzka,2401011-00631,8807,50.325256,19.120249,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-00631/
-Będzin Czeladzka,2401011-00632,8806,50.32492,19.11933,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-00632/
 Będzin Dworzec,2401011-00701,10020,50.318336,19.133121,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-00701/
 Będzin Dworzec,2401011-00702,10021,50.318466,19.133379,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-00702/
 Będzin Dworzec,2401011-00703,10040,50.319313,19.13436,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-00703/
@@ -746,7 +744,6 @@ Będzin Robotnicza nż,2401011-01902,2525,50.311703,19.146015,https://rj.metropo
 Będzin Rondo,2401011-02001,2559,50.324245,19.123533,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-02001/
 Będzin Rondo,2401011-02001t,2560,50.324818,19.124262,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-02001t/
 Będzin Rondo,2401011-02002t,2561,50.324757,19.124338,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-02002t/
-Będzin Rondo,2401011-02032,8808,50.32471,19.124601,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-02032/
 Będzin Sielecka nż,2401011-01001,9987,50.310577,19.140865,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-01001/
 Będzin Sielecka nż,2401011-01002,9988,50.310795,19.14078,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-01002/
 Będzin Sienkiewicza,2401011-10301,5303,50.319675,19.1367,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-10301/
@@ -1173,7 +1170,6 @@ Czeladź Dworzec,2401021-04002t,6886,50.320507,19.072378,https://rj.metropoliazt
 Czeladź Grodziecka,2401021-01701,8275,50.31942,19.0764,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01701/
 Czeladź Grodziecka,2401021-01701t,4384,50.31952,19.077023,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01701t/
 Czeladź Grodziecka,2401021-01702t,4385,50.31957,19.076344,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-01702t/
-Czeladź Grodziecka,2401021-01732,8803,50.319782,19.076883,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-01732/
 Czeladź Grodziecka Most [tech],2401021-04101t,7433,50.319065,19.079443,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-04101t/
 Czeladź Grodziecka Most [tech],2401021-04102t,7432,50.319115,19.079517,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-04102t/
 Czeladź Grodziecka nż,2401021-00301,4076,50.328888,19.08234,https://rj.metropoliaztm.pl/rozklady/przystanek/2401021-00301/
@@ -1711,6 +1707,8 @@ Gliwice Rybnicka,2466011-02201,400,50.284164,18.663229,https://rj.metropoliaztm.
 Gliwice Rybnicka,2466011-02202,401,50.28353,18.66309,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-02202/
 Gliwice Sobieskiego,2466011-18001,3614,50.288887,18.648266,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-18001/
 Gliwice Sobieskiego,2466011-18002,3615,50.287693,18.647644,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-18002/
+Gliwice Sobieskiego Szpital,2466011-03801,10996,50.294228,18.654469,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03801/
+Gliwice Sobieskiego Szpital,2466011-03802,10997,50.294273,18.654758,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03802/
 Gliwice Sowińskiego,2466011-06001,4748,50.293335,18.642958,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-06001/
 Gliwice Sowińskiego,2466011-06002,4749,50.292225,18.641584,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-06002/
 Gliwice Sportowa,2466011-06101,4751,50.28998,18.700459,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-06101/
@@ -1719,6 +1717,10 @@ Gliwice Strzody,2466011-22101,5517,50.294033,18.67038,https://rj.metropoliaztm.p
 Gliwice Strzody,2466011-22102,7229,50.29492,18.671762,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-22102/
 Gliwice Styczyńskiego,2466011-06301,2890,50.29539,18.649769,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-06301/
 Gliwice Styczyńskiego,2466011-06302,2891,50.295574,18.650242,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-06302/
+Gliwice Szpital Wielospecjalistyczny,2466011-30001,10981,50.2901,18.65999,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-30001/
+Gliwice Szpital Wielospecjalistyczny,2466011-30002,10979,50.289337,18.660965,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-30002/
+Gliwice Sąd Okręgowy,2466011-30101,10980,50.29288,18.65585,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-30101/
+Gliwice Sąd Okręgowy,2466011-30102,10982,50.29224,18.65652,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-30102/
 Gliwice Słowackiego,2466011-05901,3618,50.28791,18.654415,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-05901/
 Gliwice Słowackiego,2466011-05902,3619,50.28753,18.653997,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-05902/
 Gliwice Targowisko,2466011-06601,3620,50.30397,18.691376,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-06601/
@@ -2609,7 +2611,6 @@ Kobiór Centrum,2410022-00202,6727,50.05994,18.933962,https://rj.metropoliaztm.p
 Kobiór Centrum,2410022-00231,9791,50.05934,18.93448,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00231/
 Kobiór Leśniczówka,2410022-00401,6728,50.06457,18.933537,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00401/
 Kobiór Leśniczówka,2410022-00402,6729,50.0644,18.933762,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00402/
-Kobiór PKP,2410022-00502,9061,50.0659,18.92454,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00502/
 Kochłowice Cegielnia,2472011-05201,1339,50.249237,18.903843,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-05201/
 Kochłowice Cegielnia,2472011-05202,1340,50.247303,18.903801,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-05202/
 Kochłowice Grzybowa,2472011-05301,1341,50.24293,18.903854,https://rj.metropoliaztm.pl/rozklady/przystanek/2472011-05301/
@@ -3901,8 +3902,6 @@ Os. Młodego Górnika Ziemska,2478011-01005,202,50.33758,18.827465,https://rj.me
 Os. Młodego Górnika Ziemska,2478011-01006,201,50.337845,18.827642,https://rj.metropoliaztm.pl/rozklady/przystanek/2478011-01006/
 Os. Syberka,2401011-08101t,10022,50.32385,19.111061,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-08101t/
 Os. Syberka,2401011-08102t,10023,50.32374,19.110954,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-08102t/
-Os. Syberka,2401011-08131,10048,50.323505,19.109613,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-08131/
-Os. Syberka,2401011-08132,10047,50.32371,19.111921,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-08132/
 Os. Syberka Kościół,2401011-08301,9995,50.31932,19.11421,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-08301/
 Os. Syberka Kościół,2401011-08302,9996,50.319565,19.11524,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-08302/
 Os. Syberka Ośr. Zdrowia,2401011-08401,9999,50.32317,19.117878,https://rj.metropoliaztm.pl/rozklady/przystanek/2401011-08401/
@@ -5696,7 +5695,6 @@ Szopienice Chemiczna,2469011-24601t,4454,50.259308,19.111914,https://rj.metropol
 Szopienice Chemiczna,2469011-24632,8305,50.259758,19.111425,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24632/
 Szopienice Dolina 5 Stawów,2469011-25401t,4321,50.269238,19.111088,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-25401t/
 Szopienice Dolina 5 Stawów,2469011-25402t,4322,50.26959,19.111237,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-25402t/
-Szopienice Dolina 5 Stawów,2469011-25431,10837,50.269405,19.111935,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25431/
 Szopienice Dwór,2469011-24701,10108,50.26187,19.10178,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24701/
 Szopienice Dwór,2469011-24701t,4317,50.261993,19.101795,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24701t/
 Szopienice Dwór,2469011-24702,10107,50.26204,19.101496,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24702/
