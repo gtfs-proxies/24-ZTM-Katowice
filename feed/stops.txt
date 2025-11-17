@@ -2178,7 +2178,6 @@ Imielin Wiadukt,2414021-01701,1773,50.157963,19.17751,https://rj.metropoliaztm.p
 Imielin Wiadukt,2414021-01702,1774,50.156403,19.178303,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-01702/
 Imielin Wspólna,2414021-02101,10264,50.143497,19.198238,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-02101/
 Imielin Wspólna,2414021-02102,10263,50.143696,19.198248,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-02102/
-Instytut Techniki Budowlanej [tech],2469011-41801,10998,50.290184,19.015682,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-41801/
 Jamnice Bartnicza,2414021-03701,10279,50.140987,19.201435,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03701/
 Jamnice Bartnicza,2414021-03702,10278,50.14105,19.201714,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03702/
 Jamnice Malczewskiego,2414021-03601,10277,50.137314,19.207958,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03601/
