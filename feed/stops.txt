@@ -595,6 +595,7 @@ Bytom Grottgera,2462011-01602t,4578,50.356274,18.921648,https://rj.metropoliaztm
 Bytom Gwarecka nż,2462011-01701,3601,50.35753,18.93006,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-01701/
 Bytom Głęboka,2462011-13501t,6875,50.344505,18.93006,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-13501t/
 Bytom Głęboka,2462011-13502t,6874,50.344555,18.930227,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-13502t/
+Bytom Jagiellońska,2462011-01801,8954,50.345245,18.918772,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-01801/
 Bytom Jagiellońska,2462011-01801t,4313,50.345192,18.918676,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-01801t/
 Bytom Jagiellońska,2462011-01802t,4314,50.344322,18.918076,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-01802t/
 Bytom Kochanowskiego,2462011-15701,8948,50.347458,18.933857,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-15701/
@@ -613,6 +614,7 @@ Bytom Matejki,2462011-02601,3602,50.348152,18.92757,https://rj.transportgzm.pl/v
 Bytom Miarki,2462011-15201,8952,50.343597,18.926262,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-15201/
 Bytom Mickiewicza,2462011-02701,1683,50.357624,18.928923,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-02701/
 Bytom Moniuszki,2462011-02801t,4572,50.34526,18.916767,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-02801t/
+Bytom Musialika,2462011-15801,8947,50.35024,18.935738,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-15801/
 Bytom Nawrota,2462011-02901,1842,50.351704,18.91886,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-02901/
 Bytom Odrzańska nż,2462011-03001,1935,50.36118,18.903822,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03001/
 Bytom Odrzańska nż,2462011-03001t,1936,50.36314,18.899578,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03001t/
@@ -628,6 +630,7 @@ Bytom Piłkarska nż,2462011-03302t,4627,50.358723,18.903173,https://rj.metropol
 Bytom Piłsudskiego,2462011-03401,2280,50.34868,18.929798,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03401/
 Bytom Plac Akademicki nż,2462011-03501,2282,50.351616,18.926626,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03501/
 Bytom Plac Rodła,2462011-03601,7307,50.355976,18.911682,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-03601/
+Bytom Plac Sikorskiego,2462011-03701,8953,50.34538,18.921644,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-03701/
 Bytom Plac Sikorskiego,2462011-03701t,7281,50.344704,18.92034,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03701t/
 Bytom Plac Sikorskiego,2462011-03702t,4311,50.34541,18.920908,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03702t/
 Bytom Plac Sikorskiego,2462011-03703t,4312,50.345585,18.92129,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-03703t/
@@ -646,6 +649,7 @@ Bytom Smolenia,2462011-04501,10661,50.35239,18.919907,https://rj.transportgzm.pl
 Bytom Smolenia,2462011-04501t,4575,50.351933,18.9196,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-04501t/
 Bytom Smolenia,2462011-04502,10662,50.35192,18.919527,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-04502/
 Bytom Smolenia,2462011-04502t,4576,50.352406,18.919878,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-04502t/
+Bytom Sokoła,2462011-15901,8949,50.349434,18.92904,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-15901/
 Bytom Stadion,2462011-04701,5164,50.356308,18.90007,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-04701/
 Bytom Stadion,2462011-04702,5165,50.35605,18.900974,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-04702/
 Bytom Strzelców Bytomskich,2462011-04801,2814,50.35057,18.91406,https://rj.metropoliaztm.pl/rozklady/przystanek/2462011-04801/
@@ -5708,8 +5712,8 @@ Szopienice Kościół,2469011-24831,8420,50.26279,19.093996,https://rj.metropoli
 Szopienice Kościół,2469011-24834,8421,50.263077,19.093525,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24834/
 Szopienice Morawa,2469011-24901t,4319,50.263474,19.107086,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24901t/
 Szopienice Morawa,2469011-24902t,4320,50.26348,19.107063,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-24902t/
-Szopienice Morawa,2469011-24931,8749,50.264057,19.106775,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24931/
-Szopienice Morawa,2469011-24932,8750,50.263977,19.107178,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24932/
+Szopienice Morawa,2469011-24931,8749,50.263935,19.10699,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24931/
+Szopienice Morawa,2469011-24932,8750,50.264126,19.106813,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24932/
 Szopienice Osiedlowa,2469011-25001,4910,50.264736,19.1037,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-25001/
 Szopienice Osiedlowa,2469011-25002,4911,50.264793,19.104065,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-25002/
 Szopienice PKP,2469011-37701,8280,50.258118,19.093792,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-37701/
