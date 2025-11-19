@@ -2444,6 +2444,7 @@ Katowice Plac Wolności,2469011-01101t,4443,50.259846,19.014786,https://rj.metro
 Katowice Plac Wolności,2469011-01102,5243,50.260387,19.012833,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01102/
 Katowice Plac Wolności,2469011-01103,5244,50.260254,19.014013,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01103/
 Katowice Plac Wolności,2469011-01131,9785,50.260754,19.014116,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01131/
+Katowice Plac Wolności,2469011-01132,7345,50.25974,19.015276,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01132/
 Katowice Porcelanowa,2469011-09901,3685,50.249687,19.048956,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09901/
 Katowice Porcelanowa,2469011-09902,3686,50.251797,19.048626,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09902/
 Katowice Porcelanowa,2469011-09903,7346,50.25089,19.047459,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09903/
@@ -2454,6 +2455,7 @@ Katowice Rondo,2469011-00601t,3695,50.264404,19.023632,https://rj.metropoliaztm.
 Katowice Rondo,2469011-00602t,3696,50.264366,19.02355,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00602t/
 Katowice Rynek,2469011-00401t,4441,50.260147,19.022297,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00401t/
 Katowice Rynek,2469011-00402t,4442,50.26007,19.022371,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00402t/
+Katowice Rynek,2469011-00432,8557,50.26102,19.021626,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00432/
 Katowice Rynek /Teatr Śl./,2469011-00303t,5040,50.259308,19.023079,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00303t/
 Katowice Rynek /Teatr Śl./,2469011-00304t,5041,50.259388,19.0231,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00304t/
 Katowice Rynek Teatr Śląski,2469011-00301t,10604,50.259254,19.023064,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00301t/
@@ -2495,6 +2497,7 @@ Katowice Sądowa,2469011-01202A,7169,50.25863,19.01101,https://rj.metropoliaztm.
 Katowice Sądowa,2469011-01202B,8192,50.258747,19.010622,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01202B/
 Katowice Sądowa,2469011-01203,8036,50.26028,19.00927,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01203/
 Katowice Uniwersytet Śląski,2469011-31101,5235,50.26151,19.025621,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-31101/
+Katowice Wojewódzka,2469011-32601,7274,50.256027,19.024641,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-32601/
 Katowice Zajezdnia [tech],2469011-90101,5142,50.264095,19.011824,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-90101/
 Katowice Św. Jana,2469011-01701t,6878,50.257957,19.021608,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01701t/
 Katowice Św. Jana,2469011-01702t,6879,50.25786,19.02148,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01702t/
@@ -6913,6 +6916,8 @@ Zawodzie Paderewskiego,2469011-28601t,4480,50.258003,19.040127,https://rj.metrop
 Zawodzie Paderewskiego,2469011-28602t,4481,50.25803,19.039816,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-28602t/
 Zawodzie Uniwersytet Ekonomiczny,2469011-28001t,5230,50.258358,19.046549,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-28001t/
 Zawodzie Uniwersytet Ekonomiczny,2469011-28002t,5231,50.25849,19.046345,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-28002t/
+Zawodzie Uniwersytet Ekonomiczny,2469011-28031,8124,50.25827,19.046492,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28031/
+Zawodzie Uniwersytet Ekonomiczny,2469011-28032,8123,50.25865,19.046047,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28032/
 Zawodzie Waleriana,2469011-28701,3475,50.25963,19.04717,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-28701/
 Zawodzie Waleriana,2469011-28702,3476,50.259724,19.047653,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-28702/
 Zawodzie Zajezdnia,2469011-28801,4466,50.259888,19.068419,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-28801/
