@@ -3800,6 +3800,7 @@ Okradzionów Skrzyżowanie,2465011-08902,1949,50.352077,19.364176,https://rj.met
 Okradzionów Skrzyżowanie,2465011-08903,1950,50.35185,19.36394,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-08903/
 Okradzionów Skrzyżowanie,2465011-08904,1951,50.351757,19.364101,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-08904/
 Okradzionów Skrzyżowanie,2465011-08905,1952,50.352093,19.36395,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-08905/
+Okradzionów Skrzyżowanie,2465011-08932,10318,50.35219,19.364586,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-08932/
 Okradzionów Spółdzielnia,2465011-09001,1954,50.33651,19.379889,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-09001/
 Okradzionów Spółdzielnia,2465011-09002,1955,50.33651,19.380001,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-09002/
 Okradzionów Szkoła,2465011-09101,1956,50.329258,19.384832,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-09101/
@@ -7721,6 +7722,7 @@ granica ŚWIE - TARN (Nowe Chechło),GR72901,830,50.44959,18.886362,https://rj.m
 Łosień Koksownicza,2465011-05201,4908,50.34721,19.30852,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-05201/
 Łosień Koksownicza,2465011-05202,4909,50.347332,19.3089,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-05202/
 Łosień Koksownicza,2465011-05231,10823,50.346786,19.305418,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-05231/
+Łosień Koksownicza,2465011-05232,10824,50.3467,19.30397,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-05232/
 Łosień Koksownicza Parking,2465011-07901,3096,50.352173,19.353489,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-07901/
 Łosień Koksownicza Parking,2465011-07902,3097,50.352215,19.353216,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-07902/
 Łosień Las,2465011-08001,3104,50.354984,19.306658,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-08001/
