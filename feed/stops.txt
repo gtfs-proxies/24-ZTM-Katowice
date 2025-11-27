@@ -1795,8 +1795,11 @@ Goląsza Górna,2401062-01701,785,50.41591,19.116865,https://rj.metropoliaztm.pl
 Goląsza Górna,2401062-01702,786,50.41578,19.11682,https://rj.metropoliaztm.pl/rozklady/przystanek/2401062-01702/
 Goląszka DK86 nż,2401062-01801,9505,50.384487,19.178326,https://rj.metropoliaztm.pl/rozklady/przystanek/2401062-01801/
 Goląszka DK86 nż,2401062-01802,9506,50.384315,19.17632,https://rj.metropoliaztm.pl/rozklady/przystanek/2401062-01802/
+Gostyń Centrum,2408052-00101,11009,50.104347,18.88269,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00101/
 Gostyń Centrum,2408052-00101,8798,50.103695,18.882885,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00101/
+Gostyń Centrum,2408052-00102,11007,50.10304,18.882864,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00102/
 Gostyń Centrum,2408052-00102,8799,50.103947,18.88266,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00102/
+Gostyń Centrum - Rybnicka,2408052-03804,11008,50.103367,18.882154,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-03804/
 Gostyń Drzymały,2408052-01501,6667,50.109447,18.842136,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01501/
 Gostyń Drzymały,2408052-01502,6651,50.109474,18.841825,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01502/
 Gostyń Klonowa,2408052-03602,10062,50.11081,18.835817,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-03602/
@@ -1812,6 +1815,7 @@ Gostyń Szkoła,2408052-01201,6664,50.105564,18.869507,https://rj.metropoliaztm.
 Gostyń Szkoła,2408052-01202,6663,50.10538,18.869818,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01202/
 Gostyń Wroni Kąt,2408052-01001,6650,50.113415,18.832191,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01001/
 Gostyń Wroni Kąt,2408052-01002,6668,50.11336,18.832138,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01002/
+Gostyń Wroni Kąt Rurociąg,2408052-03901,11010,50.113297,18.833462,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-03901/
 Gostyń Łuczników,2408052-00201,6655,50.111,18.88192,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00201/
 Gostyń Łuczników,2408052-00202,6654,50.11118,18.881725,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00202/
 Goławiec Czapli,2414031-02302,6706,50.10501,19.15887,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-02302/
@@ -3485,8 +3489,7 @@ Murcki Leśników nż,2469011-16501,1794,50.186615,19.037119,https://rj.metropol
 Murcki Leśników nż,2469011-16502,1795,50.18739,19.03828,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16502/
 Murcki Osiedle,2469011-16601,1797,50.203743,19.04312,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16601/
 Murcki Osiedle,2469011-16602,1798,50.203915,19.042915,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16602/
-Murcki PKP,2469011-16301,10533,50.202072,19.024204,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-16301/
-Murcki PKP,2469011-16302,10571,50.1996,19.028217,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-16302/
+Murcki PKP,2469011-16301,10533,50.202057,19.024244,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-16301/
 Murcki Rynek,2469011-16701,1799,50.197994,19.04325,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16701/
 Murcki Szebesty nż,2469011-16801,1796,50.204086,19.047697,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16801/
 Murcki Szyb Stanisław,2469011-16901,1800,50.206696,19.04194,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-16901/
@@ -6568,6 +6571,7 @@ Wyry Główna,2408052-00502,5184,50.13338,18.9027,https://rj.metropoliaztm.pl/ro
 Wyry Przejazd Kolejowy,2408052-00701,5188,50.12528,18.884066,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00701/
 Wyry Przejazd Kolejowy,2408052-00702,5187,50.125557,18.884,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00702/
 Wyry Skrzyżowanie,2408052-00401,5182,50.136063,18.894203,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00401/
+Wyry Skrzyżowanie,2408052-00402,11011,50.135685,18.894503,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00402/
 Wyry Skrzyżowanie,2408052-00402,5181,50.13625,18.894194,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00402/
 Wyry Skrzyżowanie,2408052-00431,8999,50.13569,18.894505,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00431/
 Wyry Skrzyżowanie,2408052-00432,8998,50.135674,18.894484,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00432/

@@ -414,7 +414,7 @@ TARNOWSKIE GÓRY DWORZEC - ZABRZE GOETHEGO,83,1,Tarnowskie Góry Dworzec - Tarno
 TARNOWSKIE GÓRY DWORZEC - ŚWIERKLANIEC PARK,5,1,Tarnowskie Góry Dworzec - Tarnowskie Góry Stara - Nakło Śląskie - Świerklaniec Szkoła - Świerklaniec Park,3,5,https://rj.metropoliaztm.pl/rozklady/3-5,008000,00FFFF
 TARNOWSKIE GÓRY DWORZEC - ŻYGLIN KOŚCIÓŁ,87,1,Tarnowskie Góry Dworzec - Lasowice - Miasteczko Śląskie Rynek - Żyglin Kościół,3,87,https://rj.metropoliaztm.pl/rozklady/3-87,008000,FFFFFF
 TARNOWSKIE GÓRY PLAC ZEMBALI - SOWICE CZARNA HUTA,746,1,Tarnowskie Góry Plac Zembali - Sowice Czarna Huta,3,746,https://rj.transportgzm.pl/v2/rozklady/3-746,000080,FFFFFF
-TARNOWSKIE GÓRY PLAC ZEMBALI - STARE TARNOWICE GCR,749,1,Tarnowskie Góry Plac Zembali - Osada Jana - Repty Śląskie Skowronków - Repty Śląskie Sztolnia - Stare Tarnowice Osiedle Przyjaźń - Stare Tarnowice GCR,3,749,https://rj.transportgzm.pl/v2/rozklady/3-749,FF0080,FFFFFF
+TARNOWSKIE GÓRY PLAC ZEMBALI - STARE TARNOWICE GCR,749,1,Tarnowskie Góry Plac Zembali - Osada Jana - Repty Śląskie Skowronków - Repty Śląskie Witosa - Repty Śląskie Sztolnia - Stare Tarnowice Osiedle Przyjaźń - Stare Tarnowice GCR,3,749,https://rj.transportgzm.pl/v2/rozklady/3-749,FF0080,FFFFFF
 TARNOWSKIE GÓRY PLAC ZEMBALI - TARNOWSKIE GÓRY PLAC ZEMBALI,744,1,Tarnowskie Góry Plac Zembali - Tarnowskie Góry Powstańców Śląskich - Tarnowskie Góry Plac Zembali,3,744,https://rj.transportgzm.pl/v2/rozklady/3-744,FF0000,FFFFFF
 TARNOWSKIE GÓRY PLAC ZEMBALI - TARNOWSKIE GÓRY PLAC ZEMBALI,745,1,Tarnowskie Góry Plac Zembali - Tarnowskie Góry Plac Zembali,3,745,https://rj.transportgzm.pl/v2/rozklady/3-745,00FF00,FFFFFF
 TOSZEK - DĄBRÓWKA KOŚCIÓŁ,205,1,Toszek - Sarnów - Dąbrówka Kościół,3,205,https://rj.transportgzm.pl/v2/rozklady/3-205,000000,C08080
