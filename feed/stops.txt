@@ -1803,20 +1803,26 @@ Gostyń Centrum - Rybnicka,2408052-03804,11008,50.103367,18.882154,https://rj.tr
 Gostyń Drzymały,2408052-01501,6667,50.109447,18.842136,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01501/
 Gostyń Drzymały,2408052-01502,6651,50.109474,18.841825,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01502/
 Gostyń Klonowa,2408052-03602,10062,50.11081,18.835817,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-03602/
+Gostyń Kuźnia,2408052-01101,11033,50.09783,18.883753,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01101/
 Gostyń Kuźnia,2408052-01101,6662,50.097836,18.88384,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01101/
+Gostyń Kuźnia,2408052-01102,11032,50.09728,18.884087,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01102/
 Gostyń Kuźnia,2408052-01102,6661,50.097237,18.88414,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01102/
 Gostyń Mamzera,2408052-01401,6652,50.107277,18.84821,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01401/
 Gostyń Mamzera,2408052-01402,6666,50.107094,18.848402,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01402/
 Gostyń Motyla,2408052-01301,6653,50.10646,18.860344,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01301/
 Gostyń Motyla,2408052-01302,6665,50.106365,18.860226,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01302/
+Gostyń Pszczyńska,2408052-00901,11025,50.11844,18.882223,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00901/
 Gostyń Pszczyńska,2408052-00901,5190,50.11747,18.88206,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00901/
+Gostyń Pszczyńska,2408052-00902,11024,50.11666,18.881733,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00902/
 Gostyń Pszczyńska,2408052-00902,5189,50.11762,18.881876,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00902/
 Gostyń Szkoła,2408052-01201,6664,50.105564,18.869507,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01201/
 Gostyń Szkoła,2408052-01202,6663,50.10538,18.869818,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01202/
 Gostyń Wroni Kąt,2408052-01001,6650,50.113415,18.832191,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01001/
 Gostyń Wroni Kąt,2408052-01002,6668,50.11336,18.832138,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01002/
 Gostyń Wroni Kąt Rurociąg,2408052-03901,11010,50.113297,18.833462,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-03901/
+Gostyń Łuczników,2408052-00201,11027,50.11112,18.881876,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00201/
 Gostyń Łuczników,2408052-00201,6655,50.111,18.88192,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00201/
+Gostyń Łuczników,2408052-00202,11026,50.111107,18.881735,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00202/
 Gostyń Łuczników,2408052-00202,6654,50.11118,18.881725,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00202/
 Goławiec Czapli,2414031-02302,6706,50.10501,19.15887,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-02302/
 Goławiec Ośrodek Zdrowia,2414031-02201,798,50.10781,19.159567,https://rj.metropoliaztm.pl/rozklady/przystanek/2414031-02201/
@@ -2610,7 +2616,9 @@ Knurów Wilsona,2405011-01102,3282,50.218815,18.656235,https://rj.metropoliaztm.
 Knurów Wojska Polskiego,2405011-01201,3707,50.23721,18.659956,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-01201/
 Knurów Wolności nż,2405011-03801,8642,50.23355,18.679226,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-03801/
 Knurów Wolności nż,2405011-03802,8643,50.233376,18.678694,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-03802/
+Kobiór Centralna,2410022-00101,11029,50.06705,18.91598,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00101/
 Kobiór Centralna,2410022-00101,6658,50.066917,18.916199,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00101/
+Kobiór Centralna,2410022-00102,11030,50.06619,18.916925,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00102/
 Kobiór Centralna,2410022-00102,6659,50.06631,18.916788,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00102/
 Kobiór Centrum,2410022-00201,6726,50.06034,18.934765,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00201/
 Kobiór Centrum,2410022-00202,6727,50.05994,18.933962,https://rj.metropoliaztm.pl/rozklady/przystanek/2410022-00202/
@@ -6566,19 +6574,26 @@ Wypaleniska Skrzyżowanie,2465011-16802,3337,50.348095,19.398714,https://rj.metr
 Wypaleniska Skrzyżowanie,2465011-16803,3338,50.34819,19.398582,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-16803/
 Wypaleniska nż,2465011-16701,4862,50.351025,19.387264,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-16701/
 Wypaleniska nż,2465011-16702,4863,50.351166,19.387093,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-16702/
+Wyry Główna,2408052-00501,11018,50.13363,18.902658,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00501/
 Wyry Główna,2408052-00501,5183,50.13363,18.902658,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00501/
+Wyry Główna,2408052-00502,11019,50.13338,18.9027,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00502/
 Wyry Główna,2408052-00502,5184,50.13338,18.9027,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00502/
+Wyry Przejazd Kolejowy,2408052-00701,11023,50.125328,18.88408,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00701/
 Wyry Przejazd Kolejowy,2408052-00701,5188,50.12528,18.884066,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00701/
+Wyry Przejazd Kolejowy,2408052-00702,11022,50.124573,18.883781,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00702/
 Wyry Przejazd Kolejowy,2408052-00702,5187,50.125557,18.884,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00702/
+Wyry Skrzyżowanie,2408052-00401,11017,50.136166,18.89428,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00401/
 Wyry Skrzyżowanie,2408052-00401,5182,50.136063,18.894203,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00401/
-Wyry Skrzyżowanie,2408052-00402,11011,50.135685,18.894503,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00402/
+Wyry Skrzyżowanie,2408052-00402,11011,50.135605,18.89457,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00402/
 Wyry Skrzyżowanie,2408052-00402,5181,50.13625,18.894194,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00402/
 Wyry Skrzyżowanie,2408052-00431,8999,50.13569,18.894505,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00431/
 Wyry Skrzyżowanie,2408052-00432,8998,50.135674,18.894484,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00432/
 Wyry Tereny Przemysłowe,2408052-00801,5180,50.14303,18.896997,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00801/
 Wyry Tereny Przemysłowe,2408052-00801,9913,50.141876,18.896618,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00801/
 Wyry Tereny Przemysłowe,2408052-00802,9912,50.14206,18.896557,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00802/
+Wyry Urząd Gminy,2408052-00601,11020,50.132748,18.894075,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00601/
 Wyry Urząd Gminy,2408052-00601,5185,50.132748,18.894075,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00601/
+Wyry Urząd Gminy,2408052-00602,11021,50.132694,18.893883,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00602/
 Wyry Urząd Gminy,2408052-00602,5186,50.132694,18.893883,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00602/
 Wójtowa Wieś,2466011-15701,3322,50.2878,18.634867,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-15701/
 Wójtowa Wieś,2466011-15702,3323,50.287777,18.635231,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-15702/
