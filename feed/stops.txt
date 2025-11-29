@@ -2187,6 +2187,7 @@ Imielin Wiadukt,2414021-01701,1773,50.157963,19.17751,https://rj.metropoliaztm.p
 Imielin Wiadukt,2414021-01702,1774,50.156403,19.178303,https://rj.metropoliaztm.pl/rozklady/przystanek/2414021-01702/
 Imielin Wspólna,2414021-02101,10264,50.143497,19.198238,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-02101/
 Imielin Wspólna,2414021-02102,10263,50.143696,19.198248,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-02102/
+Instytut Techniki Budowlanej [tech],2469011-41801,10998,50.290184,19.015682,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-41801/
 Jamnice Bartnicza,2414021-03701,10279,50.140987,19.201435,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03701/
 Jamnice Bartnicza,2414021-03702,10278,50.14105,19.201714,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03702/
 Jamnice Malczewskiego,2414021-03601,10277,50.137314,19.207958,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03601/
@@ -3535,6 +3536,8 @@ Mysłowice Bytomska Park,2470011-00402t,9975,50.24589,19.13633,https://rj.metrop
 Mysłowice Centrum Handlowe,2470011-11301,6725,50.249916,19.114994,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-11301/
 Mysłowice Centrum Handlowe,2470011-11331,10841,50.24955,19.119606,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-11331/
 Mysłowice Centrum Handlowe,2470011-11332,10840,50.249744,19.119368,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-11332/
+Mysłowice Chopina,2470011-06901,2959,50.243725,19.132694,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-06901/
+Mysłowice Chopina,2470011-06902,2960,50.242847,19.131119,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-06902/
 Mysłowice Cmentarz,2470011-07001,457,50.238396,19.13335,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-07001/
 Mysłowice Cmentarz,2470011-07002,458,50.237614,19.13175,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-07002/
 Mysłowice Dworzec PKP,2470011-07101,3513,50.237926,19.14057,https://rj.metropoliaztm.pl/rozklady/przystanek/2470011-07101/
