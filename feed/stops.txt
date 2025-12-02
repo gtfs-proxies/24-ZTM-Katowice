@@ -1799,25 +1799,35 @@ Gostyń Centrum,2408052-00101,11009,50.104347,18.88269,https://rj.transportgzm.p
 Gostyń Centrum,2408052-00101,8798,50.103695,18.882885,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00101/
 Gostyń Centrum,2408052-00102,11007,50.10304,18.882864,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00102/
 Gostyń Centrum,2408052-00102,8799,50.103947,18.88266,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00102/
-Gostyń Centrum - Rybnicka,2408052-03804,11008,50.103367,18.882154,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-03804/
+Gostyń Centrum - Rybnicka,2408052-03804,11008,50.103428,18.882145,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-03804/
+Gostyń Drzymały,2408052-01501,11044,50.109447,18.842136,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01501/
 Gostyń Drzymały,2408052-01501,6667,50.109447,18.842136,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01501/
+Gostyń Drzymały,2408052-01502,11037,50.10932,18.842562,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01502/
 Gostyń Drzymały,2408052-01502,6651,50.109474,18.841825,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01502/
 Gostyń Klonowa,2408052-03602,10062,50.11081,18.835817,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-03602/
 Gostyń Kuźnia,2408052-01101,11033,50.09783,18.883753,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01101/
 Gostyń Kuźnia,2408052-01101,6662,50.097836,18.88384,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01101/
 Gostyń Kuźnia,2408052-01102,11032,50.09728,18.884087,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01102/
 Gostyń Kuźnia,2408052-01102,6661,50.097237,18.88414,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01102/
+Gostyń Mamzera,2408052-01401,11038,50.107277,18.84821,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01401/
 Gostyń Mamzera,2408052-01401,6652,50.107277,18.84821,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01401/
+Gostyń Mamzera,2408052-01402,11043,50.10722,18.848055,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01402/
 Gostyń Mamzera,2408052-01402,6666,50.107094,18.848402,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01402/
+Gostyń Motyla,2408052-01301,11039,50.10646,18.860344,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01301/
 Gostyń Motyla,2408052-01301,6653,50.10646,18.860344,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01301/
+Gostyń Motyla,2408052-01302,11042,50.106403,18.860744,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01302/
 Gostyń Motyla,2408052-01302,6665,50.106365,18.860226,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01302/
 Gostyń Pszczyńska,2408052-00901,11025,50.11844,18.882223,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00901/
 Gostyń Pszczyńska,2408052-00901,5190,50.11747,18.88206,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00901/
 Gostyń Pszczyńska,2408052-00902,11024,50.11666,18.881733,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00902/
 Gostyń Pszczyńska,2408052-00902,5189,50.11762,18.881876,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00902/
+Gostyń Szkoła,2408052-01201,11041,50.105564,18.869507,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01201/
 Gostyń Szkoła,2408052-01201,6664,50.105564,18.869507,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01201/
+Gostyń Szkoła,2408052-01202,11040,50.105305,18.870213,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01202/
 Gostyń Szkoła,2408052-01202,6663,50.10538,18.869818,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01202/
+Gostyń Wroni Kąt,2408052-01001,11036,50.112904,18.83364,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01001/
 Gostyń Wroni Kąt,2408052-01001,6650,50.113415,18.832191,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01001/
+Gostyń Wroni Kąt,2408052-01002,11045,50.11336,18.832138,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01002/
 Gostyń Wroni Kąt,2408052-01002,6668,50.11336,18.832138,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01002/
 Gostyń Wroni Kąt Rurociąg,2408052-03901,11010,50.113297,18.833462,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-03901/
 Gostyń Łuczników,2408052-00201,11027,50.11112,18.881876,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00201/
@@ -2461,6 +2471,8 @@ Katowice Rondo,2469011-00601t,3695,50.264404,19.023632,https://rj.metropoliaztm.
 Katowice Rondo,2469011-00602t,3696,50.264366,19.02355,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00602t/
 Katowice Rynek,2469011-00401t,4441,50.260147,19.022297,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00401t/
 Katowice Rynek,2469011-00402t,4442,50.26007,19.022371,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00402t/
+Katowice Rynek,2469011-00433,11035,50.25936,19.021694,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00433/
+Katowice Rynek,2469011-00434,11034,50.25951,19.021404,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00434/
 Katowice Rynek /Teatr Śl./,2469011-00303t,5040,50.259308,19.023079,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00303t/
 Katowice Rynek /Teatr Śl./,2469011-00304t,5041,50.259388,19.0231,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00304t/
 Katowice Rynek Teatr Śląski,2469011-00301t,10604,50.259254,19.023064,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00301t/
