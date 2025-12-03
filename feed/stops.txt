@@ -299,7 +299,9 @@ Boniowice Szkoła,2413092-03001,3709,50.397823,18.71195,https://rj.metropoliaztm
 Borki Korczaka,2469011-08701,280,50.278526,19.089876,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-08701/
 Borki Korczaka,2469011-08702,281,50.278286,19.089598,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-08702/
 Borki Pętla,2469011-09001,282,50.27879,19.09507,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09001/
+Borowa Wieś Strażacka,2408021-06001,10915,50.22683,18.832417,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-06001/
 Borowa Wieś Strażacka,2408021-06001,9612,50.225273,18.831064,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06001/
+Borowa Wieś Strażacka,2408021-06002,10916,50.225937,18.831451,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-06002/
 Borowa Wieś Strażacka,2408021-06002,9613,50.225216,18.83084,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-06002/
 Borowa Wieś Szkoła,2408021-05801,5006,50.223873,18.817482,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-05801/
 Borowa Wieś Szkoła,2408021-05802,5007,50.224373,18.815529,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-05802/
@@ -1829,7 +1831,7 @@ Gostyń Wroni Kąt,2408052-01001,11036,50.112904,18.83364,https://rj.transportgz
 Gostyń Wroni Kąt,2408052-01001,6650,50.113415,18.832191,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01001/
 Gostyń Wroni Kąt,2408052-01002,11045,50.11336,18.832138,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01002/
 Gostyń Wroni Kąt,2408052-01002,6668,50.11336,18.832138,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01002/
-Gostyń Wroni Kąt Rurociąg,2408052-03901,11010,50.113297,18.833462,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-03901/
+Gostyń Wroni Kąt Rurociąg,2408052-03901,11010,50.11321,18.833511,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-03901/
 Gostyń Łuczników,2408052-00201,11027,50.11112,18.881876,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00201/
 Gostyń Łuczników,2408052-00201,6655,50.111,18.88192,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-00201/
 Gostyń Łuczników,2408052-00202,11026,50.111107,18.881735,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-00202/
