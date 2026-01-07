@@ -2389,11 +2389,15 @@ Karsów Spółdzielnia,2401075-02301,1278,50.410168,19.2311,https://rj.metropoli
 Karsów Spółdzielnia,2401075-02302,1279,50.410236,19.231068,https://rj.metropoliaztm.pl/rozklady/przystanek/2401075-02302/
 Karsów nż,2401075-02201,4096,50.410496,19.238825,https://rj.metropoliaztm.pl/rozklady/przystanek/2401075-02201/
 Karsów nż,2401075-02202,4097,50.410587,19.238836,https://rj.metropoliaztm.pl/rozklady/przystanek/2401075-02202/
+Katowice AWF,2469011-02101,11084,50.25138,19.004572,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02101/
 Katowice AWF,2469011-02101,1717,50.25138,19.004572,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-02101/
+Katowice AWF,2469011-02102,11085,50.251053,19.004335,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02102/
 Katowice AWF,2469011-02102,1718,50.251053,19.004335,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-02102/
 Katowice Aleja Korfantego,2469011-00501,1428,50.261993,19.02294,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00501/
 Katowice Aleja Korfantego,2469011-00502,1429,50.261513,19.022327,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00502/
+Katowice Andrzeja Dworzec,2469011-01501,11096,50.256252,19.016148,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01501/
 Katowice Andrzeja Dworzec,2469011-01501,6063,50.256252,19.016148,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01501/
+Katowice Andrzeja Dworzec,2469011-01502,11092,50.256542,19.0147,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01502/
 Katowice Andrzeja Dworzec,2469011-01502,5349,50.256542,19.0147,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01502/
 Katowice Arena,2469011-26801,10905,50.25095,18.981268,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-26801/
 Katowice Arena,2469011-26802,10904,50.25085,18.981718,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-26802/
@@ -2435,8 +2439,8 @@ Katowice Grundmanna,2469011-29601t,8811,50.262947,19.007854,https://rj.metropoli
 Katowice Grundmanna,2469011-29602t,8812,50.26286,19.007662,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29602t/
 Katowice Grundmanna Office Park,2469011-29701t,8809,50.26661,19.011007,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29701t/
 Katowice Grundmanna Office Park,2469011-29702t,8810,50.266727,19.010803,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-29702t/
-Katowice Górnośląska Os. Paderewskiego,2469011-35601,7277,50.245907,19.025833,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-35601/
 Katowice Hutnicza,2469011-37001,11061,50.252216,19.056278,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37001/
+Katowice Jagiellońska,2469011-02001,11086,50.25406,19.02369,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02001/
 Katowice Jagiellońska,2469011-02001,3688,50.25406,19.02369,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-02001/
 Katowice Jordana,2469011-01901t,10606,50.25176,19.015085,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01901t/
 Katowice Jordana,2469011-01901t,4547,50.251743,19.015182,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01901t/
@@ -2445,7 +2449,9 @@ Katowice Jordana,2469011-01902t,6882,50.25176,19.015085,https://rj.metropoliaztm
 Katowice Karłowicza [tech],2469011-26701t,6898,50.285492,19.017832,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-26701t/
 Katowice Komenda Policji,2469011-08601,1270,50.246677,19.025541,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-08601/
 Katowice Komenda Policji,2469011-08602,1271,50.247185,19.025896,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-08602/
+Katowice Kopernika Dworzec,2469011-01601,11081,50.255005,19.014463,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01601/
 Katowice Kopernika Dworzec,2469011-01601,1423,50.255005,19.014463,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01601/
+Katowice Kopernika Dworzec,2469011-01602,11101,50.255085,19.013927,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01602/
 Katowice Kopernika Dworzec,2469011-01602,9740,50.255264,19.01296,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01602/
 Katowice Kościuszki Basen,2469011-21601t,8108,50.242477,19.00684,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-21601t/
 Katowice Kościuszki Basen,2469011-21602t,8107,50.242737,19.007195,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-21602t/
@@ -2458,7 +2464,9 @@ Katowice Meteorologów,2469011-08902,4777,50.241936,19.018278,https://rj.metropo
 Katowice Mickiewicza,2469011-00701,3691,50.26102,19.018969,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00701/
 Katowice Mickiewicza,2469011-00702,3692,50.260864,19.01929,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00702/
 Katowice Mickiewicza Biurowce,2469011-10902,10156,50.263695,19.01249,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-10902/
+Katowice Mikołowska,2469011-01401,11082,50.254654,19.010483,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01401/
 Katowice Mikołowska,2469011-01401,1715,50.254654,19.010483,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01401/
+Katowice Mikołowska,2469011-01402,11083,50.252625,19.008692,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01402/
 Katowice Mikołowska,2469011-01402,1716,50.252625,19.008692,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01402/
 Katowice Mikołowska Sąd,2469011-01301,5253,50.25672,19.013004,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01301/
 Katowice Mikołowska Sąd,2469011-01302,9759,50.256477,19.012703,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01302/
@@ -2467,12 +2475,16 @@ Katowice Osiedle Kopalni Wujek,2469011-09202,2019,50.25178,18.98952,https://rj.m
 Katowice Piotra Skargi,2469011-00802,3697,50.26188,19.018658,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00802/
 Katowice Piotra Skargi,2469011-00803,3698,50.262,19.0184,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00803/
 Katowice Piotra Skargi,2469011-00804,5416,50.262154,19.018036,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00804/
+Katowice Plac Miarki,2469011-01801,11080,50.254585,19.016737,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01801/
 Katowice Plac Miarki,2469011-01801,9744,50.254585,19.016737,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01801/
 Katowice Plac Miarki,2469011-01801t,4544,50.254845,19.017853,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01801t/
+Katowice Plac Miarki,2469011-01802,11099,50.254906,19.017607,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01802/
 Katowice Plac Miarki,2469011-01802,9742,50.254906,19.017607,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01802/
 Katowice Plac Miarki,2469011-01802t,4545,50.254055,19.017141,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01802t/
+Katowice Plac Miarki,2469011-01803,11098,50.255062,19.017767,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01803/
 Katowice Plac Miarki,2469011-01803,9741,50.255062,19.017767,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01803/
 Katowice Plac Miarki,2469011-01803t,4546,50.25444,19.017672,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01803t/
+Katowice Plac Miarki,2469011-01804,11100,50.254528,19.019613,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01804/
 Katowice Plac Miarki,2469011-01804,5425,50.255157,19.019045,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01804/
 Katowice Plac Miarki,2469011-01805,9743,50.254528,19.019613,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01805/
 Katowice Plac Wolności,2469011-01101,5424,50.260788,19.014292,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01101/
@@ -2485,6 +2497,7 @@ Katowice Porcelanowa,2469011-09902,3686,50.251797,19.048626,https://rj.metropoli
 Katowice Porcelanowa,2469011-09903,7346,50.25089,19.047459,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09903/
 Katowice Porcelanowa Zakłady,2469011-36901,11062,50.252094,19.051983,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-36901/
 Katowice Porcelanowa Zakłady,2469011-36902,11063,50.252052,19.053137,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-36902/
+Katowice Powstańców Przychodnie,2469011-38301,11091,50.252167,19.023842,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-38301/
 Katowice Powstańców Przychodnie,2469011-38301,5287,50.252167,19.023842,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-38301/
 Katowice Rondo,2469011-00601t,3695,50.264404,19.023632,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00601t/
 Katowice Rondo,2469011-00602t,3696,50.264366,19.02355,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00602t/
@@ -2845,7 +2858,6 @@ Koszutka Słoneczna,2469011-13501,3247,50.27405,19.02386,https://rj.metropoliazt
 Koszutka Słoneczna,2469011-13501t,3248,50.27307,19.024618,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-13501t/
 Koszutka Słoneczna,2469011-13502t,3249,50.27306,19.024923,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-13502t/
 Koszutka Słoneczna Pętla,2469011-13601t,5042,50.273827,19.02444,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-13601t/
-Koszutka Słoneczna Pętla,2469011-13632,11079,50.273197,19.024763,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13632/
 Kotliszowice,2405075-02801,5953,50.474384,18.546059,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02801/
 Kotliszowice,2405075-02802,5954,50.47412,18.54573,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02802/
 Kotliszowice Wiejska,2405075-04201,5952,50.47113,18.551493,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-04201/
@@ -3970,7 +3982,6 @@ Osada Jana Młodości,2413041-09601,9027,50.432236,18.87366,https://rj.transport
 Osada Jana Młodości,2413041-09602,9026,50.432205,18.87359,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-09602/
 Osada Jana Pawilon,2413041-06701,2132,50.433907,18.866642,https://rj.metropoliaztm.pl/rozklady/przystanek/2413041-06701/
 Osada Jana Pawilon,2413041-06702,8985,50.433704,18.86654,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-06702/
-Osada Jana Słoneczników,2413041-06832,8597,50.43658,18.864065,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-06832/
 Osada Jana Słoneczników nż,2413041-06801,2781,50.43667,18.863487,https://rj.metropoliaztm.pl/rozklady/przystanek/2413041-06801/
 Osiedle Bór Bloki,2475011-06601,1997,50.243217,19.17517,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-06601/
 Osiedle Bór Bloki,2475011-06602,1998,50.242798,19.174212,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-06602/
@@ -4037,7 +4048,6 @@ Osiedle Odrodzenia Radockiego,2469011-19501,2059,50.20602,18.989546,https://rj.m
 Osiedle Odrodzenia Radockiego,2469011-19502,5365,50.206173,18.989712,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-19502/
 Osiedle Odrodzenia Szewska,2469011-19601,2275,50.20697,18.983795,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-19601/
 Osiedle Odrodzenia Szewska,2469011-19602,5362,50.20738,18.983997,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-19602/
-Osiedle Odrodzenia Szewska,2469011-19632,10845,50.206795,18.983404,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-19632/
 Osiedle Odrodzenia Łętowskiego,2469011-19401,2267,50.203068,18.991533,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-19401/
 Osiedle Odrodzenia Łętowskiego,2469011-19402,5364,50.202953,18.991882,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-19402/
 Osiedle Paderewskiego Biblioteka Śląska,2469011-19901,2060,50.251286,19.031952,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-19901/
@@ -4417,8 +4427,6 @@ Piotrowice Miłe Zacisze,2469011-32801,7205,50.197834,18.96408,https://rj.metrop
 Piotrowice Miłe Zacisze,2469011-32802,7204,50.1979,18.964148,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-32802/
 Piotrowice Osiedle,2469011-23101,2268,50.210518,18.982588,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-23101/
 Piotrowice Osiedle,2469011-23102,2269,50.21023,18.982374,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-23102/
-Piotrowice Osiedle,2469011-23131,10843,50.209354,18.979761,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-23131/
-Piotrowice Osiedle,2469011-23132,10844,50.209225,18.9804,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-23132/
 Piotrowice Osiedle Żurawia,2469011-37901,8612,50.208176,18.966602,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-37901/
 Piotrowice PKP,2469011-22901,10539,50.215828,18.971565,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-22901/
 Piotrowice PKP,2469011-22902,10540,50.215805,18.971888,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-22902/
