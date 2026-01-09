@@ -247,7 +247,7 @@ MIKOŁÓW DWORZEC - KOBIÓR CENTRUM,Z-57,1,Mikołów Dworzec - Kobiór Centrum,3
 MIKOŁÓW DWORZEC - MIKOŁÓW DWORZEC,245,1,Mikołów Dworzec - Mikołów Dworzec - Reta Hipermarket - Mikołów Dworzec,3,245,https://rj.metropoliaztm.pl/rozklady/3-245,FF0000,
 MIKOŁÓW DWORZEC - MIKOŁÓW DWORZEC,294,1,Mikołów Dworzec - Zawiść Skrzyżowanie - Mikołów Dworzec,3,294,https://rj.metropoliaztm.pl/rozklady/3-294,FF0000,400080
 MIKOŁÓW DWORZEC - MIKOŁÓW DWORZEC,520,1,Mikołów Dworzec - Wygoda Skrzyżowanie - Mikołów Dworzec,3,520,https://rj.transportgzm.pl/v2/rozklady/3-520,FF0000,00FF80
-MIKOŁÓW DWORZEC - MIKOŁÓW DWORZEC,529,1,Mikołów Dworzec - Kamionka Szkoła - Kamionka Szkoła - Mikołów Dworzec,3,529,https://rj.transportgzm.pl/v2/rozklady/3-529,FF0000,8000FF
+MIKOŁÓW DWORZEC - MIKOŁÓW DWORZEC,529,1,Mikołów Dworzec - Kamionka Szkoła - Kamionka Szkoła - Mikołów Dworzec,3,529,https://rj.transportgzm.pl/v2/rozklady/3-529,FF0000,0000FF
 MIKOŁÓW DWORZEC - MIKOŁÓW DWORZEC,568,1,Mikołów Dworzec - Mikołów Dworzec,3,568,https://rj.metropoliaztm.pl/rozklady/3-568,FF0000,
 MIKOŁÓW DWORZEC - MIKOŁÓW DWORZEC,594,1,Mikołów Dworzec - Zawiść Skrzyżowanie - Mikołów Dworzec,3,594,https://rj.metropoliaztm.pl/rozklady/3-594,FF0000,400080
 MIKOŁÓW DWORZEC - MIKOŁÓW DWORZEC,620,1,Mikołów Dworzec - Wygoda Skrzyżowanie - Mikołów Dworzec,3,620,https://rj.transportgzm.pl/v2/rozklady/3-620,FF0000,00FF80
