@@ -941,7 +941,7 @@ Chorzów Gwarecka,2463011-02902,5704,50.29521,18.930847,https://rj.metropoliaztm
 Chorzów Hajducka,2463011-03001,3910,50.28925,18.945553,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03001/
 Chorzów Hajducka,2463011-03032,10499,50.28931,18.945906,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03032/
 Chorzów Hala Sportowa,2463011-03101,5063,50.285545,18.941078,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03101/
-Chorzów Konstal Brama 2 [tech],2463011-08601t,10611,50.303234,18.953512,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-08601t/
+Chorzów Konstal Brama 2 [tech],2463011-08601t,10611,50.30324,18.9533,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-08601t/
 Chorzów Kościół św. Jadwigi,2463011-03201,11072,50.292126,18.946575,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03201/
 Chorzów Kościół św. Jadwigi,2463011-03201,5168,50.292126,18.946575,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03201/
 Chorzów Kościół św. Jadwigi,2463011-03201t,5169,50.292168,18.946507,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03201t/
@@ -963,7 +963,7 @@ Chorzów Muzeum Hutnictwa,2463011-03701t,9703,50.302406,18.952242,https://rj.met
 Chorzów Muzeum Hutnictwa,2463011-03702,9752,50.30448,18.951002,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03702/
 Chorzów Muzeum Hutnictwa,2463011-03702t,9704,50.30207,18.952131,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-03702t/
 Chorzów Muzeum Hutnictwa,2463011-03703,10503,50.301624,18.951786,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03703/
-Chorzów Muzeum Hutnictwa,2463011-03731t,10480,50.303196,18.95265,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03731t/
+Chorzów Muzeum Hutnictwa,2463011-03731t,10480,50.303165,18.952389,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03731t/
 Chorzów Młodzieżowa,2463011-04001,1940,50.2901,18.958712,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04001/
 Chorzów Młodzieżowa,2463011-04002,1941,50.290264,18.958895,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-04002/
 Chorzów Nomiarki,2463011-10301,6105,50.290646,18.933558,https://rj.metropoliaztm.pl/rozklady/przystanek/2463011-10301/
@@ -2350,6 +2350,7 @@ Kamionka Kościół [tech],2408021-09701,10128,50.188103,18.915754,https://rj.tr
 Kamionka Młyn,2408021-02401,1780,50.182194,18.912336,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-02401/
 Kamionka Młyn,2408021-02402,1779,50.181667,18.912195,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-02402/
 Kamionka Paprotek,2408021-02801,6435,50.18902,18.93019,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-02801/
+Kamionka Paprotek Łącznik,2408021-02701,10457,50.19033,18.931856,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-02701/
 Kamionka Paprotek Łącznik,2408021-02701,6434,50.19033,18.931856,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-02701/
 Kamionka Plebiscytowa,2408021-09601,6439,50.17942,18.91315,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-09601/
 Kamionka Plebiscytowa,2408021-09602,6430,50.179363,18.913195,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-09602/
