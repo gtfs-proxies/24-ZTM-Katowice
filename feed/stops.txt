@@ -3300,6 +3300,8 @@ Miedawa Tartak,2401081-02901,6085,50.278374,19.377964,https://rj.metropoliaztm.p
 Miedawa nż,2401081-02801,6087,50.28012,19.37937,https://rj.metropoliaztm.pl/rozklady/przystanek/2401081-02801/
 Miedawa nż,2401081-02802,6086,50.280052,19.379465,https://rj.metropoliaztm.pl/rozklady/przystanek/2401081-02802/
 Mierzęcice Kosmiczna,2401052-02101,3927,50.44386,19.122337,https://rj.metropoliaztm.pl/rozklady/przystanek/2401052-02101/
+Mierzęcice Kościuszki,2401052-03701,11089,50.438053,19.128271,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401052-03701/
+Mierzęcice Kościuszki,2401052-03702,11090,50.4382,19.128004,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401052-03702/
 Mierzęcice Magazyny,2401052-01501,3925,50.462494,19.111776,https://rj.metropoliaztm.pl/rozklady/przystanek/2401052-01501/
 Mierzęcice Magazyny,2401052-01502,3926,50.46271,19.112118,https://rj.metropoliaztm.pl/rozklady/przystanek/2401052-01502/
 Mierzęcice Ogródki Działkowe,2401052-01601,5536,50.46352,19.092655,https://rj.metropoliaztm.pl/rozklady/przystanek/2401052-01601/
@@ -4242,6 +4244,8 @@ Ożarowice Urząd Gminy,2413062-01103,3867,50.467735,19.047544,https://rj.transp
 Ożarowice Urząd Gminy,2413062-01104,5621,50.467632,19.047476,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-01104/
 Ożarowice Urząd Gminy,2413062-01105,8509,50.46749,19.048346,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-01105/
 Ożarowice Urząd Gminy,2413062-01106,8510,50.467655,19.04832,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-01106/
+Ożarowice Zubrza,2413062-02401,11087,50.4711,19.050362,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-02401/
+Ożarowice Zubrza,2413062-02402,11088,50.470707,19.049911,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-02402/
 Ożarowice Żubrza,2413062-02401,3863,50.4711,19.050362,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-02401/
 Ożarowice Żubrza,2413062-02402,3864,50.470707,19.049911,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-02402/
 Paczyna,2405075-03101,5860,50.40935,18.561718,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-03101/
