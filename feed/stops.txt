@@ -5303,6 +5303,7 @@ Sosnowiec Jagiellońska,2475011-12601,7201,50.266884,19.135645,https://rj.metrop
 Sosnowiec Jagiellońska,2475011-12602,1203,50.267166,19.134443,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-12602/
 Sosnowiec Jagiellońska Kościół,2475011-18801,5268,50.269154,19.130056,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-18801/
 Sosnowiec Jagiellońska Kościół,2475011-18802,5267,50.269497,19.129347,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-18802/
+Sosnowiec Kilińskiego,2475011-22731,10856,50.279736,19.1248,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22731/
 Sosnowiec Kosów,2475011-20901,5378,50.27556,19.163486,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-20901/
 Sosnowiec Kosów,2475011-20902,5377,50.275333,19.165022,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-20902/
 Sosnowiec Kościelna,2475011-12801,1315,50.272285,19.128855,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-12801/
@@ -6232,6 +6233,8 @@ Tychy Żwakowska,2477011-10902,6244,50.117413,18.976955,https://rj.metropoliaztm
 Tychy Żółkiewskiego,2477011-12301,6325,50.089058,19.003574,https://rj.metropoliaztm.pl/rozklady/przystanek/2477011-12301/
 Tąpkowice Generała Maczka,2413062-00401,7920,50.443752,19.011587,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-00401/
 Tąpkowice Generała Maczka,2413062-00402,7921,50.443634,19.011684,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-00402/
+Tąpkowice Kopernika,2413062-05401,11094,50.447224,19.014647,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-05401/
+Tąpkowice Kopernika,2413062-05402,11095,50.447433,19.014872,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-05402/
 Tąpkowice Szkoła,2413062-00301,3834,50.447968,19.01307,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-00301/
 Tąpkowice Szkoła,2413062-00302,3835,50.448044,19.013262,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-00302/
 Tąpkowice Szkoła,2413062-00303,5625,50.447224,19.014647,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-00303/
