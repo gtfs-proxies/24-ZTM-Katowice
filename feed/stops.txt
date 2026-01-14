@@ -2351,7 +2351,6 @@ Kamionka Młyn,2408021-02401,1780,50.182194,18.912336,https://rj.metropoliaztm.p
 Kamionka Młyn,2408021-02402,1779,50.181667,18.912195,https://rj.metropoliaztm.pl/rozklady/przystanek/2408021-02402/
 Kamionka Paprotek,2408021-02801,6435,50.18902,18.93019,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-02801/
 Kamionka Paprotek Łącznik,2408021-02701,10457,50.19033,18.931856,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-02701/
-Kamionka Paprotek Łącznik,2408021-02701,6434,50.19033,18.931856,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-02701/
 Kamionka Plebiscytowa,2408021-09601,6439,50.17942,18.91315,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-09601/
 Kamionka Plebiscytowa,2408021-09602,6430,50.179363,18.913195,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-09602/
 Kamionka Sadowa,2408021-02901,6433,50.188152,18.922527,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-02901/
