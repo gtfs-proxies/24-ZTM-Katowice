@@ -4550,7 +4550,6 @@ Pogoń Akademiki,2475011-08101t,2352,50.298412,19.134573,https://rj.metropoliazt
 Pogoń Akademiki,2475011-08102,2353,50.299004,19.13454,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-08102/
 Pogoń Akademiki,2475011-08102t,2354,50.298332,19.134357,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-08102t/
 Pogoń Aleja Mireckiego,2475011-08201,2587,50.286453,19.12223,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-08201/
-Pogoń Aleja Mireckiego,2475011-08232,8900,50.28495,19.120556,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08232/
 Pogoń Będzińska Pętla [tech],2475011-08301t,4787,50.30049,19.135054,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-08301t/
 Pogoń Ciepła,2475011-08402,2356,50.293797,19.141016,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08402/
 Pogoń Grota-Roweckiego,2475011-08501,2592,50.28659,19.12453,https://rj.metropoliaztm.pl/rozklady/przystanek/2475011-08501/
