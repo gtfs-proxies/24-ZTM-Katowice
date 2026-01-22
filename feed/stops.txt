@@ -2621,6 +2621,7 @@ Knurów Centrum Przesiadkowe Szpitalna,2405011-00803,8022,50.22689,18.65882,http
 Knurów Cmentarz Komunalny,2405011-02401,6958,50.222088,18.638708,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-02401/
 Knurów Cztery Pory Roku,2405011-04001,9755,50.236553,18.646744,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-04001/
 Knurów Cztery Pory Roku,2405011-04002,9756,50.236324,18.6458,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-04002/
+Knurów Cztery Pory Roku,2405011-04031,10453,50.233593,18.647945,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405011-04031/
 Knurów Dworcowa,2405011-00301,3702,50.218246,18.686022,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-00301/
 Knurów Dworcowa,2405011-00302,3703,50.218323,18.687014,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-00302/
 Knurów Dymka,2405011-03605,8294,50.23288,18.66572,https://rj.metropoliaztm.pl/rozklady/przystanek/2405011-03605/
