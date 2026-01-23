@@ -2469,7 +2469,6 @@ Katowice Mikołowska,2469011-01401,1715,50.254654,19.010483,https://rj.metropoli
 Katowice Mikołowska,2469011-01402,11083,50.252625,19.008692,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01402/
 Katowice Mikołowska,2469011-01402,1716,50.252625,19.008692,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01402/
 Katowice Mikołowska Sąd,2469011-01301,5253,50.25672,19.013004,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-01301/
-Katowice Mikołowska Sąd,2469011-01302,9759,50.256477,19.012703,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01302/
 Katowice Osiedle Kopalni Wujek,2469011-09201,2018,50.2523,18.989862,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09201/
 Katowice Osiedle Kopalni Wujek,2469011-09202,2019,50.25178,18.98952,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-09202/
 Katowice Piotra Skargi,2469011-00802,3697,50.26188,19.018658,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-00802/
