@@ -1824,6 +1824,8 @@ Gostyń Drzymały,2408052-01501,11044,50.109447,18.842136,https://rj.transportgz
 Gostyń Drzymały,2408052-01501,6667,50.109447,18.842136,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01501/
 Gostyń Drzymały,2408052-01502,11037,50.10932,18.842562,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01502/
 Gostyń Drzymały,2408052-01502,6651,50.109474,18.841825,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01502/
+Gostyń Gajówka nż,2410022-00901,11105,50.090805,18.889883,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00901/
+Gostyń Gajówka nż,2410022-00902,11106,50.09062,18.890036,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00902/
 Gostyń Klonowa,2408052-03602,10062,50.11081,18.835817,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-03602/
 Gostyń Kuźnia,2408052-01101,11033,50.09783,18.883753,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01101/
 Gostyń Kuźnia,2408052-01101,6662,50.097836,18.88384,https://rj.metropoliaztm.pl/rozklady/przystanek/2408052-01101/
@@ -5783,7 +5785,7 @@ Szopienice Roździeńska nż,2469011-25301,2973,50.262386,19.071917,https://rj.m
 Szopienice Roździeńska nż,2469011-25302,5299,50.262173,19.071701,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-25302/
 Szopienice Szpital Geriatryczny,2469011-25501,4912,50.265697,19.092457,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-25501/
 Szopienice Szpital Geriatryczny,2469011-25502,4913,50.265587,19.094624,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-25502/
-Szopienice Wiadukt,2469011-41231,10390,50.261368,19.104961,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-41231/
+Szopienice Wiadukt,2469011-41231,10390,50.261307,19.10645,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-41231/
 Szopienice Wiadukt [tech],2469011-36401t,6899,50.26129,19.105616,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-36401t/
 Szopienice Wodociągi,2469011-25601t,4462,50.26469,19.072378,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-25601t/
 Szopienice Wodociągi,2469011-25602t,4463,50.265026,19.072355,https://rj.metropoliaztm.pl/rozklady/przystanek/2469011-25602t/
