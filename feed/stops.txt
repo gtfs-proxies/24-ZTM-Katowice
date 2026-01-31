@@ -1726,8 +1726,8 @@ Gliwice Rybnicka,2466011-02201,400,50.284164,18.663229,https://rj.metropoliaztm.
 Gliwice Rybnicka,2466011-02202,401,50.28353,18.66309,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-02202/
 Gliwice Sobieskiego,2466011-18001,3614,50.288887,18.648266,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-18001/
 Gliwice Sobieskiego,2466011-18002,3615,50.287693,18.647644,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-18002/
-Gliwice Sobieskiego Szpital,2466011-03801,10996,50.294228,18.654469,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03801/
-Gliwice Sobieskiego Szpital,2466011-03802,10997,50.294273,18.654758,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03802/
+Gliwice Sobieskiego Szpital,2466011-24301,10996,50.294228,18.654469,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-24301/
+Gliwice Sobieskiego Szpital,2466011-24302,10997,50.294273,18.654758,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-24302/
 Gliwice Sowińskiego,2466011-06001,4748,50.293335,18.642958,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-06001/
 Gliwice Sowińskiego,2466011-06002,4749,50.292225,18.641584,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-06002/
 Gliwice Sportowa,2466011-06101,4751,50.28998,18.700459,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-06101/
@@ -6237,8 +6237,6 @@ Tąpkowice Kopernika,2413062-05401,11094,50.447224,19.014647,https://rj.transpor
 Tąpkowice Kopernika,2413062-05402,11095,50.447433,19.014872,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-05402/
 Tąpkowice Szkoła,2413062-00301,3834,50.447968,19.01307,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-00301/
 Tąpkowice Szkoła,2413062-00302,3835,50.448044,19.013262,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-00302/
-Tąpkowice Szkoła,2413062-00303,5625,50.447224,19.014647,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-00303/
-Tąpkowice Szkoła,2413062-00304,5626,50.447433,19.014872,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-00304/
 Tąpkowice Wzgórze,2413062-00201,3837,50.448338,19.004261,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-00201/
 Tąpkowice Wzgórze,2413062-00202,3836,50.448444,19.004463,https://rj.metropoliaztm.pl/rozklady/przystanek/2413062-00202/
 Ujejsce Górka,2465011-16101,3165,50.388054,19.24219,https://rj.metropoliaztm.pl/rozklady/przystanek/2465011-16101/
