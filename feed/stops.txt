@@ -253,6 +253,8 @@ Bojków I nż,2466011-00901,258,50.248653,18.663788,https://rj.metropoliaztm.pl/
 Bojków I nż,2466011-00902,259,50.248814,18.663992,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-00902/
 Bojków Kościół,2466011-00201,260,50.251534,18.67967,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-00201/
 Bojków Kościół,2466011-00202,261,50.251656,18.679466,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-00202/
+Bojków Kwiatów Polnych nż,2466011-00901,11107,50.248653,18.663788,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-00901/
+Bojków Kwiatów Polnych nż,2466011-00902,11108,50.248814,18.663992,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-00902/
 Bojków Piekarnia,2466011-00301,262,50.249187,18.671139,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-00301/
 Bojków Piekarnia,2466011-00302,263,50.249268,18.671257,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-00302/
 Bojków Rybnicka nż,2466011-16501,629,50.25177,18.651379,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-16501/
@@ -1642,6 +1644,8 @@ Gliwice Cmentarz Centralny,2466011-02303,3666,50.304317,18.633442,https://rj.met
 Gliwice Cmentarz Centralny,2466011-02304,3667,50.30407,18.633488,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-02304/
 Gliwice Cmentarz Centralny,2466011-02333,10972,50.30512,18.631357,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02333/
 Gliwice Cmentarz Centralny,2466011-02334,10973,50.30498,18.631594,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02334/
+Gliwice Cmentarz Lipowy,2466011-05501,11111,50.303894,18.693125,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05501/
+Gliwice Cmentarz Lipowy,2466011-05502,11112,50.30379,18.692621,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05502/
 Gliwice Częstochowska,2466011-02401,461,50.292862,18.674444,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-02401/
 Gliwice Dworcowa,2466011-02601,3663,50.296898,18.675282,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-02601/
 Gliwice Dworzec,2466011-02701,8507,50.29992,18.676685,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-02701/
@@ -1689,6 +1693,7 @@ Gliwice Kujawska,2466011-04002,1526,50.287743,18.676554,https://rj.metropoliaztm
 Gliwice Lindego,2466011-04101,4737,50.298912,18.701696,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-04101/
 Gliwice Lindego,2466011-04102,4736,50.298923,18.702383,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-04102/
 Gliwice Lipowa,2466011-04202,1609,50.302456,18.688505,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-04202/
+Gliwice Mastalerza,2466011-03501,11109,50.306152,18.676184,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03501/
 Gliwice Michałowskiego,2466011-16101,2492,50.30992,18.688606,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-16101/
 Gliwice Michałowskiego,2466011-16102,2493,50.309616,18.68806,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-16102/
 Gliwice Mikołowska,2466011-04401,1719,50.29133,18.667997,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-04401/
@@ -1709,6 +1714,7 @@ Gliwice Plac Piastów,2466011-05202,7382,50.298508,18.67759,https://rj.metropoli
 Gliwice Plac Piastów,2466011-05203,2288,50.29834,18.67656,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-05203/
 Gliwice Plac Piłsudskiego,2466011-05301,2292,50.296795,18.667976,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-05301/
 Gliwice Plac Piłsudskiego,2466011-05302,2293,50.29713,18.666613,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-05302/
+Gliwice Politechnika,2466011-07301,11116,50.29221,18.672895,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07301/
 Gliwice Poniatowskiego,2466011-05501,3612,50.303894,18.693125,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-05501/
 Gliwice Poniatowskiego,2466011-05502,3613,50.30379,18.692621,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-05502/
 Gliwice Port,2466011-05601,2407,50.322678,18.639582,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-05601/
@@ -1758,6 +1764,7 @@ Gliwice Warszawska,2466011-07201,3204,50.305542,18.678001,https://rj.metropoliaz
 Gliwice Warszawska,2466011-07202,3205,50.30602,18.677406,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-07202/
 Gliwice Warszawska I,2466011-03501,3202,50.306152,18.676184,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-03501/
 Gliwice Warszawska II,2466011-16201,3203,50.30935,18.680668,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-16201/
+Gliwice Warszawska Komisariat,2466011-16201,11110,50.30935,18.680668,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-16201/
 Gliwice Wrocławska,2466011-07301,3680,50.29221,18.672895,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-07301/
 Gliwice Wyspiańskiego,2466011-07402,3339,50.29783,18.653664,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-07402/
 Gliwice Zabrska,2466011-07501,3386,50.295773,18.687262,https://rj.metropoliaztm.pl/rozklady/przystanek/2466011-07501/
