@@ -36,6 +36,15 @@ jobs:
           path: /tmp/${{ env.FEED_NAME }}/original/
           key: feed
 
+      - name: Restore cached master GTFS
+        id: cache-master-restore
+        uses: actions/cache/restore@v4
+        with:
+          path: /tmp/${{ env.FEED_NAME }}/output.zip
+          key: master-${{ steps.date.outputs.DATE }}
+          restore-keys: |
+            master-
+
       - name: Set up Go
         uses: actions/setup-go@v4
         with:
@@ -55,9 +64,20 @@ jobs:
           path: /tmp/${{ env.FEED_NAME }}/original/
           key: feed-${{ steps.date.outputs.DATE }}
 
-      - name: Merge gtfs feeds
+      - name: Save master GTFS
+        id: cache-master-save
+        uses: actions/cache/save@v4
+        with:
+          path: /tmp/${{ env.FEED_NAME }}/output.zip
+          key: master-${{ steps.date.outputs.DATE }}
+      
+      - name: List available input feeds
+        id: list-feeds
+        run: ls /tmp/${{ env.FEED_NAME }}/original
+
+      - name: Merge GTFS feeds incrementally
         id: merge-feeds
-        run: ./gtfsmerge.py /tmp/${{ env.FEED_NAME }}/original/*.zip /tmp/${{ env.FEED_NAME }}/output.zip
+        run: bash merge-incremental.sh
 
       - name: Run gtfstidy
         id: run-gtfstidy
