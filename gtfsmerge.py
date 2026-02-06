@@ -67,19 +67,23 @@ def main():
                 reference_path, reference_zf = reference
                 with result.open(gtfs_file, "w") as out_raw:
                     out_wrapper = TextIOWrapper(out_raw, encoding=ENCODING, newline="")
-                    writer = csv.writer(out_wrapper)
 
                     try:
                         with reference_zf.open(gtfs_file) as ref_raw:
                             ref_wrapper = TextIOWrapper(
                                 ref_raw, encoding=ENCODING, newline=""
                             )
-                            reference_reader = csv.reader(ref_wrapper)
-                            header = next(reference_reader)
+                            reference_reader = csv.DictReader(ref_wrapper)
+                            header = list(reference_reader.fieldnames or [])
                     except KeyError:
                         continue
 
-                    writer.writerow(header)
+                    if not header:
+                        logging.error("\tSkipping %s (empty header).", gtfs_file)
+                        continue
+
+                    writer = csv.DictWriter(out_wrapper, fieldnames=header)
+                    writer.writeheader()
 
                     seen_rows: set[tuple[str, ...]] = set()
                     seen_ids: set[tuple[str, ...]] = set()
@@ -88,17 +92,19 @@ def main():
                         logging.warning("\t\tUsing first column as index.")
                         index_positions = [0]
                     else:
-                        try:
-                            index_positions = [
-                                header.index(index)
-                                for index in sorted(FILE_INDEXES[gtfs_file])
-                            ]
-                        except ValueError:
+                        missing_index = [
+                            index
+                            for index in sorted(FILE_INDEXES[gtfs_file])
+                            if index not in header
+                        ]
+                        if missing_index:
                             logging.warning(
-                                "\t\tMissing index column in %s, using first column.",
+                                "\t\tMissing index columns in %s, using first column.",
                                 gtfs_file,
                             )
-                            index_positions = [0]
+                            index_positions = [header[0]]
+                        else:
+                            index_positions = sorted(FILE_INDEXES[gtfs_file])
 
                     # process reference first, then the rest
                     archives = [(reference_path, reference_zf)] + [
@@ -115,10 +121,10 @@ def main():
                                 in_wrapper = TextIOWrapper(
                                     in_raw, encoding=ENCODING, newline=""
                                 )
-                                reader = csv.reader(in_wrapper)
-                                archive_header = next(reader)
+                                reader = csv.DictReader(in_wrapper)
+                                archive_header = list(reader.fieldnames or [])
 
-                                if archive_header != header:
+                                if set(archive_header) != set(header):
                                     logging.error(
                                         "\tSkipping %s from %s (header mismatch).",
                                         gtfs_file,
@@ -127,13 +133,21 @@ def main():
                                     continue
 
                                 for row in reader:
-                                    index_tuple = tuple(row[i] for i in index_positions)
+                                    if not row:
+                                        continue
+                                    if index_positions == [header[0]]:
+                                        index_tuple = (row.get(header[0], ""),)
+                                    else:
+                                        index_tuple = tuple(
+                                            row.get(index, "") for index in index_positions
+                                        )
                                     if index_tuple not in seen_ids:
                                         writer.writerow(row)
                                         seen_ids.add(index_tuple)
-                                        seen_rows.add(tuple(row))
+                                        seen_rows.add(tuple(row.get(k, "") for k in header))
                                     else:
-                                        if tuple(row) in seen_rows:
+                                        row_tuple = tuple(row.get(k, "") for k in header)
+                                        if row_tuple in seen_rows:
                                             logging.debug(
                                                 "\t\tAvoiding exact row duplicate: %s",
                                                 row,
