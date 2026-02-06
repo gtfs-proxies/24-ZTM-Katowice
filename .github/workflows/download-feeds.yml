@@ -70,6 +70,10 @@ jobs:
         with:
           path: /tmp/${{ env.FEED_NAME }}/output.zip
           key: master-${{ steps.date.outputs.DATE }}
+      
+      - name: List available input feeds
+        id: list-feeds
+        run: ls /tmp/${{ env.FEED_NAME }}/original
 
       - name: Merge GTFS feeds incrementally
         id: merge-feeds

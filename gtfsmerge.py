@@ -31,7 +31,9 @@ logging.basicConfig(
 
 ENCODING = "utf-8-sig"
 
-DROP_COLUMNS: set[str] = {"timepoint", "shape_dist_traveled"}
+DROP_COLUMNS: dict[str, set[str]] = {
+    "stop_times.txt": {"timepoint", "shape_dist_traveled"},
+}
 VIRTUAL_STOP_CODE_PREFIX = "GR"
 VIRTUAL_STOP_NAME_PREFIX = "granica"
 
@@ -72,12 +74,19 @@ def main():
                             stop_id = (row.get("stop_id") or "").strip()
                             if stop_id:
                                 drop_stop_ids.add(stop_id)
+                                logging.info(
+                                    "Marking virtual stop for removal: %s (%s)",
+                                    stop_id,
+                                    stop_code,
+                                )
             except KeyError:
                 continue
 
         all_files: set[str] = set()
         for _, zf in zipfiles:
-            all_files.update(zf.namelist())
+            all_files.update(
+                name for name in zf.namelist() if name.endswith(".txt")
+            )
 
         with zipfile.ZipFile(output_path, "w") as result:
             for gtfs_file in sorted(all_files):
@@ -109,11 +118,12 @@ def main():
                             reader = csv.DictReader(in_wrapper)
                             archive_header = list(reader.fieldnames or [])
                             if archive_header:
+                                drop = DROP_COLUMNS.get(gtfs_file, set())
                                 headers.append(
                                     [
                                         col
                                         for col in archive_header
-                                        if col not in DROP_COLUMNS
+                                        if col not in drop
                                     ]
                                 )
                     except KeyError:
@@ -138,12 +148,11 @@ def main():
                     writer = csv.DictWriter(out_wrapper, fieldnames=header)
                     writer.writeheader()
 
-                    seen_rows: set[tuple[str, ...]] = set()
                     seen_ids: set[tuple[str, ...]] = set()
 
                     if gtfs_file not in FILE_INDEXES:
                         logging.warning("\t\tUsing first column as index.")
-                        index_positions = [0]
+                        index_positions = [header[0]]
                     else:
                         missing_index = [
                             index
@@ -185,36 +194,30 @@ def main():
                                     if "stop_id" in header and drop_stop_ids:
                                         stop_id = (row.get("stop_id") or "").strip()
                                         if stop_id in drop_stop_ids:
+                                            logging.info(
+                                                "\t\tDropping row with virtual stop %s in %s",
+                                                stop_id,
+                                                gtfs_file,
+                                            )
                                             continue
                                     filtered_row = {k: row.get(k, "") for k in header}
-                                    if index_positions == [header[0]]:
-                                        index_tuple = (filtered_row.get(header[0], ""),)
-                                    else:
-                                        index_tuple = tuple(
-                                            filtered_row.get(index, "")
-                                            for index in index_positions
-                                        )
+                                    index_tuple = tuple(
+                                        filtered_row.get(col, "")
+                                        for col in index_positions
+                                    )
                                     if index_tuple not in seen_ids:
                                         writer.writerow(filtered_row)
                                         seen_ids.add(index_tuple)
-                                        seen_rows.add(
-                                            tuple(filtered_row.get(k, "") for k in header)
-                                        )
                                     else:
-                                        row_tuple = tuple(row.get(k, "") for k in header)
-                                        if row_tuple in seen_rows:
-                                            logging.debug(
-                                                "\t\tAvoiding exact row duplicate: %s",
-                                                row,
-                                            )
-                                        else:
-                                            logging.info(
-                                                "\t\tAvoiding row with duplicate IDs: %s",
-                                                row,
-                                            )
+                                        logging.info(
+                                            "\t\tAvoiding row with duplicate IDs: %s",
+                                            index_tuple,
+                                        )
                         except KeyError:
                             logging.info("\tSkipping missing %s in %s", gtfs_file, archive_path)
                             continue
+
+                    out_wrapper.flush()
 
 
 if __name__ == "__main__":
