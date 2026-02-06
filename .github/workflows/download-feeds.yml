@@ -31,19 +31,17 @@ jobs:
 
       - name: Restore cached feed
         id: cache-feed-restore
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v5
         with:
           path: /tmp/${{ env.FEED_NAME }}/original/
-          key: feed
+          key: feed-latest
 
       - name: Restore cached master GTFS
         id: cache-master-restore
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v5
         with:
           path: /tmp/${{ env.FEED_NAME }}/output.zip
-          key: master-${{ steps.date.outputs.DATE }}
-          restore-keys: |
-            master-
+          key: master-latest
 
       - name: Set up Go
         uses: actions/setup-go@v4
@@ -59,10 +57,10 @@ jobs:
 
       - name: Save feed
         id: cache-feed-save
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v5
         with:
           path: /tmp/${{ env.FEED_NAME }}/original/
-          key: feed-${{ steps.date.outputs.DATE }}
+          key: feed-latest
 
       - name: List available input feeds
         id: list-feeds
@@ -74,10 +72,10 @@ jobs:
 
       - name: Save master GTFS
         id: cache-master-save
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v5
         with:
           path: /tmp/${{ env.FEED_NAME }}/output.zip
-          key: master-${{ steps.date.outputs.DATE }}
+          key: master-latest
 
       - name: Run gtfstidy
         id: run-gtfstidy
