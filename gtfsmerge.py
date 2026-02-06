@@ -31,6 +31,10 @@ logging.basicConfig(
 
 ENCODING = "utf-8-sig"
 
+DROP_COLUMNS: set[str] = {"timepoint", "shape_dist_traveled"}
+VIRTUAL_STOP_CODE_PREFIX = "GR"
+VIRTUAL_STOP_NAME_PREFIX = "granica"
+
 
 def main():
     """Run the program."""
@@ -46,6 +50,30 @@ def main():
         zipfiles: list[tuple[str, zipfile.ZipFile]] = []
         for path in gtfs_archive_paths:
             zipfiles.append((path, stack.enter_context(zipfile.ZipFile(path))))
+
+        drop_stop_ids: set[str] = set()
+        for archive_path, archive_zf in zipfiles:
+            if "stops.txt" not in archive_zf.namelist():
+                continue
+            try:
+                with archive_zf.open("stops.txt") as in_raw:
+                    in_wrapper = TextIOWrapper(in_raw, encoding=ENCODING, newline="")
+                    reader = csv.DictReader(in_wrapper)
+                    if not reader.fieldnames:
+                        continue
+                    for row in reader:
+                        if not row:
+                            continue
+                        stop_code = (row.get("stop_code") or "").strip()
+                        stop_name = (row.get("stop_name") or "").strip().lower()
+                        if stop_code.startswith(VIRTUAL_STOP_CODE_PREFIX) and stop_name.startswith(
+                            VIRTUAL_STOP_NAME_PREFIX
+                        ):
+                            stop_id = (row.get("stop_id") or "").strip()
+                            if stop_id:
+                                drop_stop_ids.add(stop_id)
+            except KeyError:
+                continue
 
         all_files: set[str] = set()
         for _, zf in zipfiles:
@@ -65,23 +93,48 @@ def main():
                     continue
 
                 reference_path, reference_zf = reference
-                with result.open(gtfs_file, "w") as out_raw:
-                    out_wrapper = TextIOWrapper(out_raw, encoding=ENCODING, newline="")
 
+                headers: list[list[str]] = []
+                archives = [(reference_path, reference_zf)] + [
+                    pair for pair in zipfiles if pair[0] != reference_path
+                ]
+                for archive_path, archive_zf in archives:
+                    if gtfs_file not in archive_zf.namelist():
+                        continue
                     try:
-                        with reference_zf.open(gtfs_file) as ref_raw:
-                            ref_wrapper = TextIOWrapper(
-                                ref_raw, encoding=ENCODING, newline=""
+                        with archive_zf.open(gtfs_file) as in_raw:
+                            in_wrapper = TextIOWrapper(
+                                in_raw, encoding=ENCODING, newline=""
                             )
-                            reference_reader = csv.DictReader(ref_wrapper)
-                            header = list(reference_reader.fieldnames or [])
+                            reader = csv.DictReader(in_wrapper)
+                            archive_header = list(reader.fieldnames or [])
+                            if archive_header:
+                                headers.append(
+                                    [
+                                        col
+                                        for col in archive_header
+                                        if col not in DROP_COLUMNS
+                                    ]
+                                )
                     except KeyError:
                         continue
 
-                    if not header:
-                        logging.error("\tSkipping %s (empty header).", gtfs_file)
-                        continue
+                if not headers:
+                    logging.error("\tSkipping %s (empty header).", gtfs_file)
+                    continue
 
+                header: list[str] = []
+                for archive_header in headers:
+                    for col in archive_header:
+                        if col not in header:
+                            header.append(col)
+
+                if not header:
+                    logging.error("\tSkipping %s (empty header after drop).", gtfs_file)
+                    continue
+
+                with result.open(gtfs_file, "w") as out_raw:
+                    out_wrapper = TextIOWrapper(out_raw, encoding=ENCODING, newline="")
                     writer = csv.DictWriter(out_wrapper, fieldnames=header)
                     writer.writeheader()
 
@@ -106,11 +159,6 @@ def main():
                         else:
                             index_positions = sorted(FILE_INDEXES[gtfs_file])
 
-                    # process reference first, then the rest
-                    archives = [(reference_path, reference_zf)] + [
-                        pair for pair in zipfiles if pair[0] != reference_path
-                    ]
-
                     for archive_path, archive_zf in archives:
                         if gtfs_file not in archive_zf.namelist():
                             logging.info("\tSkipping missing %s in %s", gtfs_file, archive_path)
@@ -123,10 +171,9 @@ def main():
                                 )
                                 reader = csv.DictReader(in_wrapper)
                                 archive_header = list(reader.fieldnames or [])
-
-                                if set(archive_header) != set(header):
+                                if not archive_header:
                                     logging.error(
-                                        "\tSkipping %s from %s (header mismatch).",
+                                        "\tSkipping %s from %s (empty header).",
                                         gtfs_file,
                                         archive_path,
                                     )
@@ -135,16 +182,24 @@ def main():
                                 for row in reader:
                                     if not row:
                                         continue
+                                    if "stop_id" in header and drop_stop_ids:
+                                        stop_id = (row.get("stop_id") or "").strip()
+                                        if stop_id in drop_stop_ids:
+                                            continue
+                                    filtered_row = {k: row.get(k, "") for k in header}
                                     if index_positions == [header[0]]:
-                                        index_tuple = (row.get(header[0], ""),)
+                                        index_tuple = (filtered_row.get(header[0], ""),)
                                     else:
                                         index_tuple = tuple(
-                                            row.get(index, "") for index in index_positions
+                                            filtered_row.get(index, "")
+                                            for index in index_positions
                                         )
                                     if index_tuple not in seen_ids:
-                                        writer.writerow(row)
+                                        writer.writerow(filtered_row)
                                         seen_ids.add(index_tuple)
-                                        seen_rows.add(tuple(row.get(k, "") for k in header))
+                                        seen_rows.add(
+                                            tuple(filtered_row.get(k, "") for k in header)
+                                        )
                                     else:
                                         row_tuple = tuple(row.get(k, "") for k in header)
                                         if row_tuple in seen_rows:
