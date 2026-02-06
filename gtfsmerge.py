@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 
+import csv
 import glob
 import logging
 import sys
 import zipfile
+from contextlib import ExitStack
+from io import TextIOWrapper
 
 FILE_INDEXES: dict[str, set[str]] = {
     "agency.txt": {"agency_id"},
@@ -28,6 +31,7 @@ logging.basicConfig(
 
 ENCODING = "utf-8-sig"
 
+
 def main():
     """Run the program."""
     gtfs_archive_paths: list[str] = [
@@ -38,82 +42,110 @@ def main():
     if len(gtfs_archive_paths) < 1:
         raise ValueError("Missing arguments.")
 
-    with zipfile.ZipFile(output_path, "w") as result:
-        # get list of files in the first zip as reference
-        with zipfile.ZipFile(gtfs_archive_paths[0]) as reference_gtfs:
-            zipfile_namelist: list[str] = reference_gtfs.namelist()
+    with ExitStack() as stack:
+        zipfiles: list[tuple[str, zipfile.ZipFile]] = []
+        for path in gtfs_archive_paths:
+            zipfiles.append((path, stack.enter_context(zipfile.ZipFile(path))))
 
-        for gtfs_file in zipfile_namelist:
-            logging.info("Processing %s...", gtfs_file)
+        all_files: set[str] = set()
+        for _, zf in zipfiles:
+            all_files.update(zf.namelist())
 
-            seen_lines: set[bytes] = set()
-            seen_ids: set[tuple[str, ...]] = set()
+        with zipfile.ZipFile(output_path, "w") as result:
+            for gtfs_file in sorted(all_files):
+                logging.info("Processing %s...", gtfs_file)
 
-            # open a file with the same name in the resulting zip
-            with result.open(gtfs_file, "w") as result_gtfs_file:
-                # start populating the output file with header of the
-                # reference one (first argument)
-                with zipfile.ZipFile(gtfs_archive_paths[0]).open(
-                    gtfs_file
-                ) as reference_gtfs_file:
-                    logging.info("\tWriting header from reference...")
-                    header: bytes = reference_gtfs_file.readline()
-                    result_gtfs_file.write(header)
-                    logging.debug("\t%s", header.decode(ENCODING))
-                non_duplicable_indexes_index: list[int] = []
+                reference: tuple[str, zipfile.ZipFile] | None = None
+                for path, zf in zipfiles:
+                    if gtfs_file in zf.namelist():
+                        reference = (path, zf)
+                        break
 
-                if gtfs_file not in FILE_INDEXES:
-                    logging.warning("\t\tUsing first column as index.")
-                    non_duplicable_indexes_index = [0]
-                else:
-                    for index in FILE_INDEXES[gtfs_file]:
-                        non_duplicable_indexes_index.append(
-                            header.decode(ENCODING)
-                            .replace("\r\n", "")
-                            .split(",")
-                            .index(index)
-                        )
+                if reference is None:
+                    continue
 
-                # loop through the zip files passed as arguments
-                for gtfs_archive_path in gtfs_archive_paths:
-                    logging.info("\t%s...", gtfs_archive_path)
-                    # read the content of the current `gtfs_file` of each
-                    with zipfile.ZipFile(gtfs_archive_path).open(
-                        gtfs_file
-                    ) as content:
-                        if content.readline() == header:
-                            for line in content:
-                                index_tuple: tuple[str, ...] = tuple(
-                                    line.decode(ENCODING)
-                                    .replace("\r\n", "")
-                                    .split(",")[index]
-                                    for index in non_duplicable_indexes_index
-                                )
-                                if index_tuple not in seen_ids:
-                                    result_gtfs_file.write(line)
-                                    seen_lines.add(line)
-                                    seen_ids.add(index_tuple)
-                                else:
-                                    if line in seen_lines:
-                                        logging.debug(
-                                            "\t\tAvoiding exact row duplicate"
-                                            ": %s",
-                                            line.decode(ENCODING),
-                                        )
-                                    else:
-                                        logging.info(
-                                            "\t\tAvoiding row with duplicate "
-                                            "IDs: %s",
-                                            line.decode(ENCODING),
-                                        )
+                reference_path, reference_zf = reference
+                with result.open(gtfs_file, "w") as out_raw:
+                    out_wrapper = TextIOWrapper(out_raw, encoding=ENCODING, newline="")
+                    writer = csv.writer(out_wrapper)
 
-                        else:
-                            logging.error(
-                                "\t\tSkipping %s from %s "
-                                "(header does not match the previous ones.",
-                                gtfs_file,
-                                gtfs_archive_path,
+                    try:
+                        with reference_zf.open(gtfs_file) as ref_raw:
+                            ref_wrapper = TextIOWrapper(
+                                ref_raw, encoding=ENCODING, newline=""
                             )
+                            reference_reader = csv.reader(ref_wrapper)
+                            header = next(reference_reader)
+                    except KeyError:
+                        continue
+
+                    writer.writerow(header)
+
+                    seen_rows: set[tuple[str, ...]] = set()
+                    seen_ids: set[tuple[str, ...]] = set()
+
+                    if gtfs_file not in FILE_INDEXES:
+                        logging.warning("\t\tUsing first column as index.")
+                        index_positions = [0]
+                    else:
+                        try:
+                            index_positions = [
+                                header.index(index)
+                                for index in sorted(FILE_INDEXES[gtfs_file])
+                            ]
+                        except ValueError:
+                            logging.warning(
+                                "\t\tMissing index column in %s, using first column.",
+                                gtfs_file,
+                            )
+                            index_positions = [0]
+
+                    # process reference first, then the rest
+                    archives = [(reference_path, reference_zf)] + [
+                        pair for pair in zipfiles if pair[0] != reference_path
+                    ]
+
+                    for archive_path, archive_zf in archives:
+                        if gtfs_file not in archive_zf.namelist():
+                            logging.info("\tSkipping missing %s in %s", gtfs_file, archive_path)
+                            continue
+
+                        try:
+                            with archive_zf.open(gtfs_file) as in_raw:
+                                in_wrapper = TextIOWrapper(
+                                    in_raw, encoding=ENCODING, newline=""
+                                )
+                                reader = csv.reader(in_wrapper)
+                                archive_header = next(reader)
+
+                                if archive_header != header:
+                                    logging.error(
+                                        "\tSkipping %s from %s (header mismatch).",
+                                        gtfs_file,
+                                        archive_path,
+                                    )
+                                    continue
+
+                                for row in reader:
+                                    index_tuple = tuple(row[i] for i in index_positions)
+                                    if index_tuple not in seen_ids:
+                                        writer.writerow(row)
+                                        seen_ids.add(index_tuple)
+                                        seen_rows.add(tuple(row))
+                                    else:
+                                        if tuple(row) in seen_rows:
+                                            logging.debug(
+                                                "\t\tAvoiding exact row duplicate: %s",
+                                                row,
+                                            )
+                                        else:
+                                            logging.info(
+                                                "\t\tAvoiding row with duplicate IDs: %s",
+                                                row,
+                                            )
+                        except KeyError:
+                            logging.info("\tSkipping missing %s in %s", gtfs_file, archive_path)
+                            continue
 
 
 if __name__ == "__main__":
