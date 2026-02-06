@@ -88,7 +88,7 @@ def main():
                 name for name in zf.namelist() if name.endswith(".txt")
             )
 
-        with zipfile.ZipFile(output_path, "w") as result:
+        with zipfile.ZipFile(output_path, "w", zipfile.ZIP_DEFLATED) as result:
             for gtfs_file in sorted(all_files):
                 logging.info("Processing %s...", gtfs_file)
 

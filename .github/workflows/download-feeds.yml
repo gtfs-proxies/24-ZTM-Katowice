@@ -1,13 +1,13 @@
 name: download-feeds
 run-name: Downloading GTFS feeds
 
-on: 
+on:
   push:
     branches:
-      - 'main'
+      - "main"
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron: '36 23 * * *'
+    - cron: "36 23 * * *"
 
 env:
   FEED_NAME: "24-ZTM-Katowice"
@@ -48,7 +48,7 @@ jobs:
       - name: Set up Go
         uses: actions/setup-go@v4
         with:
-          go-version: '1.20'
+          go-version: "1.20"
 
       - name: Install gtfstidy
         id: install-gtfstidy
@@ -56,7 +56,7 @@ jobs:
 
       - name: Download GTFS feeds
         run: bash download.sh
-      
+
       - name: Save feed
         id: cache-feed-save
         uses: actions/cache/save@v4
@@ -64,13 +64,6 @@ jobs:
           path: /tmp/${{ env.FEED_NAME }}/original/
           key: feed-${{ steps.date.outputs.DATE }}
 
-      - name: Save master GTFS
-        id: cache-master-save
-        uses: actions/cache/save@v4
-        with:
-          path: /tmp/${{ env.FEED_NAME }}/output.zip
-          key: master-${{ steps.date.outputs.DATE }}
-      
       - name: List available input feeds
         id: list-feeds
         run: ls /tmp/${{ env.FEED_NAME }}/original
@@ -78,6 +71,13 @@ jobs:
       - name: Merge GTFS feeds incrementally
         id: merge-feeds
         run: bash merge-incremental.sh
+
+      - name: Save master GTFS
+        id: cache-master-save
+        uses: actions/cache/save@v4
+        with:
+          path: /tmp/${{ env.FEED_NAME }}/output.zip
+          key: master-${{ steps.date.outputs.DATE }}
 
       - name: Run gtfstidy
         id: run-gtfstidy
@@ -90,11 +90,15 @@ jobs:
         id: auto-commit-action
         with:
           commit_message: Add new feeds (${{ steps.date.outputs.DATE }})
-          file_pattern: 'feed/'
+          file_pattern: "feed/"
           branch: main
-          # Optional. Tag name being created in the local repository and 
-          # pushed to remote repository and defined branch.
-          tagging_message: ${{ steps.date.outputs.DATE }}
+
+      - name: Tag release
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        continue-on-error: true
+        run: |
+          git tag ${{ steps.date.outputs.DATE }}
+          git push origin ${{ steps.date.outputs.DATE }}
 
       - name: Zip GTFS feeds
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
@@ -104,6 +108,7 @@ jobs:
       - name: Create Release
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
         id: create_release
+        continue-on-error: true
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
@@ -112,15 +117,15 @@ jobs:
           release_name: Release ${{ steps.date.outputs.DATE }}
           draft: false
           prerelease: false
-      
+
       - name: Upload Release Asset
-        if: steps.auto-commit-action.outputs.changes_detected == 'true'
-        id: upload-release-asset 
+        if: steps.auto-commit-action.outputs.changes_detected == 'true' && steps.create_release.outcome == 'success'
+        id: upload-release-asset
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps
           asset_path: ./${{ env.FEED_NAME }}.zip
           asset_name: ${{ env.FEED_NAME }}.zip
           asset_content_type: application/zip
