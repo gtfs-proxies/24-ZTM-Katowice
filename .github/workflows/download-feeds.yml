@@ -12,6 +12,10 @@ on:
 env:
   FEED_NAME: "24-ZTM-Katowice"
 
+concurrency:
+  group: download-feeds-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   download:
     permissions:
@@ -34,14 +38,20 @@ jobs:
         uses: actions/cache/restore@v5
         with:
           path: /tmp/${{ env.FEED_NAME }}/original/
-          key: feed-latest
+          key: feed-${{ steps.date.outputs.DATE }}-${{ github.run_number }}
+          restore-keys: |
+            feed-${{ steps.date.outputs.DATE }}-
+            feed-
 
       - name: Restore cached master GTFS
         id: cache-master-restore
         uses: actions/cache/restore@v5
         with:
           path: /tmp/${{ env.FEED_NAME }}/output.zip
-          key: master-latest
+          key: master-${{ steps.date.outputs.DATE }}-${{ github.run_number }}
+          restore-keys: |
+            master-${{ steps.date.outputs.DATE }}-
+            master-
 
       - name: Set up Go
         uses: actions/setup-go@v4
@@ -60,7 +70,7 @@ jobs:
         uses: actions/cache/save@v5
         with:
           path: /tmp/${{ env.FEED_NAME }}/original/
-          key: feed-latest
+          key: feed-${{ steps.date.outputs.DATE }}-${{ github.run_number }}
 
       - name: List available input feeds
         id: list-feeds
@@ -70,12 +80,15 @@ jobs:
         id: merge-feeds
         run: bash merge-incremental.sh
 
+      - name: Clean downloaded feeds after merge
+        run: rm -rf /tmp/${{ env.FEED_NAME }}/original/*
+
       - name: Save master GTFS
         id: cache-master-save
         uses: actions/cache/save@v5
         with:
           path: /tmp/${{ env.FEED_NAME }}/output.zip
-          key: master-latest
+          key: master-${{ steps.date.outputs.DATE }}-${{ github.run_number }}
 
       - name: Run gtfstidy
         id: run-gtfstidy
@@ -90,7 +103,6 @@ jobs:
           commit_message: Add new feeds (${{ steps.date.outputs.DATE }})
           file_pattern: "feed/"
           branch: main
-          pull: '--rebase --autostash'
 
       - name: Tag release
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
@@ -102,29 +114,15 @@ jobs:
       - name: Zip GTFS feeds
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
         id: zip
-        run: zip -oj9 ${{ env.FEED_NAME }} feed/*
+        run: zip -oj9 ${{ env.FEED_NAME }}.zip feed/*
 
-      - name: Create Release
+      - name: Create Release with Asset
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
-        id: create_release
-        continue-on-error: true
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.date.outputs.DATE }}
-          release_name: Release ${{ steps.date.outputs.DATE }}
+          name: Release ${{ steps.date.outputs.DATE }}
           draft: false
           prerelease: false
-
-      - name: Upload Release Asset
-        if: steps.auto-commit-action.outputs.changes_detected == 'true' && steps.create_release.outcome == 'success'
-        id: upload-release-asset
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps
-          asset_path: ./${{ env.FEED_NAME }}.zip
-          asset_name: ${{ env.FEED_NAME }}.zip
-          asset_content_type: application/zip
+          files: ${{ env.FEED_NAME }}.zip
+          fail_on_unmatched_files: true
