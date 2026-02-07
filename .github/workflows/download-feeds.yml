@@ -103,7 +103,7 @@ jobs:
 
       - name: Run gtfstidy
         id: run-gtfstidy
-        run: gtfstidy -WSCRmTcsOD --keep-service-ids --remeasure-stop-times -o /tmp/${{ env.FEED_NAME }}/tidied.zip /tmp/${{ env.FEED_NAME }}/output.zip
+        run: gtfstidy -WSCRmTcsODI --keep-service-ids --remeasure-stop-times -o /tmp/${{ env.FEED_NAME }}/tidied.zip /tmp/${{ env.FEED_NAME }}/output.zip
 
       - name: Unzip GTFS feeds
         run: bash unzip.sh
