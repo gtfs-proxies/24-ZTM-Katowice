@@ -108,6 +108,9 @@ jobs:
       - name: Unzip GTFS feeds
         run: bash unzip.sh
 
+      - name: Clean feed
+        run: python3 clean-feed.py
+
       - name: Round shape distances
         run: python3 round-shapes.py
 
