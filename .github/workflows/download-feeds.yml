@@ -114,6 +114,9 @@ jobs:
       - name: Fix routes
         run: python3 fix-routes.py
 
+      - name: Fix overlapping blocks
+        run: python3 fix-blocks.py
+
       - name: Round shape distances
         run: python3 round-shapes.py
 
