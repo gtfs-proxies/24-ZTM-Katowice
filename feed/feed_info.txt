@@ -1,2 +1,2 @@
-feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email
-GZM ZTM,https://otwartedane.metropoliagzm.pl/dataset/rozklady-jazdy-i-lokalizacja-przystankow-gtfs-wersja-rozszerzona,pl,20260206,20260206,schedule_ZTM_2026.02.06_8613_0005,kancelaria@metropoliaztm.pl
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+GTFS Proxies (ZTM Katowice),https://github.com/gtfs-proxies,pl,20260210,20260227,2026.1

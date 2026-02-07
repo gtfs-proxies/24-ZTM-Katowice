@@ -1,0 +1,3 @@
+organization_name,attribution_url,is_producer,is_operator,is_authority
+GZM ZTM,https://otwartedane.metropoliagzm.pl,1,1,1
+GTFS Proxies,https://github.com/gtfs-proxies,0,0,0
