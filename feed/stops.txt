@@ -116,8 +116,6 @@ Bieruń Ściernie,2414011-02801,6695,50.083755,19.13365,https://rj.transportgzm.
 Bieruń Ściernie,2414011-02802,6708,50.083714,19.132534,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-02802/
 Biskupice Brondera nż,2478011-00101,285,50.317963,18.811184,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-00101/
 Biskupice Brondera nż,2478011-00102,286,50.31806,18.811018,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-00102/
-Biskupice Bytomska [tech],2478011-09601t,8591,50.326496,18.831446,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-09601t/
-Biskupice Bytomska [tech],2478011-09602t,8592,50.326473,18.83133,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-09602t/
 Biskupice Kasprowicza,2478011-10401,1280,50.315063,18.795794,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-10401/
 Biskupice Kasprowicza,2478011-10402,1281,50.31528,18.795803,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-10402/
 Biskupice Koksownia nż,2478011-15101,5599,50.333042,18.835125,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-15101/
@@ -638,7 +636,6 @@ Bytom Strzelców Bytomskich,2462011-04802,2815,50.350277,18.914072,https://rj.tr
 Bytom Szkoła Medyczna,2462011-04001,8876,50.351562,18.891108,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-04001/
 Bytom Szkoła Medyczna,2462011-04001t,4624,50.351513,18.89055,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-04001t/
 Bytom Szkoła Medyczna,2462011-04002t,4625,50.351448,18.890717,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-04002t/
-Bytom Szkoła Medyczna [tech],2462011-05301t,5134,50.35217,18.888569,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-05301t/
 Bytom Szpital nr 1,2462011-04901,432,50.352566,18.923752,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-04901/
 Bytom Szpital nr 1,2462011-04902,433,50.352287,18.923525,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-04902/
 Bytom Szpital nr 2,2462011-14301,9040,50.347874,18.909838,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-14301/
@@ -747,7 +744,6 @@ Będzin Targowisko,2401011-02603,7289,50.33064,19.128744,https://rj.transportgzm
 Będzin Urząd Miasta,2401011-02701,4882,50.322212,19.128407,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-02701/
 Będzin Zagórska,2401011-02801,3390,50.315887,19.137165,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-02801/
 Będzin Zagórska,2401011-02802,3391,50.316093,19.137154,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-02802/
-Będzin Zajezdnia Dysp. [tech],2401011-90101t,5133,50.327557,19.11103,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-90101t/
 Będzin Zamek,2401011-03001,3440,50.325012,19.127728,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-03001/
 Będzin Zamek,2401011-03001t,3441,50.326138,19.126043,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-03001t/
 Będzin Zamek,2401011-03002,5304,50.325314,19.127699,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-03002/
@@ -778,7 +774,6 @@ Chebzie Dworcowa,2472011-02002,417,50.302444,18.881632,https://rj.transportgzm.p
 Chebzie Dworcowa,2472011-02002t,418,50.302334,18.882147,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02002t/
 Chebzie Dworzec PKP,2472011-02101,411,50.303513,18.878395,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02101/
 Chebzie Dworzec PKP,2472011-02102,412,50.303295,18.878181,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02102/
-Chebzie Mijanka [tech],2472011-09701t,8337,50.305595,18.884108,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09701t/
 Chebzie Pawła,2472011-02201t,8372,50.304554,18.883808,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02201t/
 Chebzie Pawła,2472011-02202t,5110,50.30454,18.883646,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02202t/
 Chebzie Pawła,2472011-02203t,8373,50.30453,18.884495,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02203t/
@@ -790,17 +785,13 @@ Chebzie Pętla,2472011-02302t,4279,50.300392,18.881319,https://rj.transportgzm.p
 Chebzie Pętla,2472011-02303t,9127,50.300632,18.88286,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02303t/
 Chebzie Pętla,2472011-02304t,4281,50.30047,18.88284,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02304t/
 Chebzie Pętla,2472011-02305t,4282,50.300964,18.883234,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02305t/
-Chebzie Pętla Techniczny [tech],2472011-09906t,10481,50.30023,18.881756,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09906t/
 Chebzie Rondo,2472011-02401,413,50.30081,18.881725,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02401/
 Chebzie Rondo,2472011-02402,414,50.300594,18.881008,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02402/
 Chebzie Rondo,2472011-02404,7514,50.30037,18.883585,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02404/
-Chebzie Rondo [tech],2472011-12901,9618,50.301846,18.883184,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-12901/
 Chebzie Styczyńskiego,2472011-02501,5658,50.30143,18.874369,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02501/
 Chebzie Styczyńskiego,2472011-02501t,4673,50.301353,18.875065,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02501t/
 Chebzie Styczyńskiego,2472011-02502,5659,50.30129,18.874271,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02502/
 Chebzie Styczyńskiego,2472011-02502t,4674,50.301315,18.875128,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02502t/
-Chebzie Tlenownia [tech],2472011-02601t,4681,50.295895,18.876968,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02601t/
-Chebzie Tlenownia [tech],2472011-02602t,4682,50.2959,18.87696,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02602t/
 Chebzie Węglowa,2472011-13401,8021,50.30154,18.87985,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-13401/
 Chełm Mały Górnośląska,2414052-00101,421,50.100796,19.218409,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414052-00101/
 Chełm Mały Górnośląska,2414052-00102,422,50.10105,19.21858,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414052-00102/
@@ -882,7 +873,6 @@ Chorzów Batory Zajezdnia,2463011-01902,5045,50.27484,18.955328,https://rj.trans
 Chorzów Batory Zajezdnia,2463011-01902t,5046,50.274788,18.955154,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01902t/
 Chorzów Batory Zajezdnia,2463011-01903t,5047,50.274754,18.955122,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01903t/
 Chorzów Batory Zajezdnia,2463011-01904t,5048,50.274532,18.956476,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01904t/
-Chorzów Batory Zajezdnia Dysp. [tech],2463011-90101t,4536,50.272533,18.95595,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-90101t/
 Chorzów Bałtycka,2463011-00301t,4503,50.28714,18.939415,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-00301t/
 Chorzów Bałtycka,2463011-00302t,4504,50.287106,18.939447,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-00302t/
 Chorzów Boczna,2463011-02001,11071,50.297302,18.936218,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-02001/
@@ -906,7 +896,6 @@ Chorzów Gwarecka,2463011-02902,5704,50.295067,18.930746,https://rj.transportgzm
 Chorzów Hajducka,2463011-03001,3910,50.28925,18.945553,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03001/
 Chorzów Hajducka,2463011-03032,10499,50.28931,18.945906,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03032/
 Chorzów Hala Sportowa,2463011-03101,5063,50.285545,18.941078,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03101/
-Chorzów Konstal Brama 2 [tech],2463011-08601t,10611,50.30324,18.9533,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-08601t/
 Chorzów Kościół św. Jadwigi,2463011-03201,11072,50.292126,18.946575,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03201/
 Chorzów Kościół św. Jadwigi,2463011-03201t,5169,50.292168,18.946507,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03201t/
 Chorzów Kościół św. Jadwigi,2463011-03202t,5170,50.292656,18.947054,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03202t/
@@ -967,7 +956,6 @@ Chorzów Sobieskiego,2463011-05531,10479,50.294556,18.951546,https://rj.transpor
 Chorzów Stabika,2463011-05601,2731,50.310215,18.950132,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05601/
 Chorzów Stabika,2463011-05602,2732,50.31079,18.949017,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05602/
 Chorzów Stabika,2463011-05603,5441,50.31031,18.95025,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05603/
-Chorzów Stadion Śl Pętla Zach. [tech],2469011-29001t,10084,50.286602,18.969881,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29001t/
 Chorzów Stadion Śląski,2463011-05704,10478,50.28837,18.967726,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05704/
 Chorzów Stadion Śląski,2463011-05732,10506,50.287525,18.96776,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05732/
 Chorzów Stadion Śląski,2463011-05734,10508,50.28821,18.967943,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05734/
@@ -1029,7 +1017,6 @@ Chorzów Wojskowe Centrum Rekrutacji,2463011-11931,8616,50.293793,18.937098,http
 Chorzów Wojskowe Centrum Rekrutacji,2463011-11932,8615,50.293686,18.936872,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-11932/
 Chorzów Wolności Tymczasowy,2463011-12031,10489,50.291103,18.94483,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-12031/
 Chorzów Wolności Tymczasowy,2463011-12032,10488,50.29122,18.945312,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-12032/
-Chorzów Wolności [tech],2463011-10701t,6928,50.290756,18.944468,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-10701t/
 Chorzów ZUS,2463011-07401,3496,50.291637,18.949142,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07401/
 Chorzów ZUS,2463011-07432,10486,50.291542,18.948738,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07432/
 Chorzów Zjednoczenia,2463011-11231,8100,50.2935,18.950537,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-11231/
@@ -1037,7 +1024,6 @@ Chorzów Łagiewnicka,2463011-03501,1942,50.310226,18.941528,https://rj.transpor
 Chorzów Łagiewnicka,2463011-03502,1943,50.31051,18.94119,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03502/
 Chorzów Żeromskiego,2463011-07501t,4501,50.29447,18.948942,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07501t/
 Chorzów Żeromskiego,2463011-07532t,10487,50.29437,18.949081,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07532t/
-Chropaczów Jaśminowa [tech],2476011-03701t,9146,50.310368,18.91002,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-03701t/
 Chropaczów Konstantego Wolnego,2476011-00101,4293,50.316616,18.9173,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-00101/
 Chropaczów Konstantego Wolnego,2476011-00101t,4294,50.31665,18.917353,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-00101t/
 Chropaczów Konstantego Wolnego,2476011-00102,4295,50.316372,18.916285,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-00102/
@@ -1085,7 +1071,6 @@ Cielmice Kościół,2477011-00502,6323,50.090935,19.01764,https://rj.transportgz
 Cielmice Nowe Łąki,2477011-00301,6338,50.095776,19.021158,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-00301/
 Cielmice Nowe Łąki,2477011-00302,8697,50.095978,19.021341,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-00302/
 Cielmice Pętla,2477011-00401,6331,50.08594,19.006342,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-00401/
-Cielmice Pętla [tech],2477011-23101,8671,50.08594,19.006342,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-23101/
 Cielmice ks. Szojdy,2477011-00201,6330,50.08842,19.00855,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-00201/
 Cielmice ks. Szojdy,2477011-00202,6336,50.09011,19.0085,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-00202/
 Ciochowice,2405075-02301,5832,50.42913,18.52577,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02301/
@@ -1135,8 +1120,6 @@ Czeladź Dworzec,2401021-04002t,6886,50.320507,19.072378,https://rj.transportgzm
 Czeladź Grodziecka,2401021-01701,8275,50.31942,19.0764,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-01701/
 Czeladź Grodziecka,2401021-01701t,4384,50.31952,19.077023,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-01701t/
 Czeladź Grodziecka,2401021-01702t,4385,50.31957,19.076344,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-01702t/
-Czeladź Grodziecka Most [tech],2401021-04101t,7433,50.319065,19.079443,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-04101t/
-Czeladź Grodziecka Most [tech],2401021-04102t,7432,50.319115,19.079517,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-04102t/
 Czeladź Grodziecka nż,2401021-00301,4076,50.328888,19.08234,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-00301/
 Czeladź Grodziecka nż,2401021-00302,4077,50.329147,19.082355,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-00302/
 Czeladź Józefów,2401021-00401,1243,50.298466,19.073471,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-00401/
@@ -1395,7 +1378,6 @@ Dąbrowa Górnicza Urząd Pracy,2465011-02201t,1399,50.32346,19.16677,https://rj
 Dąbrowa Górnicza Urząd Pracy,2465011-02202,1400,50.323765,19.168566,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-02202/
 Dąbrowa Górnicza Urząd Pracy,2465011-02202t,1401,50.323414,19.166813,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-02202t/
 Dąbrowa Górnicza Urząd Pracy,2465011-02203,8873,50.324276,19.167263,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-02203/
-Dąbrowa Górnicza Urząd Pracy Pętla [tech],2465011-21001t,4085,50.324707,19.169436,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-21001t/
 Dąbrowa Górnicza Wodociągi,2465011-23701,8820,50.33336,19.175032,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-23701/
 Dąbrowa Górnicza Zawidzkiej,2465011-23901,8842,50.33105,19.203495,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-23901/
 Dąbrowa Górnicza Zawidzkiej,2465011-23902,8843,50.330856,19.203838,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-23902/
@@ -1557,7 +1539,6 @@ Gliwice Centrum Przesiadkowe,2466011-23916,8406,50.302864,18.676786,https://rj.t
 Gliwice Centrum Przesiadkowe,2466011-23917,8407,50.302715,18.676262,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23917/
 Gliwice Centrum Przesiadkowe,2466011-23918,8408,50.302948,18.676691,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23918/
 Gliwice Centrum Przesiadkowe,2466011-23927,8409,50.302486,18.675928,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23927/
-Gliwice Centrum Przesiadkowe [tech],2466011-23829,8515,50.304028,18.675314,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23829/
 Gliwice Cmentarz Centralny,2466011-02301,3664,50.30434,18.635983,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02301/
 Gliwice Cmentarz Centralny,2466011-02302,3665,50.304836,18.633707,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02302/
 Gliwice Cmentarz Centralny,2466011-02333,10972,50.30512,18.631357,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02333/
@@ -1692,7 +1673,6 @@ Gliwice Zajezdnia,2466011-07602,3678,50.304928,18.729548,https://rj.transportgzm
 Gliwice Zajezdnia,2466011-07602t,3679,50.30504,18.730858,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07602t/
 Gliwice Zajezdnia,2466011-07603,5512,50.304714,18.7304,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07603/
 Gliwice Zajezdnia,2466011-07604,5511,50.304775,18.730515,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07604/
-Gliwice Zajezdnia Dysp. [tech],2466011-90101t,4699,50.303726,18.730003,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-90101t/
 Gliwice Zakład Energetyczny,2466011-07701,3432,50.31326,18.647884,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07701/
 Gliwice Zakład Energetyczny,2466011-07702,3433,50.312576,18.64815,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07702/
 Gliwice Zakład Opla,2466011-15301,3761,50.319435,18.622116,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15301/
@@ -1811,7 +1791,6 @@ Gołonóg Podlesie,2465011-23402,8611,50.32628,19.227541,https://rj.transportgzm
 Gołonóg Swobodna,2465011-04201,3351,50.341408,19.243587,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-04201/
 Gołonóg Szkoła Podstawowa nr 11,2465011-24401,8844,50.340675,19.244934,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-24401/
 Gołonóg Tysiąclecia,2465011-22601,8200,50.331295,19.223783,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-22601/
-Gołonóg Uniwersal [tech],2465011-04301,4992,50.34024,19.225008,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-04301/
 Gołonóg Wczasowa,2465011-04401,814,50.34398,19.224253,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-04401/
 Gołonóg Wczasowa,2465011-04402,815,50.344246,19.225866,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-04402/
 Gołonóg Wiadukt S1,2465011-04001,4367,50.33063,19.243223,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-04001/
@@ -1824,7 +1803,6 @@ Gołonóg Wzgórze Gołonoskie,2465011-03202t,4360,50.334652,19.227806,https://r
 Gołonóg Wzgórze Sanktuarium św. Antoniego,2465011-24001,8823,50.33728,19.233799,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-24001/
 Gołonóg Zajezdnia,2465011-04501,818,50.34079,19.243427,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-04501/
 Gołonóg Zajezdnia,2465011-04502,8831,50.34072,19.241085,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-04502/
-Gołonóg Zajezdnia [tech],2465011-22301,7142,50.340523,19.24378,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-22301/
 Gołonóg Zakład Energetyczny,2465011-04601,816,50.327072,19.220049,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-04601/
 Gołonóg Zakład Energetyczny,2465011-04602,817,50.325394,19.217089,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-04602/
 Gołonóg Św. Antoniego Skrzyżowanie,2465011-25201,11046,50.34204,19.232828,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-25201/
@@ -2245,7 +2223,6 @@ Kamień Kościół,2471011-02102,354,50.366066,18.99145,https://rj.transportgzm.
 Kamionka Cicha,2408021-03201,6438,50.197945,18.919544,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-03201/
 Kamionka Jamna,2408021-03301,6436,50.19174,18.915543,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-03301/
 Kamionka Kościuszki,2408021-03401,6437,50.19516,18.91553,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-03401/
-Kamionka Kościół [tech],2408021-09701,10128,50.188103,18.915754,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-09701/
 Kamionka Młyn,2408021-02401,1780,50.182194,18.912336,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-02401/
 Kamionka Młyn,2408021-02402,1779,50.181667,18.912195,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-02402/
 Kamionka Paprotek,2408021-02801,6435,50.18902,18.93019,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-02801/
@@ -2336,7 +2313,6 @@ Katowice Hutnicza,2469011-37001,11061,50.252216,19.056278,https://rj.transportgz
 Katowice Jagiellońska,2469011-02001,11086,50.25406,19.02369,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02001/
 Katowice Jordana,2469011-01901t,10606,50.25176,19.015085,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01901t/
 Katowice Jordana,2469011-01902t,10602,50.251743,19.015182,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01902t/
-Katowice Karłowicza [tech],2469011-26701t,6898,50.285492,19.017832,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-26701t/
 Katowice Komenda Policji,2469011-08601,1270,50.246677,19.025541,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-08601/
 Katowice Komenda Policji,2469011-08602,1271,50.247185,19.025896,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-08602/
 Katowice Kopernika Dworzec,2469011-01601,11081,50.255005,19.014463,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01601/
@@ -2415,7 +2391,6 @@ Katowice Sądowa,2469011-01202A,7169,50.25863,19.01101,https://rj.transportgzm.p
 Katowice Sądowa,2469011-01202B,8192,50.258747,19.010622,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01202B/
 Katowice Sądowa,2469011-01203,8036,50.26016,19.009449,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01203/
 Katowice Uniwersytet Śląski,2469011-31101,5235,50.26151,19.025621,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-31101/
-Katowice Zajezdnia [tech],2469011-90101,5142,50.265297,19.01195,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-90101/
 Katowice Św. Jana,2469011-01701t,6878,50.257957,19.021608,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01701t/
 Katowice Św. Jana,2469011-01702t,6879,50.25786,19.02148,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01702t/
 Kazdębie,2465011-05401,2844,50.333263,19.315054,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-05401/
@@ -2709,7 +2684,6 @@ Koszutka Iłłakowiczówny,2469011-13401,3693,50.274715,19.0222,https://rj.trans
 Koszutka Iłłakowiczówny,2469011-13402,3694,50.274902,19.022121,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13402/
 Koszutka Jesionowa,2469011-29201t,6863,50.274002,19.024164,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29201t/
 Koszutka Jesionowa,2469011-29202t,6862,50.274597,19.023851,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29202t/
-Koszutka Jesionowa [tech],2469011-29101t,6896,50.27513,19.023485,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29101t/
 Koszutka Katowicka,2469011-12901,1283,50.26985,19.026325,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-12901/
 Koszutka Katowicka,2469011-12902,1284,50.269962,19.026587,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-12902/
 Koszutka Kino Kosmos,2469011-13001,1295,50.26844,19.019468,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13001/
@@ -3094,7 +3068,6 @@ Michałkowice Kościół,2474011-01701,1671,50.318756,19.003391,https://rj.trans
 Michałkowice Kościół,2474011-01702,1672,50.31845,19.003262,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-01702/
 Michałkowice Maciejkowicka nż,2474011-01901,1677,50.319637,18.99691,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-01901/
 Michałkowice Maciejkowicka nż,2474011-01902,1678,50.31949,18.9972,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-01902/
-Michałkowice Orzeszkowej [tech],2474011-07001,7110,50.319275,19.004486,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-07001/
 Michałkowice Park Górnik,2474011-01801,1675,50.313866,19.003885,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-01801/
 Michałkowice Park Górnik,2474011-01802,1676,50.315285,19.003584,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-01802/
 Michałkowice Plac 11 Listopada,2474011-06901,5319,50.319767,19.005623,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-06901/
@@ -3187,7 +3160,6 @@ Mikołów Dworzec,2408021-00103,680,50.172253,18.900255,https://rj.transportgzm.
 Mikołów Dworzec,2408021-00104,6854,50.17226,18.900408,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-00104/
 Mikołów Dworzec,2408021-00105,8290,50.172043,18.90013,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-00105/
 Mikołów Dworzec,2408021-00106,679,50.17218,18.90053,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-00106/
-Mikołów Dworzec [tech],2408021-09301,8681,50.174236,18.901436,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-09301/
 Mikołów Fabryczna,2408021-00501,6458,50.17263,18.88736,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-00501/
 Mikołów Fabryczna,2408021-00502,6459,50.172554,18.887165,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-00502/
 Mikołów Gronie Na Wzgórzu,2408021-01901,6446,50.158928,18.925339,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-01901/
@@ -4031,7 +4003,6 @@ Ożarowice Punkt Widokowy,2413062-02301,3888,50.475746,19.049385,https://rj.tran
 Ożarowice Punkt Widokowy,2413062-02302,3889,50.475853,19.049204,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-02302/
 Ożarowice Punkt Widokowy,2413062-02303,5639,50.47593,19.048452,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-02303/
 Ożarowice Punkt Widokowy,2413062-02304,5616,50.475975,19.048677,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-02304/
-Ożarowice Sportowa [tech],2413062-05230,8795,50.468895,19.043753,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-05230/
 Ożarowice Staszica,2413062-04601,5622,50.463318,19.036661,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-04601/
 Ożarowice Szkoła,2413062-01201,3869,50.467922,19.03865,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-01201/
 Ożarowice Szkoła,2413062-01202,3868,50.46778,19.03878,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-01202/
@@ -4341,7 +4312,6 @@ Pogoń Akademiki,2475011-08101t,2352,50.298412,19.134573,https://rj.transportgzm
 Pogoń Akademiki,2475011-08102,2353,50.299004,19.13454,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08102/
 Pogoń Akademiki,2475011-08102t,2354,50.298332,19.134357,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08102t/
 Pogoń Aleja Mireckiego,2475011-08201,2587,50.286453,19.12223,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08201/
-Pogoń Będzińska Pętla [tech],2475011-08301t,4787,50.30049,19.135054,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08301t/
 Pogoń Ciepła,2475011-08402,2356,50.293797,19.141016,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08402/
 Pogoń Grota-Roweckiego,2475011-08501,2592,50.28659,19.12453,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08501/
 Pogoń Grota-Roweckiego,2475011-08502,2593,50.28707,19.121666,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08502/
@@ -4375,7 +4345,6 @@ Porąbka Kopalnia,2475011-09501,2390,50.272587,19.225489,https://rj.transportgzm
 Porąbka Kopalnia,2475011-09502,2391,50.272842,19.223204,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-09502/
 Porąbka Kopalnia,2475011-09503,5381,50.273247,19.224373,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-09503/
 Porąbka Kopalnia,2475011-09504,5382,50.273296,19.224276,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-09504/
-Porąbka Mijanka Zawodzie [tech],2475011-17901t,5132,50.276672,19.21935,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-17901t/
 Porąbka Osiedle Juliusz I,2475011-09701,2394,50.27236,19.23555,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-09701/
 Porąbka Osiedle Juliusz I,2475011-09702,2395,50.27248,19.235731,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-09702/
 Porąbka Osiedle Juliusz II,2475011-09801,2396,50.270985,19.232342,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-09801/
@@ -4879,8 +4848,6 @@ Sarnów PGR,2405075-01401,5907,50.4829,18.51097,https://rj.transportgzm.pl/v2/ro
 Sarnów PGR,2405075-01402,5908,50.483063,18.51097,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-01402/
 Sarnów Wiejska,2401062-04401,9507,50.37491,19.14468,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-04401/
 Sarnów Wiejska,2401062-04402,9508,50.37499,19.144773,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-04402/
-Sarnów [tech],2401062-07001,10588,50.374977,19.147856,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07001/
-Sarnów [tech],2401062-07002,10587,50.37537,19.147932,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07002/
 Siedliska,2413062-03401,3854,50.464573,19.096378,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-03401/
 Siedliska Cargo,2413062-04801,7853,50.46951,19.096264,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-04801/
 Sielec Droga do Środuli nż,2475011-10901,647,50.288525,19.158348,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-10901/
@@ -5035,7 +5002,6 @@ Sikornik Osiedle,2466011-12601,2077,50.27826,18.657719,https://rj.transportgzm.p
 Sikornik Osiedle,2466011-12602,2078,50.27861,18.657988,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-12602/
 Sikornik Wilgi,2466011-24701,8627,50.273346,18.652304,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-24701/
 Sikornik Wilgi,2466011-24702,8783,50.2733,18.65073,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-24702/
-Sikornik Wilgi [tech],2466011-24801,9100,50.27331,18.65209,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-24801/
 Sikornik Zimorodka,2466011-12701,2075,50.28249,18.65968,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-12701/
 Sikornik Zimorodka,2466011-12702,2076,50.28177,18.659328,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-12702/
 Smardzowice Oficerska,2414031-03701,2684,50.13766,19.133213,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-03701/
@@ -5173,7 +5139,6 @@ Sośnicowice Osiedle,2405064-00501,6040,50.27887,18.536327,https://rj.transportg
 Sośnicowice Osiedle,2405064-00502,6041,50.27888,18.536499,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405064-00502/
 Sośnicowice Remiza nż,2405064-03202,6026,50.257767,18.548683,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405064-03202/
 Sośnicowice Rynek,2405064-01301,7373,50.272415,18.529976,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405064-01301/
-Sośnicowice Rynek [tech],2405065-04101,10387,50.27214,18.52981,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405065-04101/
 Sośnicowice Silvia,2405064-03402,6043,50.271,18.56703,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405064-03402/
 Sośnicowice Smolnicka nż,2405064-03001,6046,50.26058,18.54586,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405064-03001/
 Srocza Góra Wieś,2405075-04001,10286,50.420803,18.625383,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-04001/
@@ -5248,7 +5213,6 @@ Stare Łabędy Eiffela nż,2466011-19301,5117,50.329277,18.605673,https://rj.tra
 Stare Łabędy Eiffela nż,2466011-19302,5716,50.327595,18.608034,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-19302/
 Stare Łabędy Einsteina,2466011-20701,5717,50.332993,18.603195,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-20701/
 Stare Łabędy Einsteina,2466011-20702,5718,50.333744,18.604687,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-20702/
-Stare Łabędy Einsteina Rondo [tech],2466011-20601,5719,50.334015,18.605673,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-20601/
 Stare Łabędy ROCA,2466011-19201,5118,50.324963,18.607443,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-19201/
 Stare Łabędy ROCA,2466011-19202,5119,50.325012,18.607883,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-19202/
 Stare Łabędy SSE,2466011-15401,4872,50.32457,18.612904,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15401/
@@ -5297,7 +5261,6 @@ Stroszek Osiedle,2462011-11303,2085,50.398335,18.875317,https://rj.transportgzm.
 Stroszek Plac Żeromskiego,2462011-11401t,4630,50.38954,18.88121,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-11401t/
 Stroszek Plac Żeromskiego,2462011-11402t,4631,50.38987,18.881018,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-11402t/
 Stroszek Poczta,2462011-11501,2792,50.393936,18.871197,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-11501/
-Stroszek Pętla [tech],2462011-14801t,6926,50.398136,18.870829,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-14801t/
 Stroszek Stadion nż,2462011-11601,4157,50.39253,18.88186,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-11601/
 Stroszek Stadion nż,2462011-11602,4158,50.392616,18.882032,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-11602/
 Stroszek Targowisko,2462011-11701t,4633,50.395515,18.879076,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-11701t/
@@ -5309,7 +5272,6 @@ Stroszek Zajezdnia,2462011-12001t,4635,50.39794,18.87162,https://rj.transportgzm
 Stroszek Zajezdnia,2462011-12002,5591,50.397533,18.871511,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12002/
 Stroszek Zajezdnia,2462011-12002t,4636,50.397995,18.87145,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12002t/
 Stroszek Zajezdnia,2462011-12003t,6892,50.398186,18.872244,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12003t/
-Stroszek Zajezdnia Dysp. [tech],2462011-90101t,4634,50.39797,18.870365,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-90101t/
 Strzemieszyce Aleja Za Remizą,2465011-11501,2820,50.30613,19.27276,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-11501/
 Strzemieszyce Aleja Za Remizą,2465011-11502,2821,50.30632,19.273447,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-11502/
 Strzemieszyce Ciołkowizna,2465011-11801,2827,50.301136,19.312817,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-11801/
@@ -5597,7 +5559,6 @@ Sławków Wrzosowa,2401081-02501,6088,50.286457,19.378584,https://rj.transportgz
 Sławków Wrzosowa,2401081-02502,6089,50.286385,19.37872,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401081-02502/
 Sławków ZWM,2401081-02601,3497,50.302517,19.401302,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401081-02601/
 Sławków ZWM,2401081-02602,7416,50.302044,19.40141,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401081-02602/
-Sławków ZWM Pętla [tech],2401081-03501,7417,50.30737,19.398687,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401081-03501/
 Sławków Świętojańska,2401081-02401,5201,50.300148,19.38308,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401081-02401/
 Słupna Ośrodek Wypoczynkowy,2470011-01901,4844,50.22889,19.142094,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-01901/
 Słupna Ośrodek Wypoczynkowy,2470011-01902,4845,50.2287,19.141861,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-01902/
@@ -5949,7 +5910,6 @@ Tychy Strefowa Centralna,2477011-07602,6319,50.09748,19.037445,https://rj.transp
 Tychy Strefowa Skrzyżowanie,2477011-08602,6340,50.09856,19.025,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08602/
 Tychy Strefowa Wschodnia,2477011-07901,6348,50.09755,19.04209,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07901/
 Tychy Strefowa Wschodnia,2477011-07902,6318,50.09743,19.041994,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07902/
-Tychy Szpital Woj. [tech],2477011-23501,8055,50.11358,19.005102,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-23501/
 Tychy Szpital Wojewódzki,2477011-11801,6283,50.11358,19.005102,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11801/
 Tychy Szpital Wojewódzki,2477011-11802,6260,50.1133,19.004622,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11802/
 Tychy Słowicza,2477011-05101,9151,50.14024,18.985956,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05101/
@@ -5980,7 +5940,6 @@ Tychy Wieniawskiego,2477011-13702,6270,50.096016,18.988028,https://rj.transportg
 Tychy Wyszyńskiego,2477011-11901,6289,50.109882,19.001867,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11901/
 Tychy Wyszyńskiego,2477011-11902,6259,50.110165,19.001986,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11902/
 Tychy Zajezdnia,2477011-90201,6857,50.100697,19.019066,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-90201/
-Tychy Zajezdnia [tech],2477011-90101,6115,50.10085,19.017242,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-90101/
 Tychy Śródmieście,2477011-05601,6265,50.10994,18.993338,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05601/
 Tychy Śródmieście,2477011-05602,6291,50.110233,18.991858,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05602/
 Tychy Żwakowska,2477011-10901,6235,50.11819,18.975925,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-10901/
@@ -6096,7 +6055,6 @@ Wełnowiec Gnieźnieńska,2469011-25701t,3233,50.28323,19.019184,https://rj.tran
 Wełnowiec Gnieźnieńska,2469011-25702,3234,50.2834,19.019087,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25702/
 Wełnowiec Gnieźnieńska,2469011-25702t,3235,50.282948,19.019367,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25702t/
 Wełnowiec Gnieźnieńska,2469011-25703,5368,50.282936,19.01867,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25703/
-Wełnowiec Konduktorska [tech],2469011-29301t,6897,50.280968,19.020472,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29301t/
 Wełnowiec Kościół,2469011-25801t,4486,50.27835,19.020847,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25801t/
 Wełnowiec Kościół,2469011-25802t,4487,50.27856,19.020782,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25802t/
 Wełnowiec Plac Alfreda,2469011-25901,4492,50.29252,19.013927,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25901/
@@ -6229,8 +6187,6 @@ Wirek Ratusz,2472011-11101,3303,50.266056,18.861874,https://rj.transportgzm.pl/v
 Wirek Ratusz,2472011-11102,3304,50.264065,18.86117,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-11102/
 Wirek Stadion,2472011-11201,3305,50.269894,18.864576,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-11201/
 Wirek Stadion,2472011-11202,3306,50.270065,18.864973,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-11202/
-Wirek Wanda-Lech [tech],2472011-11401t,5130,50.27769,18.87204,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-11401t/
-Wirek Wanda-Lech [tech],2472011-11402t,5131,50.277687,18.872032,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-11402t/
 Wiśnicze,2405082-01201,5958,50.49426,18.560436,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405082-01201/
 Wiśnicze,2405082-01202,5957,50.49412,18.560492,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405082-01202/
 Wiśnicze Caritas,2405082-01301,5956,50.49333,18.564783,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405082-01301/
@@ -6494,7 +6450,6 @@ Zabrze Osiedle Wyzwolenia,2478011-11401,2121,50.293575,18.760197,https://rj.tran
 Zabrze Osiedle Wyzwolenia,2478011-11402,2122,50.293377,18.760088,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-11402/
 Zabrze Pawliczka,2478011-08301,2213,50.300926,18.80168,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-08301/
 Zabrze Pawliczka,2478011-08302,2214,50.301,18.802425,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-08302/
-Zabrze Plac Dworcowy [tech],2478011-20505,8461,50.30557,18.786304,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-20505/
 Zabrze Plac Krakowski,2478011-11601,2285,50.302532,18.788471,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-11601/
 Zabrze Plac Krakowski,2478011-11602,2286,50.30234,18.788353,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-11602/
 Zabrze Plac Słowiański,2478011-11701,2302,50.30585,18.759964,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-11701/
@@ -6700,7 +6655,6 @@ Zawodzie Zajezdnia,2469011-28801,4466,50.259888,19.068296,https://rj.transportgz
 Zawodzie Zajezdnia,2469011-28801t,4467,50.259884,19.06761,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28801t/
 Zawodzie Zajezdnia,2469011-28802t,4469,50.25999,19.067373,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28802t/
 Zawodzie Zajezdnia,2469011-28803t,4470,50.26005,19.067045,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28803t/
-Zawodzie Zajezdnia Dysp. [tech],2469011-90201t,4465,50.2609,19.066088,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-90201t/
 Zawodzie Łączna,2469011-28401,4476,50.259422,19.060747,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28401/
 Zawodzie Łączna,2469011-28401t,4477,50.25952,19.060886,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28401t/
 Zawodzie Łączna,2469011-28402,4478,50.25969,19.061026,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28402/
@@ -7221,8 +7175,6 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Świętochłowice Sikorskiego Szkoła,2476011-04502,5697,50.293293,18.912926,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-04502/
 Świętochłowice Szpitalna Cmentarz,2476011-04001,5702,50.29198,18.92814,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-04001/
 Świętochłowice Szpitalna Cmentarz,2476011-04002,5703,50.292107,18.928507,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-04002/
-Świętochłowice W.P. [tech],2476011-10001t,6922,50.28497,18.925102,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-10001t/
-Świętochłowice W.P. [tech],2476011-10002t,6923,50.284977,18.925188,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-10002t/
 Świętochłowice Żołnierska,2476011-04801,6106,50.28908,18.932087,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-04801/
 Świętoszowice Czarna Droga,2413092-04701,32,50.35852,18.742123,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413092-04701/
 Świętoszowice Czarna Droga,2413092-04702,31,50.358532,18.742306,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413092-04702/
