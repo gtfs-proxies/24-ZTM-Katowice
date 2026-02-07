@@ -29,18 +29,28 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
-      - name: Get current date
-        id: date
-        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+      - name: Calculate version
+        id: version
+        run: |
+          YEAR=$(date +'%Y')
+          LAST_TAG=$(git tag -l "${YEAR}.*" | sort -V | tail -1)
+          if [ -z "$LAST_TAG" ]; then
+            VERSION="${YEAR}.1"
+          else
+            NUM=$(echo "$LAST_TAG" | cut -d. -f2)
+            NUM=$((NUM + 1))
+            VERSION="${YEAR}.${NUM}"
+          fi
+          echo "VERSION=${VERSION}" >> $GITHUB_OUTPUT
 
       - name: Restore cached feed
         id: cache-feed-restore
         uses: actions/cache/restore@v5
         with:
           path: /tmp/${{ env.FEED_NAME }}/original/
-          key: feed-${{ steps.date.outputs.DATE }}-${{ github.run_number }}
+          key: feed-${{ steps.version.outputs.VERSION }}-${{ github.run_number }}
           restore-keys: |
-            feed-${{ steps.date.outputs.DATE }}-
+            feed-${{ steps.version.outputs.VERSION }}-
             feed-
 
       - name: Restore cached master GTFS
@@ -48,9 +58,9 @@ jobs:
         uses: actions/cache/restore@v5
         with:
           path: /tmp/${{ env.FEED_NAME }}/output.zip
-          key: master-${{ steps.date.outputs.DATE }}-${{ github.run_number }}
+          key: master-${{ steps.version.outputs.VERSION }}-${{ github.run_number }}
           restore-keys: |
-            master-${{ steps.date.outputs.DATE }}-
+            master-${{ steps.version.outputs.VERSION }}-
             master-
 
       - name: Set up Go
@@ -70,7 +80,7 @@ jobs:
         uses: actions/cache/save@v5
         with:
           path: /tmp/${{ env.FEED_NAME }}/original/
-          key: feed-${{ steps.date.outputs.DATE }}-${{ github.run_number }}
+          key: feed-${{ steps.version.outputs.VERSION }}-${{ github.run_number }}
 
       - name: List available input feeds
         id: list-feeds
@@ -88,7 +98,7 @@ jobs:
         uses: actions/cache/save@v5
         with:
           path: /tmp/${{ env.FEED_NAME }}/output.zip
-          key: master-${{ steps.date.outputs.DATE }}-${{ github.run_number }}
+          key: master-${{ steps.version.outputs.VERSION }}-${{ github.run_number }}
 
       - name: Run gtfstidy
         id: run-gtfstidy
@@ -97,10 +107,37 @@ jobs:
       - name: Unzip GTFS feeds
         run: bash unzip.sh
 
+      - name: Extract feed dates
+        id: feed-dates
+        run: |
+          START_DATE=$(tail -n +2 feed/calendar.txt 2>/dev/null | cut -d',' -f8 | sort | head -1)
+          END_DATE=$(tail -n +2 feed/calendar.txt 2>/dev/null | cut -d',' -f9 | sort | tail -1)
+          if [ -z "$START_DATE" ] && [ -f feed/calendar_dates.txt ]; then
+            START_DATE=$(tail -n +2 feed/calendar_dates.txt | cut -d',' -f2 | sort | head -1)
+            END_DATE=$(tail -n +2 feed/calendar_dates.txt | cut -d',' -f2 | sort | tail -1)
+          fi
+          echo "START_DATE=${START_DATE}" >> $GITHUB_OUTPUT
+          echo "END_DATE=${END_DATE}" >> $GITHUB_OUTPUT
+
+      - name: Generate feed_info.txt
+        run: |
+          cat > feed/feed_info.txt << 'EOF'
+          feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+          GTFS Proxies (ZTM Katowice),https://github.com/gtfs-proxies,pl,${{ steps.feed-dates.outputs.START_DATE }},${{ steps.feed-dates.outputs.END_DATE }},${{ steps.version.outputs.VERSION }}
+          EOF
+
+      - name: Generate attribution.txt
+        run: |
+          cat > feed/attribution.txt << 'EOF'
+          organization_name,attribution_url,is_producer,is_operator,is_authority
+          GZM ZTM,https://otwartedane.metropoliagzm.pl,1,1,1
+          GTFS Proxies,https://github.com/gtfs-proxies,0,0,0
+          EOF
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         id: auto-commit-action
         with:
-          commit_message: Add new feeds (${{ steps.date.outputs.DATE }})
+          commit_message: Add new feeds (${{ steps.version.outputs.VERSION }})
           file_pattern: "feed/"
           branch: main
 
@@ -108,8 +145,8 @@ jobs:
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
         continue-on-error: true
         run: |
-          git tag ${{ steps.date.outputs.DATE }}
-          git push origin ${{ steps.date.outputs.DATE }}
+          git tag ${{ steps.version.outputs.VERSION }}
+          git push origin ${{ steps.version.outputs.VERSION }}
 
       - name: Zip GTFS feeds
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
@@ -120,8 +157,8 @@ jobs:
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ steps.date.outputs.DATE }}
-          name: Release ${{ steps.date.outputs.DATE }}
+          tag_name: ${{ steps.version.outputs.VERSION }}
+          name: Release ${{ steps.version.outputs.VERSION }}
           draft: false
           prerelease: false
           files: ${{ env.FEED_NAME }}.zip
