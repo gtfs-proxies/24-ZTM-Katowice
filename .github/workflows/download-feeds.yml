@@ -111,6 +111,9 @@ jobs:
       - name: Clean feed
         run: python3 clean-feed.py
 
+      - name: Fix routes
+        run: python3 fix-routes.py
+
       - name: Round shape distances
         run: python3 round-shapes.py
 
@@ -129,8 +132,8 @@ jobs:
       - name: Generate feed_info.txt
         run: |
           cat > feed/feed_info.txt << 'EOF'
-          feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-          GTFS Proxies (ZTM Katowice),https://github.com/gtfs-proxies,pl,${{ steps.feed-dates.outputs.START_DATE }},${{ steps.feed-dates.outputs.END_DATE }},${{ steps.version.outputs.VERSION }}
+          feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_url
+          GTFS Proxies (ZTM Katowice),https://github.com/gtfs-proxies,pl,${{ steps.feed-dates.outputs.START_DATE }},${{ steps.feed-dates.outputs.END_DATE }},${{ steps.version.outputs.VERSION }},https://github.com/gtfs-proxies/24-ZTM-Katowice
           EOF
 
       - name: Generate attribution.txt
