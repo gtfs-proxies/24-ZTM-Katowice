@@ -1,2 +1,2 @@
-service_id,name
-7,"święta i niedziele niehandlowe poza wakacjami - zgodnie z ustawą o ograniczeniu handlu"
+﻿service_id,name
+7,święta i niedziele niehandlowe poza wakacjami - zgodnie z ustawą o ograniczeniu handlu

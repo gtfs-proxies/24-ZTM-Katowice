@@ -1,22 +1,22 @@
-operator_id,operator_name,post_code,city,street,house_number,apartment_number,nip,regon,telephone_number,id_skup,operator_url
-4,"INTRANS Usługi Transportowe i Edukacyjne","41-200","Sosnowiec","Kaliska","19B","30","6442777349","277654570","505 012 525","123","https://rj.metropoliaztm.pl/operatorzy/"
-5,"Tramwaje Śląskie S.A.","41-506","Chorzów","Inwalidzka","5","","6340125637","","","101","https://rj.metropoliaztm.pl/operatorzy/"
-6,"Przedsiębiorstwo Komunikacji Miejskiej Sp. z o.o. w Katowicach","40-085","Katowice","Mickiewicza","59","","6342272762","270563188","","102","https://rj.metropoliaztm.pl/operatorzy/"
-7,"Przedsiębiorstwo Komunikacji Miejskiej Sp. z o.o. w Sosnowcu","41-219","Sosnowiec","Lenartowicza","73","","6442521816","273572779","","103","https://rj.metropoliaztm.pl/operatorzy/"
-8,"Przedsiębiorstwo Komunikacji Miejskiej Sp. z o.o. w Gliwicach","44-100","Gliwice","Chorzowska","150","","6312125476","273604433","","104","https://rj.metropoliaztm.pl/operatorzy/"
-9,"Krzysztof Pawelec Usługi Transportowe","28-133","Pacanów","Biechów","93b","","6340004477","271057910","","105","https://rj.metropoliaztm.pl/operatorzy/"
-10,"P.P.U.H. Kłosok","44-240","Żory","Gajowa","62","","6420407852","271699033","","107","https://rj.metropoliaztm.pl/operatorzy/"
-11,"Przedsiębiorstwo Komunikacji Miejskiej, Metropolitalna Sp. z o.o. w Świerklańcu","42-622","Świerklaniec","Parkowa","3","","9542246280","271523831","","108","https://rj.metropoliaztm.pl/operatorzy/"
-24,"Konsorcjum (S.J. LZ Apolinary Lazar, Marcin Lazar, PKS Południe Sp. z o.o.)","42-625","Zendek","Główna","155A","","6451964223","273313842","","159","https://rj.metropoliaztm.pl/operatorzy/"
-41,"Konsorcjum (METEOR Sp. z o.o., IREX-1 Sp. z o.o., Krzysztof Pawelec Usługi Transportowe)","41-605","Świętochłowice","Sądowa","24","","6321712374","273574933","","189","https://rj.metropoliaztm.pl/operatorzy/"
-44,"Przedsiębiorstwo Komunikacji Miejskiej Sp. z o.o. w Tychach","43-100","Tychy","Towarowa","1","","6460009023","","","283","https://rj.metropoliaztm.pl/operatorzy/"
-45,"Tyskie Linie Trolejbusowe Sp. z o.o.","43-100","Tychy","Towarowa","3","","6462318805","","","284","https://rj.metropoliaztm.pl/operatorzy/"
-52,"Konsorcjum (Krzysztof Pawelec Usługi Transportowe, A21 Sp. z o.o.)","28-133","Pacanów","Biechów","93B","","6340004477","271057910","","192","https://rj.metropoliaztm.pl/operatorzy/"
-53,"Konsorcjum (Transgór S.A., A21 Sp. z o.o.)","41-404","Mysłowice","Fabryczna","7A","","2220019557","272292960","","197","https://rj.metropoliaztm.pl/operatorzy/"
-54,"Konsorcjum (KŁOSOK Sp. z o.o. Sp. k., Benedykt Nowak Nowak Transport)","44-240","Żory","Gajowa","62","","6511736515","271699033","","198","https://rj.metropoliaztm.pl/operatorzy/"
-55,"PKS w Grodzisku Mazowieckim","05-825","Grodzisk Mazowiecki","Chełmońskiego","33","","5291640591","017340441","883011757","117","https://rj.metropoliaztm.pl/operatorzy/"
-56,"Konsorcjum (Transport Benedykt Nowak, PKS Południe Sp. z o.o., S.J. LZ Apolinary Lazar, Marcin Lazar)","42-622","Świerklaniec","3 Maja","57","","645-253-67-59","271551589","","109","https://rj.metropoliaztm.pl/operatorzy/"
-57,"Konsorcjum (IREX Ireneusz Kozieł, METEOR Sp. z o.o., IREX-1 Sp. z o.o., IREX-2 Sp. z o.o., TRANSGÓR S.A)","41-605","Świętochłowice","Sądowa","24","","6442064514","273260850","","201","https://rj.metropoliaztm.pl/operatorzy/"
-58,"Konsorcjum (Krzysztof Pawelec Usługi Transportowe, Kłosok sp. z o.o., sp. k.)","41-605","Bytom","Św. Elżbiety","1","","6340004477","","","113","https://rj.metropoliaztm.pl/operatorzy/"
-61,"Konsorcjum (Krzysztof Pawelec Usługi Transportowe, PKS Południe Sp. z o.o., LZ Apolinary Lazar, Marcin Lazar S.J., TRANSGÓR S.A.)","28-133","Pacanów","Biechów","93B","","6340004477","271057910","","203","https://rj.metropoliaztm.pl/operatorzy/"
-63,"Konsorcjum (PKS Gostynin, PKS Tarnobrzeg)","09-500","Gostynin","18-go Stycznia","36","","7750000114","000617108","","127","https://rj.metropoliaztm.pl/operatorzy/"
+﻿operator_id,operator_name,post_code,city,street,house_number,apartment_number,nip,regon,telephone_number,id_skup,operator_url
+4,INTRANS Usługi Transportowe i Edukacyjne,41-200,Sosnowiec,Kaliska,19B,30,6442777349,277654570,505 012 525,123,https://rj.metropoliaztm.pl/operatorzy/
+5,Tramwaje Śląskie S.A.,41-506,Chorzów,Inwalidzka,5,,6340125637,,,101,https://rj.metropoliaztm.pl/operatorzy/
+6,Przedsiębiorstwo Komunikacji Miejskiej Sp. z o.o. w Katowicach,40-085,Katowice,Mickiewicza,59,,6342272762,270563188,,102,https://rj.metropoliaztm.pl/operatorzy/
+7,Przedsiębiorstwo Komunikacji Miejskiej Sp. z o.o. w Sosnowcu,41-219,Sosnowiec,Lenartowicza,73,,6442521816,273572779,,103,https://rj.metropoliaztm.pl/operatorzy/
+8,Przedsiębiorstwo Komunikacji Miejskiej Sp. z o.o. w Gliwicach,44-100,Gliwice,Chorzowska,150,,6312125476,273604433,,104,https://rj.metropoliaztm.pl/operatorzy/
+9,Krzysztof Pawelec Usługi Transportowe,28-133,Pacanów,Biechów,93b,,6340004477,271057910,,105,https://rj.metropoliaztm.pl/operatorzy/
+10,P.P.U.H. Kłosok,44-240,Żory,Gajowa,62,,6420407852,271699033,,107,https://rj.metropoliaztm.pl/operatorzy/
+11,"Przedsiębiorstwo Komunikacji Miejskiej, Metropolitalna Sp. z o.o. w Świerklańcu",42-622,Świerklaniec,Parkowa,3,,9542246280,271523831,,108,https://rj.metropoliaztm.pl/operatorzy/
+24,"Konsorcjum (S.J. LZ Apolinary Lazar, Marcin Lazar, PKS Południe Sp. z o.o.)",42-625,Zendek,Główna,155A,,6451964223,273313842,,159,https://rj.metropoliaztm.pl/operatorzy/
+41,"Konsorcjum (METEOR Sp. z o.o., IREX-1 Sp. z o.o., Krzysztof Pawelec Usługi Transportowe)",41-605,Świętochłowice,Sądowa,24,,6321712374,273574933,,189,https://rj.metropoliaztm.pl/operatorzy/
+44,Przedsiębiorstwo Komunikacji Miejskiej Sp. z o.o. w Tychach,43-100,Tychy,Towarowa,1,,6460009023,,,283,https://rj.metropoliaztm.pl/operatorzy/
+45,Tyskie Linie Trolejbusowe Sp. z o.o.,43-100,Tychy,Towarowa,3,,6462318805,,,284,https://rj.metropoliaztm.pl/operatorzy/
+52,"Konsorcjum (Krzysztof Pawelec Usługi Transportowe, A21 Sp. z o.o.)",28-133,Pacanów,Biechów,93B,,6340004477,271057910,,192,https://rj.metropoliaztm.pl/operatorzy/
+53,"Konsorcjum (Transgór S.A., A21 Sp. z o.o.)",41-404,Mysłowice,Fabryczna,7A,,2220019557,272292960,,197,https://rj.metropoliaztm.pl/operatorzy/
+54,"Konsorcjum (KŁOSOK Sp. z o.o. Sp. k., Benedykt Nowak Nowak Transport)",44-240,Żory,Gajowa,62,,6511736515,271699033,,198,https://rj.metropoliaztm.pl/operatorzy/
+55,PKS w Grodzisku Mazowieckim,05-825,Grodzisk Mazowiecki,Chełmońskiego,33,,5291640591,017340441,883011757,117,https://rj.metropoliaztm.pl/operatorzy/
+56,"Konsorcjum (Transport Benedykt Nowak, PKS Południe Sp. z o.o., S.J. LZ Apolinary Lazar, Marcin Lazar)",42-622,Świerklaniec,3 Maja,57,,645-253-67-59,271551589,,109,https://rj.metropoliaztm.pl/operatorzy/
+57,"Konsorcjum (IREX Ireneusz Kozieł, METEOR Sp. z o.o., IREX-1 Sp. z o.o., IREX-2 Sp. z o.o., TRANSGÓR S.A)",41-605,Świętochłowice,Sądowa,24,,6442064514,273260850,,201,https://rj.metropoliaztm.pl/operatorzy/
+58,"Konsorcjum (Krzysztof Pawelec Usługi Transportowe, Kłosok sp. z o.o., sp. k.)",41-605,Bytom,Św. Elżbiety,1,,6340004477,,,113,https://rj.metropoliaztm.pl/operatorzy/
+61,"Konsorcjum (Krzysztof Pawelec Usługi Transportowe, PKS Południe Sp. z o.o., LZ Apolinary Lazar, Marcin Lazar S.J., TRANSGÓR S.A.)",28-133,Pacanów,Biechów,93B,,6340004477,271057910,,203,https://rj.metropoliaztm.pl/operatorzy/
+63,"Konsorcjum (PKS Gostynin, PKS Tarnobrzeg)",09-500,Gostynin,18-go Stycznia,36,,7750000114,000617108,,127,https://rj.metropoliaztm.pl/operatorzy/

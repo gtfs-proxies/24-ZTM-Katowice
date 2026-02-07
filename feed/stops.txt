@@ -1,4 +1,4 @@
-stop_name,stop_code,stop_id,stop_lat,stop_lon,stop_url
+﻿stop_name,stop_code,stop_id,stop_lat,stop_lon,stop_url
 Antoniów Konstytucji,2465011-00201,111,50.377834,19.238289,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-00201/
 Antoniów Konstytucji,2465011-00202,112,50.37831,19.238506,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-00202/
 Antoniów Skrzyżowanie,2465011-00303,115,50.374294,19.236046,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-00303/
@@ -154,8 +154,8 @@ Bizja nż,2413072-00601,209,50.45094,18.980925,https://rj.transportgzm.pl/v2/roz
 Bizja nż,2413072-00602,210,50.45107,18.98004,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413072-00602/
 Bobrek Bronowa,2475011-00101,214,50.25818,19.185066,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-00101/
 Bobrek Bronowa,2475011-00102,215,50.252495,19.178375,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-00102/
-Bobrek Bronowa  nż,2475011-00201,5060,50.25818,19.185066,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-00201/
-Bobrek Bronowa  nż,2475011-00202,5061,50.25795,19.184961,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-00202/
+Bobrek Bronowa nż,2475011-00201,5060,50.25818,19.185066,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-00201/
+Bobrek Bronowa nż,2475011-00202,5061,50.25795,19.184961,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-00202/
 Bobrek Huta Julia,2462011-00201,220,50.338318,18.8689,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-00201/
 Bobrek Innowacyjna,2475011-20602,5675,50.259655,19.192417,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-20602/
 Bobrek Innowacyjna,2475011-20603,6090,50.261395,19.193686,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-20603/
@@ -6550,8 +6550,8 @@ Zagórze Kopalnia,2475011-16202,3401,50.292614,19.20338,https://rj.transportgzm.
 Zagórze Kopalnia,2475011-16203,3402,50.29237,19.203693,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16203/
 Zagórze Kosynierów,2475011-16301,3403,50.3029,19.198355,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16301/
 Zagórze Kosynierów,2475011-16302,3404,50.303993,19.196913,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16302/
-Zagórze Kosynierów  nż,2475011-16401,10323,50.297783,19.199875,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16401/
-Zagórze Kosynierów  nż,2475011-16402,10324,50.297646,19.200281,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16402/
+Zagórze Kosynierów nż,2475011-16401,10323,50.297783,19.199875,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16401/
+Zagórze Kosynierów nż,2475011-16402,10324,50.297646,19.200281,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16402/
 Zagórze Lenartowicza,2475011-16501,3405,50.29402,19.193308,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16501/
 Zagórze Lenartowicza,2475011-16502,3406,50.294548,19.191978,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16502/
 Zagórze Małe,2475011-16601t,5203,50.296764,19.172949,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16601t/

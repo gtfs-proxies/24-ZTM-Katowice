@@ -1,4 +1,4 @@
-fare_id,price,currency_type,payment_method,transfers,transfer_duration,agency_id
+﻿fare_id,price,currency_type,payment_method,transfers,transfer_duration,agency_id
 120minutE,6.60,PLN,0,,7200,1
 120minutGrupowyE,12.80,PLN,0,,7200,1
 120minutGrupowyPap,13.80,PLN,1,,7200,1

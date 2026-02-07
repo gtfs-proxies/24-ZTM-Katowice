@@ -1,4 +1,4 @@
-stop_vehicle_type_id,stop_vehicle_name
-1,"autobus"
-2,"tramwaj"
-3,"trolejbus"
+﻿stop_vehicle_type_id,stop_vehicle_name
+1,autobus
+2,tramwaj
+3,trolejbus
