@@ -90,6 +90,7 @@ jobs:
           commit_message: Add new feeds (${{ steps.date.outputs.DATE }})
           file_pattern: "feed/"
           branch: main
+          pull: '--rebase --autostash'
 
       - name: Tag release
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
