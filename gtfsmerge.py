@@ -36,6 +36,7 @@ DROP_COLUMNS: dict[str, set[str]] = {
 }
 VIRTUAL_STOP_CODE_PREFIX = "GR"
 VIRTUAL_STOP_NAME_PREFIX = "granica"
+TECH_STOP_NAME_MARKER = "[tech]"
 
 
 def main():
@@ -68,16 +69,28 @@ def main():
                             continue
                         stop_code = (row.get("stop_code") or "").strip()
                         stop_name = (row.get("stop_name") or "").strip().lower()
+                        stop_id = (row.get("stop_id") or "").strip()
+                        
+                        # Drop virtual border stops
                         if stop_code.startswith(VIRTUAL_STOP_CODE_PREFIX) and stop_name.startswith(
                             VIRTUAL_STOP_NAME_PREFIX
                         ):
-                            stop_id = (row.get("stop_id") or "").strip()
                             if stop_id:
                                 drop_stop_ids.add(stop_id)
                                 logging.info(
                                     "Marking virtual stop for removal: %s (%s)",
                                     stop_id,
                                     stop_code,
+                                )
+                        
+                        # Drop technical stops
+                        elif TECH_STOP_NAME_MARKER in stop_name:
+                            if stop_id:
+                                drop_stop_ids.add(stop_id)
+                                logging.info(
+                                    "Marking technical stop for removal: %s (%s)",
+                                    stop_id,
+                                    stop_name,
                                 )
             except KeyError:
                 continue
