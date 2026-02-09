@@ -69,6 +69,7 @@ Bieruń Hager,2414011-03006,8880,50.094936,19.10787,https://rj.transportgzm.pl/v
 Bieruń KWK Piast,2414011-01707,6700,50.07932,19.163143,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-01707/
 Bieruń KWK Piast,2414011-01708,6713,50.079197,19.162554,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-01708/
 Bieruń Kościół,2414011-01612,6714,50.073425,19.180828,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-01612/
+Bieruń Kościół,2414011-01631,11130,50.074093,19.180674,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-01631/
 Bieruń Krupnicza,2414011-00303,6852,50.06314,19.148348,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-00303/
 Bieruń Królowej Jadwigi,2414011-04431,10154,50.07424,19.17387,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-04431/
 Bieruń Królowej Jadwigi,2414011-04432,10153,50.073826,19.173426,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-04432/
