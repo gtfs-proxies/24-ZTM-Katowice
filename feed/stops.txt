@@ -1079,6 +1079,12 @@ Ciochowice Leśniczówka,2405075-02901,5927,50.43066,18.54203,https://rj.transpo
 Ciochowice Leśniczówka,2405075-02902,5928,50.43081,18.541569,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02902/
 Cisowiec Centrum Handlowe,2414021-04301,10404,50.136944,19.193806,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-04301/
 Cisowiec Centrum Handlowe,2414021-04302,10403,50.137012,19.193453,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-04302/
+Cisowiec Grzybowa,2414021-05001,10874,50.130962,19.1943,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05001/
+Cisowiec Grzybowa,2414021-05002,10873,50.13112,19.193968,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05002/
+Cisowiec Karolinki,2414021-05201,10879,50.135025,19.188078,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05201/
+Cisowiec Karolinki,2414021-05202,10878,50.13505,19.188185,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05202/
+Cisowiec Kordeckiego,2414021-05101,10877,50.13154,19.188454,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05101/
+Cisowiec Kordeckiego,2414021-05102,10875,50.132008,19.188055,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05102/
 Cisowiec Lawendowa,2414021-03501,10300,50.13696,19.189194,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03501/
 Cisowiec Lawendowa,2414021-03502,10299,50.137035,19.18915,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03502/
 Czarków,2405082-00101,5804,50.53322,18.644747,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405082-00101/
@@ -2064,6 +2070,8 @@ Imielin Dworzec PKP,2414021-00401,3516,50.143547,19.176218,https://rj.transportg
 Imielin Dworzec PKP,2414021-00402,3517,50.143406,19.17611,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-00402/
 Imielin Grabowa,2414021-00501,283,50.14482,19.164598,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-00501/
 Imielin Grabowa,2414021-00502,284,50.14466,19.16435,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-00502/
+Imielin Granice,2414021-05301,10890,50.16272,19.188625,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05301/
+Imielin Granice,2414021-05302,10889,50.16284,19.18843,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05302/
 Imielin Grzybowa,2414021-00601,633,50.130898,19.198828,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-00601/
 Imielin Grzybowa,2414021-00602,634,50.132496,19.198183,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-00602/
 Imielin Hallera,2414021-00701,1916,50.138607,19.194439,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-00701/
@@ -2076,10 +2084,18 @@ Imielin Leśna,2414021-00901,1169,50.145226,19.156605,https://rj.transportgzm.pl
 Imielin Leśna,2414021-00902,1170,50.14515,19.156906,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-00902/
 Imielin Maratońska,2414021-01001,1233,50.154156,19.228735,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-01001/
 Imielin Maratońska,2414021-01002,1234,50.153564,19.227673,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-01002/
+Imielin Marka,2414021-05601,11123,50.145107,19.200876,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05601/
+Imielin Marka,2414021-05602,11122,50.145164,19.200811,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05602/
+Imielin Na Sarganach,2414021-05401,10893,50.157753,19.191408,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05401/
+Imielin Na Sarganach,2414021-05402,10892,50.157726,19.191307,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05402/
 Imielin Ośrodek Zdrowia,2414021-01101,1912,50.14361,19.181978,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-01101/
 Imielin Ośrodek Zdrowia,2414021-01102,1913,50.143555,19.182215,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-01102/
+Imielin Rembowskiego,2414021-02701,10891,50.15354,19.189526,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-02701/
+Imielin Rembowskiego,2414021-02702,10894,50.15357,19.189407,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-02702/
 Imielin Rynek,2414021-01201,2608,50.147633,19.184408,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-01201/
 Imielin Rynek,2414021-01202,2609,50.147366,19.185234,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-01202/
+Imielin Rynek,2414021-01203,10895,50.14774,19.185621,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-01203/
+Imielin Rynek,2414021-01204,10896,50.147923,19.185488,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-01204/
 Imielin Sapety,2414021-03901,10334,50.14697,19.197058,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03901/
 Imielin Sapety,2414021-03902,10335,50.14689,19.197037,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03902/
 Imielin Satelicka,2414021-01301,3142,50.162304,19.185186,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-01301/
@@ -2100,8 +2116,11 @@ Imielin Wiadukt,2414021-01701,1773,50.157963,19.17751,https://rj.transportgzm.pl
 Imielin Wiadukt,2414021-01702,1774,50.156403,19.178303,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-01702/
 Imielin Wspólna,2414021-02101,10264,50.143497,19.198238,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-02101/
 Imielin Wspólna,2414021-02102,10263,50.143696,19.198248,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-02102/
+Imielin Zalew Pętla,2414021-04801,10868,50.128128,19.218065,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-04801/
 Jamnice Bartnicza,2414021-03701,10279,50.140987,19.201435,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03701/
 Jamnice Bartnicza,2414021-03702,10278,50.14105,19.201714,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03702/
+Jamnice Bursztynowa,2414021-04901,10870,50.131477,19.209782,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-04901/
+Jamnice Bursztynowa,2414021-04902,10869,50.13134,19.210672,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-04902/
 Jamnice Cicha nż,2414021-05501,11015,50.136307,19.199965,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05501/
 Jamnice Cicha nż,2414021-05502,11016,50.136234,19.199986,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05502/
 Jamnice Malczewskiego,2414021-03601,10277,50.137314,19.207958,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03601/
@@ -2110,6 +2129,8 @@ Jamnice Sikorskiego,2414021-04001,10338,50.14065,19.207775,https://rj.transportg
 Jamnice Sikorskiego,2414021-04002,10337,50.140713,19.208097,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-04002/
 Jamnice Skrzyżowanie,2414021-04101,10339,50.1335,19.205393,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-04101/
 Jamnice Skrzyżowanie,2414021-04102,10340,50.13344,19.20547,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-04102/
+Jamnice Skrzyżowanie,2414021-04103,10872,50.132866,19.205276,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-04103/
+Jamnice Skrzyżowanie,2414021-04104,10871,50.133106,19.205126,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-04104/
 Jankowice Gospoda,2410055-00501,6830,50.002388,18.98719,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410055-00501/
 Jankowice Gospoda,2410055-00502,6831,50.001945,18.986267,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410055-00502/
 Jankowice Kolonia nż,2410055-00901,6828,49.99719,18.9738,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410055-00901/
