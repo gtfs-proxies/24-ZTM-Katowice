@@ -7250,6 +7250,8 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Żwaków Św. Elżbiety,2477011-22102,6215,50.104374,18.960659,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22102/
 Żwaków Żorska,2477011-22301,6248,50.103294,18.95966,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22301/
 Żwaków Żorska,2477011-22302,6218,50.10348,18.959564,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22302/
+Żychcice Alfred,2401031-01901,68,50.366524,19.028067,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401031-01901/
+Żychcice Alfred,2401031-01902,69,50.36655,19.027391,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401031-01902/
 Żychcice Cmentarz,2401031-03601,5313,50.371334,19.018913,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401031-03601/
 Żychcice Cmentarz,2401031-03602,5314,50.371334,19.018675,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401031-03602/
 Żychcice Piaski 117,2401031-02101,74,50.383183,19.021969,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401031-02101/
