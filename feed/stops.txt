@@ -157,6 +157,8 @@ Bobrek Bronowa,2475011-00101,214,50.25818,19.185066,https://rj.transportgzm.pl/v
 Bobrek Bronowa,2475011-00102,215,50.252495,19.178375,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-00102/
 Bobrek Bronowa nż,2475011-00201,5060,50.25818,19.185066,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-00201/
 Bobrek Bronowa nż,2475011-00202,5061,50.25795,19.184961,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-00202/
+Bobrek Bronowapod Lasem nż,2475011-00201,11154,50.25818,19.185066,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-00201/
+Bobrek Bronowapod Lasem nż,2475011-00202,11155,50.25795,19.184961,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-00202/
 Bobrek Huta Julia,2462011-00201,220,50.338318,18.8689,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-00201/
 Bobrek Innowacyjna,2475011-20602,5675,50.259655,19.192417,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-20602/
 Bobrek Innowacyjna,2475011-20603,6090,50.261395,19.193686,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-20603/
@@ -1059,6 +1061,8 @@ Chruszczobród Skrzyżowanie,2416055-00601,451,50.414753,19.325274,https://rj.tr
 Chruszczobród Skrzyżowanie,2416055-00602,452,50.414642,19.325478,https://rj.transportgzm.pl/v2/rozklady/przystanek/2416055-00602/
 Chruszczobród Stawowa,2416055-00701,449,50.420647,19.305714,https://rj.transportgzm.pl/v2/rozklady/przystanek/2416055-00701/
 Chruszczobród Stawowa,2416055-00702,450,50.420345,19.305737,https://rj.transportgzm.pl/v2/rozklady/przystanek/2416055-00702/
+Chudów Jaśminowa nż,2405032-03201,11164,50.2172,18.775154,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-03201/
+Chudów Jaśminowa nż,2405032-03202,11163,50.217556,18.775036,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-03202/
 Chudów Kościół,2405032-00201,4828,50.211716,18.778639,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-00201/
 Chudów Kościół,2405032-00202,4829,50.21207,18.778988,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-00202/
 Chudów Szyb nż,2405032-00301,4832,50.20347,18.768084,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-00301/
@@ -1167,6 +1171,7 @@ Czeladź Urząd Miasta,2401021-02001,3636,50.316303,19.070467,https://rj.transpo
 Czeladź Urząd Miasta,2401021-02002,3637,50.315792,19.0705,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-02002/
 Czeladź Wojkowicka Pętla,2401021-02201,2173,50.333458,19.070984,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-02201/
 Czeladź Wojkowicka Pętla,2401021-02202,2174,50.333633,19.07051,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-02202/
+Czeladź Wojkowicka Pętla,2401021-02203,11142,50.334064,19.07034,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-02203/
 Czeladź Wylewy nż,2401021-01401,2376,50.3199,19.055244,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-01401/
 Czeladź Wylewy nż,2401021-01402,2377,50.319714,19.056713,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-01402/
 Czeladź Zespół Szkół,2401021-02301,1051,50.321655,19.078075,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-02301/
@@ -1729,7 +1734,9 @@ Gostyń Centrum - Rybnicka,2408052-03804,11008,50.103428,18.882145,https://rj.tr
 Gostyń Drzymały,2408052-01501,11044,50.109447,18.842136,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01501/
 Gostyń Drzymały,2408052-01502,11037,50.10932,18.842562,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01502/
 Gostyń Gajówka nż,2410022-00901,11105,50.090805,18.889883,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00901/
+Gostyń Gajówka nż,2410022-00901,11124,50.090805,18.889883,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00901/
 Gostyń Gajówka nż,2410022-00902,11106,50.09062,18.890036,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00902/
+Gostyń Gajówka nż,2410022-00902,11125,50.09062,18.890036,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00902/
 Gostyń Klonowa,2408052-03602,10062,50.11081,18.835817,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-03602/
 Gostyń Kuźnia,2408052-01101,11033,50.09783,18.883753,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01101/
 Gostyń Kuźnia,2408052-01102,11032,50.09728,18.884087,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408052-01102/
@@ -1949,6 +1956,10 @@ Guido Park Pileckiego,2478011-11501t,4725,50.287273,18.79329,https://rj.transpor
 Guido Park Pileckiego,2478011-11502t,4726,50.28704,18.79317,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-11502t/
 Guido Przychodnia,2478011-19901,8657,50.2894,18.783546,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-19901/
 Guido Szkoła,2478011-20101,8393,50.285713,18.789972,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-20101/
+Góra Piasku,2468011-00301,11139,50.23935,19.2768,https://rj.transportgzm.pl/v2/rozklady/przystanek/2468011-00301/
+Góra Piasku,2468011-00302,11140,50.239204,19.276854,https://rj.transportgzm.pl/v2/rozklady/przystanek/2468011-00302/
+Góra Piasku Batorego Szkoła,2468011-02301,11167,50.24241,19.274714,https://rj.transportgzm.pl/v2/rozklady/przystanek/2468011-02301/
+Góra Piasku Batorego Szkoła,2468011-02302,11168,50.242138,19.274801,https://rj.transportgzm.pl/v2/rozklady/przystanek/2468011-02302/
 Góra Siewierska Droga 913,2401062-09401,4814,50.397305,19.063902,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-09401/
 Góra Siewierska Droga do Twardowic nż,2401062-05701,5343,50.40612,19.085934,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-05701/
 Góra Siewierska Droga do Twardowic nż,2401062-05702,5344,50.40626,19.086105,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-05702/
@@ -4500,8 +4511,10 @@ Przyszówka Skrzyżowanie nż,2466011-12402,2454,50.33754,18.654158,https://rj.t
 Przyszówka Zygmuntowska nż,2466011-12501,2436,50.331116,18.6427,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-12501/
 Przyszówka Zygmuntowska nż,2466011-12502,2437,50.331387,18.64244,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-12502/
 Psary Centrum Przesiadkowe,2401062-07101,11001,50.38203,19.135004,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07101/
+Psary Centrum Przesiadkowe,2401062-07101,11117,50.38203,19.135004,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07101/
 Psary Centrum Przesiadkowe,2401062-07102,11002,50.38201,19.135174,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07102/
 Psary Centrum Przesiadkowe,2401062-07103,11005,50.38182,19.13526,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07103/
+Psary Centrum Przesiadkowe,2401062-07103,11120,50.38182,19.13526,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07103/
 Psary Centrum Przesiadkowe,2401062-07104,11006,50.38201,19.135174,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07104/
 Psary Cmentarz nż,2401062-03501,2457,50.373577,19.078016,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-03501/
 Psary Cmentarz nż,2401062-03502,2458,50.3732,19.07768,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-03502/
@@ -5072,6 +5085,8 @@ Sosnowiec Kosów,2475011-20901,5378,50.27556,19.163486,https://rj.transportgzm.p
 Sosnowiec Kosów,2475011-20902,5377,50.275333,19.165022,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-20902/
 Sosnowiec Kościelna,2475011-12801,1315,50.272285,19.128855,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12801/
 Sosnowiec Kościelna,2475011-12802,1316,50.271687,19.128489,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12802/
+Sosnowiec Kościelna/Mediateka,2475011-12801,11148,50.272285,19.128855,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12801/
+Sosnowiec Kościelna/Mediateka,2475011-12802,11149,50.271687,19.128489,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12802/
 Sosnowiec Małachowskiego,2475011-12901t,4347,50.27572,19.132732,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12901t/
 Sosnowiec Osiedle Piastów,2475011-13001,2062,50.27971,19.11218,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13001/
 Sosnowiec Osiedle Piastów,2475011-13001t,2063,50.27966,19.111935,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13001t/
@@ -5460,6 +5475,8 @@ Szczakowa Lokomotywownia nż,2468011-00401,4104,50.252213,19.27438,https://rj.tr
 Szczakowa Lokomotywownia nż,2468011-00402,4105,50.252846,19.273779,https://rj.transportgzm.pl/v2/rozklady/przystanek/2468011-00402/
 Szczakowa Osiedle Gagarina,2468011-00501,2924,50.240543,19.289213,https://rj.transportgzm.pl/v2/rozklady/przystanek/2468011-00501/
 Szczakowa Osiedle Gagarina,2468011-00502,2925,50.240417,19.289299,https://rj.transportgzm.pl/v2/rozklady/przystanek/2468011-00502/
+Szczakowa Polna,2468011-02201,11144,50.24079,19.286228,https://rj.transportgzm.pl/v2/rozklady/przystanek/2468011-02201/
+Szczakowa Polna,2468011-02202,11143,50.24076,19.284624,https://rj.transportgzm.pl/v2/rozklady/przystanek/2468011-02202/
 Szczakowa Przychodnia,2468011-00701,4102,50.243553,19.294266,https://rj.transportgzm.pl/v2/rozklady/przystanek/2468011-00701/
 Szczakowa Przychodnia,2468011-00702,4103,50.243637,19.294432,https://rj.transportgzm.pl/v2/rozklady/przystanek/2468011-00702/
 Szczygłowice Centrum Przesiadkowe,2405011-03301,7922,50.18865,18.62184,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405011-03301/
@@ -6572,6 +6589,10 @@ Zagórze Kopalnia,2475011-16202,3401,50.292614,19.20338,https://rj.transportgzm.
 Zagórze Kopalnia,2475011-16203,3402,50.29237,19.203693,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16203/
 Zagórze Kosynierów,2475011-16301,3403,50.3029,19.198355,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16301/
 Zagórze Kosynierów,2475011-16302,3404,50.303993,19.196913,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16302/
+Zagórze Kosynierów Osiedle,2475011-16301,11150,50.3029,19.198355,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16301/
+Zagórze Kosynierów Osiedle,2475011-16302,11151,50.303993,19.196913,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16302/
+Zagórze Kosynierów nż,2475011-16401,11152,50.297783,19.199875,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16401/
+Zagórze Kosynierów nż,2475011-16402,11153,50.297646,19.200281,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16402/
 Zagórze Kosynierów nż,2475011-16401,10323,50.297783,19.199875,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16401/
 Zagórze Kosynierów nż,2475011-16402,10324,50.297646,19.200281,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16402/
 Zagórze Lenartowicza,2475011-16501,3405,50.29402,19.193308,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-16501/
