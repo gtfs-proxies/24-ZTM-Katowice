@@ -950,6 +950,7 @@ Chorzów Racławicka,2463011-05101t,4540,50.28098,18.946365,https://rj.transport
 Chorzów Racławicka,2463011-05102t,4541,50.28104,18.946907,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05102t/
 Chorzów Racławicka OPS,2463011-11101,7973,50.280468,18.947847,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-11101/
 Chorzów Racławicka OPS,2463011-11102,5596,50.28023,18.949327,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-11102/
+Chorzów Rynek,2463011-00101,3610,50.29823,18.954865,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-00101/
 Chorzów Rynek,2463011-00101t,5419,50.298096,18.954725,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-00101t/
 Chorzów Rynek,2463011-00102,5293,50.297974,18.954994,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-00102/
 Chorzów Rynek,2463011-00103,5417,50.297947,18.954767,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-00103/
@@ -4124,6 +4125,8 @@ Park Śląski Ogród Zoologiczny,2469011-26302,4518,50.27706,18.983553,https://r
 Park Śląski Ogród Zoologiczny,2469011-26302t,4519,50.276432,18.985592,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-26302t/
 Park Śląski Wejście Główne,2469011-26401t,4514,50.28194,18.976612,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-26401t/
 Park Śląski Wejście Główne,2469011-26402t,4515,50.28083,18.97834,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-26402t/
+Park Śląski Wejście Główne,2469011-26431,8136,50.281025,18.977901,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-26431/
+Park Śląski Wejście Główne,2469011-26432,8137,50.280933,18.977686,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-26432/
 Park Śląski Wesołe Miasteczko,2469011-26501t,4520,50.27255,18.991514,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-26501t/
 Park Śląski Wesołe Miasteczko,2469011-26502t,4521,50.27235,18.991621,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-26502t/
 Pasieczki Maratońska 11 nż,2414021-04601,10831,50.157833,19.214212,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-04601/
