@@ -613,6 +613,7 @@ Bytom Piłkarska nż,2462011-03301t,4626,50.358704,18.903238,https://rj.transpor
 Bytom Piłkarska nż,2462011-03302t,4627,50.358723,18.903173,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-03302t/
 Bytom Piłsudskiego,2462011-03401,2280,50.34868,18.929798,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-03401/
 Bytom Plac Akademicki nż,2462011-03501,2282,50.351616,18.926626,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-03501/
+Bytom Plac Kruczkowskiego,2462011-00701t,11223,50.347427,18.91548,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-00701t/
 Bytom Plac Rodła,2462011-03601,7307,50.355976,18.911682,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-03601/
 Bytom Plac Sikorskiego,2462011-03701,8953,50.34538,18.921644,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-03701/
 Bytom Plac Sikorskiego,2462011-03701t,7281,50.344856,18.92052,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-03701t/
@@ -645,12 +646,16 @@ Bytom Szpital nr 1,2462011-04901,432,50.352566,18.923752,https://rj.transportgzm
 Bytom Szpital nr 1,2462011-04902,433,50.352287,18.923525,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-04902/
 Bytom Szpital nr 2,2462011-14301,9040,50.347874,18.909838,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-14301/
 Bytom Sąd,2462011-04401t,4573,50.3474,18.917652,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-04401t/
+Bytom Teatr Rozbark,2462011-10201t,11191,50.34195,18.932158,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-10201t/
+Bytom Teatr Rozbark,2462011-10202t,11193,50.341988,18.93234,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-10202t/
 Bytom Teatr Tańca-Rozbark,2462011-10201,2562,50.341614,18.93213,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-10201/
 Bytom Teatr Tańca-Rozbark,2462011-10201t,2563,50.34195,18.932158,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-10201t/
 Bytom Teatr Tańca-Rozbark,2462011-10202,2564,50.341763,18.932356,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-10202/
 Bytom Teatr Tańca-Rozbark,2462011-10202t,2565,50.341988,18.93234,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-10202t/
 Bytom Urząd Miasta,2462011-05001t,4581,50.350845,18.912046,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-05001t/
 Bytom Urząd Miasta,2462011-05002t,4582,50.35076,18.9121,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-05002t/
+Bytom Urząd Miejski,2462011-05001t,11242,50.350845,18.912046,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-05001t/
+Bytom Urząd Miejski,2462011-05002t,11243,50.35076,18.9121,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-05002t/
 Bytom Urząd Pracy,2462011-14201t,6871,50.339333,18.918795,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-14201t/
 Bytom Urząd Pracy,2462011-14202t,6870,50.339375,18.91888,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-14202t/
 Bytom Wallisa,2462011-05101t,4622,50.350433,18.900051,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-05101t/
@@ -1413,6 +1418,7 @@ Dąbrowa Miejska Leśna,2462011-05902t,4629,50.37052,18.892788,https://rj.transp
 Dąbrowa Miejska Węglowa nż,2462011-13801t,6877,50.36665,18.895159,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-13801t/
 Dąbrowa Miejska Węglowa nż,2462011-13802t,6876,50.36641,18.895351,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-13802t/
 Dąbrowa Miejska nż,2462011-06001,507,50.37556,18.890583,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-06001/
+Dąbrowa Miejska nż,2462011-06001t,508,50.374207,18.890598,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-06001t/
 Dąbrówka,2405082-03301,5823,50.51132,18.481312,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405082-03301/
 Dąbrówka,2405082-03302,5824,50.51183,18.481012,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405082-03302/
 Dąbrówka Kościół,2405082-03201,5822,50.51534,18.474295,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405082-03201/
@@ -5309,6 +5315,8 @@ Stroszek Targowisko,2462011-11701t,4633,50.395515,18.879076,https://rj.transport
 Stroszek Targowisko,2462011-11702t,4632,50.395374,18.87906,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-11702t/
 Stroszek Tysiąclecia,2462011-11801,2793,50.395927,18.866476,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-11801/
 Stroszek Wojciechowskiego,2462011-11901,2794,50.395203,18.87479,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-11901/
+Stroszek Węzeł Przesiadkowy,2462011-11201t,11212,50.3844,18.883024,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-11201t/
+Stroszek Węzeł Przesiadkowy,2462011-11202t,11214,50.38438,18.88296,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-11202t/
 Stroszek Zajezdnia,2462011-12001,8970,50.39793,18.871534,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12001/
 Stroszek Zajezdnia,2462011-12001t,4635,50.39794,18.87162,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12001t/
 Stroszek Zajezdnia,2462011-12002,5591,50.397533,18.871511,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12002/
@@ -6928,6 +6936,8 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Łagiewniki Adamka,2462011-13701,5628,50.324417,18.933235,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-13701/
 Łagiewniki Boisko,2462011-07301,3028,50.328766,18.93235,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-07301/
 Łagiewniki Boisko,2462011-07302,3029,50.328938,18.932415,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-07302/
+Łagiewniki Chorzowska,2462011-07701t,11203,50.320736,18.945477,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-07701t/
+Łagiewniki Chorzowska,2462011-07702t,11205,50.32129,18.945316,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-07702t/
 Łagiewniki Cmentarz,2462011-14501t,4607,50.324898,18.943966,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-14501t/
 Łagiewniki Cmentarz,2462011-14502t,4608,50.32507,18.94402,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-14502t/
 Łagiewniki Cmentarz nż,2462011-14501,5663,50.324795,18.943493,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-14501/
