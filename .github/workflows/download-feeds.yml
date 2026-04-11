@@ -86,6 +86,17 @@ jobs:
         id: list-feeds
         run: ls /tmp/${{ env.FEED_NAME }}/original
 
+      - name: Clean old feed files (older than 7 days)
+        run: |
+          CUTOFF_DATE=$(date -d '7 days ago' +'%Y.%m.%d')
+          cd /tmp/${{ env.FEED_NAME }}/original
+          for file in schedule_ztm_*.zip; do
+            FILE_DATE=$(echo "$file" | grep -oP '\d{4}\.\d{2}\.\d{2}' | head -1)
+            if [[ "$FILE_DATE" < "$CUTOFF_DATE" ]]; then
+              rm -v "$file"
+            fi
+          done
+
       - name: Merge GTFS feeds incrementally
         id: merge-feeds
         run: bash merge-incremental.sh
