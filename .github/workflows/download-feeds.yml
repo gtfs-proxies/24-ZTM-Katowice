@@ -59,9 +59,8 @@ jobs:
         uses: actions/cache/restore@v5
         with:
           path: /tmp/${{ env.FEED_NAME }}/output.zip
-          key: master-${{ steps.version.outputs.VERSION }}-${{ github.run_number }}
+          key: master-${{ steps.version.outputs.VERSION }}
           restore-keys: |
-            master-${{ steps.version.outputs.VERSION }}-
             master-
 
       - name: Set up Go
