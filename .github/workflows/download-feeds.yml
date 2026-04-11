@@ -146,6 +146,7 @@ jobs:
           fi
           echo "START_DATE=${START_DATE}" >> $GITHUB_OUTPUT
           echo "END_DATE=${END_DATE}" >> $GITHUB_OUTPUT
+          echo "Feed date range: ${START_DATE} to ${END_DATE}"
 
       - name: Generate feed_info.txt
         run: |
