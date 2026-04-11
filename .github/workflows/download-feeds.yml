@@ -59,8 +59,9 @@ jobs:
         uses: actions/cache/restore@v5
         with:
           path: /tmp/${{ env.FEED_NAME }}/output.zip
-          key: master-${{ steps.version.outputs.VERSION }}
+          key: master-${{ steps.version.outputs.VERSION }}-${{ github.run_number }}
           restore-keys: |
+            master-${{ steps.version.outputs.VERSION }}-
             master-
 
       - name: Set up Go
@@ -75,13 +76,6 @@ jobs:
       - name: Download GTFS feeds
         run: bash download.sh
 
-      - name: Save feed
-        id: cache-feed-save
-        uses: actions/cache/save@v5
-        with:
-          path: /tmp/${{ env.FEED_NAME }}/original/
-          key: feed-${{ steps.version.outputs.VERSION }}-${{ github.run_number }}
-
       - name: List available input feeds
         id: list-feeds
         run: ls /tmp/${{ env.FEED_NAME }}/original
@@ -90,12 +84,20 @@ jobs:
         run: |
           CUTOFF_DATE=$(date -d '7 days ago' +'%Y.%m.%d')
           cd /tmp/${{ env.FEED_NAME }}/original
+          shopt -s nullglob
           for file in schedule_ztm_*.zip; do
             FILE_DATE=$(echo "$file" | grep -oP '\d{4}\.\d{2}\.\d{2}' | head -1)
             if [[ "$FILE_DATE" < "$CUTOFF_DATE" ]]; then
               rm -v "$file"
             fi
           done
+
+      - name: Save feed
+        id: cache-feed-save
+        uses: actions/cache/save@v5
+        with:
+          path: /tmp/${{ env.FEED_NAME }}/original/
+          key: feed-${{ steps.version.outputs.VERSION }}-${{ github.run_number }}
 
       - name: Merge GTFS feeds incrementally
         id: merge-feeds
@@ -129,6 +131,9 @@ jobs:
 
       - name: Round shape distances
         run: python3 round-shapes.py
+
+      - name: Prune old services (keep last 7 days)
+        run: python3 prune-old-services.py
 
       - name: Extract feed dates
         id: feed-dates
