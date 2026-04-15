@@ -3444,6 +3444,7 @@ Mikoszowina Ptasie Osiedle,2405021-03101,6995,50.39223,18.59802,https://rj.trans
 Mikołeska,2413082-01601,5788,50.536434,18.825485,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413082-01601/
 Mikołów Aqua Plant,2408021-01401,7183,50.166508,18.899977,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-01401/
 Mikołów Biskupa Bandurskiego,2408021-01301,11748,50.165222,18.900007,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-01301/
+Mikołów Biskupa Bandurskiego,2408021-01301,11753,50.165222,18.900007,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-01301/
 Mikołów Bpa Bandurskiego,2408021-01301,6454,50.165222,18.900007,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-01301/
 Mikołów Dworzec,2408021-00101,678,50.172253,18.899916,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-00101/
 Mikołów Dworzec,2408021-00102,6853,50.172253,18.900082,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-00102/
