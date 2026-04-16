@@ -2614,6 +2614,8 @@ Katowice Porcelanowa Zakłady,2469011-36902,11063,50.252052,19.053137,https://rj
 Katowice Powstańców Przychodnie,2469011-38301,11091,50.252167,19.023842,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-38301/
 Katowice Rondo,2469011-00601t,3695,50.264404,19.023632,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00601t/
 Katowice Rondo,2469011-00602t,3696,50.264366,19.02355,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00602t/
+Katowice Rondo,2469011-00631,8537,50.26507,19.024065,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00631/
+Katowice Rondo,2469011-00632,7347,50.265892,19.023773,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00632/
 Katowice Rynek,2469011-00401t,4441,50.260147,19.022297,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00401t/
 Katowice Rynek,2469011-00402t,4442,50.26007,19.022371,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00402t/
 Katowice Rynek Teatr Śląski,2469011-00301t,10604,50.259254,19.023064,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00301t/
@@ -2776,9 +2778,13 @@ Knurów Wolności nż,2405011-03801,8642,50.23355,18.679226,https://rj.transport
 Knurów Wolności nż,2405011-03802,8643,50.233376,18.678694,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405011-03802/
 Kobiór Centralna,2410022-00101,11029,50.06705,18.91598,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00101/
 Kobiór Centralna,2410022-00102,11030,50.06619,18.916925,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00102/
+Kobiór Centrum,2410022-00201,11789,50.060326,18.934658,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00201/
 Kobiór Centrum,2410022-00201,6726,50.060326,18.934658,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00201/
+Kobiór Centrum,2410022-00202,11790,50.05979,18.93404,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00202/
 Kobiór Centrum,2410022-00231,9791,50.05934,18.93448,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00231/
+Kobiór Leśniczówka,2410022-00401,11791,50.06457,18.933537,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00401/
 Kobiór Leśniczówka,2410022-00401,6728,50.06457,18.933537,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00401/
+Kobiór Leśniczówka,2410022-00402,11792,50.064278,18.933783,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00402/
 Kobiór Leśniczówka,2410022-00402,6729,50.064278,18.933783,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00402/
 Kobiór Promnicka,2410022-00601,10461,50.061527,18.95563,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00601/
 Kochłowice Cegielnia,2472011-05201,1339,50.249237,18.903843,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-05201/
@@ -7130,6 +7136,8 @@ Zawodzie Paderewskiego,2469011-28601t,4480,50.258003,19.040127,https://rj.transp
 Zawodzie Paderewskiego,2469011-28602t,4481,50.25803,19.039816,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28602t/
 Zawodzie Uniwersytet Ekonomiczny,2469011-28001t,5230,50.258358,19.046549,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28001t/
 Zawodzie Uniwersytet Ekonomiczny,2469011-28002t,5231,50.25849,19.046345,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28002t/
+Zawodzie Uniwersytet Ekonomiczny,2469011-28031,8124,50.258327,19.046103,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28031/
+Zawodzie Uniwersytet Ekonomiczny,2469011-28032,8123,50.25863,19.046474,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28032/
 Zawodzie Waleriana,2469011-28701,3475,50.25963,19.04717,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28701/
 Zawodzie Waleriana,2469011-28702,3476,50.259724,19.047653,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28702/
 Zawodzie Zajezdnia,2469011-28801,4466,50.259888,19.068296,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28801/
