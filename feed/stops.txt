@@ -4572,6 +4572,8 @@ Podbuczyny Cmentarz,2465011-09904,2318,50.409054,19.250004,https://rj.transportg
 Podbuczyny Cmentarz,2465011-09905,10830,50.41021,19.251318,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-09905/
 Podlesie Cmentarz,2469011-33301,7261,50.184628,18.96894,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-33301/
 Podlesie Cmentarz,2469011-33302,7260,50.184696,18.968447,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-33302/
+Podlesie Hortensji,2469011-42001,11755,50.180756,18.961462,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-42001/
+Podlesie Hortensji,2469011-42002,11756,50.18065,18.961302,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-42002/
 Podlesie Kaczeńców,2469011-33101,5486,50.190865,18.965586,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-33101/
 Podlesie Kaczeńców,2469011-33102,5481,50.190727,18.96582,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-33102/
 Podlesie Karasiowa,2469011-33601,9034,50.175407,18.952076,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-33601/
