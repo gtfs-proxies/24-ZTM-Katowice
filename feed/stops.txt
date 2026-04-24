@@ -6026,6 +6026,7 @@ Tarnowskie Góry Dworzec,2413041-00101,3599,50.44838,18.864443,https://rj.transp
 Tarnowskie Góry Dworzec,2413041-00102,3598,50.448246,18.864346,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-00102/
 Tarnowskie Góry Dworzec,2413041-00103,5869,50.448013,18.864195,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-00103/
 Tarnowskie Góry Dworzec,2413041-00104,5870,50.447826,18.864077,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-00104/
+Tarnowskie Góry Dworzec,2413041-00106,11819,50.447506,18.863262,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-00106/
 Tarnowskie Góry Dworzec,2413041-00106,5872,50.447605,18.86367,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-00106/
 Tarnowskie Góry Dworzec,2413041-00107,7454,50.447506,18.863262,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-00107/
 Tarnowskie Góry Gliwicka,2413041-07501,754,50.441673,18.850967,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-07501/
