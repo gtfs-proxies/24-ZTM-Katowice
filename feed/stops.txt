@@ -140,6 +140,7 @@ Biskupice Pętla,2478011-01101t,11505,50.329845,18.840506,https://rj.transportgz
 Biskupice Pętla,2478011-01101t,4676,50.329845,18.840506,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-01101t/
 Biskupice Pętla,2478011-01102t,11506,50.329906,18.840355,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-01102t/
 Biskupice Pętla,2478011-01102t,4678,50.329906,18.840355,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-01102t/
+Biskupice Pętla,2478011-01103t,11507,50.329945,18.8401,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-01103t/
 Biskupice Pętla,2478011-01103t,4679,50.329945,18.8401,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-01103t/
 Biskupice Pętla,2478011-01104t,11508,50.329994,18.840689,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-01104t/
 Biskupice Pętla,2478011-01104t,4680,50.329994,18.840689,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-01104t/
@@ -3222,6 +3223,7 @@ Ligota Zabrska Panewnicka nż,2466011-06201,7184,50.28283,18.69204,https://rj.tr
 Ligota Zabrska Panewnicka nż,2466011-06202,7182,50.28372,18.6894,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-06202/
 Ligota Zadole,2469011-15401,1600,50.219536,18.974312,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-15401/
 Ligota Śląska Pętla,2469011-15201,4887,50.211685,18.9573,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-15201/
+Ligota Śląska Techniczny,2469011-15531,11832,50.212193,18.957424,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-15531/
 Lipiny Bukowego,2476011-00601,1603,50.308502,18.904472,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-00601/
 Lipiny Bukowego,2476011-00601t,11560,50.308853,18.903988,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-00601t/
 Lipiny Bukowego,2476011-00601t,1604,50.308853,18.903988,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-00601t/
