@@ -2619,6 +2619,7 @@ Katowice Rondo,2469011-00631,8537,50.26507,19.024065,https://rj.transportgzm.pl/
 Katowice Rondo,2469011-00632,7347,50.265892,19.023773,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00632/
 Katowice Rynek,2469011-00401t,4441,50.260147,19.022297,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00401t/
 Katowice Rynek,2469011-00402t,4442,50.26007,19.022371,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00402t/
+Katowice Rynek,2469011-00432,8557,50.26102,19.021626,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00432/
 Katowice Rynek Teatr Śląski,2469011-00301t,10604,50.259254,19.023064,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00301t/
 Katowice Rynek Teatr Śląski,2469011-00302t,10605,50.259388,19.0231,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00302t/
 Katowice Skłodowskiej Dworzec,2469011-40701,9739,50.255962,19.01544,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-40701/
@@ -2969,6 +2970,7 @@ Kosztowy Szkoła,2470011-10601,6084,50.183685,19.161854,https://rj.transportgzm.
 Kosztowy Wita Stwosza,2470011-12201,4854,50.186527,19.145956,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12201/
 Kosztowy Wita Stwosza,2470011-12202,4855,50.186577,19.14602,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12202/
 Koszutka GIG,2469011-12801,1469,50.271034,19.024849,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-12801/
+Koszutka GIG,2469011-12832,8558,50.269684,19.02411,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-12832/
 Koszutka Iłłakowiczówny,2469011-13401,3693,50.274715,19.0222,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13401/
 Koszutka Iłłakowiczówny,2469011-13402,3694,50.274902,19.022121,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13402/
 Koszutka Jesionowa,2469011-29201t,6863,50.274002,19.024164,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29201t/
@@ -2986,6 +2988,7 @@ Koszutka Słoneczna,2469011-13501,3247,50.27405,19.02386,https://rj.transportgzm
 Koszutka Słoneczna,2469011-13501t,3248,50.27307,19.024618,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13501t/
 Koszutka Słoneczna,2469011-13502t,3249,50.27306,19.024923,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13502t/
 Koszutka Słoneczna Pętla,2469011-13601t,5042,50.273827,19.02444,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13601t/
+Koszutka Słoneczna Pętla,2469011-13631,8061,50.273956,19.024395,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13631/
 Kotliszowice,2405075-02801,5953,50.474384,18.546059,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02801/
 Kotliszowice,2405075-02802,5954,50.47412,18.54573,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02802/
 Kotliszowice Wiejska,2405075-04201,5952,50.47113,18.551493,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-04201/
