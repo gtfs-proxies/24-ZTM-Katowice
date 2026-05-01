@@ -2452,6 +2452,8 @@ Józefowiec Liceum,2469011-06701,10543,50.278973,19.015987,https://rj.transportg
 Józefowiec Liceum,2469011-06702,10544,50.279198,19.01578,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06702/
 Józefowiec Osiedle,2469011-06501,3244,50.281258,19.010237,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06501/
 Józefowiec Osiedle,2469011-06502,3245,50.281128,19.009678,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06502/
+Józefowiec Szczecińska nż,2469011-42101,11842,50.2795,19.014141,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-42101/
+Józefowiec Szczecińska nż,2469011-42102,11843,50.279552,19.014076,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-42102/
 Józefowiec Szpital,2469011-06801,3250,50.28409,19.013733,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06801/
 Józefowiec Szpital,2469011-06802,3251,50.28486,19.013063,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06802/
 Józefowiec Ściegiennego,2469011-06901,3225,50.277336,19.008583,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06901/
@@ -4743,6 +4745,9 @@ Preczów Brzeźna nż,2401062-05801,5400,50.36492,19.183496,https://rj.transport
 Preczów Brzeźna nż,2401062-05802,5399,50.365044,19.183165,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-05802/
 Preczów Droga do Zalewu,2401062-01901,789,50.38335,19.18074,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-01901/
 Preczów Droga do Zalewu,2401062-01902,790,50.38316,19.180868,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-01902/
+Preczów Droga do Zalewu,2401062-01933,11763,50.383224,19.182333,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-01933/
+Preczów Droga do Zalewu,2401062-01934,11762,50.383106,19.18233,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-01934/
+Preczów Droga do Zalewu,2401062-01935,11846,50.3826,19.183443,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-01935/
 Preczów Dębowa nż,2401062-03201,2415,50.36135,19.183153,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-03201/
 Preczów Dębowa nż,2401062-03202,2416,50.361122,19.18289,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-03202/
 Preczów Ośrodek Opiekuńczy nż,2401062-05601,5401,50.378483,19.180895,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-05601/
@@ -4847,6 +4852,7 @@ Psary Centrum Przesiadkowe,2401062-07102,11002,50.38201,19.135174,https://rj.tra
 Psary Centrum Przesiadkowe,2401062-07102,11118,50.38201,19.135174,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07102/
 Psary Centrum Przesiadkowe,2401062-07103,11005,50.38182,19.13526,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07103/
 Psary Centrum Przesiadkowe,2401062-07103,11120,50.38182,19.13526,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07103/
+Psary Centrum Przesiadkowe,2401062-07103,11833,50.38182,19.13526,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07103/
 Psary Centrum Przesiadkowe,2401062-07104,11006,50.38201,19.135174,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07104/
 Psary Centrum Przesiadkowe,2401062-07104,11121,50.38201,19.135174,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07104/
 Psary Cmentarz nż,2401062-03501,2457,50.373577,19.078016,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-03501/
