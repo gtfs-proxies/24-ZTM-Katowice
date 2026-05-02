@@ -4855,6 +4855,7 @@ Psary Centrum Przesiadkowe,2401062-07103,11120,50.38182,19.13526,https://rj.tran
 Psary Centrum Przesiadkowe,2401062-07103,11833,50.38182,19.13526,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07103/
 Psary Centrum Przesiadkowe,2401062-07104,11006,50.38201,19.135174,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07104/
 Psary Centrum Przesiadkowe,2401062-07104,11121,50.38201,19.135174,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07104/
+Psary Centrum Przesiadkowe,2401062-07104,11834,50.38201,19.135174,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-07104/
 Psary Cmentarz nż,2401062-03501,2457,50.373577,19.078016,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-03501/
 Psary Cmentarz nż,2401062-03502,2458,50.3732,19.07768,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-03502/
 Psary Graniczna nż,2401062-03601,2459,50.375526,19.081385,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-03601/
