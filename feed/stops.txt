@@ -380,6 +380,8 @@ Brynów Centrum Przesiadkowe,2469011-10503t,8777,50.22644,18.995281,https://rj.t
 Brynów Centrum Przesiadkowe,2469011-10504t,8778,50.226357,18.995304,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-10504t/
 Brynów Centrum Przesiadkowe,2469011-10505,8120,50.226727,18.99514,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-10505/
 Brynów Centrum Przesiadkowe,2469011-10505t,8106,50.226444,18.995323,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-10505t/
+Brynów Centrum Przesiadkowe,2469011-10531,8744,50.225876,18.994879,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-10531/
+Brynów Centrum Przesiadkowe,2469011-10532,8745,50.226135,18.995207,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-10532/
 Brynów Drozdów,2469011-09401t,5171,50.23481,19.000086,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09401t/
 Brynów Drozdów,2469011-09402t,5172,50.234787,19.0002,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09402t/
 Brynów Dworska,2469011-09501,4554,50.232788,18.99556,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09501/
