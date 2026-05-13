@@ -1240,6 +1240,7 @@ Cielmice Nowe Łąki,2477011-00301,6338,50.095776,19.021158,https://rj.transport
 Cielmice Nowe Łąki,2477011-00302,8697,50.095978,19.021341,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-00302/
 Cielmice Nowe Łąki nż,2477011-00301,12157,50.095776,19.021158,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-00301/
 Cielmice Nowe Łąki nż,2477011-00302,12252,50.095978,19.021341,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-00302/
+Cielmice Pętla,2477011-00401,12152,50.08594,19.006342,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-00401/
 Cielmice Pętla,2477011-00401,6331,50.08594,19.006342,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-00401/
 Cielmice ks. Szojdy,2477011-00201,12151,50.08842,19.00855,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-00201/
 Cielmice ks. Szojdy,2477011-00201,6330,50.08842,19.00855,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-00201/
@@ -1384,12 +1385,15 @@ Czułów Katowicka,2477011-01402,12051,50.140625,18.99574,https://rj.transportgz
 Czułów Katowicka,2477011-01402,473,50.140625,18.99574,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01402/
 Czułów Katowicka,2477011-01403,12052,50.14116,18.995752,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01403/
 Czułów Katowicka,2477011-01403,474,50.14116,18.995752,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01403/
+Czułów Kościół,2477011-01001,12257,50.142586,18.990677,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01001/
 Czułów Kościół,2477011-01001,8710,50.142586,18.990677,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01001/
+Czułów Kościół,2477011-01002,12085,50.1425,18.99027,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01002/
 Czułów Kościół,2477011-01002,6186,50.1425,18.99027,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01002/
 Czułów Leszczynowa,2477011-01601,12068,50.149857,19.003895,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01601/
 Czułów Leszczynowa,2477011-01601,6116,50.149857,19.003895,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01601/
 Czułów Leszczynowa,2477011-01602,12258,50.14954,19.003714,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01602/
 Czułów Leszczynowa,2477011-01602,8711,50.14954,19.003714,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01602/
+Czułów Narcyzów,2477011-00601,12091,50.14197,18.993017,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-00601/
 Czułów Narcyzów,2477011-00601,6195,50.14197,18.993017,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-00601/
 Czułów Osiedle,2477011-00801,12064,50.155945,19.008177,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-00801/
 Czułów Osiedle,2477011-00801,5090,50.155945,19.008177,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-00801/
@@ -1399,7 +1403,9 @@ Czułów Szkoła,2477011-01301,12058,50.146385,18.99969,https://rj.transportgzm.
 Czułów Szkoła,2477011-01301,480,50.146385,18.99969,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01301/
 Czułów Szkoła,2477011-01302,12057,50.14653,19.000227,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01302/
 Czułów Szkoła,2477011-01302,479,50.14653,19.000227,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01302/
+Czułów Zielona,2477011-01101,12090,50.140522,18.987984,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01101/
 Czułów Zielona,2477011-01101,6194,50.140522,18.987984,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01101/
+Czułów Zielona,2477011-01102,12086,50.14056,18.988155,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01102/
 Czułów Zielona,2477011-01102,6187,50.14056,18.988155,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-01102/
 Dańdówka Cmentarz,2475011-00401,575,50.269066,19.16912,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-00401/
 Dańdówka Cmentarz,2475011-00401t,11288,50.268997,19.168325,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-00401t/
@@ -4450,9 +4456,13 @@ Paniówki Skrzyżowanie,2405032-01503,4824,50.232006,18.78943,https://rj.transpo
 Paniówki Skrzyżowanie,2405032-01504,4825,50.232334,18.789562,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-01504/
 Paniówki Wiśniowa,2405032-01701,4826,50.225418,18.78817,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-01701/
 Paniówki Wiśniowa,2405032-01702,4827,50.225945,18.788643,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-01702/
+Paprocany Dymarek,2477011-04001,12276,50.096714,18.993198,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04001/
 Paprocany Dymarek,2477011-04001,6274,50.096714,18.993198,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04001/
+Paprocany Dymarek,2477011-04002,12278,50.096294,18.99321,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04002/
 Paprocany Dymarek,2477011-04002,6301,50.096294,18.99321,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04002/
+Paprocany Pętla,2477011-04101,12277,50.093254,18.994604,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04101/
 Paprocany Pętla,2477011-04101,6300,50.093254,18.994604,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04101/
+Paprocany Pętla,2477011-04102,12275,50.0934,18.99424,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04102/
 Paprocany Pętla,2477011-04102,6273,50.0934,18.99424,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04102/
 Park Zadole,2469011-15101,8019,50.218117,18.968973,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-15101/
 Park Zadole,2469011-15102,8020,50.21832,18.968868,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-15102/
@@ -5859,18 +5869,27 @@ Strzyżowice Skrzyżowanie,2401062-05405,2813,50.38702,19.082293,https://rj.tran
 Strzyżowice Stadion nż,2401062-06201,8411,50.390938,19.075178,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-06201/
 Strzyżowice Stadion nż,2401062-06202,8412,50.391586,19.074368,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401062-06202/
 Strąków Pętla,2413062-03001,4098,50.512764,19.12454,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-03001/
+Suble Chałupnicza,2477011-04501,12097,50.11752,18.964584,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04501/
 Suble Chałupnicza,2477011-04501,6203,50.11752,18.964584,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04501/
 Suble Chałupnicza,2477011-04502,12115,50.117508,18.963394,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04502/
 Suble Chałupnicza,2477011-04502,6222,50.117508,18.963394,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04502/
+Suble Działki,2477011-04601,12099,50.116,18.959059,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04601/
 Suble Działki,2477011-04601,6205,50.116,18.959059,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04601/
 Suble Działki,2477011-04602,12117,50.1154,18.958372,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04602/
 Suble Działki,2477011-04602,6224,50.1154,18.958372,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04602/
+Suble Kościół,2477011-04701,12113,50.12302,18.970818,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04701/
 Suble Kościół,2477011-04701,6220,50.12302,18.970818,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04701/
+Suble Kościół,2477011-04702,12251,50.122913,18.971333,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04702/
 Suble Kościół,2477011-04702,8696,50.122913,18.971333,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04702/
 Suble Nizinna,2477011-04201,6202,50.11859,18.968973,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04201/
 Suble Nizinna,2477011-04202,6221,50.119606,18.968243,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04202/
+Suble Nizinna nż,2477011-04201,12096,50.11859,18.968973,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04201/
+Suble Nizinna nż,2477011-04202,12114,50.119606,18.968243,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04202/
+Suble Park,2477011-04302,12095,50.12304,18.967236,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04302/
 Suble Park,2477011-04302,6201,50.12304,18.967236,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04302/
+Suble Zagrodowa,2477011-04401,12219,50.116985,18.96428,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04401/
 Suble Zagrodowa,2477011-04401,6848,50.116985,18.96428,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04401/
+Suble Zagrodowa,2477011-04402,12098,50.11689,18.964209,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04402/
 Suble Zagrodowa,2477011-04402,6204,50.11689,18.964209,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04402/
 Sucha Góra Blachówka,2462011-12101,2894,50.397797,18.861048,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12101/
 Sucha Góra Blachówka,2462011-12102,2895,50.397884,18.860897,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12102/
@@ -6082,6 +6101,7 @@ Tarnowskie Góry Dworzec,2413041-00101,3599,50.44838,18.864443,https://rj.transp
 Tarnowskie Góry Dworzec,2413041-00102,3598,50.448246,18.864346,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-00102/
 Tarnowskie Góry Dworzec,2413041-00103,5869,50.448013,18.864195,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-00103/
 Tarnowskie Góry Dworzec,2413041-00104,5870,50.447826,18.864077,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-00104/
+Tarnowskie Góry Dworzec,2413041-00105,11818,50.44761,18.863691,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-00105/
 Tarnowskie Góry Dworzec,2413041-00106,11819,50.447506,18.863262,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-00106/
 Tarnowskie Góry Dworzec,2413041-00106,5872,50.447605,18.86367,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-00106/
 Tarnowskie Góry Dworzec,2413041-00107,7454,50.447506,18.863262,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-00107/
@@ -6253,8 +6273,11 @@ Tworóg Zamek,2413082-00201,5758,50.532112,18.720224,https://rj.transportgzm.pl/
 Tworóg Zamek,2413082-00202,5765,50.532196,18.720118,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413082-00202/
 Tworóg nż,2413082-02701,9098,50.54035,18.708796,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413082-02701/
 Tworóg nż,2413082-02702,9099,50.54028,18.708645,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413082-02702/
+Tychy Armii Krajowej,2477011-13901,11916,50.097317,18.990377,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13901/
 Tychy Armii Krajowej,2477011-13901,6297,50.097317,18.990377,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13901/
+Tychy Armii Krajowej,2477011-13902,11906,50.09728,18.990463,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13902/
 Tychy Armii Krajowej,2477011-13902,6269,50.09728,18.990463,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13902/
+Tychy Barwna Cmentarz,2477011-13401,11935,50.08584,19.05269,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13401/
 Tychy Barwna Cmentarz,2477011-13401,6800,50.08584,19.05269,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13401/
 Tychy Begonii,2477011-14402,11853,50.124836,18.980925,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-14402/
 Tychy Begonii,2477011-14402,159,50.124836,18.980925,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-14402/
@@ -6268,7 +6291,9 @@ Tychy Bielska Wiadukt,2477011-14601,11956,50.115765,18.981913,https://rj.transpo
 Tychy Bielska Wiadukt,2477011-14601,8882,50.115765,18.981913,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-14601/
 Tychy Bielska Wiadukt,2477011-14602,11890,50.116104,18.98174,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-14602/
 Tychy Bielska Wiadukt,2477011-14602,6234,50.116104,18.98174,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-14602/
+Tychy Borowa Szkoła,2477011-16201,11886,50.112453,18.963007,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-16201/
 Tychy Borowa Szkoła,2477011-16201,6226,50.112453,18.963007,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-16201/
+Tychy Borowa Szkoła,2477011-16202,11884,50.114002,18.963898,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-16202/
 Tychy Borowa Szkoła,2477011-16202,6207,50.114002,18.963898,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-16202/
 Tychy Brama Słońca,2477011-06401,11900,50.108135,18.980711,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06401/
 Tychy Brama Słońca,2477011-06401,6253,50.108135,18.980711,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06401/
@@ -6284,17 +6309,23 @@ Tychy Carboautomatyka,2477011-09601,11871,50.129486,18.96618,https://rj.transpor
 Tychy Carboautomatyka,2477011-09601,6165,50.129486,18.96618,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09601/
 Tychy Centrum Handlowe,2477011-15101,11943,50.09528,19.009008,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15101/
 Tychy Centrum Handlowe,2477011-15101,7865,50.09528,19.009008,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15101/
+Tychy Centrum Handlowe,2477011-15102,11942,50.09533,19.008705,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15102/
 Tychy Centrum Handlowe,2477011-15102,7864,50.09533,19.008705,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15102/
 Tychy Chłodnicza,2477011-09801,11867,50.143368,18.960604,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09801/
 Tychy Chłodnicza,2477011-09801,6120,50.143368,18.960604,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09801/
+Tychy Chłodnicza,2477011-09802,11868,50.14309,18.961666,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09802/
 Tychy Chłodnicza,2477011-09802,6130,50.14309,18.961666,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09802/
 Tychy Cielmicka,2477011-06501,11922,50.09736,19.023872,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06501/
 Tychy Cielmicka,2477011-06501,6322,50.09736,19.023872,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06501/
 Tychy Cielmicka,2477011-06502,11925,50.09718,19.023432,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06502/
 Tychy Cielmicka,2477011-06502,6339,50.09718,19.023432,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06502/
+Tychy Cyganerii,2477011-06601,11895,50.117626,18.987223,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06601/
 Tychy Cyganerii,2477011-06601,6243,50.117626,18.987223,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06601/
+Tychy Cyganerii,2477011-06602,11892,50.11759,18.987019,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06602/
 Tychy Cyganerii,2477011-06602,6237,50.11759,18.987019,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06602/
+Tychy Czarnieckiego,2477011-05401,11888,50.120308,18.982084,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05401/
 Tychy Czarnieckiego,2477011-05401,6232,50.120308,18.982084,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05401/
+Tychy Czarnieckiego,2477011-05402,11896,50.12042,18.981655,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05402/
 Tychy Czarnieckiego,2477011-05402,6245,50.12042,18.981655,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05402/
 Tychy Cztery Pory Roku,2477011-08102,11899,50.104603,18.975668,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08102/
 Tychy Cztery Pory Roku,2477011-08102,6252,50.104603,18.975668,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08102/
@@ -6306,7 +6337,9 @@ Tychy Dmowskiego,2477011-10601,11860,50.110332,18.983467,https://rj.transportgzm
 Tychy Dmowskiego,2477011-10601,3472,50.110332,18.983467,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-10601/
 Tychy Dmowskiego,2477011-10602,11865,50.110546,18.983425,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-10602/
 Tychy Dmowskiego,2477011-10602,6112,50.110546,18.983425,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-10602/
+Tychy Dworzec PKP,2477011-04801,11874,50.136326,18.965153,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04801/
 Tychy Dworzec PKP,2477011-04801,6168,50.136326,18.965153,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04801/
+Tychy Dworzec PKP,2477011-04802,11875,50.1363,18.965261,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04802/
 Tychy Dworzec PKP,2477011-04802,6169,50.1363,18.965261,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04802/
 Tychy Dworzec PKP,2477011-04803,11876,50.136242,18.96539,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04803/
 Tychy Dworzec PKP,2477011-04803,6170,50.136242,18.96539,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04803/
@@ -6374,7 +6407,9 @@ Tychy Hotelowiec,2477011-09901,11941,50.124855,18.981945,https://rj.transportgzm
 Tychy Hotelowiec,2477011-09901,6856,50.124855,18.981945,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09901/
 Tychy Hotelowiec,2477011-09902,11880,50.125504,18.980453,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09902/
 Tychy Hotelowiec,2477011-09902,6174,50.125504,18.980453,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09902/
+Tychy Hutnicza,2477011-06001,11917,50.095085,18.9915,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06001/
 Tychy Hutnicza,2477011-06001,6299,50.095085,18.9915,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06001/
+Tychy Hutnicza,2477011-06002,11907,50.095146,18.991535,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06002/
 Tychy Hutnicza,2477011-06002,6271,50.095146,18.991535,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06002/
 Tychy Jana Pawła II,2477011-10801,11891,50.114777,18.983156,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-10801/
 Tychy Jana Pawła II,2477011-10801,6236,50.114777,18.983156,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-10801/
@@ -6392,6 +6427,8 @@ Tychy Kościuszki,2477011-07501,11882,50.12774,18.986332,https://rj.transportgzm
 Tychy Kościuszki,2477011-07501,6181,50.12774,18.986332,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07501/
 Tychy Kościuszki,2477011-07502,11881,50.12862,18.986567,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07502/
 Tychy Kościuszki,2477011-07502,6180,50.12862,18.986567,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07502/
+Tychy Kukułcza,2477011-05201,12084,50.13732,18.98437,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05201/
+Tychy Kukułcza,2477011-05202,12089,50.137894,18.984755,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05202/
 Tychy LEAR,2477011-08501,11921,50.10227,19.04253,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08501/
 Tychy LEAR,2477011-08501,6316,50.10227,19.04253,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08501/
 Tychy LEAR,2477011-08502,11957,50.101864,19.043737,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08502/
@@ -6400,17 +6437,23 @@ Tychy Lodowisko,2477011-07801,11904,50.10879,19.00102,https://rj.transportgzm.pl
 Tychy Lodowisko,2477011-07801,6258,50.10879,19.00102,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07801/
 Tychy Lodowisko,2477011-07802,11940,50.108406,19.000324,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07802/
 Tychy Lodowisko,2477011-07802,6855,50.108406,19.000324,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07802/
+Tychy Lokalna,2477011-24601,11837,50.09651,19.045599,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-24601/
+Tychy Lokalna,2477011-24602,11836,50.096348,19.045607,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-24602/
 Tychy Marii Konopnickiej,2477011-14901,11953,50.137047,18.968866,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-14901/
 Tychy Marii Konopnickiej,2477011-14901,8698,50.137047,18.968866,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-14901/
 Tychy Marii Konopnickiej,2477011-14902,11944,50.136593,18.969852,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-14902/
 Tychy Marii Konopnickiej,2477011-14902,7866,50.136593,18.969852,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-14902/
+Tychy Metalowa,2477011-12801,11926,50.10329,19.018497,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12801/
 Tychy Metalowa,2477011-12801,6344,50.10329,19.018497,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12801/
+Tychy Nad Jeziorem,2477011-06201,11908,50.09306,18.99336,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06201/
 Tychy Nad Jeziorem,2477011-06201,6272,50.09306,18.99336,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06201/
 Tychy Niepodległości,2477011-11601,11913,50.116085,18.992588,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11601/
 Tychy Niepodległości,2477011-11601,6287,50.116085,18.992588,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11601/
 Tychy Niepodległości,2477011-11602,11905,50.115807,18.99247,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11602/
 Tychy Niepodległości,2477011-11602,6261,50.115807,18.99247,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11602/
+Tychy Oczyszczalnia,2477011-08001,11936,50.09481,19.051874,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08001/
 Tychy Oczyszczalnia,2477011-08001,6801,50.09481,19.051874,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08001/
+Tychy Oczyszczalnia,2477011-08002,11937,50.09473,19.052011,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08002/
 Tychy Oczyszczalnia,2477011-08002,6806,50.09473,19.052011,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08002/
 "Tychy Osiedle ""K""",2477011-10401,1200,50.11093,18.974037,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-10401/
 "Tychy Osiedle ""K""",2477011-10402,6114,50.111145,18.974434,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-10402/
@@ -6437,6 +6480,7 @@ Tychy Osiedle Homera,2477011-15401,6388,50.099716,19.084404,https://rj.transport
 Tychy Osiedle K,2477011-10401,12059,50.11093,18.974037,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-10401/
 Tychy Osiedle K,2477011-10402,12066,50.111145,18.974434,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-10402/
 Tychy Osiedle L,2477011-15701,12122,50.107834,18.971601,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15701/
+Tychy Osiedle L,2477011-15702,12105,50.107216,18.971966,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15702/
 Tychy Osiedle M,2477011-05801,12240,50.113487,18.980507,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05801/
 Tychy Osiedle M,2477011-05802,12239,50.112453,18.979471,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05802/
 Tychy Osiedle O,2477011-14701,12140,50.10635,18.998617,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-14701/
@@ -6464,6 +6508,9 @@ Tychy Paprocańska,2477011-12102,6276,50.101,18.998993,https://rj.transportgzm.p
 Tychy Paproci,2477011-13801,8700,50.138733,19.036661,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13801/
 Tychy Paproci,2477011-13802,6370,50.13863,19.036907,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13802/
 Tychy Paproci Pętla,2477011-08201,6374,50.135937,19.028057,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08201/
+Tychy Paproci Pętla nż,2477011-08201,12001,50.135937,19.028057,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08201/
+Tychy Paproci nż,2477011-13801,12012,50.138733,19.036661,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13801/
+Tychy Paproci nż,2477011-13802,12000,50.13863,19.036907,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13802/
 Tychy Park Niedźwiadków,2477011-11001,11958,50.12172,18.98672,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11001/
 Tychy Park Niedźwiadków,2477011-11001,96,50.12172,18.98672,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11001/
 Tychy Park Niedźwiadków,2477011-11002,11960,50.121635,18.986364,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11002/
@@ -6474,13 +6521,20 @@ Tychy Piłsudskiego,2477011-12002,11972,50.10423,18.992899,https://rj.transportg
 Tychy Piłsudskiego,2477011-12002,6256,50.10423,18.992899,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12002/
 Tychy Plac Baczyńskiego,2477011-14302,11968,50.12541,18.98159,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-14302/
 Tychy Plac Baczyńskiego,2477011-14302,6179,50.12541,18.98159,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-14302/
+Tychy Plac Wolności,2477011-09001,11965,50.131454,18.979158,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09001/
 Tychy Plac Wolności,2477011-09001,6176,50.131454,18.979158,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09001/
+Tychy Plac Wolności,2477011-09002,11967,50.13166,18.979103,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09002/
 Tychy Plac Wolności,2477011-09002,6178,50.13166,18.979103,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09002/
+Tychy Powstańców,2477011-05301,8713,50.135708,18.983553,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05301/
 Tychy Powstańców,2477011-05301,9152,50.135708,18.983553,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05301/
+Tychy Powstańców,2477011-05302,6183,50.13501,18.983242,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05302/
 Tychy Powstańców,2477011-05302,9147,50.13501,18.983242,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05302/
+Tychy Przemysłowa Hurtownie,2477011-12701,11986,50.105267,19.019098,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12701/
 Tychy Przemysłowa Hurtownie,2477011-12701,6307,50.105267,19.019098,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12701/
+Tychy Przemysłowa I,2477011-12501,11996,50.104248,19.032917,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12501/
 Tychy Przemysłowa I,2477011-12501,6342,50.104683,19.032272,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12501/
 Tychy Przemysłowa I,2477011-12502,11987,50.105007,19.031597,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12502/
+Tychy Przemysłowa II,2477011-12601,11988,50.105705,19.02531,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12601/
 Tychy Przemysłowa II,2477011-12601,6311,50.10576,19.02782,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12601/
 Tychy Przemysłowa II,2477011-12602,11997,50.105637,19.027134,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12602/
 Tychy Pływalnia,2477011-11201,11970,50.12071,18.992405,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11201/
@@ -6491,17 +6545,25 @@ Tychy Radziejówka,2477011-09501,11962,50.13496,18.976591,https://rj.transportgz
 Tychy Radziejówka,2477011-09501,6154,50.13496,18.976591,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09501/
 Tychy Radziejówka,2477011-09502,11963,50.13518,18.976461,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09502/
 Tychy Radziejówka,2477011-09502,6162,50.13518,18.976461,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09502/
+Tychy Rondo Cassino,2477011-09201,11980,50.11261,18.987566,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09201/
 Tychy Rondo Cassino,2477011-09201,6290,50.11261,18.987566,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09201/
+Tychy Rondo Cassino,2477011-09202,11973,50.112072,18.987995,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09202/
 Tychy Rondo Cassino,2477011-09202,6264,50.112072,18.987995,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09202/
+Tychy Rybna,2477011-15801,11978,50.118362,19.01233,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15801/
 Tychy Rybna,2477011-15801,6280,50.118362,19.01233,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15801/
+Tychy Rybna,2477011-15802,11979,50.118397,19.01147,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15802/
 Tychy Rybna,2477011-15802,6282,50.118397,19.01147,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15802/
+Tychy Rybna 43 nż,2477011-15301,12009,50.11909,19.00885,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15301/
 Tychy Rybna 43 nż,2477011-15301,8135,50.11909,19.00885,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15301/
+Tychy Rybna 43 nż,2477011-15302,12008,50.119026,19.00893,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15302/
 Tychy Rybna 43 nż,2477011-15302,8134,50.119026,19.00893,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15302/
 Tychy Rynek,2477011-14101,11966,50.129635,18.981922,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-14101/
 Tychy Rynek,2477011-14101,6177,50.129635,18.981922,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-14101/
 Tychy Rynek,2477011-14102,11964,50.129406,18.981955,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-14102/
 Tychy Rynek,2477011-14102,6175,50.129406,18.981955,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-14102/
+Tychy Sadowa,2477011-13601,12006,50.128643,18.998186,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13601/
 Tychy Sadowa,2477011-13601,8102,50.128643,18.998186,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13601/
+Tychy Sadowa,2477011-13602,12007,50.128735,18.998049,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13602/
 Tychy Sadowa,2477011-13602,8103,50.128735,18.998049,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13602/
 Tychy Serdeczna,2477011-09101,11990,50.099197,19.045534,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09101/
 Tychy Serdeczna,2477011-09101,6317,50.099197,19.045534,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-09101/
@@ -6556,7 +6618,9 @@ Tychy Szpital Wojewódzki,2477011-11801,12022,50.11358,19.005102,https://rj.tran
 Tychy Szpital Wojewódzki,2477011-11801,6283,50.11358,19.005102,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11801/
 Tychy Szpital Wojewódzki,2477011-11802,12018,50.1133,19.004622,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11802/
 Tychy Szpital Wojewódzki,2477011-11802,6260,50.1133,19.004622,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11802/
+Tychy Słowicza,2477011-05101,6193,50.14024,18.985956,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05101/
 Tychy Słowicza,2477011-05101,9151,50.14024,18.985956,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05101/
+Tychy Słowicza,2477011-05102,6185,50.14019,18.986021,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05102/
 Tychy Słowicza,2477011-05102,9149,50.14019,18.986021,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05102/
 Tychy Targiela I,2477011-15001,12041,50.091984,19.004463,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15001/
 Tychy Targiela I,2477011-15001,7871,50.091984,19.004463,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15001/
@@ -6570,12 +6634,15 @@ Tychy Towarowa,2477011-08701,12025,50.100124,19.016855,https://rj.transportgzm.p
 Tychy Towarowa,2477011-08701,6305,50.100124,19.016855,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08701/
 Tychy Towarowa,2477011-08702,12039,50.099873,19.016813,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08702/
 Tychy Towarowa,2477011-08702,6352,50.099873,19.016813,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08702/
+Tychy Towarowa Rondo,2477011-07202,12027,50.10216,19.030954,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07202/
 Tychy Towarowa Rondo,2477011-07202,6309,50.10216,19.030954,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07202/
 Tychy Towarowa Skrzyżowanie,2477011-12401,12034,50.10157,19.026533,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12401/
 Tychy Towarowa Skrzyżowanie,2477011-12401,6341,50.101593,19.02473,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12401/
 Tychy Towarowa Skrzyżowanie,2477011-12402,12026,50.101364,19.026604,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12402/
 Tychy Towarowa Skrzyżowanie,2477011-12402,6308,50.101364,19.026604,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12402/
+Tychy Trzy Stawy,2477011-15501,12043,50.12208,18.996546,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15501/
 Tychy Trzy Stawy,2477011-15501,8104,50.12208,18.996546,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15501/
+Tychy Trzy Stawy,2477011-15502,12044,50.12316,18.996471,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15502/
 Tychy Trzy Stawy,2477011-15502,8105,50.12316,18.996471,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15502/
 Tychy Turyńska,2477011-08801,6396,50.109974,19.061413,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08801/
 Tychy Turyńska,2477011-08802,6425,50.109882,19.061531,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08802/
@@ -6591,9 +6658,13 @@ Tychy Urząd Miasta,2477011-11701,12132,50.11411,18.99659,https://rj.transportgz
 Tychy Urząd Miasta,2477011-11701,6262,50.11411,18.99659,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11701/
 Tychy Urząd Miasta,2477011-11702,12138,50.11391,18.996181,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11702/
 Tychy Urząd Miasta,2477011-11702,6288,50.113407,18.99734,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11702/
+Tychy Wejchertów,2477011-15901,12137,50.11742,19.006737,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15901/
 Tychy Wejchertów,2477011-15901,6281,50.11742,19.006737,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15901/
+Tychy Wejchertów,2477011-15902,12136,50.118416,19.00728,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15902/
 Tychy Wejchertów,2477011-15902,6279,50.118416,19.00728,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15902/
+Tychy Wieniawskiego,2477011-13701,12142,50.095318,18.988607,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13701/
 Tychy Wieniawskiego,2477011-13701,6298,50.095318,18.988607,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13701/
+Tychy Wieniawskiego,2477011-13702,12135,50.096016,18.988028,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13702/
 Tychy Wieniawskiego,2477011-13702,6270,50.096016,18.988028,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13702/
 Tychy Wyszyńskiego,2477011-11901,12139,50.109882,19.001867,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11901/
 Tychy Wyszyńskiego,2477011-11901,6289,50.109882,19.001867,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11901/
@@ -6601,7 +6672,9 @@ Tychy Wyszyńskiego,2477011-11902,12131,50.110165,19.001986,https://rj.transport
 Tychy Wyszyńskiego,2477011-11902,6259,50.110165,19.001986,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-11902/
 Tychy Zajezdnia,2477011-90201,12221,50.100697,19.019066,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-90201/
 Tychy Zajezdnia,2477011-90201,6857,50.100697,19.019066,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-90201/
+Tychy Śródmieście,2477011-05601,12020,50.10994,18.993338,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05601/
 Tychy Śródmieście,2477011-05601,6265,50.10994,18.993338,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05601/
+Tychy Śródmieście,2477011-05602,12024,50.110233,18.991858,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05602/
 Tychy Śródmieście,2477011-05602,6291,50.110233,18.991858,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05602/
 Tychy Żwakowska,2477011-10901,12124,50.11819,18.975925,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-10901/
 Tychy Żwakowska,2477011-10901,6235,50.11819,18.975925,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-10901/
@@ -6672,7 +6745,9 @@ Warpie Osiedle,2401011-09402,2105,50.319183,19.15096,https://rj.transportgzm.pl/
 Warpie Promyka nż,2401011-10401,6060,50.320408,19.144592,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-10401/
 Warpie Wilcza nż,2401011-09501,3200,50.319485,19.143688,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-09501/
 Warpie Wilcza nż,2401011-09502,3201,50.319614,19.143751,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-09502/
+Wartogłowiec Beskidzka,2477011-17901,12183,50.12744,19.024517,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17901/
 Wartogłowiec Beskidzka,2477011-17901,6380,50.12744,19.024517,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17901/
+Wartogłowiec Beskidzka,2477011-17902,12195,50.125954,19.023293,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17902/
 Wartogłowiec Beskidzka,2477011-17902,6401,50.125954,19.023293,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17902/
 Wartogłowiec Cmentarna,2477011-17301,12193,50.123455,19.015392,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17301/
 Wartogłowiec Cmentarna,2477011-17301,6399,50.123455,19.015392,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17301/
@@ -6680,7 +6755,9 @@ Wartogłowiec Cmentarna,2477011-17302,12179,50.123592,19.015207,https://rj.trans
 Wartogłowiec Cmentarna,2477011-17302,6376,50.123592,19.015207,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17302/
 Wartogłowiec Cmentarz,2477011-17601,12178,50.123775,19.014067,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17601/
 Wartogłowiec Cmentarz,2477011-17601,6375,50.123775,19.014067,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17601/
+Wartogłowiec Czarna Droga,2477011-17201,12260,50.128807,18.999529,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17201/
 Wartogłowiec Czarna Droga,2477011-17201,8716,50.128807,18.999529,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17201/
+Wartogłowiec Czarna Droga,2477011-17202,12185,50.12865,18.99941,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17202/
 Wartogłowiec Czarna Droga,2477011-17202,6382,50.12865,18.99941,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17202/
 Wartogłowiec Dzwonkowa I,2477011-18101,12235,50.13073,19.020569,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18101/
 Wartogłowiec Dzwonkowa I,2477011-18101,8234,50.13073,19.020569,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18101/
@@ -6690,7 +6767,9 @@ Wartogłowiec Dzwonkowa II,2477011-18001,12234,50.12894,19.020782,https://rj.tra
 Wartogłowiec Dzwonkowa II,2477011-18001,8233,50.12894,19.020782,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18001/
 Wartogłowiec Dzwonkowa II,2477011-18002,12233,50.1287,19.020546,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18002/
 Wartogłowiec Dzwonkowa II,2477011-18002,8232,50.1287,19.020546,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18002/
+Wartogłowiec Jaskrów,2477011-17501,12184,50.126007,19.007107,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17501/
 Wartogłowiec Jaskrów,2477011-17501,6381,50.126007,19.007107,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17501/
+Wartogłowiec Jaskrów,2477011-17502,12191,50.125496,19.00808,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17502/
 Wartogłowiec Jaskrów,2477011-17502,6397,50.125496,19.00808,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17502/
 Wartogłowiec Kościół,2477011-18401,12088,50.13359,19.016203,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18401/
 Wartogłowiec Kościół,2477011-18401,6191,50.13359,19.016203,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18401/
@@ -6699,6 +6778,7 @@ Wartogłowiec Kościół,2477011-18402,6200,50.133522,19.016191,https://rj.trans
 Wartogłowiec Pętla,2477011-17701,12180,50.12407,19.018734,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17701/
 Wartogłowiec Pętla,2477011-17701,6377,50.12407,19.018734,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17701/
 Wartogłowiec Skotnica,2477011-18201,6379,50.126053,19.025536,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18201/
+Wartogłowiec Skotnica nż,2477011-18201,12182,50.126053,19.025536,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18201/
 Wartogłowiec Szklarnia,2477011-18301,8183,50.126205,19.027208,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18301/
 Wartogłowiec Szklarnia,2477011-18302,12261,50.126183,19.026909,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18302/
 Wartogłowiec Szklarnia,2477011-18302,8717,50.126183,19.026909,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18302/
@@ -6834,22 +6914,33 @@ Wilkowyje Dojazdowa,2477011-18901,12074,50.15027,18.953995,https://rj.transportg
 Wilkowyje Dojazdowa,2477011-18901,6124,50.15027,18.953995,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18901/
 Wilkowyje Działki,2477011-19501,6126,50.141518,18.95538,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19501/
 Wilkowyje Działki,2477011-19502,6128,50.14013,18.956614,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19502/
+Wilkowyje Działki nż,2477011-19501,12076,50.141518,18.95538,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19501/
+Wilkowyje Działki nż,2477011-19502,12078,50.14013,18.956614,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19502/
 Wilkowyje Gospoda,2477011-19001,12080,50.146587,18.953287,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19001/
 Wilkowyje Gospoda,2477011-19001,6131,50.146587,18.953287,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19001/
+Wilkowyje Gospoda,2477011-19002,12070,50.14611,18.954746,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19002/
 Wilkowyje Gospoda,2477011-19002,6119,50.14611,18.954746,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19002/
 Wilkowyje Graniczna,2477011-18701,12072,50.14774,18.96406,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18701/
 Wilkowyje Graniczna,2477011-18701,6122,50.14774,18.96406,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18701/
 Wilkowyje Mikołowska,2477011-19401,6134,50.153557,18.937399,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19401/
 Wilkowyje Mikołowska,2477011-19402,6118,50.154285,18.936174,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19402/
+Wilkowyje Mikołowska nż,2477011-19401,12083,50.153557,18.937399,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19401/
+Wilkowyje Mikołowska nż,2477011-19402,12069,50.154285,18.936174,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19402/
 Wilkowyje Murarska,2477011-18801,12073,50.1502,18.959316,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18801/
 Wilkowyje Murarska,2477011-18801,6123,50.1502,18.959316,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18801/
+Wilkowyje Obywatelska,2477011-19201,12242,50.13689,18.957718,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19201/
 Wilkowyje Obywatelska,2477011-19201,8492,50.13689,18.957718,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19201/
+Wilkowyje Obywatelska,2477011-19202,12077,50.13647,18.957504,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19202/
 Wilkowyje Obywatelska,2477011-19202,6127,50.13647,18.957504,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19202/
 Wilkowyje Wałowa,2477011-18601,12071,50.14346,18.962439,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18601/
 Wilkowyje Wałowa,2477011-18601,6121,50.14346,18.962439,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-18601/
+Wilkowyje Wierzbowa,2477011-19301,12081,50.150898,18.943438,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19301/
 Wilkowyje Wierzbowa,2477011-19301,6132,50.150898,18.943438,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19301/
+Wilkowyje Wierzbowa,2477011-19302,12082,50.15124,18.942966,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19302/
 Wilkowyje Wierzbowa,2477011-19302,6133,50.15124,18.942966,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19302/
+Wilkowyje Wąska,2477011-19101,12079,50.144436,18.956066,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19101/
 Wilkowyje Wąska,2477011-19101,6129,50.144436,18.956066,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19101/
+Wilkowyje Wąska,2477011-19102,12075,50.14383,18.955208,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19102/
 Wilkowyje Wąska,2477011-19102,6125,50.14383,18.955208,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19102/
 Wioski Adamskiego,2414021-02601,10862,50.141758,19.16647,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-02601/
 Wioski Adamskiego,2414021-02602,10863,50.14167,19.166739,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-02602/
@@ -8011,30 +8102,42 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Żwaków Borowa I,2477011-21502,6225,50.11166,18.963758,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21502/
 Żwaków Borowa II,2477011-22401,12100,50.11193,18.96178,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22401/
 Żwaków Borowa II,2477011-22401,6206,50.11193,18.96178,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22401/
+Żwaków Borowa II,2477011-22402,12116,50.112053,18.96171,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22402/
 Żwaków Borowa II,2477011-22402,6223,50.112053,18.96171,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22402/
 Żwaków Cmentarz,2477011-21901,12256,50.10416,18.963812,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21901/
 Żwaków Cmentarz,2477011-21901,8707,50.10416,18.963812,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21901/
+Żwaków Cmentarz,2477011-21902,12109,50.10398,18.965433,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21902/
 Żwaków Cmentarz,2477011-21902,6216,50.10398,18.965433,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21902/
 Żwaków Kościół,2477011-22501,12102,50.106804,18.966946,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22501/
 Żwaków Kościół,2477011-22501,6209,50.106804,18.966946,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22501/
 Żwaków Legionów,2477011-21701,12103,50.107254,18.969896,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21701/
 Żwaków Legionów,2477011-21701,6210,50.107254,18.969896,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21701/
+Żwaków Myśliwska,2477011-21601,12120,50.10951,18.961584,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21601/
 Żwaków Myśliwska,2477011-21601,6228,50.10951,18.961584,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21601/
 Żwaków Myśliwska,2477011-21602,12101,50.109726,18.961666,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21602/
 Żwaków Myśliwska,2477011-21602,6208,50.109726,18.961666,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21602/
+Żwaków Nowa,2477011-22601,12119,50.107376,18.961355,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22601/
 Żwaków Nowa,2477011-22601,6227,50.107376,18.961355,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22601/
 Żwaków Nowa,2477011-22602,12107,50.107567,18.961205,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22602/
 Żwaków Nowa,2477011-22602,6214,50.107567,18.961205,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22602/
+Żwaków Rogatki,2477011-22701,12112,50.103107,18.953136,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22701/
 Żwaków Rogatki,2477011-22701,6219,50.103107,18.953136,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22701/
+Żwaków Rogatki,2477011-22702,12274,50.102848,18.95239,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22702/
 Żwaków Rondo,2477011-22001,12121,50.106247,18.967407,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22001/
 Żwaków Rondo,2477011-22001,6229,50.106247,18.967407,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22001/
+Żwaków Rondo,2477011-22002,12104,50.106255,18.967289,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22002/
 Żwaków Rondo,2477011-22002,6211,50.106255,18.967289,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22002/
+Żwaków Sosnowe,2477011-22201,12126,50.103058,18.956614,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22201/
 Żwaków Sosnowe,2477011-22201,6247,50.103058,18.956614,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22201/
+Żwaków Sosnowe,2477011-22202,12110,50.10328,18.956196,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22202/
 Żwaków Sosnowe,2477011-22202,6217,50.10328,18.956196,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22202/
 Żwaków Św. Elżbiety,2477011-22101,6249,50.104275,18.96082,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22101/
 Żwaków Św. Elżbiety,2477011-22102,6215,50.104374,18.960659,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22102/
 Żwaków św. Elżbiety,2477011-22101,12128,50.104275,18.96082,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22101/
+Żwaków św. Elżbiety,2477011-22102,12108,50.104374,18.960659,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22102/
+Żwaków Żorska,2477011-22301,12127,50.103294,18.95966,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22301/
 Żwaków Żorska,2477011-22301,6248,50.103294,18.95966,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22301/
+Żwaków Żorska,2477011-22302,12111,50.10348,18.959564,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22302/
 Żwaków Żorska,2477011-22302,6218,50.10348,18.959564,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-22302/
 Żychcice Alfred,2401031-01901,68,50.366524,19.028067,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401031-01901/
 Żychcice Alfred,2401031-01902,69,50.36655,19.027391,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401031-01902/
