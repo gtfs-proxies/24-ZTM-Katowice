@@ -1011,6 +1011,7 @@ Chorzów Centrum Edukacji,2463011-07601,64,50.296078,18.935757,https://rj.transp
 Chorzów Centrum Edukacji,2463011-07602,65,50.296852,18.935177,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07602/
 Chorzów Cmentarz,2463011-02301,3592,50.286404,18.94315,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-02301/
 Chorzów Cmentarz,2463011-02332,10502,50.28713,18.94361,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-02332/
+Chorzów DTŚ - BoWiD,2463011-09831,7312,50.28297,18.947819,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-09831/
 Chorzów Dom Działkowca,2463011-04101,1110,50.28513,18.950827,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-04101/
 Chorzów Dom Działkowca,2463011-04101t,11719,50.285378,18.94979,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-04101t/
 Chorzów Dom Działkowca,2463011-04101t,6891,50.285378,18.94979,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-04101t/
@@ -4247,6 +4248,8 @@ Osiedle Tuwima Lipowa,2474011-06702,5302,50.295143,19.023432,https://rj.transpor
 Osiedle Tuwima Poradnia,2474011-02301,2100,50.29533,19.019892,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-02301/
 Osiedle Tuwima Poradnia,2474011-02302,2101,50.295006,19.019896,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-02302/
 Osiedle Tysiąclecia Chrobrego,2469011-20201,83,50.278732,18.971275,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-20201/
+Osiedle Tysiąclecia DTŚ,2469011-20131,8252,50.271866,18.975756,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-20131/
+Osiedle Tysiąclecia DTŚ,2469011-20132,8251,50.271427,18.975628,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-20132/
 Osiedle Tysiąclecia Mieszka I,2469011-20301,85,50.274197,18.974407,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-20301/
 Osiedle Tysiąclecia Mieszka I,2469011-20302,86,50.274364,18.974396,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-20302/
 Osiedle Tysiąclecia Oczyszczalnia,2469011-20401,82,50.28026,18.96671,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-20401/
@@ -6365,7 +6368,9 @@ Tychy Fabryczna,2477011-06901,11919,50.102394,19.018057,https://rj.transportgzm.
 Tychy Fabryczna,2477011-06901,6306,50.102394,19.018057,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06901/
 Tychy Fabryka Serów,2477011-12902,11920,50.104893,19.016523,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12902/
 Tychy Fabryka Serów,2477011-12902,6312,50.104893,19.016523,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-12902/
+Tychy Fiat,2477011-06801,11931,50.107986,19.078342,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06801/
 Tychy Fiat,2477011-06801,6390,50.107986,19.078342,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06801/
+Tychy Fiat,2477011-06802,11934,50.108147,19.077806,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06802/
 Tychy Fiat,2477011-06802,6426,50.108147,19.077806,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06802/
 Tychy Fiat Auto-Hit,2477011-13201,11929,50.10601,19.054792,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13201/
 Tychy Fiat Auto-Hit,2477011-13201,6383,50.10601,19.054792,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13201/
@@ -6644,7 +6649,9 @@ Tychy Trzy Stawy,2477011-15501,12043,50.12208,18.996546,https://rj.transportgzm.
 Tychy Trzy Stawy,2477011-15501,8104,50.12208,18.996546,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15501/
 Tychy Trzy Stawy,2477011-15502,12044,50.12316,18.996471,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15502/
 Tychy Trzy Stawy,2477011-15502,8105,50.12316,18.996471,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15502/
+Tychy Turyńska,2477011-08801,12040,50.109974,19.061413,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08801/
 Tychy Turyńska,2477011-08801,6396,50.109974,19.061413,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08801/
+Tychy Turyńska,2477011-08802,12218,50.109882,19.061531,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08802/
 Tychy Turyńska,2477011-08802,6425,50.109882,19.061531,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08802/
 Tychy Tęcza,2477011-05001,12019,50.111652,19.002161,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05001/
 Tychy Tęcza,2477011-05001,6263,50.111652,19.002161,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05001/
@@ -6702,7 +6709,9 @@ Ujejsce Wiadukt,2465011-16501,3177,50.39976,19.231068,https://rj.transportgzm.pl
 Ujejsce Wiadukt,2465011-16502,3178,50.40014,19.229666,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-16502/
 Urbanowice,2477011-16501,6353,50.11244,19.043034,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-16501/
 Urbanowice,2477011-16502,6418,50.11223,19.043205,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-16502/
+Urbanowice Dom Opieki,2477011-16801,12224,50.108604,19.052246,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-16801/
 Urbanowice Dom Opieki,2477011-16801,7869,50.108604,19.052246,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-16801/
+Urbanowice Dom Opieki,2477011-16802,12223,50.108414,19.052132,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-16802/
 Urbanowice Dom Opieki,2477011-16802,7868,50.108414,19.052132,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-16802/
 Urbanowice Główna,2477011-16301,12145,50.10965,19.034021,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-16301/
 Urbanowice Główna,2477011-16301,6314,50.10965,19.034021,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-16301/
