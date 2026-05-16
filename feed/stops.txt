@@ -7657,9 +7657,13 @@ Ziemięcice Ośrodek dla Niewidomych nż,2413092-08501,5725,50.369316,18.695097,
 Ziemięcice Ośrodek dla Niewidomych nż,2413092-08502,5724,50.369396,18.694893,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413092-08502/
 Ziętek,2413052-00601,5745,50.5729,18.647123,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413052-00601/
 Ziętek,2413052-00602,5744,50.572777,18.646753,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413052-00602/
+Zwierzyniec Działki,2477011-21301,12281,50.13937,19.000195,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21301/
 Zwierzyniec Działki,2477011-21301,6197,50.13937,19.000195,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21301/
+Zwierzyniec Działki,2477011-21302,12279,50.139324,19.00029,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21302/
 Zwierzyniec Działki,2477011-21302,6188,50.139324,19.00029,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21302/
+Zwierzyniec Wiosenna,2477011-21401,12280,50.135845,19.001524,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21401/
 Zwierzyniec Wiosenna,2477011-21401,6189,50.135845,19.001524,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21401/
+Zwierzyniec Wiosenna,2477011-21402,12282,50.13592,19.001266,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21402/
 Zwierzyniec Wiosenna,2477011-21402,6198,50.13592,19.001266,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21402/
 Ząbkowice Aleja Zwycięstwa,2465011-16901,3343,50.380962,19.25296,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-16901/
 Ząbkowice Aleja Zwycięstwa,2465011-16902,3344,50.380833,19.253004,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-16902/
