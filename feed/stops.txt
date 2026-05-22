@@ -528,8 +528,10 @@ Burki,2401081-00101,368,50.267307,19.331327,https://rj.transportgzm.pl/v2/rozkla
 Burki,2401081-00102,367,50.267246,19.331425,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401081-00102/
 Burki Pętla,2401081-00201,366,50.26858,19.321669,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401081-00201/
 Burowiec,2469011-02301,2963,50.26824,19.078964,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02301/
+Burowiec,2469011-02301t,11257,50.26828,19.079287,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02301t/
 Burowiec,2469011-02301t,2964,50.26828,19.079287,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02301t/
 Burowiec,2469011-02302,2965,50.26844,19.080006,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02302/
+Burowiec,2469011-02302t,11258,50.26837,19.079668,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02302t/
 Burowiec,2469011-02302t,2966,50.26837,19.079668,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02302t/
 Burowiec,2469011-02303,2967,50.26903,19.080284,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02303/
 Burowiec,2469011-02304,2968,50.26904,19.0805,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02304/
@@ -1153,6 +1155,7 @@ Chorzów Szpital Miejski,2463011-06702,9108,50.292175,18.944897,https://rj.trans
 Chorzów Targowisko,2463011-07101t,4655,50.30356,18.949339,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07101t/
 Chorzów Targowisko,2463011-07102t,8669,50.30354,18.949736,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07102t/
 Chorzów Targowisko,2463011-07132,10505,50.30354,18.949736,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07132/
+Chorzów Targowisko,2463011-07132,11138,50.303635,18.94964,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07132/
 Chorzów Teatr Rozrywki,2463011-02101t,11734,50.294163,18.957397,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-02101t/
 Chorzów Teatr Rozrywki,2463011-02101t,4506,50.294163,18.957397,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-02101t/
 Chorzów Teatr Rozrywki,2463011-02102t,11735,50.294224,18.957438,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-02102t/
@@ -2013,6 +2016,7 @@ Gołonóg Centralna Kuchnia,2465011-03102t,11389,50.331387,19.24699,https://rj.t
 Gołonóg Centralna Kuchnia,2465011-03102t,4354,50.331387,19.24699,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-03102t/
 Gołonóg Centrum,2465011-02501t,11394,50.333954,19.224094,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-02501t/
 Gołonóg Centrum,2465011-02501t,4361,50.333954,19.224094,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-02501t/
+Gołonóg Centrum,2465011-02502,8199,50.33392,19.22417,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-02502/
 Gołonóg Centrum,2465011-02502t,11395,50.33403,19.224009,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-02502t/
 Gołonóg Centrum,2465011-02502t,4362,50.33403,19.224009,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-02502t/
 Gołonóg Dworzec PKP,2465011-02801,801,50.342876,19.22757,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-02801/
@@ -3601,8 +3605,10 @@ Mikulczyce Tarnopolska,2478011-05402t,1743,50.33593,18.783354,https://rj.transpo
 Mikulczyce Zwrotnicza,2478011-18101,8655,50.344475,18.768763,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-18101/
 Mikulczyce Zwrotnicza,2478011-18102,8379,50.344425,18.769056,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-18102/
 Milowice Hala Sportowa,2475011-04901,1748,50.290382,19.081232,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04901/
+Milowice Hala Sportowa,2475011-04901t,11312,50.289505,19.081171,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04901t/
 Milowice Hala Sportowa,2475011-04901t,1749,50.289505,19.081171,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04901t/
 Milowice Hala Sportowa,2475011-04902,1750,50.28988,19.081186,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04902/
+Milowice Hala Sportowa,2475011-04902t,11313,50.28899,19.082178,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04902t/
 Milowice Hala Sportowa,2475011-04902t,1751,50.28899,19.082178,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04902t/
 Milowice Hala Sportowa,2475011-04931,10099,50.28885,19.083483,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04931/
 Milowice Hala Sportowa,2475011-04932,10096,50.288616,19.083364,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04932/
@@ -3612,19 +3618,26 @@ Milowice Most,2475011-05002,1753,50.29153,19.073183,https://rj.transportgzm.pl/v
 Milowice Osiedle Kalety,2475011-05101,1995,50.293186,19.103245,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-05101/
 Milowice Osiedle Kalety,2475011-05102,1996,50.29276,19.103922,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-05102/
 Milowice Park Logistyczny,2475011-04701,6905,50.287514,19.102139,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04701/
+Milowice Park Logistyczny,2475011-04701t,11424,50.28668,19.103212,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04701t/
 Milowice Park Logistyczny,2475011-04701t,4402,50.28668,19.103212,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04701t/
 Milowice Park Logistyczny,2475011-04702,4403,50.287365,19.101795,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04702/
+Milowice Park Logistyczny,2475011-04702t,11425,50.2867,19.10311,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04702t/
 Milowice Park Logistyczny,2475011-04702t,4404,50.2867,19.10311,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04702t/
 Milowice Park Logistyczny,2475011-04703,4405,50.285835,19.101603,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04703/
 Milowice Park Logistyczny,2475011-04704,4406,50.285095,19.101366,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04704/
 Milowice Podjazdowa,2475011-05301,1744,50.289856,19.094233,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-05301/
+Milowice Podjazdowa,2475011-05301t,11310,50.289978,19.093416,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-05301t/
 Milowice Podjazdowa,2475011-05301t,1745,50.289978,19.093416,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-05301t/
 Milowice Podjazdowa,2475011-05302,1746,50.290066,19.094118,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-05302/
+Milowice Podjazdowa,2475011-05302t,11311,50.289963,19.09333,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-05302t/
 Milowice Podjazdowa,2475011-05302t,1747,50.289963,19.09333,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-05302t/
+Milowice Pętla,2475011-05201t,11421,50.28929,19.078085,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-05201t/
 Milowice Pętla,2475011-05201t,4397,50.28929,19.078085,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-05201t/
 Milowice Zakłady Mięsne,2475011-05401,4398,50.28931,19.087973,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-05401/
+Milowice Zakłady Mięsne,2475011-05401t,11422,50.28931,19.087923,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-05401t/
 Milowice Zakłady Mięsne,2475011-05401t,4399,50.28931,19.087923,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-05401t/
 Milowice Zakłady Mięsne,2475011-05402,4400,50.28938,19.087114,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-05402/
+Milowice Zakłady Mięsne,2475011-05402t,11423,50.289177,19.08726,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-05402t/
 Milowice Zakłady Mięsne,2475011-05402t,4401,50.289177,19.08726,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-05402t/
 Międzyrzecze Cukiernia,2414042-01613,6771,50.02512,19.07487,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414042-01613/
 Międzyrzecze Cukiernia,2414042-01614,6838,50.025005,19.074337,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414042-01614/
@@ -5472,7 +5485,9 @@ Smolnica Przedszkole,2405065-02801,6022,50.25119,18.56382,https://rj.transportgz
 Smolnica Przedszkole,2405065-02802,6023,50.25162,18.56192,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405065-02802/
 Sosnowiec 3 Maja Wiadukt,2475011-04831,10097,50.276535,19.123425,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04831/
 Sosnowiec 3 Maja Wiadukt,2475011-04832,10098,50.276333,19.123705,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04832/
+Sosnowiec Aleja Mireckiego,2475011-11901t,11426,50.27896,19.115948,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-11901t/
 Sosnowiec Aleja Mireckiego,2475011-11901t,4407,50.27896,19.115948,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-11901t/
+Sosnowiec Aleja Mireckiego,2475011-11902t,11427,50.27896,19.11584,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-11902t/
 Sosnowiec Aleja Mireckiego,2475011-11902t,4408,50.27896,19.11584,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-11902t/
 Sosnowiec Aleja Zwycięstwa,2475011-12001,4878,50.279728,19.130486,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12001/
 Sosnowiec Aleja Zwycięstwa,2475011-12001t,11453,50.278767,19.12997,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12001t/
@@ -5481,6 +5496,7 @@ Sosnowiec Aleja Zwycięstwa,2475011-12002,7408,50.27956,19.130178,https://rj.tra
 Sosnowiec ArcelorMittal Park,2475011-17101,9910,50.28711,19.16923,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-17101/
 Sosnowiec ArcelorMittal Park,2475011-17102,9911,50.28778,19.167044,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-17102/
 Sosnowiec Dworzec PKP,2475011-12301,3544,50.278133,19.12731,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12301/
+Sosnowiec Dworzec PKP,2475011-12301t,11278,50.27805,19.126795,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12301t/
 Sosnowiec Dworzec PKP,2475011-12301t,6908,50.27805,19.126795,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12301t/
 Sosnowiec Dworzec PKP,2475011-12302,3545,50.27799,19.126987,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12302/
 Sosnowiec Dworzec PKP,2475011-12302t,11263,50.27831,19.127094,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12302t/
@@ -5490,8 +5506,10 @@ Sosnowiec Dęblińska,2475011-12201,555,50.27482,19.122128,https://rj.transportg
 Sosnowiec Dęblińska,2475011-12201t,11283,50.27576,19.123652,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12201t/
 Sosnowiec Dęblińska,2475011-12201t,556,50.27576,19.123652,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12201t/
 Sosnowiec Egzotarium,2475011-12401,2179,50.283512,19.105396,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12401/
+Sosnowiec Egzotarium,2475011-12401t,11326,50.283497,19.105787,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12401t/
 Sosnowiec Egzotarium,2475011-12401t,2180,50.283497,19.105787,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12401t/
 Sosnowiec Egzotarium,2475011-12402,2181,50.28297,19.106602,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12402/
+Sosnowiec Egzotarium,2475011-12402t,11327,50.283375,19.105776,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12402t/
 Sosnowiec Egzotarium,2475011-12402t,2182,50.283375,19.105776,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12402t/
 Sosnowiec Estakada,2475011-12501,4328,50.28099,19.133543,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12501/
 Sosnowiec Estakada,2475011-12501t,11370,50.281406,19.135742,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12501t/
@@ -5512,8 +5530,10 @@ Sosnowiec Kościelna/Mediateka,2475011-12802,11149,50.271687,19.128489,https://r
 Sosnowiec Małachowskiego,2475011-12901t,11382,50.27572,19.132732,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12901t/
 Sosnowiec Małachowskiego,2475011-12901t,4347,50.27572,19.132732,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12901t/
 Sosnowiec Osiedle Piastów,2475011-13001,2062,50.27971,19.11218,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13001/
+Sosnowiec Osiedle Piastów,2475011-13001t,11322,50.27966,19.111935,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13001t/
 Sosnowiec Osiedle Piastów,2475011-13001t,2063,50.27966,19.111935,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13001t/
 Sosnowiec Osiedle Piastów,2475011-13002,2064,50.279488,19.111902,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13002/
+Sosnowiec Osiedle Piastów,2475011-13002t,11323,50.27964,19.11186,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13002t/
 Sosnowiec Osiedle Piastów,2475011-13002t,2065,50.27964,19.11186,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13002t/
 Sosnowiec Osiedle Wanda,2475011-13101,4411,50.272694,19.1527,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13101/
 Sosnowiec Osiedle Wanda,2475011-13101t,11430,50.272568,19.152576,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13101t/
@@ -5528,8 +5548,10 @@ Sosnowiec Ostrogórska,2475011-13202t,11325,50.27335,19.135742,https://rj.transp
 Sosnowiec Ostrogórska,2475011-13202t,2144,50.27335,19.135742,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13202t/
 Sosnowiec Ostrogórska,2475011-13203,2145,50.27408,19.134638,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13203/
 Sosnowiec Piłsudskiego/Sobieskiego,2475011-13701,8358,50.278004,19.11863,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13701/
+Sosnowiec Piłsudskiego/Sobieskiego,2475011-13701t,11272,50.276905,19.119236,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13701t/
 Sosnowiec Piłsudskiego/Sobieskiego,2475011-13701t,4326,50.276905,19.119236,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13701t/
 Sosnowiec Piłsudskiego/Sobieskiego,2475011-13702,8359,50.27753,19.11878,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13702/
+Sosnowiec Piłsudskiego/Sobieskiego,2475011-13702t,11273,50.276875,19.11938,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13702t/
 Sosnowiec Piłsudskiego/Sobieskiego,2475011-13702t,4327,50.276875,19.11938,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13702t/
 Sosnowiec Radocha,2475011-21901,7915,50.263622,19.13763,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-21901/
 Sosnowiec Radocha,2475011-21902,8430,50.263767,19.137157,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-21902/
@@ -5562,7 +5584,9 @@ Sosnowiec Wspólna,2475011-14101,8236,50.274197,19.12805,https://rj.transportgzm
 Sosnowiec Wspólna,2475011-14101t,11383,50.27448,19.127445,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-14101t/
 Sosnowiec Wspólna,2475011-14101t,4348,50.27448,19.127445,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-14101t/
 Sosnowiec Wspólna,2475011-14102,5558,50.27453,19.127863,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-14102/
+Sosnowiec Wysoka,2475011-14201t,11428,50.28094,19.108427,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-14201t/
 Sosnowiec Wysoka,2475011-14201t,4409,50.28094,19.108427,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-14201t/
+Sosnowiec Wysoka,2475011-14202t,11429,50.280956,19.10835,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-14202t/
 Sosnowiec Wysoka,2475011-14202t,4410,50.280956,19.10835,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-14202t/
 Sosnowiec Zagłębiowski Park Sportowy,2475011-22501,9859,50.29139,19.173304,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22501/
 Sosnowiec Zagłębiowski Park Sportowy,2475011-22502,9858,50.29103,19.175074,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22502/
@@ -6019,18 +6043,24 @@ Szopienice Dolina 5 Stawów,2469011-25402t,11269,50.26959,19.111237,https://rj.t
 Szopienice Dolina 5 Stawów,2469011-25402t,4322,50.26959,19.111237,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25402t/
 Szopienice Dolina 5 Stawów,2469011-25431,10837,50.269405,19.111935,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25431/
 Szopienice Dwór,2469011-24701,10108,50.26187,19.10178,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24701/
+Szopienice Dwór,2469011-24701t,11264,50.261993,19.101795,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24701t/
 Szopienice Dwór,2469011-24701t,4317,50.261993,19.101795,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24701t/
 Szopienice Dwór,2469011-24702,10107,50.26204,19.101496,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24702/
+Szopienice Dwór,2469011-24702t,11265,50.26206,19.10171,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24702t/
 Szopienice Dwór,2469011-24702t,4318,50.26206,19.10171,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24702t/
 Szopienice Kocura nż,2469011-31701,5328,50.266106,19.088417,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-31701/
 Szopienice Kocura nż,2469011-31702,5327,50.266273,19.088766,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-31702/
 Szopienice Kościół,2469011-24801,2969,50.2621,19.09483,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24801/
+Szopienice Kościół,2469011-24801t,11259,50.26344,19.09465,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24801t/
 Szopienice Kościół,2469011-24801t,2970,50.26344,19.09465,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24801t/
 Szopienice Kościół,2469011-24802,2971,50.262325,19.095112,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24802/
+Szopienice Kościół,2469011-24802t,11260,50.262802,19.095198,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24802t/
 Szopienice Kościół,2469011-24802t,2972,50.262802,19.095198,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24802t/
 Szopienice Kościół,2469011-24831,8420,50.26279,19.093996,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24831/
 Szopienice Kościół,2469011-24834,8421,50.26291,19.094114,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24834/
+Szopienice Morawa,2469011-24901t,11266,50.263474,19.107086,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24901t/
 Szopienice Morawa,2469011-24901t,4319,50.263474,19.107086,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24901t/
+Szopienice Morawa,2469011-24902t,11267,50.26348,19.107063,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24902t/
 Szopienice Morawa,2469011-24902t,4320,50.26348,19.107063,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24902t/
 Szopienice Morawa,2469011-24931,8749,50.263935,19.10699,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24931/
 Szopienice Morawa,2469011-24932,8750,50.264126,19.106813,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24932/
@@ -6038,11 +6068,15 @@ Szopienice Osiedlowa,2469011-25001,4910,50.264736,19.1037,https://rj.transportgz
 Szopienice Osiedlowa,2469011-25002,4911,50.264793,19.104065,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25002/
 Szopienice PKP,2469011-37701,8280,50.257835,19.093803,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37701/
 Szopienice PKP,2469011-37702,8279,50.258083,19.09406,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37702/
+Szopienice Poczta,2469011-25201t,11274,50.26454,19.090788,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25201t/
 Szopienice Poczta,2469011-25201t,4460,50.26454,19.090788,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25201t/
+Szopienice Poczta,2469011-25202t,11275,50.26473,19.09037,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25202t/
 Szopienice Poczta,2469011-25202t,4461,50.26473,19.09037,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25202t/
 Szopienice Pętla,2469011-25101t,4456,50.2605,19.109539,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25101t/
 Szopienice Pętla,2469011-25132,8307,50.260647,19.109678,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25132/
+Szopienice Roździeńska,2469011-25301t,11261,50.262344,19.071692,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25301t/
 Szopienice Roździeńska,2469011-25301t,2974,50.262344,19.071692,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25301t/
+Szopienice Roździeńska,2469011-25302t,11262,50.26211,19.07154,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25302t/
 Szopienice Roździeńska,2469011-25302t,2975,50.26211,19.07154,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25302t/
 Szopienice Roździeńska nż,2469011-25301,2973,50.262386,19.071917,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25301/
 Szopienice Roździeńska nż,2469011-25302,5299,50.262173,19.071701,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25302/
@@ -6050,7 +6084,9 @@ Szopienice Szpital Geriatryczny,2469011-25501,4912,50.265697,19.092457,https://r
 Szopienice Szpital Geriatryczny,2469011-25502,4913,50.265587,19.094624,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25502/
 Szopienice Wiadukt,2469011-41231,10390,50.261307,19.10645,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-41231/
 Szopienice Wiadukt,2469011-41232,10957,50.261345,19.105566,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-41232/
+Szopienice Wodociągi,2469011-25601t,11276,50.26469,19.072378,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25601t/
 Szopienice Wodociągi,2469011-25601t,4462,50.26469,19.072378,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25601t/
+Szopienice Wodociągi,2469011-25602t,11277,50.265026,19.072355,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25602t/
 Szopienice Wodociągi,2469011-25602t,4463,50.265026,19.072355,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25602t/
 Szopienice Wodociągi,2469011-25631,10327,50.26492,19.072699,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25631/
 Szopienice Wodociągi,2469011-25632,10326,50.26459,19.07227,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25632/
@@ -7100,16 +7136,20 @@ Wygorzele Goździków,2477011-20902,12169,50.121155,19.04074,https://rj.transpor
 Wygorzele Goździków,2477011-20902,6364,50.121155,19.04074,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20902/
 Wygorzele Jana,2477011-19701,12173,50.127693,19.04031,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19701/
 Wygorzele Jana,2477011-19701,6368,50.127693,19.04031,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19701/
+Wygorzele Jana,2477011-19702,12200,50.12794,19.040083,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19702/
 Wygorzele Jana,2477011-19702,6406,50.12794,19.040083,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19702/
 Wygorzele Jana II,2477011-21101,8664,50.12394,19.037102,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21101/
 Wygorzele Jana II,2477011-21102,12247,50.12422,19.036697,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21102/
 Wygorzele Jana II,2477011-21102,8665,50.12422,19.036697,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-21102/
+Wygorzele Jaroszowicka,2477011-19801,12175,50.134518,19.043184,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19801/
 Wygorzele Jaroszowicka,2477011-19801,6371,50.134518,19.043184,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19801/
 Wygorzele Jaroszowicka,2477011-19802,12204,50.13457,19.043291,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19802/
 Wygorzele Jaroszowicka,2477011-19802,6410,50.13457,19.043291,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19802/
 Wygorzele Klub,2477011-20401,12199,50.125156,19.044214,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20401/
 Wygorzele Klub,2477011-20401,6405,50.125156,19.044214,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20401/
+Wygorzele Klub,2477011-20402,12255,50.12531,19.044128,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20402/
 Wygorzele Klub,2477011-20402,8706,50.12531,19.044128,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20402/
+Wygorzele Ligonia,2477011-19601,12201,50.12669,19.049192,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19601/
 Wygorzele Ligonia,2477011-19601,6407,50.12669,19.049192,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19601/
 Wygorzele Ligonia,2477011-19602,12171,50.1268,19.0493,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19602/
 Wygorzele Ligonia,2477011-19602,6366,50.1268,19.0493,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-19602/
@@ -7132,10 +7172,12 @@ Wygorzele Sportowa,2477011-20602,6413,50.123226,19.050259,https://rj.transportgz
 Wygorzele Tartak,2477011-20701,6369,50.131386,19.038023,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20701/
 Wygorzele Tartak,2477011-20702,6412,50.131393,19.038034,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20702/
 Wygorzele Tartak nż,2477011-20701,12174,50.131386,19.038023,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20701/
+Wygorzele Tartak nż,2477011-20702,12206,50.131393,19.038034,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20702/
 Wygorzele Ułańska,2477011-20201,12177,50.128704,19.058119,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20201/
 Wygorzele Ułańska,2477011-20201,6373,50.128704,19.058119,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20201/
 Wygorzele Wiadukt,2477011-20801,12262,50.134758,19.038967,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20801/
 Wygorzele Wiadukt,2477011-20801,8718,50.134758,19.038967,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20801/
+Wygorzele Wiadukt,2477011-20802,12205,50.134518,19.038979,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20802/
 Wygorzele Wiadukt,2477011-20802,6411,50.134518,19.038979,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20802/
 Wygorzele Wspólna,2477011-20101,12227,50.124573,19.047916,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20101/
 Wygorzele Wspólna,2477011-20101,7983,50.124573,19.047916,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20101/
