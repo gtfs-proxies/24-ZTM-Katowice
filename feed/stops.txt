@@ -989,8 +989,10 @@ Chorzów Batory Odrzańska,2463011-12402,11051,50.274323,18.947601,https://rj.tr
 Chorzów Batory Osiedle,2463011-01401,148,50.267475,18.937387,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01401/
 Chorzów Batory Osiedle,2463011-01402,149,50.268353,18.93742,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01402/
 Chorzów Batory Park Logistyczny,2463011-09201,5324,50.25914,18.944544,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-09201/
+Chorzów Batory Piekarska,2463011-01601,12297,50.27605,18.950026,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01601/
 Chorzów Batory Piekarska,2463011-01601t,11625,50.276012,18.950161,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01601t/
 Chorzów Batory Piekarska,2463011-01601t,4537,50.276012,18.950161,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01601t/
+Chorzów Batory Piekarska,2463011-01602,12296,50.276367,18.94979,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01602/
 Chorzów Batory Piekarska,2463011-01602t,11626,50.27631,18.949745,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01602t/
 Chorzów Batory Piekarska,2463011-01602t,4538,50.27631,18.949745,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01602t/
 Chorzów Batory Plac Nowary,2463011-00401,124,50.27605,18.935919,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-00401/
@@ -1003,8 +1005,10 @@ Chorzów Batory Rondo Gębały,2463011-09304,5290,50.258976,18.937023,https://rj
 Chorzów Batory Szyb Kleofas nż,2463011-01801,4788,50.25405,18.943138,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01801/
 Chorzów Batory Urząd Skarbowy,2463011-00601,128,50.282825,18.937468,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-00601/
 Chorzów Batory Urząd Skarbowy,2463011-00602,129,50.28297,18.93676,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-00602/
+Chorzów Batory Zajezdnia,2463011-01901,12380,50.27434,18.956507,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01901/
 Chorzów Batory Zajezdnia,2463011-01901,5043,50.274345,18.956434,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01901/
 Chorzów Batory Zajezdnia,2463011-01901t,5044,50.274395,18.956656,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01901t/
+Chorzów Batory Zajezdnia,2463011-01902,12381,50.27483,18.955236,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01902/
 Chorzów Batory Zajezdnia,2463011-01902,5045,50.27484,18.955328,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01902/
 Chorzów Batory Zajezdnia,2463011-01902t,5046,50.274788,18.955154,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01902t/
 Chorzów Batory Zajezdnia,2463011-01903t,5047,50.274754,18.955122,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-01903t/
@@ -2786,7 +2790,9 @@ Klimontów Policja,2475011-03602t,11444,50.276333,19.190544,https://rj.transport
 Klimontów Policja,2475011-03602t,4429,50.276333,19.190544,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-03602t/
 Klimzowiec Gałeczki,2463011-07701,713,50.284817,18.959044,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07701/
 Klimzowiec Gałeczki,2463011-07702,714,50.284916,18.959194,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07702/
+Klimzowiec Kościół nż,2463011-07801,12378,50.280735,18.960182,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07801/
 Klimzowiec Kościół nż,2463011-07801,4894,50.280735,18.960182,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07801/
+Klimzowiec Kościół nż,2463011-07802,12379,50.28026,18.960484,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07802/
 Klimzowiec Kościół nż,2463011-07802,4895,50.280678,18.960337,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07802/
 Klimzowiec Racławicka,2463011-07901,151,50.28197,18.955278,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07901/
 Klimzowiec Racławicka,2463011-07902,152,50.28151,18.95486,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07902/
@@ -6471,6 +6477,7 @@ Tychy Kościuszki,2477011-07501,11882,50.12774,18.986332,https://rj.transportgzm
 Tychy Kościuszki,2477011-07501,6181,50.12774,18.986332,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07501/
 Tychy Kościuszki,2477011-07502,11881,50.12862,18.986567,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07502/
 Tychy Kościuszki,2477011-07502,6180,50.12862,18.986567,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07502/
+Tychy Kościuszki,2477011-07531,12289,50.127464,18.984747,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07531/
 Tychy Kukułcza,2477011-05201,12084,50.13732,18.98437,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05201/
 Tychy Kukułcza,2477011-05202,12089,50.137894,18.984755,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05202/
 Tychy LEAR,2477011-08501,11921,50.10227,19.04253,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08501/
