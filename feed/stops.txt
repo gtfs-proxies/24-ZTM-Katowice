@@ -3451,6 +3451,7 @@ Miechowice Francuska,2462011-08604,1691,50.36017,18.838652,https://rj.transportg
 Miechowice Kopalnia,2462011-08701,1692,50.35341,18.842716,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-08701/
 Miechowice Kopalnia,2462011-08702,1693,50.353676,18.841183,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-08702/
 Miechowice Lidl,2462011-08501,1707,50.362392,18.849325,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-08501/
+Miechowice Opolska,2462011-90431,10381,50.364635,18.854652,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-90431/
 Miechowice Ośrodek Zdrowia nż,2462011-08801,1704,50.37028,18.845839,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-08801/
 Miechowice Ośrodek Zdrowia nż,2462011-08802,1705,50.37025,18.845753,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-08802/
 Miechowice Park,2462011-08901,1696,50.356613,18.856686,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-08901/
