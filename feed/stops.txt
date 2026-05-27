@@ -3938,6 +3938,7 @@ Nowa Wieś,2401052-02301,3906,50.44449,19.090092,https://rj.transportgzm.pl/v2/r
 Nowa Wieś,2401052-02302,3907,50.444447,19.090263,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401052-02302/
 Nowa Wieś Domki Letniskowe nż,2413082-00701,5775,50.52255,18.757998,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413082-00701/
 Nowa Wieś Domki Letniskowe nż,2413082-00702,7885,50.52252,18.757847,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413082-00702/
+Nowa Wieś Droga do Najdziszowa,2401052-02501,5645,50.42643,19.08642,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401052-02501/
 Nowa Wieś Droga do Najdziszowa,2401052-02502,5646,50.426548,19.086517,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401052-02502/
 Nowa Wieś Droga do Najdziszowa,2401052-02503,3902,50.426014,19.087252,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401052-02503/
 Nowa Wieś Droga do Najdziszowa,2401052-02504,3903,50.426014,19.087252,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401052-02504/
@@ -4299,9 +4300,13 @@ Osiedle Waryńskiego Granitowa,2466011-11202,2103,50.311077,18.61592,https://rj.
 Osiedle Waryńskiego Pętla,2466011-11301,2106,50.31383,18.618654,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-11301/
 Osiedle Wesoła nż,2413082-03001,5753,50.558987,18.687456,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413082-03001/
 Osiedle Wesoła nż,2413082-03002,7880,50.55886,18.68735,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413082-03002/
+Osiedle Wieczorka Dworzec,2471011-03001,12398,50.39155,18.9601,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03001/
 Osiedle Wieczorka Dworzec,2471011-03001,2110,50.39155,18.9601,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03001/
+Osiedle Wieczorka Dworzec,2471011-03002,12400,50.391438,18.960346,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03002/
 Osiedle Wieczorka Dworzec,2471011-03002,5638,50.391438,18.960346,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03002/
+Osiedle Wieczorka Dworzec,2471011-03003,12399,50.39149,18.960701,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03003/
 Osiedle Wieczorka Dworzec,2471011-03003,5637,50.39149,18.960701,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03003/
+Osiedle Wieczorka Dworzec,2471011-03004,12397,50.39167,18.96099,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03004/
 Osiedle Wieczorka Dworzec,2471011-03004,2109,50.39167,18.96099,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03004/
 Osiedle Wieczorka Dworzec,2471011-03005,5682,50.391727,18.960346,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03005/
 Osiedle Wieczorka Konstytucji 3 Maja,2471011-03101,3817,50.38764,18.957315,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03101/
