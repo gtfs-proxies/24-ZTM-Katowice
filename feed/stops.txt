@@ -4305,8 +4305,10 @@ Osiedle Wieczorka Dworzec,2471011-03001,2110,50.39155,18.9601,https://rj.transpo
 Osiedle Wieczorka Dworzec,2471011-03002,12400,50.391438,18.960346,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03002/
 Osiedle Wieczorka Dworzec,2471011-03002,5638,50.391438,18.960346,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03002/
 Osiedle Wieczorka Dworzec,2471011-03003,12399,50.39149,18.960701,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03003/
+Osiedle Wieczorka Dworzec,2471011-03003,12402,50.39149,18.960701,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03003/
 Osiedle Wieczorka Dworzec,2471011-03003,5637,50.39149,18.960701,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03003/
 Osiedle Wieczorka Dworzec,2471011-03004,12397,50.39167,18.96099,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03004/
+Osiedle Wieczorka Dworzec,2471011-03004,12401,50.39167,18.96099,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03004/
 Osiedle Wieczorka Dworzec,2471011-03004,2109,50.39167,18.96099,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03004/
 Osiedle Wieczorka Dworzec,2471011-03005,5682,50.391727,18.960346,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03005/
 Osiedle Wieczorka Konstytucji 3 Maja,2471011-03101,3817,50.38764,18.957315,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03101/
