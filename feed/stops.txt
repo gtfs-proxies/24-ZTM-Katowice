@@ -548,6 +548,7 @@ Bykowina Gwarecka,2472011-01402,376,50.268135,18.895096,https://rj.transportgzm.
 Bykowina Górnośląska,2472011-01201,372,50.266705,18.885326,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-01201/
 Bykowina Górnośląska,2472011-01202,373,50.266636,18.884897,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-01202/
 Bykowina Korfantego,2472011-01501,377,50.265957,18.898233,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-01501/
+Bykowina Korfantego,2472011-01502,378,50.26601,18.89833,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-01502/
 Bykowina Mijanka,2472011-01601t,11689,50.273785,18.89076,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-01601t/
 Bykowina Mijanka,2472011-01601t,4687,50.273785,18.89076,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-01601t/
 Bykowina Mijanka,2472011-01602t,11690,50.273785,18.890802,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-01602t/
