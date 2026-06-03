@@ -1813,6 +1813,8 @@ Gliwice Centrum Przesiadkowe,2466011-23918,8408,50.302948,18.676691,https://rj.t
 Gliwice Centrum Przesiadkowe,2466011-23927,8409,50.302486,18.675928,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23927/
 Gliwice Cmentarz Centralny,2466011-02301,3664,50.30434,18.635983,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02301/
 Gliwice Cmentarz Centralny,2466011-02302,3665,50.304836,18.633707,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02302/
+Gliwice Cmentarz Centralny,2466011-02303,3666,50.304317,18.633442,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02303/
+Gliwice Cmentarz Centralny,2466011-02304,3667,50.30407,18.633488,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02304/
 Gliwice Cmentarz Centralny,2466011-02333,10972,50.30512,18.631357,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02333/
 Gliwice Cmentarz Centralny,2466011-02334,10973,50.30498,18.631594,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02334/
 Gliwice Cmentarz Lipowy,2466011-05501,11111,50.303894,18.693125,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05501/
