@@ -4127,34 +4127,63 @@ Opatowice Wiejska,2413041-04401,1962,50.452213,18.819231,https://rj.transportgzm
 Opatowice Wiejska,2413041-04402,1963,50.452282,18.818962,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-04402/
 Opatowice Wiśniowa nż,2413041-04501,3738,50.45517,18.817997,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-04501/
 Opatowice Wiśniowa nż,2413041-04502,3739,50.454952,18.817568,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413041-04502/
+Ornontowice Bujakowska,2408042-00901,12426,50.167595,18.778728,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00901/
 Ornontowice Bujakowska,2408042-00901,6588,50.167595,18.778728,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00901/
+Ornontowice Bujakowska,2408042-00902,12425,50.166832,18.778728,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00902/
 Ornontowice Bujakowska,2408042-00902,6584,50.166832,18.778728,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00902/
+Ornontowice Centrum,2408042-00101,12420,50.179817,18.765923,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00101/
 Ornontowice Centrum,2408042-00101,1968,50.179817,18.765923,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00101/
+Ornontowice Chudowska nż,2408042-01401,12445,50.200085,18.760166,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01401/
 Ornontowice Chudowska nż,2408042-01401,4830,50.200085,18.760166,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01401/
+Ornontowice Chudowska nż,2408042-01402,12446,50.20023,18.76048,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01402/
 Ornontowice Chudowska nż,2408042-01402,4831,50.20023,18.76048,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01402/
+Ornontowice Cicha,2408042-01201,12443,50.187717,18.75827,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01201/
 Ornontowice Cicha,2408042-01201,4784,50.187717,18.75827,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01201/
+Ornontowice Cicha,2408042-01202,12444,50.18795,18.757862,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01202/
 Ornontowice Cicha,2408042-01202,4785,50.18795,18.757862,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01202/
+Ornontowice Dworcowa,2408042-00501,12439,50.176945,18.779642,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00501/
 Ornontowice Dworcowa,2408042-00501,3526,50.176945,18.779642,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00501/
+Ornontowice Dworcowa,2408042-00502,12438,50.176914,18.78053,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00502/
 Ornontowice Dworcowa,2408042-00502,3525,50.176914,18.78053,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00502/
+Ornontowice Działkowa,2408042-01001,12430,50.16978,18.774473,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01001/
 Ornontowice Działkowa,2408042-01001,6585,50.16978,18.774473,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01001/
+Ornontowice Działkowa,2408042-01002,12431,50.16985,18.774769,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01002/
 Ornontowice Działkowa,2408042-01002,6589,50.169872,18.774742,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01002/
+Ornontowice Granica,2408042-01501,12440,50.202564,18.744188,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01501/
 Ornontowice Granica,2408042-01501,3969,50.202564,18.744188,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01501/
+Ornontowice Górka,2408042-00801,12434,50.164185,18.774618,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00801/
 Ornontowice Górka,2408042-00801,1971,50.164185,18.774618,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00801/
+Ornontowice Górka,2408042-00802,12435,50.164734,18.774664,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00802/
 Ornontowice Górka,2408042-00802,1972,50.164734,18.774664,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00802/
+Ornontowice Kopalnia Budryk,2408042-00401,12421,50.174023,18.764137,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00401/
 Ornontowice Kopalnia Budryk,2408042-00401,4838,50.174023,18.764137,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00401/
+Ornontowice Kopalnia Budryk,2408042-00402,12422,50.176125,18.764341,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00402/
 Ornontowice Kopalnia Budryk,2408042-00402,4839,50.176125,18.764341,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00402/
+Ornontowice Leśna,2408042-00601,12427,50.170227,18.760843,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00601/
 Ornontowice Leśna,2408042-00601,4840,50.1703,18.7608,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00601/
+Ornontowice Leśna,2408042-00602,12423,50.17056,18.76163,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00602/
 Ornontowice Leśna,2408042-00602,4841,50.17056,18.76163,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00602/
+Ornontowice Myto,2408042-01301,12441,50.19616,18.75037,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01301/
 Ornontowice Myto,2408042-01301,4782,50.19616,18.75037,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01301/
+Ornontowice Myto,2408042-01302,12442,50.19667,18.74975,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01302/
 Ornontowice Myto,2408042-01302,4783,50.19667,18.74975,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01302/
+Ornontowice Ogródki Działkowe,2408042-00701,12433,50.1688,18.772732,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00701/
 Ornontowice Ogródki Działkowe,2408042-00701,1970,50.1688,18.772732,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00701/
+Ornontowice Ogródki Działkowe,2408042-00702,12432,50.16895,18.77279,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00702/
 Ornontowice Ogródki Działkowe,2408042-00702,1969,50.16895,18.77279,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00702/
+Ornontowice Szkoła,2408042-00201,12437,50.17639,18.772463,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00201/
 Ornontowice Szkoła,2408042-00201,1976,50.17639,18.772463,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00201/
+Ornontowice Szkoła,2408042-00202,12436,50.17632,18.772549,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00202/
 Ornontowice Szkoła,2408042-00202,1975,50.17632,18.772549,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00202/
+Ornontowice Urząd Gminy,2408042-01101,12447,50.18289,18.762444,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01101/
 Ornontowice Urząd Gminy,2408042-01101,5161,50.18289,18.762444,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01101/
+Ornontowice Urząd Gminy,2408042-01102,12448,50.182907,18.76224,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01102/
 Ornontowice Urząd Gminy,2408042-01102,6062,50.182907,18.76224,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01102/
+Ornontowice Zespół Szkół,2408042-00301,12429,50.172775,18.771616,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00301/
 Ornontowice Zespół Szkół,2408042-00301,1973,50.173252,18.771343,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00301/
+Ornontowice Zespół Szkół,2408042-00302,12428,50.173252,18.771343,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00302/
 Ornontowice Zespół Szkół,2408042-00302,1974,50.172775,18.771616,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-00302/
+Ornontowice Żabik,2408042-01601,12424,50.1694,18.758284,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01601/
 Ornontowice Żabik,2408042-01601,4842,50.1694,18.758284,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408042-01601/
 Orzech Bytomska,2413072-01901,1977,50.429306,18.923386,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413072-01901/
 Orzech Bytomska,2413072-01902,1978,50.430172,18.923794,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413072-01902/
