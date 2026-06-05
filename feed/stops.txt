@@ -1068,6 +1068,8 @@ Chorzów Lompy,2463011-03401,3600,50.297012,18.943022,https://rj.transportgzm.pl
 Chorzów Mariańska,2463011-03601,1661,50.30735,18.94233,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03601/
 Chorzów Mariańska,2463011-03602,1662,50.307426,18.942017,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03602/
 Chorzów Miarki,2463011-12301,10507,50.30306,18.943352,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-12301/
+Chorzów Miasto PKP,2463011-03801,9109,50.298527,18.950165,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03801/
+Chorzów Miasto PKP,2463011-03802,9110,50.29833,18.95036,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03802/
 Chorzów Miasto PKP,2463011-03831,10504,50.297855,18.949951,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03831/
 Chorzów Muzeum Hutnictwa,2463011-03701,9702,50.302208,18.951979,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03701/
 Chorzów Muzeum Hutnictwa,2463011-03702,9752,50.30164,18.951925,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03702/
@@ -1101,7 +1103,10 @@ Chorzów Polna,2463011-04901t,11659,50.313293,18.948235,https://rj.transportgzm.
 Chorzów Polna,2463011-04901t,4612,50.313293,18.948235,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-04901t/
 Chorzów Polna,2463011-04902t,11660,50.31369,18.948063,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-04902t/
 Chorzów Polna,2463011-04902t,4613,50.31369,18.948063,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-04902t/
+Chorzów Polna,2463011-04931,8241,50.313515,18.947922,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-04931/
+Chorzów Polna,2463011-04932,8242,50.31434,18.947598,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-04932/
 Chorzów Powstańców Kościół Św. Jadwigi,2463011-10501,11073,50.291954,18.947237,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-10501/
+Chorzów Powstańców Szkoła,2463011-09501,9112,50.29594,18.951828,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-09501/
 Chorzów Raciborska,2463011-05001,11075,50.294834,18.940285,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05001/
 Chorzów Raciborska,2463011-05002,11074,50.2948,18.940136,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05002/
 Chorzów Racławicka,2463011-05101,4539,50.282024,18.949158,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05101/
@@ -1120,6 +1125,7 @@ Chorzów Rynek,2463011-00104,10347,50.297787,18.955822,https://rj.transportgzm.p
 Chorzów Rynek,2463011-00132,10348,50.297775,18.955755,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-00132/
 Chorzów Składowa,2463011-05401,2676,50.307007,18.93264,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05401/
 Chorzów Składowa,2463011-05402,2677,50.306473,18.932823,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05402/
+Chorzów Sobieskiego,2463011-05501,9114,50.29509,18.95126,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05501/
 Chorzów Sobieskiego,2463011-05531,10479,50.294556,18.951546,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05531/
 Chorzów Stabika,2463011-05601,2731,50.310215,18.950132,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05601/
 Chorzów Stabika,2463011-05602,2732,50.31079,18.949017,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05602/
@@ -1195,6 +1201,7 @@ Chorzów Wolności Tymczasowy,2463011-12031,10489,50.291103,18.94483,https://rj.
 Chorzów Wolności Tymczasowy,2463011-12032,10488,50.29122,18.945312,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-12032/
 Chorzów ZUS,2463011-07401,3496,50.291637,18.949142,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07401/
 Chorzów ZUS,2463011-07432,10486,50.291542,18.948738,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07432/
+Chorzów Zjednoczenia,2463011-11201,9113,50.293907,18.95008,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-11201/
 Chorzów Zjednoczenia,2463011-11231,8100,50.2935,18.950537,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-11231/
 Chorzów Zjednoczenia,2463011-11232,11102,50.29273,18.950397,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-11232/
 Chorzów Łagiewnicka,2463011-03501,1942,50.310226,18.941528,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03501/
@@ -6756,6 +6763,7 @@ Tychy Strefowa Centralna,2477011-07601,12037,50.097633,19.037128,https://rj.tran
 Tychy Strefowa Centralna,2477011-07601,6347,50.097633,19.037128,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07601/
 Tychy Strefowa Centralna,2477011-07602,12029,50.09748,19.037445,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07602/
 Tychy Strefowa Centralna,2477011-07602,6319,50.09748,19.037445,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07602/
+Tychy Strefowa Skrzyżowanie,2477011-08601,12031,50.098602,19.02531,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08601/
 Tychy Strefowa Skrzyżowanie,2477011-08602,12033,50.09856,19.025,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08602/
 Tychy Strefowa Skrzyżowanie,2477011-08602,6340,50.09856,19.025,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08602/
 Tychy Strefowa Wschodnia,2477011-07901,12038,50.09755,19.04209,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-07901/
