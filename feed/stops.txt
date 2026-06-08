@@ -494,6 +494,7 @@ Brzozowica Osiedle,2401011-12001,5461,50.333958,19.149664,https://rj.transportgz
 Brzozowica Osiedle,2401011-12002,5466,50.333958,19.149536,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-12002/
 Brzozowica Park nż,2401011-11401,5458,50.332733,19.133726,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-11401/
 Brzozowica Park nż,2401011-11402,5459,50.332855,19.134111,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-11402/
+Brzozowica Plaża Miejska,2401011-12501,7876,50.33075,19.144499,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-12501/
 Brzozowica nż,2401011-11801,10036,50.3329,19.140362,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-11801/
 Brzozowica nż,2401011-11802,10035,50.332977,19.140778,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-11802/
 Brzozowice,2471011-01001,355,50.369854,18.97056,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-01001/
@@ -7611,6 +7612,7 @@ Zagórze Zajezdnia,2475011-17502,3428,50.28975,19.206656,https://rj.transportgzm
 Zagórze Zajezdnia,2475011-17503,3429,50.29054,19.2063,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-17503/
 Zakamień Komorne nż,2401052-00801,3768,50.452827,19.159067,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401052-00801/
 Zakamień Komorne nż,2401052-00802,3769,50.45287,19.159239,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401052-00802/
+Zalew Sosina,2468011-00601,11141,50.243843,19.324219,https://rj.transportgzm.pl/v2/rozklady/przystanek/2468011-00601/
 Zamoście Posesja 10,2414031-04401,3446,50.135586,19.08979,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-04401/
 Zamoście Posesja 10,2414031-04402,3445,50.13564,19.089691,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-04402/
 Zamoście Posesja 30,2414031-04201,3448,50.139534,19.091084,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-04201/
