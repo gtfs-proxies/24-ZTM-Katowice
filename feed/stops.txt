@@ -1350,6 +1350,7 @@ Czeladź Legionów,2401021-00601,1573,50.31519,19.06436,https://rj.transportgzm.
 Czeladź Legionów,2401021-00602,1574,50.314785,19.064146,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-00602/
 Czeladź Muzeum,2401021-00801,2038,50.307247,19.067616,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-00801/
 Czeladź Muzeum,2401021-00802,2039,50.30714,19.066841,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-00802/
+Czeladź Muzeum,2401021-00832,12463,50.307636,19.065819,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-00832/
 Czeladź Osiedle Borowa,2401021-00701,1993,50.309116,19.077806,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-00701/
 Czeladź Osiedle Borowa,2401021-00702,1994,50.30958,19.077366,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-00702/
 Czeladź Osiedle Słoneczne,2401021-00901,696,50.311653,19.08359,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-00901/
