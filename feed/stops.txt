@@ -7420,8 +7420,10 @@ Zabrze Goethego,2478011-09808,778,50.30533,18.782238,https://rj.transportgzm.pl/
 Zabrze Goethego,2478011-09809,775,50.305225,18.782248,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-09809/
 Zabrze Grunwaldzka,2478011-09901,1091,50.311703,18.76085,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-09901/
 Zabrze Grunwaldzka,2478011-09902,1092,50.311546,18.760593,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-09902/
+Zabrze Hagera nż,2478011-10001,1104,50.311993,18.798986,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-10001/
 Zabrze Hagera nż,2478011-10001t,1105,50.311024,18.797424,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-10001t/
 Zabrze Hagera nż,2478011-10001t,11558,50.311024,18.797424,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-10001t/
+Zabrze Hagera nż,2478011-10002,1106,50.31201,18.798615,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-10002/
 Zabrze Hagera nż,2478011-10002t,1107,50.311737,18.798466,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-10002t/
 Zabrze Hagera nż,2478011-10002t,11559,50.311737,18.798466,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-10002t/
 Zabrze Hagera nż,2478011-10003,1108,50.312164,18.797596,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-10003/
