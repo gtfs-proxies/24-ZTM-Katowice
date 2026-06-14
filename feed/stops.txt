@@ -5319,6 +5319,7 @@ Ruda Matejki,2472011-09001,7415,50.31642,18.857586,https://rj.transportgzm.pl/v2
 Ruda Mid Ocean,2472011-12601,7083,50.289745,18.833185,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-12601/
 Ruda Muzeum,2472011-12801,2568,50.311832,18.852083,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-12801/
 Ruda Muzeum,2472011-12802,2569,50.31211,18.85175,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-12802/
+Ruda Muzeum PRL,2472011-12701,10475,50.287285,18.832424,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-12701/
 Ruda Osiedle Stare,2472011-09101,4671,50.322407,18.857018,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09101/
 Ruda Osiedle Stare,2472011-09102,4672,50.323017,18.856857,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09102/
 Ruda Park Kozioła,2472011-13301,2571,50.316895,18.85602,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-13301/
