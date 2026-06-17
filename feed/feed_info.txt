@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_url
-GTFS Proxies (ZTM Katowice),https://github.com/gtfs-proxies,pl,20260620,20260705,2026.106,https://github.com/gtfs-proxies/24-ZTM-Katowice
+GTFS Proxies (ZTM Katowice),https://github.com/gtfs-proxies,pl,20260620,20260706,2026.107,https://github.com/gtfs-proxies/24-ZTM-Katowice

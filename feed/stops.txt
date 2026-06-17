@@ -2628,6 +2628,7 @@ Katowice Andrzeja Dworzec,2469011-01501,11096,50.256252,19.016148,https://rj.tra
 Katowice Andrzeja Dworzec,2469011-01502,11092,50.256542,19.0147,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01502/
 Katowice Arena,2469011-26801,10905,50.25095,18.981268,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-26801/
 Katowice Arena,2469011-26802,10904,50.25085,18.981718,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-26802/
+Katowice Arena,2469011-26832,12461,50.252422,18.975174,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-26832/
 Katowice Bonifraterska,2469011-29901,10666,50.26742,19.03561,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29901/
 Katowice Bonifraterska,2469011-29902,10665,50.26754,19.035362,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29902/
 Katowice Ceglana Szpital Kliniczny,2469011-08501,4775,50.24345,19.015188,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-08501/
