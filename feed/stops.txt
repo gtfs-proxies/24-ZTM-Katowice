@@ -790,6 +790,7 @@ Bytom Łużycka,2462011-02502t,3130,50.35099,18.894848,https://rj.transportgzm.p
 Bytom Łużycka,2462011-02503,3131,50.35228,18.89576,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-02503/
 Bytom Żeromskiego Szpital,2462011-04901,11174,50.35256,18.923805,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-04901/
 Bytom Żeromskiego Szpital,2462011-04902,11175,50.352318,18.923515,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-04902/
+Bytom Żołnierza Polskiego,2462011-90331,9106,50.35071,18.924011,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-90331/
 Będzin 11 Listopada,2401011-00101,94,50.320587,19.129326,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-00101/
 Będzin 11 Listopada,2401011-00102,95,50.319786,19.12996,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-00102/
 Będzin Aleja Kołłątaja,2401011-00201,101,50.32535,19.135088,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-00201/
