@@ -4316,6 +4316,7 @@ Osiedle Kopernika Oriona,2466011-10601,1250,50.325638,18.66114,https://rj.transp
 Osiedle Kopernika Oriona,2466011-10602,1251,50.323982,18.661818,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-10602/
 Osiedle Kopernika Perseusza,2466011-10401,3762,50.323208,18.648117,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-10401/
 Osiedle Kopernika Perseusza,2466011-10402,3763,50.322056,18.649319,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-10402/
+Osiedle Kopernika Perseusza,2466011-10433,12467,50.322983,18.648094,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-10433/
 Osiedle Kopernika Pętla,2466011-23201,5561,50.324104,18.660347,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23201/
 Osiedle Kopernika Saturna,2466011-10501,2026,50.325127,18.656164,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-10501/
 Osiedle Kopernika Saturna,2466011-10502,2027,50.32489,18.65624,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-10502/
@@ -7920,6 +7921,7 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Łabędy Poczta,2466011-15601,3015,50.339283,18.618307,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15601/
 Łabędy Poczta,2466011-15602,3016,50.339912,18.619734,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15602/
 Łabędy Poczta,2466011-15603,5687,50.33903,18.619337,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15603/
+Łabędy Poczta,2466011-15632,12466,50.339363,18.618258,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15632/
 Łabędy Rynek,2466011-09201,3017,50.349915,18.616606,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-09201/
 Łabędy Rynek,2466011-09202,3018,50.347958,18.619267,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-09202/
 Łabędy Strzelców Bytomskich,2466011-09301,3019,50.34555,18.623285,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-09301/
