@@ -2419,6 +2419,8 @@ Imielin Sosnowa,2414021-01401,2621,50.159096,19.177649,https://rj.transportgzm.p
 Imielin Sosnowa,2414021-01402,2622,50.15909,19.177778,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-01402/
 Imielin Stadion,2414021-03401,10272,50.139267,19.182648,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03401/
 Imielin Stadion,2414021-03402,10271,50.13936,19.183002,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03402/
+Imielin Stadion Tymczasowy,2414021-05731,12419,50.139256,19.187853,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05731/
+Imielin Stadion Tymczasowy,2414021-05732,12418,50.139336,19.187927,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05732/
 Imielin Szkoła Nr 1,2414021-01801,10280,50.146214,19.190212,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-01801/
 Imielin Szkoła Nr 2,2414021-04501,10597,50.14811,19.18297,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-04501/
 Imielin Szkoła Nr 2,2414021-04502,10596,50.148415,19.18339,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-04502/
@@ -2862,6 +2864,7 @@ Knurów Centrum Przesiadkowe Szpitalna,2405011-00801,8214,50.22708,18.65755,http
 Knurów Centrum Przesiadkowe Szpitalna,2405011-00802,3706,50.22713,18.65761,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405011-00802/
 Knurów Centrum Przesiadkowe Szpitalna,2405011-00803,8022,50.22689,18.65882,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405011-00803/
 Knurów Cmentarz Komunalny,2405011-02401,6958,50.222088,18.638708,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405011-02401/
+Knurów Cztery Pory Roku,2405011-04001,9755,50.236553,18.646744,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405011-04001/
 Knurów Cztery Pory Roku,2405011-04002,9756,50.236324,18.6458,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405011-04002/
 Knurów Cztery Pory Roku,2405011-04031,10453,50.233593,18.647945,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405011-04031/
 Knurów Dworcowa,2405011-00301,3702,50.218246,18.686022,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405011-00301/
@@ -3237,6 +3240,10 @@ Księży Las,2413092-08101,3712,50.439796,18.698357,https://rj.transportgzm.pl/v
 Księży Las,2413092-08102,3713,50.43961,18.698547,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413092-08102/
 Księży Las Leśna nż,2413092-08001,5864,50.444138,18.704128,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413092-08001/
 Księży Las Leśna nż,2413092-08002,7179,50.44399,18.704235,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413092-08002/
+Kukułek Koźla,2475011-22801,12480,50.279552,19.156588,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22801/
+Kukułek Koźla,2475011-22802,12481,50.279594,19.156792,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22802/
+Kukułek Żłobek,2475011-22901,12482,50.278225,19.164764,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22901/
+Kukułek Żłobek,2475011-22902,12483,50.278435,19.163755,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22902/
 Kuźnia Nieborowska Skrzyżowanie,2405042-02001,5708,50.213947,18.615114,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405042-02001/
 Kuźnia Nieborowska Skrzyżowanie,2405042-02002,6940,50.214344,18.612734,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405042-02002/
 Kuźnia Nieborowska Wiejska,2405042-02301,8997,50.21155,18.613188,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405042-02301/
@@ -5646,6 +5653,8 @@ Sosnowiec Kościelna,2475011-12801,1315,50.272285,19.128855,https://rj.transport
 Sosnowiec Kościelna,2475011-12802,1316,50.271687,19.128489,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12802/
 Sosnowiec Kościelna/Mediateka,2475011-12801,11148,50.272285,19.128855,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12801/
 Sosnowiec Kościelna/Mediateka,2475011-12802,11149,50.271687,19.128489,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12802/
+Sosnowiec Kukułek,2475011-23001,12485,50.27697,19.172756,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-23001/
+Sosnowiec Kukułek,2475011-23002,12484,50.277004,19.1728,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-23002/
 Sosnowiec Małachowskiego,2475011-12901t,11382,50.27572,19.132732,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12901t/
 Sosnowiec Małachowskiego,2475011-12901t,4347,50.27572,19.132732,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12901t/
 Sosnowiec Osiedle Piastów,2475011-13001,2062,50.27971,19.11218,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13001/
@@ -5687,7 +5696,9 @@ Sosnowiec Stawiki,2475011-12101t,10110,50.274387,19.114504,https://rj.transportg
 Sosnowiec Stawiki,2475011-12101t,11270,50.274387,19.114504,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12101t/
 Sosnowiec Stawiki,2475011-12102t,10111,50.274372,19.114704,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12102t/
 Sosnowiec Stawiki,2475011-12102t,11271,50.274372,19.114704,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12102t/
+Sosnowiec Szpital Wojewódzki,2475011-13801,12478,50.305393,19.12407,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13801/
 Sosnowiec Szpital Wojewódzki,2475011-13801,2976,50.305355,19.122847,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13801/
+Sosnowiec Szpital Wojewódzki,2475011-13802,12479,50.30519,19.12024,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13802/
 Sosnowiec Sąd,2475011-13501t,11380,50.273476,19.14115,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13501t/
 Sosnowiec Sąd,2475011-13501t,4345,50.273476,19.14115,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13501t/
 Sosnowiec Sąd,2475011-13502t,11381,50.273476,19.141117,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13502t/
@@ -6154,6 +6165,7 @@ Szombierki Wyzwolenia,2462011-12701t,11677,50.33931,18.904257,https://rj.transpo
 Szombierki Wyzwolenia,2462011-12702t,11678,50.33905,18.903645,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12702t/
 Szopienice Bednorza,2469011-24501,2961,50.263824,19.087452,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24501/
 Szopienice Bednorza,2469011-24502,2962,50.26399,19.087366,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24502/
+Szopienice Bednorza,2469011-24503,7115,50.264103,19.085564,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24503/
 Szopienice Chemiczna,2469011-24601t,4454,50.259308,19.111914,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24601t/
 Szopienice Chemiczna,2469011-24632,8305,50.259758,19.111425,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24632/
 Szopienice Dolina 5 Stawów,2469011-25401t,11268,50.269238,19.111088,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25401t/
@@ -6167,6 +6179,8 @@ Szopienice Dwór,2469011-24701t,4317,50.261993,19.101795,https://rj.transportgzm
 Szopienice Dwór,2469011-24702,10107,50.26204,19.101496,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24702/
 Szopienice Dwór,2469011-24702t,11265,50.26206,19.10171,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24702t/
 Szopienice Dwór,2469011-24702t,4318,50.26206,19.10171,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24702t/
+Szopienice Hala Sportowa,2469011-42201,12476,50.260056,19.090466,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-42201/
+Szopienice Hala Sportowa,2469011-42202,12477,50.26009,19.090992,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-42202/
 Szopienice Kocura nż,2469011-31701,5328,50.266106,19.088417,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-31701/
 Szopienice Kocura nż,2469011-31702,5327,50.266273,19.088766,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-31702/
 Szopienice Kościół,2469011-24801,2969,50.2621,19.09483,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24801/
@@ -6183,6 +6197,8 @@ Szopienice Morawa,2469011-24902t,11267,50.26348,19.107063,https://rj.transportgz
 Szopienice Morawa,2469011-24902t,4320,50.26348,19.107063,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24902t/
 Szopienice Morawa,2469011-24931,8749,50.263935,19.10699,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24931/
 Szopienice Morawa,2469011-24932,8750,50.264126,19.106813,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24932/
+Szopienice Muzeum Walcownia,2469011-37631,12487,50.263657,19.0782,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37631/
+Szopienice Muzeum Walcownia,2469011-37632,12488,50.2637,19.077732,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37632/
 Szopienice Osiedlowa,2469011-25001,4910,50.264736,19.1037,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25001/
 Szopienice Osiedlowa,2469011-25002,4911,50.264793,19.104065,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25002/
 Szopienice PKP,2469011-37701,8280,50.257835,19.093803,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37701/
@@ -6197,6 +6213,8 @@ Szopienice Roździeńska,2469011-25301t,11261,50.262344,19.071692,https://rj.tra
 Szopienice Roździeńska,2469011-25301t,2974,50.262344,19.071692,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25301t/
 Szopienice Roździeńska,2469011-25302t,11262,50.26211,19.07154,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25302t/
 Szopienice Roździeńska,2469011-25302t,2975,50.26211,19.07154,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25302t/
+Szopienice Roździeńska Szkoła,2469011-37631,12474,50.263657,19.0782,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37631/
+Szopienice Roździeńska Szkoła,2469011-37632,12475,50.2637,19.077732,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37632/
 Szopienice Roździeńska nż,2469011-25301,2973,50.262386,19.071917,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25301/
 Szopienice Roździeńska nż,2469011-25302,5299,50.262173,19.071701,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25302/
 Szopienice Szpital Geriatryczny,2469011-25501,4912,50.265697,19.092457,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25501/
@@ -6813,6 +6831,7 @@ Tychy Turyńska,2477011-08801,12040,50.109974,19.061413,https://rj.transportgzm.
 Tychy Turyńska,2477011-08801,6396,50.109974,19.061413,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08801/
 Tychy Turyńska,2477011-08802,12218,50.109882,19.061531,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08802/
 Tychy Turyńska,2477011-08802,6425,50.109882,19.061531,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-08802/
+Tychy Tyskie Browary Książęce,2477011-25931,12454,50.128357,18.988092,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-25931/
 Tychy Tęcza,2477011-05001,12019,50.111652,19.002161,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05001/
 Tychy Tęcza,2477011-05001,6263,50.111652,19.002161,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05001/
 Tychy Tęcza,2477011-05002,12023,50.11161,19.00145,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-05002/
@@ -7673,6 +7692,7 @@ Zawodzie Centrum Przesiadkowe,2469011-29501,4472,50.25968,19.06431,https://rj.tr
 Zawodzie Centrum Przesiadkowe,2469011-29501t,4473,50.25981,19.064482,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29501t/
 Zawodzie Centrum Przesiadkowe,2469011-29502,8121,50.26039,19.06319,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29502/
 Zawodzie Centrum Przesiadkowe,2469011-29502t,4475,50.260338,19.063347,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29502t/
+Zawodzie Centrum Przesiadkowe,2469011-29504t,4474,50.25983,19.064034,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29504t/
 Zawodzie Centrum Przesiadkowe,2469011-29505,8122,50.260326,19.064116,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29505/
 Zawodzie Centrum Przesiadkowe,2469011-29505t,6930,50.26048,19.064384,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29505t/
 Zawodzie Centrum Przesiadkowe Parking,2469011-28101a,7351,50.2589,19.066294,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28101a/
