@@ -3241,9 +3241,13 @@ Księży Las,2413092-08102,3713,50.43961,18.698547,https://rj.transportgzm.pl/v2
 Księży Las Leśna nż,2413092-08001,5864,50.444138,18.704128,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413092-08001/
 Księży Las Leśna nż,2413092-08002,7179,50.44399,18.704235,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413092-08002/
 Kukułek Koźla,2475011-22801,12480,50.279552,19.156588,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22801/
+Kukułek Koźla,2475011-22801,12489,50.279552,19.156588,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22801/
 Kukułek Koźla,2475011-22802,12481,50.279594,19.156792,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22802/
+Kukułek Koźla,2475011-22802,12490,50.279594,19.156792,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22802/
 Kukułek Żłobek,2475011-22901,12482,50.278225,19.164764,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22901/
+Kukułek Żłobek,2475011-22901,12491,50.278225,19.164764,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22901/
 Kukułek Żłobek,2475011-22902,12483,50.278435,19.163755,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22902/
+Kukułek Żłobek,2475011-22902,12492,50.278435,19.163755,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22902/
 Kuźnia Nieborowska Skrzyżowanie,2405042-02001,5708,50.213947,18.615114,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405042-02001/
 Kuźnia Nieborowska Skrzyżowanie,2405042-02002,6940,50.214344,18.612734,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405042-02002/
 Kuźnia Nieborowska Wiejska,2405042-02301,8997,50.21155,18.613188,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405042-02301/
@@ -5654,7 +5658,9 @@ Sosnowiec Kościelna,2475011-12802,1316,50.271687,19.128489,https://rj.transport
 Sosnowiec Kościelna/Mediateka,2475011-12801,11148,50.272285,19.128855,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12801/
 Sosnowiec Kościelna/Mediateka,2475011-12802,11149,50.271687,19.128489,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12802/
 Sosnowiec Kukułek,2475011-23001,12485,50.27697,19.172756,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-23001/
+Sosnowiec Kukułek,2475011-23001,12494,50.27697,19.172756,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-23001/
 Sosnowiec Kukułek,2475011-23002,12484,50.277004,19.1728,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-23002/
+Sosnowiec Kukułek,2475011-23002,12493,50.277004,19.1728,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-23002/
 Sosnowiec Małachowskiego,2475011-12901t,11382,50.27572,19.132732,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12901t/
 Sosnowiec Małachowskiego,2475011-12901t,4347,50.27572,19.132732,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12901t/
 Sosnowiec Osiedle Piastów,2475011-13001,2062,50.27971,19.11218,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13001/
