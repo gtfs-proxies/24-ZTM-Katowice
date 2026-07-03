@@ -5349,6 +5349,8 @@ Ruda Południowa DTŚ,2472011-13501,7612,50.29841,18.856781,https://rj.transport
 Ruda Południowa DTŚ,2472011-13502,7611,50.29947,18.860634,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-13502/
 Ruda RSM,2472011-13201,2584,50.30672,18.857887,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-13201/
 Ruda RSM,2472011-13202,8000,50.306515,18.85879,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-13202/
+Ruda Sobieskiego,2472011-09301,2704,50.328175,18.855295,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09301/
+Ruda Sobieskiego,2472011-09302,2705,50.328117,18.854996,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09302/
 Ruda Starowiejska,2472011-09401,2757,50.31439,18.845451,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09401/
 Ruda Szczęść Boże,2472011-09501,2919,50.317448,18.836285,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09501/
 Ruda Szczęść Boże,2472011-09502,2920,50.317387,18.836258,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09502/
