@@ -776,6 +776,7 @@ Bytom Zamłynie,2462011-05501t,11602,50.34241,18.914621,https://rj.transportgzm.
 Bytom Zamłynie,2462011-05501t,3452,50.34241,18.914621,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-05501t/
 Bytom Zamłynie,2462011-05502t,11603,50.342304,18.914236,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-05502t/
 Bytom Zamłynie,2462011-05502t,3453,50.342304,18.914236,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-05502t/
+Bytom Zamłynie,2462011-05532,9499,50.34221,18.914331,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-05532/
 Bytom Łagiewnicka,2462011-02401,4583,50.340794,18.917673,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-02401/
 Bytom Łagiewnicka,2462011-02401t,11643,50.341595,18.917046,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-02401t/
 Bytom Łagiewnicka,2462011-02401t,4584,50.341595,18.917046,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-02401t/
@@ -931,6 +932,7 @@ Chebzie Pętla,2472011-02304t,4281,50.30047,18.88284,https://rj.transportgzm.pl/
 Chebzie Pętla,2472011-02305t,4282,50.300964,18.883234,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02305t/
 Chebzie Rondo,2472011-02401,413,50.30081,18.881725,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02401/
 Chebzie Rondo,2472011-02402,414,50.300594,18.881008,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02402/
+Chebzie Rondo,2472011-02403,8927,50.30044,18.88383,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02403/
 Chebzie Rondo,2472011-02404,7514,50.30037,18.883585,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02404/
 Chebzie Styczyńskiego,2472011-02501,5658,50.30143,18.874369,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02501/
 Chebzie Styczyńskiego,2472011-02501t,4673,50.301353,18.875065,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02501t/
@@ -2360,6 +2362,8 @@ Helenka PCK,2478011-02201,1159,50.37511,18.804974,https://rj.transportgzm.pl/v2/
 Helenka PCK,2478011-02202,1160,50.37538,18.80505,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-02202/
 Hołdunów Fińskie Domki,2414031-03201,1165,50.14161,19.141954,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-03201/
 Hołdunów Fińskie Domki,2414031-03202,1166,50.14152,19.141493,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-03202/
+Hołdunów Gwarków nż,2414031-02901,1167,50.15017,19.146488,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-02901/
+Hołdunów Gwarków nż,2414031-02902,1168,50.150597,19.14608,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-02902/
 Hołdunów Imielińska,2414031-02801,1171,50.1513,19.134611,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-02801/
 Hołdunów Imielińska,2414031-02802,1172,50.151794,19.134523,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-02802/
 Hołdunów Kościół,2414031-03001,1163,50.147198,19.133505,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-03001/
@@ -2396,7 +2400,9 @@ Imielin Hallera Dworzec,2414021-04202,10405,50.142605,19.176577,https://rj.trans
 Imielin Heweliusza,2414021-00801,5028,50.15831,19.184633,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-00801/
 Imielin Heweliusza,2414021-00802,5029,50.158226,19.18445,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-00802/
 Imielin Leśna,2414021-00901,1169,50.145226,19.156605,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-00901/
+Imielin Leśna,2414021-00901,12497,50.145756,19.156427,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-00901/
 Imielin Leśna,2414021-00902,1170,50.14515,19.156906,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-00902/
+Imielin Leśna,2414021-00902,12496,50.145596,19.157316,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-00902/
 Imielin Maratońska,2414021-01001,1233,50.154156,19.228735,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-01001/
 Imielin Maratońska,2414021-01002,1234,50.153564,19.227673,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-01002/
 Imielin Marka,2414021-05601,11123,50.145107,19.200876,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-05601/
@@ -6135,6 +6141,8 @@ Szombierki Frycza-Modrzewskiego,2462011-12501t,11701,50.332943,18.894096,https:/
 Szombierki Frycza-Modrzewskiego,2462011-12501t,5166,50.332943,18.894096,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12501t/
 Szombierki Frycza-Modrzewskiego,2462011-12502t,11702,50.332993,18.894182,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12502t/
 Szombierki Frycza-Modrzewskiego,2462011-12502t,5167,50.332993,18.894182,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12502t/
+Szombierki Frycza-Modrzewskiego,2462011-12531,8076,50.333443,18.894573,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12531/
+Szombierki Frycza-Modrzewskiego,2462011-12532,8075,50.333004,18.894123,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12532/
 Szombierki Godulska,2462011-12601,3816,50.3352,18.88775,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12601/
 Szombierki Kolonia Górnicza,2462011-12701t,4658,50.33931,18.904257,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12701t/
 Szombierki Kolonia Górnicza,2462011-12702t,4659,50.33905,18.903645,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12702t/
