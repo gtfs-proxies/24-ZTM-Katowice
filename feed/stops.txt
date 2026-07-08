@@ -5193,6 +5193,7 @@ Radzionków Knosały,2413031-00302,2502,50.404167,18.902632,https://rj.transport
 Radzionków Knosały Sady nż,2413031-01601,5592,50.41606,18.886904,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413031-01601/
 Radzionków Knosały Sady nż,2413031-01602,5593,50.416527,18.886602,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413031-01602/
 Radzionków Kościół,2413031-00401,2503,50.404095,18.907234,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413031-00401/
+Radzionków Kościół,2413031-00431,12500,50.403038,18.905909,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413031-00431/
 Radzionków Norwida,2413031-00501,2504,50.407867,18.908125,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413031-00501/
 Radzionków Plac Letochów,2413031-00601,2505,50.39906,18.902782,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413031-00601/
 Radzionków Plac Letochów,2413031-00602,5113,50.39945,18.901226,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413031-00602/
