@@ -6180,6 +6180,8 @@ Szombierki Szyb Krystyna,2462011-12802,11238,50.340168,18.907299,https://rj.tran
 Szombierki Szyb Krystyna,2462011-12802t,11581,50.34065,18.908361,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12802t/
 Szombierki Wyzwolenia,2462011-12701t,11677,50.33931,18.904257,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12701t/
 Szombierki Wyzwolenia,2462011-12702t,11678,50.33905,18.903645,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12702t/
+Szombierki Wyzwolenia,2462011-12731,12505,50.33907,18.903408,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12731/
+Szombierki Wyzwolenia,2462011-12732,12506,50.33875,18.903704,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12732/
 Szopienice Bednorza,2469011-24501,2961,50.263824,19.087452,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24501/
 Szopienice Bednorza,2469011-24502,2962,50.26399,19.087366,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24502/
 Szopienice Bednorza,2469011-24503,7115,50.264103,19.085564,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24503/
