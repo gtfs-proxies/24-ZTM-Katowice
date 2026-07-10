@@ -3918,12 +3918,15 @@ Mąkołowiec Przepiórek,2477011-03502,6144,50.138714,18.972664,https://rj.trans
 Mąkołowiec Pętla,2477011-03801,6139,50.14975,18.969639,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-03801/
 Mąkołowiec Sikorek,2477011-03001,6148,50.144066,18.979572,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-03001/
 Mąkołowiec Sikorek,2477011-03002,6159,50.144,18.979616,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-03002/
+Mąkołowiec Sikorek,2477011-03031,10977,50.14379,18.981688,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-03031/
+Mąkołowiec Sikorek,2477011-03032,10976,50.144,18.980679,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-03032/
 Mąkołowiec Szpakowa,2477011-02901,6146,50.140106,18.974821,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-02901/
 Mąkołowiec Szpakowa,2477011-02902,6155,50.14,18.974895,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-02902/
 Mąkołowiec Zielone Wzgórze,2477011-03201,6158,50.14076,18.980099,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-03201/
 Mąkołowiec Zielone Wzgórze,2477011-03202,6152,50.141823,18.980904,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-03202/
 Mąkołowiec Ziębia,2477011-03101,8709,50.13729,18.976505,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-03101/
 Mąkołowiec Ziębia,2477011-03102,6145,50.13775,18.975452,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-03102/
+Mąkołowiec Ziębia,2477011-03131,10978,50.137936,18.97629,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-03131/
 Mąkołowiec Łabędzia,2477011-02801,6138,50.144688,18.973984,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-02801/
 Mąkołowiec Łabędzia,2477011-02802,6143,50.144646,18.97408,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-02802/
 Najdziszów Pętla,2401052-02601,3901,50.424873,19.099998,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401052-02601/
@@ -4493,11 +4496,15 @@ Ostrowy Górnicze Kolonia Leśna,2475011-07504,2166,50.27947,19.261816,https://r
 Ostrowy Górnicze Kolonia Leśna Sklep,2475011-07601,2161,50.280148,19.270754,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07601/
 Ostrowy Górnicze Kolonia Leśna Sklep,2475011-07602,2162,50.28025,19.271624,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07602/
 Ostrowy Górnicze Kościół,2475011-07701,2158,50.290016,19.259413,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07701/
+Ostrowy Górnicze Niecała,2475011-07801,2167,50.28463,19.26659,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07801/
+Ostrowy Górnicze Niecała,2475011-07802,2168,50.284588,19.266645,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07802/
 Ostrowy Górnicze Niecała,2475011-07803,7163,50.285378,19.262093,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07803/
 Ostrowy Górnicze Niecała,2475011-07804,7162,50.286064,19.26233,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07804/
+Ostrowy Górnicze Pomnik,2475011-07901,2169,50.29071,19.268362,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07901/
 Ostrowy Górnicze Pomnik,2475011-07902,2170,50.291424,19.26822,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07902/
 Ostrowy Górnicze Pomnik,2475011-07903,7136,50.289772,19.267124,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07903/
 Ostrowy Górnicze Pomnik,2475011-07904,7407,50.289646,19.268661,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07904/
+Ostrowy Górnicze Pomnik,2475011-07933,12501,50.291443,19.267702,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07933/
 Ostrowy Górnicze Rondo,2475011-08001,2171,50.288433,19.260077,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08001/
 Ostrożnica Droga do Brynicy nż,2413072-00501,3802,50.451855,18.968748,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413072-00501/
 Ostrożnica Droga do Brynicy nż,2413072-00502,3801,50.45191,18.968555,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413072-00502/
