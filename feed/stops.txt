@@ -2971,6 +2971,7 @@ Kolonia Agnieszki Bytomska,2469011-11302,3231,50.28696,19.006605,https://rj.tran
 Kolonia Agnieszki Promienna,2469011-11401,3238,50.28752,19.00739,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-11401/
 Kolonia Agnieszki Promienna,2469011-11402,3239,50.287346,19.007538,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-11402/
 Kolonia Amandy nż,2469011-11501,9057,50.245846,19.060541,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-11501/
+Kolonia Amandy nż,2469011-11502,9059,50.245583,19.06174,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-11502/
 Kolonia Amandy nż,2469011-11503,9060,50.24615,19.06225,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-11503/
 Kolonia Cieśle,2475011-03701,1376,50.2756,19.2928,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-03701/
 Kolonia Cieśle,2475011-03702,1377,50.2767,19.292116,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-03702/
@@ -3962,6 +3963,8 @@ Niezdara,2413062-00101,3838,50.45011,18.989872,https://rj.transportgzm.pl/v2/roz
 Niezdara,2413062-00102,3839,50.450325,18.989422,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-00102/
 Nikiszowiec Kościół,2469011-17401,1849,50.243652,19.08182,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-17401/
 Nikiszowiec Kościół,2469011-17402,1850,50.243618,19.082216,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-17402/
+Nikiszowiec Kościół,2469011-17431,8418,50.243874,19.07924,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-17431/
+Nikiszowiec Kościół,2469011-17432,8419,50.24444,19.079659,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-17432/
 Nikiszowiec Lodowisko,2469011-37501,7116,50.244892,19.082,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37501/
 Nikiszowiec Szpital,2469011-17501,1851,50.246067,19.079905,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-17501/
 Nikiszowiec Szpital,2469011-17502,5273,50.24614,19.080156,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-17502/
@@ -4428,6 +4431,7 @@ Osiedle Wieczorka Dworzec,2471011-03004,2109,50.39167,18.96099,https://rj.transp
 Osiedle Wieczorka Dworzec,2471011-03005,5682,50.391727,18.960346,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03005/
 Osiedle Wieczorka Konstytucji 3 Maja,2471011-03101,3817,50.38764,18.957315,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03101/
 Osiedle Wieczorka Konstytucji 3 Maja,2471011-03102,3818,50.38828,18.955338,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03102/
+Osiedle Wieczorka Konstytucji 3 Maja,2471011-03132,8837,50.387573,18.955896,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03132/
 Osiedle Wieczorka MOSiR,2471011-03201,6005,50.395786,18.955406,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03201/
 Osiedle Wieczorka Szkoła,2471011-03301,2107,50.389942,18.954441,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03301/
 Osiedle Wieczorka Szkoła,2471011-03302,2108,50.390095,18.953926,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03302/
@@ -4713,6 +4717,8 @@ Piekary Bazylika,2471011-03802,3531,50.38448,18.944351,https://rj.transportgzm.p
 Piekary Dwór,2471011-03701,2226,50.391586,18.945887,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03701/
 Piekary Dwór,2471011-03702,2227,50.390614,18.945387,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03702/
 Piekary Dwór,2471011-03703,2228,50.390877,18.947258,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03703/
+Piekary Dwór,2471011-03732,8835,50.388138,18.94585,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03732/
+Piekary Dwór,2471011-03733,8836,50.388145,18.945696,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03733/
 Piekary Kopalnia,2471011-04301,2904,50.380554,18.950283,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-04301/
 Piekary Kopalnia,2471011-04302,2903,50.380676,18.95081,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-04302/
 Piekary Lipka,2471011-03901,1607,50.399426,18.947098,https://rj.transportgzm.pl/v2/rozklady/przystanek/2471011-03901/
