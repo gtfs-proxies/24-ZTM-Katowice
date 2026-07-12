@@ -4352,6 +4352,7 @@ Osiedle Naftowa,2475011-07101,2052,50.26834,19.124584,https://rj.transportgzm.pl
 Osiedle Naftowa,2475011-07102,2053,50.268635,19.12451,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07102/
 Osiedle Naftowa Akacjowa,2475011-07201,2054,50.272076,19.12003,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07201/
 Osiedle Naftowa Akacjowa,2475011-07202,2055,50.272194,19.120026,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07202/
+Osiedle Naftowa Akacjowa,2475011-07203,12285,50.273067,19.11914,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07203/
 Osiedle Naftowa Pętla,2475011-07301,2056,50.266,19.12863,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07301/
 Osiedle Naftowa Pętla,2475011-07302,7916,50.26568,19.129047,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-07302/
 Osiedle Obrońców Pokoju,2466011-11001,2057,50.321182,18.693329,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-11001/
@@ -5685,6 +5686,8 @@ Sosnowiec Kukułek,2475011-23002,12484,50.277004,19.1728,https://rj.transportgzm
 Sosnowiec Kukułek,2475011-23002,12493,50.277004,19.1728,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-23002/
 Sosnowiec Małachowskiego,2475011-12901t,11382,50.27572,19.132732,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12901t/
 Sosnowiec Małachowskiego,2475011-12901t,4347,50.27572,19.132732,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12901t/
+Sosnowiec Mierosławskiego,2475011-22001,7917,50.2709,19.125683,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22001/
+Sosnowiec Mierosławskiego,2475011-22002,8521,50.27034,19.126335,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-22002/
 Sosnowiec Osiedle Piastów,2475011-13001,2062,50.27971,19.11218,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13001/
 Sosnowiec Osiedle Piastów,2475011-13001t,11322,50.27966,19.111935,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13001t/
 Sosnowiec Osiedle Piastów,2475011-13001t,2063,50.27966,19.111935,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13001t/
@@ -6191,6 +6194,7 @@ Szombierki Szyb Krystyna,2462011-12801t,11580,50.340714,18.908388,https://rj.tra
 Szombierki Szyb Krystyna,2462011-12802,11217,50.340168,18.907299,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12802/
 Szombierki Szyb Krystyna,2462011-12802,11238,50.340168,18.907299,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12802/
 Szombierki Szyb Krystyna,2462011-12802t,11581,50.34065,18.908361,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12802t/
+Szombierki Szyb Krystyna,2462011-12831,11245,50.34047,18.908945,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12831/
 Szombierki Wyzwolenia,2462011-12701t,11677,50.33931,18.904257,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12701t/
 Szombierki Wyzwolenia,2462011-12702t,11678,50.33905,18.903645,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12702t/
 Szombierki Wyzwolenia,2462011-12731,12505,50.33907,18.903408,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-12731/
