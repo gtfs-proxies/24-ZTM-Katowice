@@ -3618,6 +3618,8 @@ Mikołów Gronie Wspólna,2408021-01801,6445,50.161606,18.919384,https://rj.tran
 Mikołów Gronie Wspólna,2408021-01802,6448,50.161594,18.918697,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-01802/
 Mikołów Hubera,2408021-00701,6846,50.168488,18.894236,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-00701/
 Mikołów Hubera,2408021-00702,6847,50.16842,18.894032,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-00702/
+Mikołów Jagodowa,2408021-11301,12516,50.178154,18.924099,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-11301/
+Mikołów Jagodowa,2408021-11302,12515,50.17853,18.925634,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-11302/
 Mikołów Katowicka,2408021-02302,6441,50.1883,18.918247,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-02302/
 Mikołów Katowicka,2408021-02331,9776,50.18841,18.917858,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-02331/
 Mikołów Kolonia,2408021-01601,5178,50.157024,18.901476,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-01601/
@@ -7801,6 +7803,8 @@ Załęże Wiśniowa,2469011-27601,3464,50.268288,18.979015,https://rj.transportg
 Załęże Wiśniowa,2469011-27601t,3465,50.269333,18.980267,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-27601t/
 Załęże Wiśniowa,2469011-27602,3466,50.268307,18.979305,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-27602/
 Załęże Wiśniowa,2469011-27602t,3467,50.26925,18.979895,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-27602t/
+Załęże Wiśniowa,2469011-27631,7258,50.268803,18.980303,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-27631/
+Załęże Wiśniowa,2469011-27632,7259,50.268723,18.980608,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-27632/
 Załęże Żeliwna Park Technologiczny,2469011-38801,7100,50.25981,18.99603,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-38801/
 Załęże Żeliwna Park Technologiczny,2469011-38832,10427,50.259914,18.99588,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-38832/
 Zbrosławice Dom Opieki,2413092-06601,623,50.413376,18.736855,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413092-06601/
