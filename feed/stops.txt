@@ -661,6 +661,7 @@ Bytom Legionów nż,2462011-02301,3810,50.354263,18.908838,https://rj.transportg
 Bytom Legionów nż,2462011-02302,3811,50.354202,18.908945,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-02302/
 Bytom Lodowisko,2462011-14901,8945,50.349243,18.892597,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-14901/
 Bytom Lodowisko,2462011-14902,8946,50.348858,18.895283,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-14902/
+Bytom Lodowisko,2462011-14932,12524,50.348408,18.894484,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-14932/
 Bytom Matejki,2462011-02601,3602,50.348152,18.92757,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-02601/
 Bytom Miarki,2462011-15201,8952,50.343597,18.926262,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-15201/
 Bytom Mickiewicza,2462011-02701,1683,50.357624,18.928923,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-02701/
@@ -712,6 +713,7 @@ Bytom Prusa,2462011-04201,2423,50.3518,18.930742,https://rj.transportgzm.pl/v2/r
 Bytom Prusa,2462011-04202,2424,50.351765,18.930548,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-04202/
 Bytom Pułaskiego,2462011-13601,9041,50.348297,18.899326,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-13601/
 Bytom Pułaskiego,2462011-13602,9042,50.348167,18.900166,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-13602/
+Bytom Pułaskiego,2462011-13631,12523,50.347828,18.899601,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-13631/
 Bytom Sandomierska,2462011-04301,2614,50.356365,18.930216,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-04301/
 Bytom Smolenia,2462011-04501,10661,50.35239,18.919907,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-04501/
 Bytom Smolenia,2462011-04501t,11636,50.351933,18.9196,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-04501t/
@@ -4697,6 +4699,8 @@ Piaski Żeromskiego,2401021-03301,2237,50.309464,19.091042,https://rj.transportg
 Piaski Żeromskiego,2401021-03302,2238,50.309326,19.091396,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401021-03302/
 Piaśniki Korfantego,2476011-01201,2229,50.30155,18.912228,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-01201/
 Piaśniki Korfantego,2476011-01202,2230,50.301662,18.91195,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-01202/
+Piaśniki Korfantego,2476011-01231,7565,50.300648,18.910631,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-01231/
+Piaśniki Korfantego,2476011-01232,7566,50.300785,18.910353,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-01232/
 Piaśniki Krasickiego,2476011-01301,2231,50.298805,18.916445,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-01301/
 Piaśniki Krasickiego,2476011-01302,2232,50.29864,18.916552,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-01302/
 Piaśniki Osiedle Skałka,2476011-01401t,11618,50.298748,18.917904,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-01401t/
@@ -7847,6 +7851,7 @@ Zgoda Centrum Kultury,2476011-03401,3489,50.282578,18.906757,https://rj.transpor
 Zgoda Centrum Kultury,2476011-03402,3490,50.28243,18.90674,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-03402/
 Zgoda Ceramiczna nż,2476011-02701,4770,50.276447,18.904238,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-02701/
 Zgoda Ceramiczna nż,2476011-02701t,4771,50.276093,18.904675,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-02701t/
+Zgoda Ceramiczna nż,2476011-02702,12522,50.2759,18.903784,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-02702/
 Zgoda Ceramiczna nż,2476011-02702t,4772,50.275936,18.903679,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-02702t/
 Zgoda Cmentarz,2476011-02801,3568,50.277786,18.922956,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-02801/
 Zgoda Droga Kochłowicka,2476011-02901,3479,50.275986,18.909563,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-02901/
@@ -8258,8 +8263,12 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Świerczyniec Barwna nż,2414042-02616,6807,50.071384,19.046585,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414042-02616/
 Świerczyniec Klub,2414042-02513,6808,50.065063,19.047396,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414042-02513/
 Świerczyniec Klub,2414042-02514,6797,50.06607,19.047379,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414042-02514/
+Świerczyniec Klubowa,2414042-03031,12518,50.067604,19.059565,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414042-03031/
+Świerczyniec Klubowa,2414042-03032,12517,50.067566,19.05907,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414042-03032/
 Świerczyniec Pętla,2414042-02717,8587,50.077805,19.049086,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414042-02717/
 Świerczyniec Pętla,2414042-02718,8586,50.077763,19.048967,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414042-02718/
+Świerczyniec Siewna,2414042-03131,12520,50.073746,19.054012,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414042-03131/
+Świerczyniec Siewna,2414042-03132,12519,50.073532,19.053457,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414042-03132/
 Świerczyniec Sklep,2414042-02411,6796,50.059353,19.04578,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414042-02411/
 Świerczyniec Sklep,2414042-02412,6809,50.058914,19.04563,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414042-02412/
 Świerklaniec Bank,2413072-00901,1902,50.446552,18.935993,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413072-00901/
