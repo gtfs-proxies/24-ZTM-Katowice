@@ -4860,6 +4860,8 @@ Piotrowice Wojska Polskiego,2469011-32701,5478,50.20509,18.971502,https://rj.tra
 Piotrowice Wojska Polskiego,2469011-32702,5484,50.204994,18.971655,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-32702/
 Pisarzowice,2405075-02701,5921,50.440712,18.538944,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02701/
 Pisarzowice,2405075-02702,5922,50.440845,18.539064,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02702/
+Pisarzowice,2405075-02731,12643,50.44062,18.538116,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02731/
+Pisarzowice,2405075-02732,12642,50.44056,18.538296,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02732/
 Pisarzowice Grabów,2405075-02501,5924,50.439598,18.53085,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02501/
 Pisarzowice Grabów,2405075-02502,5923,50.440296,18.530754,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02502/
 Pisarzowice Grabów,2405075-02503,7906,50.439903,18.530561,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02503/
