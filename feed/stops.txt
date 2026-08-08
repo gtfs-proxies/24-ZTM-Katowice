@@ -6495,7 +6495,9 @@ Trynek Cichociemnych,2466011-17102,2131,50.28223,18.667526,https://rj.transportg
 Trynek Kilińskiego,2466011-19801,8285,50.277035,18.674084,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-19801/
 Trynek Kilińskiego,2466011-19802,5516,50.27642,18.672825,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-19802/
 Trynek Lotników,2466011-16801,1612,50.282246,18.676598,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-16801/
+Trynek Lotników,2466011-16802,1613,50.28257,18.676367,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-16802/
 Trynek Nowe Gliwice,2466011-16401,1404,50.27817,18.681076,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-16401/
+Trynek Nowe Gliwice,2466011-16402,1405,50.278557,18.680914,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-16402/
 Trynek Nowe Gliwice,2466011-16432,10112,50.27873,18.681797,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-16432/
 Trynek Ogródki Działkowe nż,2466011-17001,3119,50.270123,18.661072,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-17001/
 Trynek Ogródki Działkowe nż,2466011-17002,3120,50.27022,18.66123,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-17002/
