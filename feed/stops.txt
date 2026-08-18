@@ -5388,14 +5388,19 @@ Reta Koja,2408021-03901,6543,50.176533,18.90415,https://rj.transportgzm.pl/v2/ro
 Reta Konopnickiej,2408021-04101,6428,50.1796,18.898941,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-04101/
 Reta Kościół,2408021-03801,6429,50.179317,18.890041,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-03801/
 Reta Manhattan,2408021-04501,6533,50.182106,18.890299,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-04501/
+Reta Manhattan,2408021-04502,6550,50.182156,18.890417,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-04502/
 Reta Posesja,2408021-04801,6541,50.189423,18.902092,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-04801/
+Reta Posesja,2408021-04802,6537,50.18946,18.902264,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-04802/
+Reta Przyjaźni,2408021-04301,6535,50.182972,18.898624,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-04301/
 Reta Przyjaźni,2408021-04302,6548,50.183083,18.898571,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-04302/
 Reta Sklep,2408021-04201,6542,50.184364,18.900383,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-04201/
+Reta Sklep,2408021-04202,6536,50.18445,18.900492,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-04202/
 Reta Storczyków,2408021-04601,6551,50.18283,18.884598,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-04601/
 Reta Storczyków,2408021-04602,6552,50.182858,18.88442,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-04602/
 Reta Waryńskiego,2408021-09501,6544,50.181995,18.904127,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-09501/
 Reta Wyzwolenia,2408021-03701,2519,50.17666,18.893421,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-03701/
 Reta Wyzwolenia,2408021-03702,2520,50.176456,18.893475,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-03702/
+Reta Zielona,2408021-04401,6534,50.184258,18.894312,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-04401/
 Reta Zielona,2408021-04402,6549,50.184223,18.894558,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-04402/
 Rogoźnik Narutowicza,2401042-02701,2526,50.384613,19.037788,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401042-02701/
 Rogoźnik Narutowicza,2401042-02702,2527,50.384544,19.037907,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401042-02702/
@@ -8387,6 +8392,7 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Śmiłowice Biblioteka,2408021-05202,11,50.19982,18.86249,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-05202/
 Śmiłowice Las,2408021-05001,6,50.212765,18.844788,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-05001/
 Śmiłowice Las,2408021-05002,7,50.212173,18.845598,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-05002/
+Śmiłowice Leśniczówka,2408021-05301,6540,50.193996,18.898077,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-05301/
 Śmiłowice Leśniczówka,2408021-05302,6538,50.19399,18.89829,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-05302/
 Śmiłowice Osiedle,2408021-05501,8675,50.19398,18.872864,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-05501/
 Śmiłowice Pętla,2408021-05401,6539,50.192093,18.885815,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-05401/
