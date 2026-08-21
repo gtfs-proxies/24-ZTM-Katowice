@@ -1098,6 +1098,7 @@ Chorzów Miasto PKP,2463011-03801,9109,50.298527,18.950165,https://rj.transportg
 Chorzów Miasto PKP,2463011-03802,9110,50.29833,18.95036,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03802/
 Chorzów Miasto PKP,2463011-03831,10504,50.297855,18.949951,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03831/
 Chorzów Muzeum Hutnictwa,2463011-03701,9702,50.302208,18.951979,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03701/
+Chorzów Muzeum Hutnictwa,2463011-03701t,9703,50.302406,18.952242,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03701t/
 Chorzów Muzeum Hutnictwa,2463011-03702,9752,50.30164,18.951925,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03702/
 Chorzów Muzeum Hutnictwa,2463011-03702t,9704,50.30207,18.952131,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03702t/
 Chorzów Muzeum Hutnictwa,2463011-03703,10503,50.301624,18.951786,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-03703/
