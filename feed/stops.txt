@@ -1837,6 +1837,8 @@ Gliwice Berbeckiego,2466011-25101,11249,50.297646,18.669085,https://rj.transport
 Gliwice Bojkowska SSE,2466011-16601,702,50.264595,18.690807,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-16601/
 Gliwice Bojkowska SSE,2466011-16602,703,50.26526,18.690533,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-16602/
 Gliwice Cecylia,2466011-02101,399,50.291004,18.695673,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02101/
+Gliwice Centrum Handlowe,2466011-00101,10818,50.29979,18.684486,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-00101/
+Gliwice Centrum Handlowe,2466011-00102,10805,50.30041,18.685143,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-00102/
 Gliwice Centrum Logistyki,2466011-22001,5691,50.32997,18.62866,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-22001/
 Gliwice Centrum Onkologii,2466011-19602,5129,50.301632,18.663233,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-19602/
 Gliwice Centrum Przesiadkowe,2466011-23905,8637,50.302235,18.67689,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23905/
@@ -1906,6 +1908,8 @@ Gliwice Królewskiej Tamy nż,2466011-03901,1501,50.29016,18.713219,https://rj.t
 Gliwice Królewskiej Tamy nż,2466011-03902,1502,50.29017,18.711052,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03902/
 Gliwice Kujawska,2466011-04001,1525,50.28699,18.67798,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-04001/
 Gliwice Kujawska,2466011-04002,1526,50.287743,18.676554,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-04002/
+Gliwice Leszczynowa,2466011-01901,12509,50.310352,18.694084,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-01901/
+Gliwice Leszczynowa,2466011-01902,12510,50.30996,18.693155,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-01902/
 Gliwice Lindego,2466011-04101,4737,50.298912,18.701696,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-04101/
 Gliwice Lindego,2466011-04102,4736,50.298923,18.702383,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-04102/
 Gliwice Lipowa,2466011-04202,1609,50.302456,18.688505,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-04202/
@@ -1943,6 +1947,8 @@ Gliwice Radiostacja,2466011-16001,2374,50.314335,18.693043,https://rj.transportg
 Gliwice Radiostacja,2466011-16002,2375,50.313293,18.691711,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-16002/
 Gliwice Robotnicza,2466011-21801,5507,50.289463,18.697922,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-21801/
 Gliwice Robotnicza,2466011-21802,5508,50.28943,18.697536,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-21802/
+Gliwice Rogera,2466011-03201,12508,50.308308,18.691053,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03201/
+Gliwice Rogera,2466011-03202,12507,50.30764,18.690245,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03202/
 Gliwice Rybnicka,2466011-02201,400,50.284164,18.663229,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02201/
 Gliwice Rybnicka,2466011-02202,401,50.28353,18.66309,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02202/
 Gliwice Sobieskiego,2466011-18001,3614,50.288887,18.648266,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18001/
@@ -2664,6 +2670,7 @@ Karsów nż,2401075-02201,4096,50.410496,19.238825,https://rj.transportgzm.pl/v2
 Karsów nż,2401075-02202,4097,50.410587,19.238836,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401075-02202/
 Katowice AWF,2469011-02101,11084,50.25138,19.004572,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02101/
 Katowice AWF,2469011-02102,11085,50.251053,19.004335,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02102/
+Katowice Akademia Muzyczna,2469011-10131,12744,50.255524,19.029846,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-10131/
 Katowice Aleja Korfantego,2469011-00501,1428,50.262108,19.023064,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00501/
 Katowice Aleja Korfantego,2469011-00502,1429,50.261395,19.02227,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00502/
 Katowice Andrzeja Dworzec,2469011-01501,11096,50.256252,19.016148,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01501/
@@ -2809,6 +2816,7 @@ Katowice Szkolna,2469011-10701,3699,50.25873,19.026909,https://rj.transportgzm.p
 Katowice Szkoła Filmowa UŚ,2469011-07601,7342,50.257835,19.030777,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-07601/
 Katowice Szkoła Filmowa UŚ,2469011-07601t,4484,50.257866,19.030836,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-07601t/
 Katowice Szkoła Filmowa UŚ,2469011-07602t,4485,50.257954,19.030857,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-07602t/
+Katowice Szkoła Filmowa UŚ,2469011-07632,12745,50.25817,19.030987,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-07632/
 Katowice Sądowa,2469011-01201A,7170,50.258785,19.011524,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01201A/
 Katowice Sądowa,2469011-01201B,8231,50.258987,19.011244,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01201B/
 Katowice Sądowa,2469011-01202A,7169,50.25863,19.01101,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01202A/
@@ -3114,25 +3122,45 @@ Koszelew,2401011-05702t,11307,50.32229,19.156727,https://rj.transportgzm.pl/v2/r
 Koszelew,2401011-05702t,1455,50.32229,19.156727,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-05702t/
 Koszelew Kościół,2401011-05801,1450,50.322517,19.158281,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-05801/
 Koszelew Kościół,2401011-05802,1451,50.322697,19.158981,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-05802/
+Kosztowy Białobrzeska 19,2470011-13401,12391,50.192867,19.174923,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-13401/
+Kosztowy Białobrzeska Osiedle,2470011-13501,12392,50.191677,19.179384,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-13501/
+Kosztowy Cmentarna Kapliczka,2470011-13601,12393,50.191406,19.182404,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-13601/
 Kosztowy Dzióbka,2470011-04001,1458,50.19151,19.16263,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-04001/
 Kosztowy Dzióbka,2470011-04002,1459,50.19125,19.162767,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-04002/
+Kosztowy Dzióbka 128,2470011-13701,12394,50.189713,19.178617,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-13701/
+Kosztowy Dzióbka 19,2470011-13801,12698,50.190052,19.174246,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-13801/
+Kosztowy Hale Logistyczne,2470011-13301,12389,50.19371,19.170975,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-13301/
+Kosztowy Hale Logistyczne,2470011-13302,12390,50.193863,19.170687,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-13302/
+Kosztowy Hurtownie,2470011-13901,12396,50.191616,19.171417,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-13901/
+Kosztowy Kopernika,2470011-10001,12774,50.18906,19.145494,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-10001/
 Kosztowy Kopernika,2470011-10001,4852,50.18906,19.145494,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-10001/
+Kosztowy Kopernika,2470011-10002,12775,50.188923,19.145523,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-10002/
 Kosztowy Kopernika,2470011-10002,4853,50.188923,19.145523,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-10002/
+Kosztowy Kopernika Skrzyżowanie,2470011-12301,12780,50.190662,19.14676,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12301/
 Kosztowy Kopernika Skrzyżowanie,2470011-12301,7125,50.190662,19.14676,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12301/
+Kosztowy Kopernika Skrzyżowanie,2470011-12302,12783,50.19058,19.146814,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12302/
 Kosztowy Kopernika Skrzyżowanie,2470011-12302,7128,50.19058,19.146814,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12302/
 Kosztowy Kosztowska nż,2470011-04101,5135,50.177425,19.164742,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-04101/
 Kosztowy Kosztowska nż,2470011-04102,5136,50.177887,19.164549,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-04102/
+Kosztowy Kościół,2470011-11901,12779,50.18864,19.159313,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-11901/
 Kosztowy Kościół,2470011-11901,7124,50.18864,19.159313,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-11901/
+Kosztowy Kościół,2470011-11902,12781,50.188744,19.158949,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-11902/
 Kosztowy Kościół,2470011-11902,7126,50.188744,19.158949,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-11902/
 Kosztowy Pętla,2470011-04201,5296,50.174335,19.16676,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-04201/
 Kosztowy Pętla,2470011-04202,1464,50.173935,19.167145,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-04202/
 Kosztowy Rynek,2470011-04301,1466,50.184296,19.160494,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-04301/
 Kosztowy Rynek,2470011-04302,1467,50.185127,19.160816,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-04302/
 Kosztowy Rynek,2470011-04303,1468,50.18464,19.160355,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-04303/
+Kosztowy Straż Pożarna,2470011-12001,12782,50.18902,19.151257,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12001/
 Kosztowy Straż Pożarna,2470011-12001,7127,50.18902,19.151257,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12001/
+Kosztowy Straż Pożarna,2470011-12002,12778,50.188797,19.151567,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12002/
 Kosztowy Straż Pożarna,2470011-12002,7123,50.188797,19.151567,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12002/
+Kosztowy Szkoła,2470011-10601,12773,50.183685,19.161854,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-10601/
 Kosztowy Szkoła,2470011-10601,6084,50.183685,19.161854,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-10601/
+Kosztowy Szkoła,2470011-19602,12701,50.183605,19.161924,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-19602/
+Kosztowy Wita Stwosza,2470011-12201,12776,50.186527,19.145956,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12201/
 Kosztowy Wita Stwosza,2470011-12201,4854,50.186527,19.145956,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12201/
+Kosztowy Wita Stwosza,2470011-12202,12777,50.186577,19.14602,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12202/
 Kosztowy Wita Stwosza,2470011-12202,4855,50.186577,19.14602,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12202/
 Koszutka GIG,2469011-12801,1469,50.271034,19.024849,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-12801/
 Koszutka GIG,2469011-12832,8558,50.269684,19.02411,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-12832/
@@ -3398,7 +3426,9 @@ Ligota Wileńska,2469011-15301,1596,50.225197,18.96481,https://rj.transportgzm.p
 Ligota Wileńska,2469011-15302,1597,50.22328,18.964241,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-15302/
 Ligota Zabrska Błonie nż,2466011-08301,2686,50.279015,18.712002,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-08301/
 Ligota Zabrska Błonie nż,2466011-08302,2687,50.28025,18.713215,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-08302/
+Ligota Zabrska Dolna,2466011-08601,12752,50.280956,18.699781,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-08601/
 Ligota Zabrska Dolna,2466011-08601,1598,50.280956,18.699781,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-08601/
+Ligota Zabrska Dolna,2466011-08602,12753,50.28098,18.699905,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-08602/
 Ligota Zabrska Dolna,2466011-08602,1599,50.28098,18.699905,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-08602/
 Ligota Zabrska Giełda nż,2466011-13201,2690,50.285103,18.72046,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-13201/
 Ligota Zabrska Giełda nż,2466011-13202,2691,50.284733,18.71956,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-13202/
@@ -3406,7 +3436,9 @@ Ligota Zabrska Kopalnia,2466011-08501,2699,50.27449,18.707056,https://rj.transpo
 Ligota Zabrska Kopalnia,2466011-08502,2700,50.274868,18.706825,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-08502/
 Ligota Zabrska Okrężna SSE nż,2466011-23501,8182,50.266327,18.707672,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23501/
 Ligota Zabrska Okrężna SSE nż,2466011-23502,8180,50.266666,18.70412,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23502/
+Ligota Zabrska Panewnicka nż,2466011-06201,12758,50.28283,18.69204,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-06201/
 Ligota Zabrska Panewnicka nż,2466011-06201,7184,50.28283,18.69204,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-06201/
+Ligota Zabrska Panewnicka nż,2466011-06202,12757,50.28372,18.6894,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-06202/
 Ligota Zabrska Panewnicka nż,2466011-06202,7182,50.28372,18.6894,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-06202/
 Ligota Zadole,2469011-15401,1600,50.219536,18.974312,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-15401/
 Ligota Śląska Pętla,2469011-15201,4887,50.211685,18.9573,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-15201/
@@ -3445,6 +3477,7 @@ Lędziny Osiedle PKP,2414031-00601,2135,50.124348,19.116959,https://rj.transport
 Lędziny Osiedle PKP,2414031-00602,2136,50.123966,19.118093,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-00602/
 Lędziny Pomnik,2414031-00201,1554,50.12969,19.108265,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-00201/
 Lędziny Pomnik,2414031-00202,1553,50.130714,19.108662,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-00202/
+Lędziny Stadion Miejski,2414031-04631,10800,50.135376,19.117632,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-04631/
 Lędziny Stadionowa Przedszkole,2414031-01201,6684,50.134457,19.119137,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-01201/
 Lędziny Szkoła,2414031-00501,1555,50.128246,19.111097,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-00501/
 Lędziny Szkoła,2414031-00502,1556,50.12807,19.111538,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-00502/
@@ -3453,6 +3486,8 @@ Lędziny Urząd Miasta,2414031-00102,2981,50.137657,19.118189,https://rj.transpo
 Lędziny Zakole,2414031-01401,8672,50.135616,19.099415,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-01401/
 Lędziny Zamkowa,2414031-01301,1558,50.130867,19.095798,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-01301/
 Lędziny Zamkowa,2414031-01302,1557,50.130894,19.095585,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-01302/
+Lędziny Zamkowa,2414031-01333,10645,50.130375,19.097586,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-01333/
+Lędziny Zamkowa,2414031-01334,10655,50.130184,19.097485,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-01334/
 Lędziny Zespół Szkół,2414031-00801,4997,50.121517,19.123693,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-00801/
 Lędziny Zespół Szkół,2414031-00802,5681,50.122013,19.124596,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-00802/
 Maciejkowice Dwór,2463011-08201,1614,50.32155,18.978455,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-08201/
@@ -8289,53 +8324,98 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Ławki Pętla,2470011-05701,3085,50.157158,19.11643,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-05701/
 Ławki Staw,2470011-06101,3083,50.161774,19.11903,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-06101/
 Ławki Staw,2470011-06102,3084,50.161705,19.11914,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-06102/
+Łaziska Dolne Górnicza,2408011-02001,12737,50.1563,18.87032,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02001/
 Łaziska Dolne Górnicza,2408011-02001,6491,50.1563,18.87032,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02001/
+Łaziska Dolne Górnicza,2408011-02002,12715,50.15624,18.869911,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02002/
 Łaziska Dolne Górnicza,2408011-02002,6471,50.15624,18.869911,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02002/
+Łaziska Dolne Kościół,2408011-02301,12760,50.15409,18.873198,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02301/
 Łaziska Dolne Kościół,2408011-02301,6469,50.15409,18.873198,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02301/
+Łaziska Dolne Kościół,2408011-02302,12764,50.15468,18.874126,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02302/
 Łaziska Dolne Kościół,2408011-02302,6493,50.15468,18.874126,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02302/
+Łaziska Dolne Ligonia,2408011-02201,12766,50.15084,18.870825,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02201/
 Łaziska Dolne Ligonia,2408011-02201,6495,50.15084,18.870825,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02201/
+Łaziska Dolne Ligonia,2408011-02202,12761,50.150623,18.871027,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02202/
 Łaziska Dolne Ligonia,2408011-02202,6470,50.150623,18.871027,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02202/
+Łaziska Dolne Mikołowska,2408011-02101,12765,50.157166,18.878012,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02101/
 Łaziska Dolne Mikołowska,2408011-02101,6494,50.157166,18.878012,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02101/
+Łaziska Dolne Mikołowska,2408011-02102,12759,50.15703,18.878044,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02102/
 Łaziska Dolne Mikołowska,2408011-02102,6468,50.15703,18.878044,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02102/
+Łaziska Dolne Stroma,2408011-01901,12724,50.156044,18.863197,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01901/
 Łaziska Dolne Stroma,2408011-01901,6492,50.156044,18.863197,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01901/
+Łaziska Dolne Stroma,2408011-01902,12738,50.15606,18.864141,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01902/
 Łaziska Dolne Stroma,2408011-01902,6490,50.15606,18.864141,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01902/
+Łaziska Górne Basen,2408011-00601,12732,50.157528,18.850826,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00601/
 Łaziska Górne Basen,2408011-00601,6506,50.157528,18.850826,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00601/
+Łaziska Górne Basen,2408011-00602,12733,50.157448,18.85133,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00602/
 Łaziska Górne Basen,2408011-00602,6507,50.157448,18.85133,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00602/
+Łaziska Górne Cieszyńska,2408011-03001,12769,50.138165,18.833311,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-03001/
 Łaziska Górne Cieszyńska,2408011-03001,6513,50.138165,18.833311,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-03001/
+Łaziska Górne Cieszyńska,2408011-03002,12767,50.138027,18.833403,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-03002/
 Łaziska Górne Cieszyńska,2408011-03002,6508,50.138027,18.833403,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-03002/
+Łaziska Górne Dworzec PKP,2408011-00201,12739,50.1575,18.845697,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00201/
 Łaziska Górne Dworzec PKP,2408011-00201,6498,50.1575,18.845697,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00201/
+Łaziska Górne Dworzec PKP,2408011-00202,12729,50.15654,18.845182,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00202/
 Łaziska Górne Dworzec PKP,2408011-00202,6503,50.15654,18.845182,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00202/
+Łaziska Górne Huta,2408011-00301,12770,50.134937,18.830624,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00301/
 Łaziska Górne Huta,2408011-00301,6514,50.134937,18.830624,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00301/
+Łaziska Górne Huta,2408011-00302,12768,50.134956,18.830786,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00302/
 Łaziska Górne Huta,2408011-00302,6509,50.134956,18.830786,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00302/
+Łaziska Górne Kopanina,2408011-00501,12734,50.130955,18.841751,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00501/
 Łaziska Górne Kopanina,2408011-00501,6512,50.130955,18.841751,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00501/
+Łaziska Górne Leśna,2408011-00901,12727,50.1626,18.848486,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00901/
 Łaziska Górne Leśna,2408011-00901,6501,50.1626,18.848486,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00901/
+Łaziska Górne Leśna,2408011-00902,12740,50.16247,18.848854,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00902/
 Łaziska Górne Leśna,2408011-00902,6499,50.16247,18.848854,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00902/
+Łaziska Górne Ogrodowa,2408011-00701,12726,50.15346,18.845192,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00701/
 Łaziska Górne Ogrodowa,2408011-00701,6497,50.15346,18.845192,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00701/
+Łaziska Górne Ogrodowa,2408011-00702,12728,50.15352,18.84514,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00702/
 Łaziska Górne Ogrodowa,2408011-00702,6502,50.15352,18.84514,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00702/
+Łaziska Górne Pomnik,2408011-00801,12716,50.14948,18.854902,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00801/
 Łaziska Górne Pomnik,2408011-00801,6472,50.14948,18.854902,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00801/
+Łaziska Górne Pomnik,2408011-00802,12723,50.149323,18.854645,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00802/
 Łaziska Górne Pomnik,2408011-00802,6489,50.149323,18.854645,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00802/
+Łaziska Górne Ratusz,2408011-00101,12731,50.149162,18.840042,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00101/
 Łaziska Górne Ratusz,2408011-00101,6505,50.149162,18.840042,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00101/
+Łaziska Górne Ratusz,2408011-00102,12725,50.14964,18.84044,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00102/
 Łaziska Górne Ratusz,2408011-00102,6496,50.14964,18.84044,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00102/
+Łaziska Górne Ratusz,2408011-00103,12730,50.1494,18.83942,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00103/
 Łaziska Górne Ratusz,2408011-00103,6504,50.1494,18.83942,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00103/
 Łaziska Górne Ratusz,2408011-00104,8068,50.149414,18.840979,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00104/
 Łaziska Górne Spokojna,2408011-04001,10437,50.147392,18.837172,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-04001/
 Łaziska Górne Spokojna,2408011-04002,10438,50.147476,18.837193,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-04002/
+Łaziska Górne Wyzwolenia,2408011-00401,12742,50.129917,18.832952,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00401/
 Łaziska Górne Wyzwolenia,2408011-00401,6511,50.129917,18.832952,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00401/
+Łaziska Górne Wyzwolenia,2408011-00402,12743,50.130096,18.83202,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00402/
 Łaziska Górne Wyzwolenia,2408011-00402,6516,50.130096,18.83202,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00402/
+Łaziska Średnie Boisko,2408011-01101,12718,50.144302,18.866695,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01101/
 Łaziska Średnie Boisko,2408011-01101,6475,50.144302,18.866695,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01101/
+Łaziska Średnie Boisko,2408011-01102,12722,50.14477,18.867283,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01102/
 Łaziska Średnie Boisko,2408011-01102,6487,50.14477,18.867283,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01102/
+Łaziska Średnie Dworzec PKP,2408011-01501,12714,50.129314,18.868242,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01501/
 Łaziska Średnie Dworzec PKP,2408011-01501,6484,50.129314,18.868242,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01501/
+Łaziska Średnie Kopalniana,2408011-01801,12762,50.147045,18.870996,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01801/
 Łaziska Średnie Kopalniana,2408011-01801,6476,50.147045,18.870996,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01801/
+Łaziska Średnie Kopalniana,2408011-01802,12763,50.147205,18.871147,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01802/
 Łaziska Średnie Kopalniana,2408011-01802,6488,50.147205,18.871147,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01802/
+Łaziska Średnie Sikorskiego,2408011-01401,12719,50.134533,18.867813,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01401/
 Łaziska Średnie Sikorskiego,2408011-01401,6477,50.134533,18.867813,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01401/
+Łaziska Średnie Sikorskiego,2408011-01402,12720,50.134792,18.868023,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01402/
 Łaziska Średnie Sikorskiego,2408011-01402,6483,50.134792,18.868023,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01402/
+Łaziska Średnie Szkoła,2408011-01701,12708,50.136787,18.872026,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01701/
 Łaziska Średnie Szkoła,2408011-01701,6480,50.136787,18.872026,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01701/
+Łaziska Średnie Szkoła,2408011-01702,12710,50.13714,18.869783,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01702/
 Łaziska Średnie Szkoła,2408011-01702,6482,50.13714,18.869783,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01702/
+Łaziska Średnie Szyb Aleksander,2408011-01201,12707,50.140533,18.864752,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01201/
 Łaziska Średnie Szyb Aleksander,2408011-01201,6473,50.140533,18.864752,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01201/
+Łaziska Średnie Szyb Aleksander,2408011-01202,12712,50.140076,18.864891,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01202/
 Łaziska Średnie Szyb Aleksander,2408011-01202,6485,50.140076,18.864891,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01202/
+Łaziska Średnie Wyrska,2408011-01301,12713,50.136368,18.877102,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01301/
 Łaziska Średnie Wyrska,2408011-01301,6479,50.136368,18.877102,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01301/
+Łaziska Średnie Wyrska,2408011-01302,12709,50.136257,18.876274,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01302/
 Łaziska Średnie Wyrska,2408011-01302,6481,50.136257,18.876274,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01302/
+Łaziska Średnie Zwycięstwa,2408011-01601,12717,50.142414,18.86545,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01601/
 Łaziska Średnie Zwycięstwa,2408011-01601,6474,50.142414,18.86545,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01601/
+Łaziska Średnie Zwycięstwa,2408011-01602,12721,50.14232,18.865335,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01602/
 Łaziska Średnie Zwycięstwa,2408011-01602,6486,50.14232,18.865335,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01602/
 Łaziska Średnie Zwycięstwa,2408011-01603,8763,50.142616,18.865707,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01603/
 Łazy Błędowskie Niegowonicka,2465011-06801,3088,50.34688,19.407486,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-06801/
@@ -8517,16 +8597,28 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Żernica Szkoła,2405042-01801,6949,50.243713,18.615509,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405042-01801/
 Żernica Wiśniowa nż,2405042-01401,52,50.25165,18.637344,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405042-01401/
 Żernica Wiśniowa nż,2405042-01402,53,50.251785,18.637487,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405042-01402/
+Żerniki Agrestowa nż,2466011-05001,12511,50.31274,18.698456,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05001/
+Żerniki Agrestowa nż,2466011-05002,12512,50.313515,18.700205,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05002/
+Żerniki Chałubińskiego,2466011-18101,12754,50.327667,18.697727,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18101/
 Żerniki Chałubińskiego,2466011-18101,5081,50.327667,18.697727,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18101/
+Żerniki Chałubińskiego,2466011-18102,12755,50.327335,18.698284,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18102/
 Żerniki Chałubińskiego,2466011-18102,5082,50.327335,18.698284,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18102/
 Żerniki Elsnera,2466011-18201,57,50.32439,18.707817,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18201/
 Żerniki Elsnera,2466011-18202,58,50.32442,18.707985,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18202/
 Żerniki Graniczna Pętla,2466011-18401,5083,50.328796,18.69409,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18401/
+Żerniki Kilara nż,2466011-23701,12513,50.31809,18.71384,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23701/
+Żerniki Kilara nż,2466011-23702,12514,50.318302,18.712833,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23702/
 Żerniki Olszewskiego,2466011-18601,61,50.32212,18.700708,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18601/
 Żerniki Olszewskiego,2466011-18602,62,50.321938,18.70027,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18602/
 Żerniki Osiedle,2466011-18701,63,50.32921,18.716063,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18701/
 Żerniki Rogozińskiego,2466011-18301,59,50.324635,18.703037,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18301/
 Żerniki Rogozińskiego,2466011-18302,60,50.32508,18.703144,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18302/
+Żerniki Rogozińskiego,2466011-18303,10819,50.32543,18.704517,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18303/
+Żerniki Rogozińskiego,2466011-18304,10820,50.325825,18.702597,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18304/
+Żerniki Szymanowskiego,2466011-24101,10816,50.322544,18.713873,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-24101/
+Żerniki Szymanowskiego,2466011-24102,10817,50.323086,18.712952,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-24102/
+Żerniki Łowicka nż,2466011-23601,10812,50.314953,18.703703,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23601/
+Żerniki Łowicka nż,2466011-23602,10813,50.316383,18.706127,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23602/
 Żory Centrum Przesiadkowe,2479011-00101,10610,50.04774,18.693483,https://rj.transportgzm.pl/v2/rozklady/przystanek/2479011-00101/
 Żory Centrum Przesiadkowe,2479011-00101,12578,50.04774,18.693483,https://rj.transportgzm.pl/v2/rozklady/przystanek/2479011-00101/
 Żory Centrum Przesiadkowe,2479011-00104,12583,50.047497,18.693302,https://rj.transportgzm.pl/v2/rozklady/przystanek/2479011-00104/
