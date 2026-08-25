@@ -1827,6 +1827,8 @@ Giszowiec Radosna,2469011-05401,745,50.223434,19.06696,https://rj.transportgzm.p
 Giszowiec Radosna,2469011-05402,746,50.223225,19.066563,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-05402/
 Giszowiec Szyb Roździeński,2469011-05501,747,50.222157,19.075575,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-05501/
 Giszowiec Szyb Roździeński,2469011-05502,748,50.222614,19.07564,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-05502/
+Gliwice Agrestowa nż,2466011-05001,10810,50.31274,18.698456,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05001/
+Gliwice Agrestowa nż,2466011-05002,10811,50.313515,18.700205,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05002/
 Gliwice Akacjowa,2466011-01701,428,50.30026,18.70838,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-01701/
 Gliwice Akacjowa,2466011-01702,429,50.29971,18.7055,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-01702/
 Gliwice Aleja Majowa,2466011-01801,2892,50.296696,18.649393,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-01801/
