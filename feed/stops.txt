@@ -54,6 +54,7 @@ Bieruń Baza Transportowa,2414011-00201,6805,50.092358,19.061539,https://rj.tran
 Bieruń Baza Transportowa,2414011-00202,6803,50.092216,19.061777,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-00202/
 Bieruń Bohaterów Westerplatte 57,2414011-03903,9157,50.071564,19.186977,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-03903/
 Bieruń Bohaterów Westerplatte 7,2414011-04001,9158,50.073788,19.186804,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-04001/
+Bieruń Centrum Przesiadkowe,2414011-04501,12799,50.0743,19.183865,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-04501/
 Bieruń Dom Kultury,2414011-00501,183,50.084965,19.084652,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-00501/
 Bieruń Dom Kultury,2414011-00504,182,50.084908,19.084673,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-00504/
 Bieruń Domy Polne Pętla,2414011-00603,10071,50.092064,19.066252,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-00603/
@@ -62,6 +63,8 @@ Bieruń Ekonomiczna,2414011-00902,8870,50.099617,19.104961,https://rj.transportg
 Bieruń FSM II,2414011-01102,6389,50.102688,19.088707,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-01102/
 Bieruń Granitowa,2414011-01205,6699,50.080593,19.15516,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-01205/
 Bieruń Granitowa,2414011-01206,6712,50.080498,19.155043,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-01206/
+Bieruń Granitowa Zespół Szkół,2414011-04601,12502,50.081955,19.15443,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-04601/
+Bieruń Granitowa Zespół Szkół,2414011-04602,12503,50.081802,19.154339,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-04602/
 Bieruń Groblana,2414011-01301,6723,50.06616,19.162521,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-01301/
 Bieruń Groblana,2414011-01302,6716,50.066246,19.162146,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-01302/
 Bieruń Hager,2414011-03005,8881,50.09497,19.107706,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-03005/
@@ -346,11 +349,17 @@ Bończyk Jastruna nż,2470011-00201,4993,50.240253,19.11443,https://rj.transport
 Bończyk Jastruna nż,2470011-00202,4994,50.240147,19.114119,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-00202/
 Bończyk Kościół,2470011-00301,1217,50.242783,19.112364,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-00301/
 Bończyk Kościół,2470011-00302,1218,50.24293,19.112053,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-00302/
+Brada Las,2408011-02601,12790,50.154423,18.81173,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02601/
 Brada Las,2408011-02601,6578,50.154423,18.81173,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02601/
+Brada Las,2408011-02602,12792,50.154533,18.811783,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02602/
 Brada Las,2408011-02602,6599,50.154533,18.811783,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02602/
+Brada Orzeska,2408011-02401,12793,50.150475,18.82654,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02401/
 Brada Orzeska,2408011-02401,6600,50.150475,18.82654,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02401/
+Brada Orzeska,2408011-02402,12788,50.15083,18.826544,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02402/
 Brada Orzeska,2408011-02402,6576,50.15083,18.826544,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02402/
+Brada Przysiółki,2408011-02501,12789,50.153976,18.820679,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02501/
 Brada Przysiółki,2408011-02501,6577,50.153976,18.820679,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02501/
+Brada Przysiółki,2408011-02502,12791,50.153976,18.820927,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02502/
 Brada Przysiółki,2408011-02502,6598,50.153976,18.820927,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02502/
 Brudzowice Kapliczka,2401075-00101,4251,50.50707,19.190254,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401075-00101/
 Brudzowice Kapliczka,2401075-00102,4252,50.507145,19.19034,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401075-00102/
@@ -924,9 +933,13 @@ Błędów LZS Tęcza,2465011-20701,5431,50.34428,19.438322,https://rj.transportg
 Błędów LZS Tęcza,2465011-20702,5432,50.344402,19.439186,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-20702/
 Błędów Szkoła,2465011-00501,360,50.344948,19.450554,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-00501/
 Błędów Szkoła,2465011-00502,361,50.344906,19.44763,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-00502/
+Błędów Szkoła,2465011-25301,12787,50.345142,19.454067,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-25301/
+Błędów Szkoła,2465011-25302,12786,50.345684,19.455357,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-25302/
 Błędów Sztorcowa,2465011-00601,362,50.343792,19.429558,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-00601/
 Błędów Sztorcowa,2465011-00602,363,50.343822,19.428827,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-00602/
 Błędów Zagórze,2465011-00701,364,50.356018,19.45497,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-00701/
+Błędów Żołnierska,2465011-00501,12784,50.344948,19.450554,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-00501/
+Błędów Żołnierska,2465011-00502,12785,50.344906,19.44763,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-00502/
 Celiny Autostrada,2413062-04501,405,50.448963,19.052122,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-04501/
 Celiny Autostrada,2413062-04502,404,50.449116,19.05048,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-04502/
 Celiny Droga do Pyrzowic nż,2413062-04201,5096,50.451385,19.06852,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-04201/
@@ -5680,9 +5693,12 @@ Siemianowice Fabryczna Zakłady nż,2474011-07201,7369,50.295937,19.036425,https
 Siemianowice Fabryczna Zakłady nż,2474011-07202,7370,50.295826,19.035835,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-07202/
 Siemianowice Głowackiego nż,2474011-03101,1101,50.300106,19.030954,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-03101/
 Siemianowice Głowackiego nż,2474011-03102,1102,50.299957,19.031319,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-03102/
+Siemianowice Głowackiego nż,2474011-03131,12470,50.300507,19.030235,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-03131/
+Siemianowice Głowackiego nż,2474011-03132,12471,50.300728,19.029955,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-03132/
 Siemianowice Hutnicza nż,2474011-06401,5242,50.299065,19.023626,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-06401/
 Siemianowice Kolonia Wojewódzka nż,2474011-03201,1387,50.29293,19.048355,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-03201/
 Siemianowice Kolonia Wojewódzka nż,2474011-03202,1388,50.29304,19.048355,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-03202/
+Siemianowice Konopnickiej,2474011-03303,10152,50.2904,19.036217,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-03303/
 Siemianowice Konopnickiej nż,2474011-03301,7109,50.290676,19.035862,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-03301/
 Siemianowice Konopnickiej nż,2474011-03302,1545,50.29068,19.036104,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-03302/
 Siemianowice Kopalniana,2474011-03401,3534,50.301735,19.017435,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-03401/
@@ -5712,6 +5728,7 @@ Siemianowice Plebiscytowa nż,2474011-05602,5193,50.288223,19.03551,https://rj.t
 Siemianowice Powstańców,2474011-04401,2413,50.298626,19.040255,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-04401/
 Siemianowice Powstańców,2474011-04402,2414,50.29823,19.041607,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-04402/
 Siemianowice Powstańców Pętla,2474011-04501,2411,50.2969,19.042852,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-04501/
+Siemianowice Powstańców Pętla,2474011-04531,12472,50.297062,19.04194,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-04531/
 Siemianowice Pszczelnicza,2474011-04601,5583,50.300285,19.036253,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-04601/
 Siemianowice Pszczelnicza,2474011-04602,2479,50.2996,19.038185,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-04602/
 Siemianowice Rynek,2474011-05001,38,50.304283,19.027906,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-05001/
@@ -5787,6 +5804,8 @@ Sikornik Zimorodka,2466011-12701,2075,50.28249,18.65968,https://rj.transportgzm.
 Sikornik Zimorodka,2466011-12702,2076,50.28177,18.659328,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-12702/
 Smardzowice Oficerska,2414031-03701,2684,50.13766,19.133213,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-03701/
 Smardzowice Oficerska,2414031-03702,2685,50.13756,19.133577,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-03702/
+Smardzowice Staw,2414031-04001,12795,50.131332,19.155472,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-04001/
+Smardzowice Staw,2414031-04002,12796,50.13132,19.1554,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-04002/
 Smardzowice Ułańska 31,2414031-03801,2678,50.135967,19.139362,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-03801/
 Smardzowice Ułańska 31,2414031-03802,2679,50.136154,19.138826,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-03802/
 Smardzowice Ułańska 51,2414031-03901,2680,50.13288,19.147003,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414031-03901/
@@ -7157,6 +7176,7 @@ Wartogłowiec Cmentarna,2477011-17302,12179,50.123592,19.015207,https://rj.trans
 Wartogłowiec Cmentarna,2477011-17302,6376,50.123592,19.015207,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17302/
 Wartogłowiec Cmentarz,2477011-17601,12178,50.123775,19.014067,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17601/
 Wartogłowiec Cmentarz,2477011-17601,6375,50.123775,19.014067,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17601/
+Wartogłowiec Cmentarz,2477011-17602,12192,50.12297,19.015654,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17602/
 Wartogłowiec Czarna Droga,2477011-17201,12260,50.128807,18.999529,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17201/
 Wartogłowiec Czarna Droga,2477011-17201,8716,50.128807,18.999529,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17201/
 Wartogłowiec Czarna Droga,2477011-17202,12185,50.12865,18.99941,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-17202/
@@ -8382,6 +8402,7 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Łaziska Górne Ratusz,2408011-00102,6496,50.14964,18.84044,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00102/
 Łaziska Górne Ratusz,2408011-00103,12730,50.1494,18.83942,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00103/
 Łaziska Górne Ratusz,2408011-00103,6504,50.1494,18.83942,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00103/
+Łaziska Górne Ratusz,2408011-00104,12735,50.149414,18.840979,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00104/
 Łaziska Górne Ratusz,2408011-00104,8068,50.149414,18.840979,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-00104/
 Łaziska Górne Spokojna,2408011-04001,10437,50.147392,18.837172,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-04001/
 Łaziska Górne Spokojna,2408011-04002,10438,50.147476,18.837193,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-04002/
@@ -8419,6 +8440,7 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Łaziska Średnie Zwycięstwa,2408011-01601,6474,50.142414,18.86545,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01601/
 Łaziska Średnie Zwycięstwa,2408011-01602,12721,50.14232,18.865335,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01602/
 Łaziska Średnie Zwycięstwa,2408011-01602,6486,50.14232,18.865335,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01602/
+Łaziska Średnie Zwycięstwa,2408011-01603,12736,50.142616,18.865707,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01603/
 Łaziska Średnie Zwycięstwa,2408011-01603,8763,50.142616,18.865707,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-01603/
 Łazy Błędowskie Niegowonicka,2465011-06801,3088,50.34688,19.407486,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-06801/
 Łazy Błędowskie Niegowonicka,2465011-06802,3089,50.346992,19.407322,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-06802/
