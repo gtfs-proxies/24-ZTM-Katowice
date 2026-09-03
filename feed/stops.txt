@@ -3399,6 +3399,8 @@ Leszczyny Ligonia,2412014-01001,3756,50.141144,18.628983,https://rj.transportgzm
 Leszczyny Rondo,2412014-01201,3757,50.1424,18.63313,https://rj.transportgzm.pl/v2/rozklady/przystanek/2412014-01201/
 Leszczyny Skrzyżowanie,2412014-01301,3959,50.140144,18.638721,https://rj.transportgzm.pl/v2/rozklady/przystanek/2412014-01301/
 Leszczyny Skrzyżowanie,2412014-01302,3960,50.140034,18.639076,https://rj.transportgzm.pl/v2/rozklady/przystanek/2412014-01302/
+Leszczyny Spółdzielnia,2412014-01401,10493,50.145554,18.670637,https://rj.transportgzm.pl/v2/rozklady/przystanek/2412014-01401/
+Leszczyny Spółdzielnia,2412014-01402,10494,50.14565,18.670315,https://rj.transportgzm.pl/v2/rozklady/przystanek/2412014-01402/
 Leszczyny Stare,2412014-01501,3957,50.1325,18.644924,https://rj.transportgzm.pl/v2/rozklady/przystanek/2412014-01501/
 Leszczyny Stare,2412014-01502,3958,50.132668,18.644888,https://rj.transportgzm.pl/v2/rozklady/przystanek/2412014-01502/
 Leszczyny Szkoła,2412014-01601,5091,50.13826,18.64065,https://rj.transportgzm.pl/v2/rozklady/przystanek/2412014-01601/
