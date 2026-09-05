@@ -934,7 +934,9 @@ Błędów LZS Tęcza,2465011-20702,5432,50.344402,19.439186,https://rj.transport
 Błędów Szkoła,2465011-00501,360,50.344948,19.450554,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-00501/
 Błędów Szkoła,2465011-00502,361,50.344906,19.44763,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-00502/
 Błędów Szkoła,2465011-25301,12787,50.345142,19.454067,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-25301/
+Błędów Szkoła,2465011-25301,12824,50.345142,19.454067,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-25301/
 Błędów Szkoła,2465011-25302,12786,50.345684,19.455357,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-25302/
+Błędów Szkoła,2465011-25302,12823,50.345684,19.455357,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-25302/
 Błędów Sztorcowa,2465011-00601,362,50.343792,19.429558,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-00601/
 Błędów Sztorcowa,2465011-00602,363,50.343822,19.428827,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-00602/
 Błędów Zagórze,2465011-00701,364,50.356018,19.45497,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-00701/
