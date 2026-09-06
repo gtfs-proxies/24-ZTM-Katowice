@@ -7385,6 +7385,8 @@ Wioski Kuczyńskiego,2414021-02401,10592,50.13953,19.174322,https://rj.transport
 Wioski Kuczyńskiego,2414021-02402,10593,50.139355,19.174309,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-02402/
 Wioski Kusocińskiego,2414021-03301,10304,50.13911,19.167145,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03301/
 Wioski Kusocińskiego,2414021-03302,10303,50.138767,19.167038,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03302/
+Wioski Kusocińskiego,2414021-03331,12803,50.138466,19.1665,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03331/
+Wioski Kusocińskiego,2414021-03332,12802,50.138435,19.16584,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-03332/
 Wioski Lipowa,2414021-04701,10865,50.141193,19.15971,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-04701/
 Wioski Lipowa,2414021-04702,10864,50.141083,19.15971,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-04702/
 Wioski Rubinowa,2414021-02501,10311,50.134193,19.163134,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414021-02501/
