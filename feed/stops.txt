@@ -2688,6 +2688,7 @@ Karsów nż,2401075-02202,4097,50.410587,19.238836,https://rj.transportgzm.pl/v2
 Katowice AWF,2469011-02101,11084,50.25138,19.004572,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02101/
 Katowice AWF,2469011-02102,11085,50.251053,19.004335,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02102/
 Katowice Akademia Muzyczna,2469011-10131,12744,50.255524,19.029846,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-10131/
+Katowice Akademia Muzyczna,2469011-10131,12822,50.255577,19.029709,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-10131/
 Katowice Aleja Korfantego,2469011-00501,1428,50.262108,19.023064,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00501/
 Katowice Aleja Korfantego,2469011-00502,1429,50.261395,19.02227,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00502/
 Katowice Andrzeja Dworzec,2469011-01501,11096,50.256252,19.016148,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01501/
