@@ -3651,6 +3651,7 @@ Michałkowice Urząd Miasta,2474011-02102,1674,50.31885,19.010494,https://rj.tra
 Michałkowice Wyzwolenia,2474011-01601,1670,50.320774,19.011835,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-01601/
 Miechowice Bławatkowa,2462011-08301,1684,50.369007,18.850092,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-08301/
 Miechowice Bławatkowa,2462011-08302,1685,50.368336,18.849869,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-08302/
+Miechowice Bławatkowa,2462011-08331,8552,50.368374,18.850063,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-08331/
 Miechowice Dom Pomocy nż,2462011-08401,1686,50.359028,18.824455,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-08401/
 Miechowice Dom Pomocy nż,2462011-08402,1687,50.35894,18.824938,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-08402/
 Miechowice Dzierżonia,2462011-09301,11188,50.3594,18.85513,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-09301/
