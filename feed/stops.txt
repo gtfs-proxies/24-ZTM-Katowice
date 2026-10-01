@@ -578,6 +578,10 @@ Burowiec,2469011-02302t,11258,50.26837,19.079668,https://rj.transportgzm.pl/v2/r
 Burowiec,2469011-02302t,2966,50.26837,19.079668,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02302t/
 Burowiec,2469011-02303,2967,50.26903,19.080284,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02303/
 Burowiec,2469011-02304,2968,50.26904,19.0805,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02304/
+Burowiec Kutza,2469011-41501,10643,50.273483,19.086063,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-41501/
+Burowiec Kutza,2469011-41502,10644,50.27359,19.084948,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-41502/
+Burowiec Siewna,2469011-42301,12527,50.268467,19.084,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-42301/
+Burowiec Siewna,2469011-42302,12526,50.268196,19.08385,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-42302/
 Burowiec Szkoła,2469011-02401,542,50.273243,19.072538,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02401/
 Burowiec Szkoła,2469011-02402,543,50.27304,19.072989,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02402/
 Burowiec Szpital,2469011-02501,11055,50.271053,19.085886,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02501/
@@ -2627,6 +2631,8 @@ Jeżmanów,2405082-00301,5805,50.527184,18.62467,https://rj.transportgzm.pl/v2/r
 Jeżmanów,2405082-00302,5817,50.52726,18.62393,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405082-00302/
 Józefowiec Cmentarz,2469011-06401,3236,50.2764,19.015543,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06401/
 Józefowiec Cmentarz,2469011-06402,3237,50.276196,19.01612,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06402/
+Józefowiec Cmentarz,2469011-06431,8052,50.27616,19.01737,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06431/
+Józefowiec Cmentarz,2469011-06432,8053,50.276024,19.01786,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06432/
 Józefowiec Jabłoniowa,2469011-06601,3228,50.27493,19.008976,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06601/
 Józefowiec Jabłoniowa,2469011-06602,3229,50.27469,19.009684,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06602/
 Józefowiec Liceum,2469011-06701,10543,50.278973,19.015987,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06701/
@@ -2728,6 +2734,7 @@ Katowice Chorzowska,2469011-01002,3684,50.26543,19.017672,https://rj.transportgz
 Katowice Chorzowska,2469011-01003,6003,50.266815,19.019753,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01003/
 Katowice Cmentarz Komunalny,2469011-07501,3999,50.246708,19.05079,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-07501/
 Katowice Cmentarz Komunalny,2469011-07503,7898,50.244385,19.052176,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-07503/
+Katowice Damrota GTC,2469011-36601,5457,50.248947,19.028116,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-36601/
 Katowice Dworzec,2469011-00101,5410,50.25851,19.016941,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00101/
 Katowice Dworzec,2469011-00102,5409,50.258495,19.017136,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00102/
 Katowice Dworzec,2469011-00103,5408,50.258472,19.017658,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00103/
@@ -2760,6 +2767,7 @@ Katowice Grundmanna Office Park,2469011-29701t,12372,50.26661,19.011007,https://
 Katowice Grundmanna Office Park,2469011-29701t,8809,50.26661,19.011007,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29701t/
 Katowice Grundmanna Office Park,2469011-29702t,12373,50.266727,19.010803,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29702t/
 Katowice Grundmanna Office Park,2469011-29702t,8810,50.266727,19.010803,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29702t/
+Katowice Górnośląska Os. Paderewskiego,2469011-35601,7277,50.245907,19.025833,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-35601/
 Katowice Hutnicza,2469011-37001,11061,50.252216,19.056278,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37001/
 Katowice Jagiellońska,2469011-02001,11086,50.25406,19.02369,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-02001/
 Katowice Jordana,2469011-01901t,10606,50.25176,19.015085,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01901t/
@@ -3190,6 +3198,7 @@ Kosztowy Kościół,2470011-11902,12781,50.188744,19.158949,https://rj.transport
 Kosztowy Kościół,2470011-11902,7126,50.188744,19.158949,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-11902/
 Kosztowy Pętla,2470011-04201,5296,50.174335,19.16676,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-04201/
 Kosztowy Pętla,2470011-04202,1464,50.173935,19.167145,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-04202/
+Kosztowy Pętla,2470011-04203,11744,50.173237,19.167757,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-04203/
 Kosztowy Rynek,2470011-04301,1466,50.184296,19.160494,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-04301/
 Kosztowy Rynek,2470011-04302,1467,50.185127,19.160816,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-04302/
 Kosztowy Rynek,2470011-04303,1468,50.18464,19.160355,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-04303/
@@ -5791,6 +5800,7 @@ Siemianowice Urząd Skarbowy nż,2474011-05101,3341,50.312218,19.023525,https://
 Siemianowice Urząd Skarbowy nż,2474011-05102,3342,50.311653,19.02341,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-05102/
 Siemianowice Śląska,2474011-04301,5151,50.306656,19.025642,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-04301/
 Siemianowice Śląska,2474011-04302,5152,50.306046,19.025536,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-04302/
+Siemianowice Śląska,2474011-04331,9768,50.30768,19.023893,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-04331/
 Siemonia Droga do Myszkowic nż,2401042-03401,643,50.431263,19.058191,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401042-03401/
 Siemonia Droga do Myszkowic nż,2401042-03402,644,50.431538,19.05823,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401042-03402/
 Siemonia Droga do Myszkowic nż,2401042-03403,645,50.431,19.057695,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401042-03403/
@@ -8264,11 +8274,13 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Łabędy Huta,2466011-08703,3009,50.355587,18.614922,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-08703/
 Łabędy Huta,2466011-08704,3010,50.355717,18.614847,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-08704/
 Łabędy Huta,2466011-08705,3011,50.355865,18.61475,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-08705/
+Łabędy Komisariat Policji,2466011-19031,10124,50.343723,18.622635,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-19031/
 Łabędy Komisariat Policji,2466011-19032,10123,50.343952,18.622528,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-19032/
 Łabędy Magazyny nż,2466011-19501,4137,50.368046,18.612783,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-19501/
 Łabędy Magazyny nż,2466011-19502,4138,50.367847,18.612633,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-19502/
 Łabędy Narutowicza,2466011-23131,10672,50.343227,18.631279,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23131/
 Łabędy Narutowicza,2466011-23132,10673,50.342945,18.63096,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23132/
+Łabędy Narutowicza,2466011-23133,12909,50.34299,18.63093,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23133/
 Łabędy Ogródki Działkowe nż,2466011-20401,5587,50.35029,18.625229,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-20401/
 Łabędy Ogródki Działkowe nż,2466011-20402,5586,50.35048,18.625082,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-20402/
 Łabędy Olimpijska nż,2466011-09501,4792,50.34776,18.624052,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-09501/
