@@ -8024,6 +8024,7 @@ Zawodzie Centrum Przesiadkowe,2469011-29502,8121,50.26039,19.06319,https://rj.tr
 Zawodzie Centrum Przesiadkowe,2469011-29502t,4475,50.260338,19.063347,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29502t/
 Zawodzie Centrum Przesiadkowe,2469011-29504t,4474,50.25983,19.064034,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29504t/
 Zawodzie Centrum Przesiadkowe,2469011-29505,8122,50.260326,19.064116,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29505/
+Zawodzie Centrum Przesiadkowe,2469011-29505t,12908,50.26055,19.064087,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29505t/
 Zawodzie Centrum Przesiadkowe,2469011-29505t,6930,50.26048,19.064384,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29505t/
 Zawodzie Centrum Przesiadkowe Parking,2469011-28101a,7351,50.2589,19.066294,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28101a/
 Zawodzie Ośrodek Sportowy,2469011-28501,4047,50.259216,19.055523,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-28501/
