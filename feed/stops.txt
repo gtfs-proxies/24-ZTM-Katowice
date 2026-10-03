@@ -737,6 +737,7 @@ Bytom Plac Sikorskiego,2462011-03704t,11518,50.34515,18.920624,https://rj.transp
 Bytom Plac Sikorskiego,2462011-03704t,7282,50.34515,18.920624,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-03704t/
 Bytom Plac Sikorskiego,2462011-03705t,11519,50.345207,18.920639,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-03705t/
 Bytom Plac Sikorskiego,2462011-03705t,7283,50.345207,18.920639,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-03705t/
+Bytom Plac Sikorskiego,2462011-03731,7376,50.344364,18.920092,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-03731/
 Bytom Plac Sobieskiego,2462011-03801,2299,50.34898,18.924706,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-03801/
 Bytom Pogoda,2462011-03901,2369,50.345654,18.93036,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-03901/
 Bytom Powstańców Warszawskich,2462011-04101,2412,50.344467,18.914536,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-04101/
