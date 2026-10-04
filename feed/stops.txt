@@ -1941,6 +1941,7 @@ Gliwice Jasnogórska,2466011-02902,5573,50.297215,18.656958,https://rj.transport
 Gliwice Jasnogórska,2466011-02904,1232,50.296345,18.657188,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02904/
 Gliwice Jasnogórska,2466011-02905,1231,50.296574,18.659039,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02905/
 Gliwice Jasnogórska,2466011-02908,5688,50.29605,18.657269,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02908/
+Gliwice Jasnogórska,2466011-02935,7515,50.29639,18.656487,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02935/
 Gliwice Kochanowskiego,2466011-03601,1337,50.287384,18.664103,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03601/
 Gliwice Kochanowskiego,2466011-03602,1338,50.287434,18.664194,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03602/
 Gliwice Komag,2466011-03701,1394,50.286945,18.673422,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03701/
@@ -1950,6 +1951,7 @@ Gliwice Kopalniana,2466011-16702,1403,50.28276,18.682983,https://rj.transportgzm
 Gliwice Kościuszki,2466011-03805,3915,50.29518,18.651834,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03805/
 Gliwice Kościuszki,2466011-03806,3913,50.295483,18.652634,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03806/
 Gliwice Królewskiej Tamy Rondo,2466011-17901,9868,50.28954,18.701832,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-17901/
+Gliwice Królewskiej Tamy Rondo,2466011-17932,10942,50.28982,18.703884,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-17932/
 Gliwice Królewskiej Tamy nż,2466011-03901,1501,50.29016,18.713219,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03901/
 Gliwice Królewskiej Tamy nż,2466011-03902,1502,50.29017,18.711052,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03902/
 Gliwice Kujawska,2466011-04001,1525,50.28699,18.67798,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-04001/
@@ -1964,6 +1966,7 @@ Gliwice Michałowskiego,2466011-16101,2492,50.30992,18.688606,https://rj.transpo
 Gliwice Michałowskiego,2466011-16102,2493,50.309616,18.68806,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-16102/
 Gliwice Mikołowska,2466011-04401,1719,50.29133,18.667997,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-04401/
 Gliwice Muzeum,2466011-04501,4743,50.295193,18.667011,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-04501/
+Gliwice Nowy Świat,2466011-04701,3668,50.289303,18.663641,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-04701/
 Gliwice Nowy Świat,2466011-04702,3669,50.289333,18.666742,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-04702/
 Gliwice Odlewników,2466011-21701,5509,50.291107,18.691832,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-21701/
 Gliwice Odlewników,2466011-21702,5510,50.291077,18.69143,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-21702/
@@ -3565,6 +3568,8 @@ Maciejkowice Szyb Zygmunt,2463011-08501,1621,50.32307,18.971245,https://rj.trans
 Maciejkowice Szyb Zygmunt,2463011-08502,1622,50.323322,18.97076,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-08502/
 Maciejów Knurowska,2466011-21201t,4700,50.3054,18.734848,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-21201t/
 Maciejów Knurowska,2466011-21202t,4701,50.30536,18.735954,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-21202t/
+Maciejów Knurowska,2466011-21231,10945,50.304005,18.73322,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-21231/
+Maciejów Knurowska,2466011-21232,10946,50.30436,18.733208,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-21232/
 Maciejów Kondratowicza,2478011-02901,1623,50.305576,18.739586,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-02901/
 Maciejów Kondratowicza,2478011-02901t,1624,50.30548,18.740942,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-02901t/
 Maciejów Kondratowicza,2478011-02902,1625,50.305542,18.741533,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-02902/
