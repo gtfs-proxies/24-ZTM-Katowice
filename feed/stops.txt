@@ -1750,6 +1750,7 @@ Dąbrowa Miejska Węglowa nż,2462011-13801t,6877,50.36665,18.895159,https://rj.
 Dąbrowa Miejska Węglowa nż,2462011-13802t,11714,50.36641,18.895351,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-13802t/
 Dąbrowa Miejska Węglowa nż,2462011-13802t,6876,50.36641,18.895351,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-13802t/
 Dąbrowa Miejska nż,2462011-06001,507,50.37556,18.890583,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-06001/
+Dąbrowa Miejska nż,2462011-06001t,11550,50.374207,18.890598,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-06001t/
 Dąbrowa Miejska nż,2462011-06001t,508,50.374207,18.890598,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-06001t/
 Dąbrówka,2405082-03301,5823,50.51132,18.481312,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405082-03301/
 Dąbrówka,2405082-03302,5824,50.51183,18.481012,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405082-03302/
