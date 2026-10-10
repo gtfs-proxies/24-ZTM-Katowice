@@ -1886,6 +1886,7 @@ Gliwice Bojkowska SSE,2466011-16602,703,50.26526,18.690533,https://rj.transportg
 Gliwice Cecylia,2466011-02101,399,50.291004,18.695673,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02101/
 Gliwice Centrum Handlowe,2466011-00101,10818,50.29979,18.684486,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-00101/
 Gliwice Centrum Handlowe,2466011-00102,10805,50.30041,18.685143,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-00102/
+Gliwice Centrum Logistyki,2466011-22001,12939,50.32997,18.62866,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-22001/
 Gliwice Centrum Logistyki,2466011-22001,5691,50.32997,18.62866,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-22001/
 Gliwice Centrum Onkologii,2466011-19602,5129,50.301632,18.663233,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-19602/
 Gliwice Centrum Przesiadkowe,2466011-23905,8637,50.302235,18.67689,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23905/
@@ -1921,9 +1922,13 @@ Gliwice Dąbrowskiego,2466011-02501,514,50.297626,18.69232,https://rj.transportg
 Gliwice Dąbrowskiego,2466011-02502,516,50.297714,18.692453,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02502/
 Gliwice Dąbrowskiego,2466011-02503,517,50.297558,18.69514,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02503/
 Gliwice Dąbrowskiego,2466011-02504,515,50.297436,18.695345,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02504/
+Gliwice Edisona nż,2466011-07901,12936,50.3165,18.645643,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07901/
 Gliwice Edisona nż,2466011-07901,3494,50.3165,18.645643,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07901/
+Gliwice Edisona nż,2466011-07902,12937,50.316063,18.645815,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07902/
 Gliwice Edisona nż,2466011-07902,3495,50.316063,18.645815,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07902/
+Gliwice Estakada Heweliusza nż,2466011-05401,12928,50.32065,18.642538,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05401/
 Gliwice Estakada Heweliusza nż,2466011-05401,2370,50.32065,18.642538,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05401/
+Gliwice Estakada Heweliusza nż,2466011-05402,12929,50.319386,18.643482,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05402/
 Gliwice Estakada Heweliusza nż,2466011-05402,2371,50.319386,18.643482,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05402/
 Gliwice Europa Centralna,2466011-20801,5705,50.265167,18.719484,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-20801/
 Gliwice Franciszkańska,2466011-02801,710,50.293686,18.687418,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02801/
@@ -1933,6 +1938,7 @@ Gliwice Górna,2466011-08402,398,50.274582,18.699743,https://rj.transportgzm.pl/
 Gliwice Górnych Wałów,2466011-03001,1088,50.291622,18.666708,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03001/
 Gliwice Góry Chełmskiej,2466011-03101,1089,50.299152,18.653025,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03101/
 Gliwice Góry Chełmskiej,2466011-03102,1090,50.29976,18.651379,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03102/
+Gliwice Hutnicza,2466011-25401,12919,50.293724,18.688887,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-25401/
 Gliwice Jacka nż,2466011-03301,1201,50.278168,18.692606,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03301/
 Gliwice Jacka nż,2466011-03302,1202,50.27914,18.690977,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03302/
 Gliwice Jagiellońska,2466011-03401,4739,50.296158,18.68131,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-03401/
@@ -1986,7 +1992,9 @@ Gliwice Plac Piłsudskiego,2466011-05302,2293,50.29713,18.666613,https://rj.tran
 Gliwice Politechnika,2466011-07301,11116,50.29221,18.672895,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07301/
 Gliwice Poniatowskiego,2466011-05501,3612,50.303894,18.693125,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05501/
 Gliwice Poniatowskiego,2466011-05502,3613,50.30379,18.692621,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05502/
+Gliwice Port,2466011-05601,12930,50.322678,18.639582,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05601/
 Gliwice Port,2466011-05601,2407,50.322678,18.639582,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05601/
+Gliwice Port,2466011-05602,12931,50.32244,18.639177,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05602/
 Gliwice Port,2466011-05602,2408,50.32244,18.639177,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05602/
 Gliwice Pszczyńska Akademiki,2466011-24932,10113,50.28431,18.679564,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-24932/
 Gliwice Puszkina,2466011-05801,4746,50.29396,18.64653,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-05801/
@@ -2047,7 +2055,9 @@ Gliwice Zajezdnia,2466011-07602,3678,50.304928,18.729548,https://rj.transportgzm
 Gliwice Zajezdnia,2466011-07602t,3679,50.30504,18.730858,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07602t/
 Gliwice Zajezdnia,2466011-07603,5512,50.304714,18.7304,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07603/
 Gliwice Zajezdnia,2466011-07604,5511,50.304775,18.730515,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07604/
+Gliwice Zakład Energetyczny,2466011-07701,12934,50.31326,18.647884,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07701/
 Gliwice Zakład Energetyczny,2466011-07701,3432,50.31326,18.647884,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07701/
+Gliwice Zakład Energetyczny,2466011-07702,12935,50.312576,18.64815,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07702/
 Gliwice Zakład Energetyczny,2466011-07702,3433,50.312576,18.64815,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-07702/
 Gliwice Zakład Opla,2466011-15301,3761,50.319435,18.622116,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15301/
 Gliwice Zamenhofa,2466011-18501,2300,50.31748,18.69616,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18501/
@@ -4826,12 +4836,16 @@ Paniowy Zagrodowa,2408021-06802,12626,50.194405,18.842157,https://rj.transportgz
 Paniowy Zagrodowa,2408021-06802,6569,50.194405,18.842157,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-06802/
 Paniówki Darwina nż,2405032-02901,8133,50.22211,18.78757,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-02901/
 Paniówki Darwina nż,2405032-02902,8132,50.22181,18.787733,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-02902/
+Paniówki Dębowa,2405032-01801,12941,50.23354,18.775103,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-01801/
+Paniówki Dębowa,2405032-01802,12942,50.233562,18.774858,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-01802/
 Paniówki Rogatka,2405032-01401,2201,50.23972,18.769466,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-01401/
 Paniówki Rogatka,2405032-01402,2202,50.23965,18.769026,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-01402/
 Paniówki Skrzyżowanie,2405032-01501,4822,50.23246,18.791529,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-01501/
 Paniówki Skrzyżowanie,2405032-01502,4823,50.233448,18.787933,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-01502/
 Paniówki Skrzyżowanie,2405032-01503,4824,50.232006,18.78943,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-01503/
 Paniówki Skrzyżowanie,2405032-01504,4825,50.232334,18.789562,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-01504/
+Paniówki Szkoła,2405032-01601,12943,50.231117,18.78137,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-01601/
+Paniówki Szkoła,2405032-01602,12944,50.231052,18.781172,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-01602/
 Paniówki Wiśniowa,2405032-01701,4826,50.225418,18.78817,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-01701/
 Paniówki Wiśniowa,2405032-01702,4827,50.225945,18.788643,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405032-01702/
 Paprocany Dymarek,2477011-04001,12276,50.096714,18.993198,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-04001/
@@ -8289,6 +8303,9 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Łabędy Narutowicza,2466011-23131,10672,50.343227,18.631279,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23131/
 Łabędy Narutowicza,2466011-23132,10673,50.342945,18.63096,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23132/
 Łabędy Narutowicza,2466011-23133,12909,50.34299,18.63093,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-23133/
+Łabędy Niepaszycka,2466011-15501,12922,50.33173,18.617311,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15501/
+Łabędy Niepaszycka,2466011-15502,12923,50.33049,18.617094,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15502/
+Łabędy Niepaszycka,2466011-15503,12924,50.33004,18.615114,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15503/
 Łabędy Ogródki Działkowe nż,2466011-20401,5587,50.35029,18.625229,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-20401/
 Łabędy Ogródki Działkowe nż,2466011-20402,5586,50.35048,18.625082,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-20402/
 Łabędy Olimpijska nż,2466011-09501,4792,50.34776,18.624052,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-09501/
@@ -8298,12 +8315,18 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Łabędy Oświęcimska nż,2466011-19401,4135,50.365902,18.621817,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-19401/
 Łabędy Oświęcimska nż,2466011-19402,4136,50.365677,18.621796,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-19402/
 Łabędy Partyzantów,2466011-09101,3014,50.339664,18.631712,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-09101/
+Łabędy Poczta,2466011-15601,12932,50.339283,18.618307,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15601/
 Łabędy Poczta,2466011-15601,3015,50.339283,18.618307,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15601/
 Łabędy Poczta,2466011-15602,3016,50.339912,18.619734,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15602/
+Łabędy Poczta,2466011-15603,12938,50.33903,18.619337,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15603/
 Łabędy Poczta,2466011-15603,5687,50.33903,18.619337,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15603/
 Łabędy Poczta,2466011-15632,12466,50.339363,18.618258,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15632/
 Łabędy Rynek,2466011-09201,3017,50.349915,18.616606,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-09201/
 Łabędy Rynek,2466011-09202,3018,50.347958,18.619267,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-09202/
+Łabędy Starogliwicka nż,2466011-15801,12920,50.326786,18.617517,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15801/
+Łabędy Starogliwicka nż,2466011-15802,12921,50.326607,18.617342,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-15802/
+Łabędy Staromiejska Kościół nż,2466011-25501,12926,50.335644,18.617142,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-25501/
+Łabędy Staromiejska Kościół nż,2466011-25502,12927,50.33509,18.617006,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-25502/
 Łabędy Strzelców Bytomskich,2466011-09301,3019,50.34555,18.623285,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-09301/
 Łabędy Strzelców Bytomskich,2466011-09302,3020,50.346386,18.623447,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-09302/
 Łagiewniki Adamka,2462011-13701,5628,50.324417,18.933235,https://rj.transportgzm.pl/v2/rozklady/przystanek/2462011-13701/
