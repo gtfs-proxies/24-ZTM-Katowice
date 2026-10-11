@@ -3403,6 +3403,7 @@ Kuźnica Warężyńska nż,2401075-03201,1533,50.401913,19.181873,https://rj.tra
 Kuźnica Warężyńska nż,2401075-03202,1534,50.401825,19.181892,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401075-03202/
 Kuźnica Świętojańska Parking,2401074-03101,5015,50.44882,19.227526,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401074-03101/
 Kuźnica Świętojańska nż,2401074-03001,1527,50.453964,19.229485,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401074-03001/
+Kuźnica Świętojańska nż,2401074-03002,1528,50.454483,19.23007,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401074-03002/
 Kuźniczka Las nż,2465011-06501,1541,50.326218,19.404871,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-06501/
 Kuźniczka Las nż,2465011-06502,1542,50.32649,19.404465,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-06502/
 Kuźniczka Nowa,2465011-06601,5428,50.322063,19.403427,https://rj.transportgzm.pl/v2/rozklady/przystanek/2465011-06601/
@@ -5126,6 +5127,7 @@ Pogoń Akademiki,2475011-08102,2353,50.299004,19.13454,https://rj.transportgzm.p
 Pogoń Akademiki,2475011-08102t,11331,50.298332,19.134357,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08102t/
 Pogoń Akademiki,2475011-08102t,2354,50.298332,19.134357,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08102t/
 Pogoń Aleja Mireckiego,2475011-08201,2587,50.286453,19.12223,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08201/
+Pogoń Aleja Mireckiego,2475011-08232,8900,50.28495,19.120556,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08232/
 Pogoń Ciepła,2475011-08402,2356,50.293797,19.141016,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08402/
 Pogoń Grota-Roweckiego,2475011-08501,2592,50.28659,19.12453,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08501/
 Pogoń Grota-Roweckiego,2475011-08502,2593,50.28707,19.121666,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-08502/
