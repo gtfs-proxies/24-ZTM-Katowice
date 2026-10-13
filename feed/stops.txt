@@ -1177,6 +1177,8 @@ Chorzów Racławicka,2463011-05101t,11627,50.28098,18.946365,https://rj.transpor
 Chorzów Racławicka,2463011-05101t,4540,50.28098,18.946365,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05101t/
 Chorzów Racławicka,2463011-05102t,11628,50.28104,18.946907,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05102t/
 Chorzów Racławicka,2463011-05102t,4541,50.28104,18.946907,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05102t/
+Chorzów Racławicka,2463011-05103,7440,50.281197,18.946886,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05103/
+Chorzów Racławicka,2463011-05104,7439,50.28126,18.946522,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-05104/
 Chorzów Racławicka OPS,2463011-11101,7973,50.280468,18.947847,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-11101/
 Chorzów Racławicka OPS,2463011-11102,5596,50.28023,18.949327,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-11102/
 Chorzów Rynek,2463011-00101,3610,50.29823,18.954865,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-00101/
@@ -2748,6 +2750,7 @@ Katowice Chorzowska,2469011-01001,3683,50.26613,19.019053,https://rj.transportgz
 Katowice Chorzowska,2469011-01002,3684,50.26543,19.017672,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01002/
 Katowice Chorzowska,2469011-01003,6003,50.266815,19.019753,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-01003/
 Katowice Cmentarz Komunalny,2469011-07501,3999,50.246708,19.05079,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-07501/
+Katowice Cmentarz Komunalny,2469011-07502,7174,50.24614,19.051722,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-07502/
 Katowice Cmentarz Komunalny,2469011-07503,7898,50.244385,19.052176,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-07503/
 Katowice Damrota GTC,2469011-36601,5457,50.248947,19.028116,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-36601/
 Katowice Dworzec,2469011-00101,5410,50.25851,19.016941,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00101/
