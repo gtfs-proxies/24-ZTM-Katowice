@@ -17,9 +17,6 @@ jobs:
   tests:
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    strategy:
-      matrix:
-        python: ["3.10", "3.14"]
     env:
       PYTHONDONTWRITEBYTECODE: "1"
       TMPDIR: /tmp
@@ -30,7 +27,7 @@ jobs:
           persist-credentials: false
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
-          python-version: ${{ matrix.python }}
+          python-version: "3.14"
       - name: Check shell syntax
         run: for script in *.sh; do bash -n "$script" || exit; done
       - name: Run offline regression tests

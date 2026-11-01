@@ -27,7 +27,7 @@
 - Keep download/cache behavior deterministic. Pin and document new dependencies.
 
 ## Verification
-Run from the repository root on Linux with Python 3.10+ and Git:
+Run from the repository root on Linux with Python 3.14 and Git:
 
 ```sh
 PYTHONDONTWRITEBYTECODE=1 TMPDIR=/tmp python3 -B -m unittest discover -s tests -v

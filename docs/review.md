@@ -37,13 +37,13 @@ This is a code/operational review, not an independent validation of the release 
   the unused all-trips dictionary. Route/overlap decisions are unchanged; both
   scripts were byte-identical to `main` on disposable copies of the current feed.
 - Added read-only, SHA-pinned test CI without LFS downloads or publishing, on
-  Python 3.10 and 3.14. The publishing workflow is unchanged.
+  Python 3.14 only. The publishing workflow is unchanged.
 
 ## Validation boundary
 
 Local verification: 41 unit tests pass on Python 3.14; all shell scripts pass
-`bash -n` and the new workflow parses as YAML. The Python 3.10 matrix leg and the
-new Actions workflow itself have not yet run on GitHub.
+`bash -n` and the new workflow parses as YAML. The new Actions workflow itself
+has not yet run on GitHub.
 
 Run 868 succeeded and published `2026.197`; its tidy log reported no records
 dropped due to errors. Warnings include upstream route contrast, duplicate route

@@ -30,7 +30,7 @@ step; running it after merging would duplicate retention work.
 
 ## Development
 
-Use Linux, Python 3.10+, Bash, and Git for the offline tests. The publishing
+Use Linux, Python 3.14, Bash, and Git for the offline tests. The publishing
 pipeline additionally needs Git LFS, curl, jq, wget, zip/unzip, Go, and `gtfstidy`;
 the workflow records its current install commands. `home-pl.pem` is the CA bundle
 used for upstream HTTPS requests.
@@ -48,7 +48,7 @@ CSV rewrites stage files under `/tmp/$FEED_NAME/` (default `24-ZTM-Katowice`);
 the staging directory must share a filesystem with the source for replacement.
 
 `.github/workflows/tests.yml` runs these checks on pull requests and code changes
-on `main`, using Python 3.10 and 3.14. It has read-only permissions, skips LFS
+on `main`, using Python 3.14 only. It has read-only permissions, skips LFS
 downloads, and cannot publish feeds. Its checkout and Python setup actions are
 pinned to reviewed v6 revisions (Node 24); update their SHAs deliberately.
 
