@@ -1,4 +1,5 @@
 import csv
+import datetime as dt
 from io import TextIOWrapper
 from pathlib import Path
 import subprocess
@@ -24,9 +25,15 @@ class GtfsMergeTests(unittest.TestCase):
                 archive.writestr(filename, content)
         return path
 
-    def merge(self, *inputs):
+    def merge(self, *inputs, keep_past_days=None):
         output = self.root / "merged.zip"
-        subprocess.run([sys.executable, str(SCRIPT), *map(str, inputs), str(output)], check=True)
+        options = [] if keep_past_days is None else ["--keep-past-days", str(keep_past_days)]
+        subprocess.run(
+            [sys.executable, str(SCRIPT), *options, *map(str, inputs), str(output)],
+            check=True,
+            capture_output=True,
+            text=True,
+        )
         with zipfile.ZipFile(output) as archive:
             result = {}
             for name in archive.namelist():
@@ -121,6 +128,89 @@ class GtfsMergeTests(unittest.TestCase):
         rows = self.merge(fresh, cached)["calendar.txt"]
 
         self.assertEqual([row["start_date"] for row in rows], ["20261112", "20261111"])
+
+    def test_pruning_removes_expired_dependencies_and_unused_shapes(self):
+        expired = (dt.date.today() - dt.timedelta(days=8)).strftime("%Y%m%d")
+        cutoff = (dt.date.today() - dt.timedelta(days=7)).strftime("%Y%m%d")
+        source = self.archive("source.zip", {
+            "calendar.txt": f"service_id,end_date\nold,{expired}\nkeep,{cutoff}\n",
+            "calendar_dates.txt": f"service_id,date,exception_type\nold,{expired},1\n",
+            "trips.txt": "trip_id,service_id,shape_id\nT1,old,A\nT2,keep,B\n",
+            "stop_times.txt": "trip_id,stop_sequence\nT1,1\nT2,1\n",
+            "shapes.txt": "shape_id,shape_pt_sequence\nA,1\nB,1\nC,1\n",
+            "frequencies.txt": "trip_id,start_time\nT1,08:00:00\nT2,09:00:00\n",
+            "trips_ext.txt": "trip_id,operator_id\nT1,O1\nT2,O2\n",
+            "trip_order_ext.txt": "trip_id,order\nT1,1\nT2,1\n",
+            "service_ext.txt": "service_id,name\nold,Expired\nkeep,Retained\n",
+            "agency.txt": "agency_id,agency_name\nGZM,Unchanged\n",
+        })
+
+        result = self.merge(source, keep_past_days=7)
+
+        self.assertEqual(result["calendar.txt"], [{"service_id": "keep", "end_date": cutoff}])
+        self.assertEqual(result["calendar_dates.txt"], [])
+        for name in ("trips.txt", "stop_times.txt", "frequencies.txt",
+                     "trips_ext.txt", "trip_order_ext.txt"):
+            self.assertEqual([row["trip_id"] for row in result[name]], ["T2"], name)
+        self.assertEqual(result["shapes.txt"], [{"shape_id": "B", "shape_pt_sequence": "1"}])
+        self.assertEqual(result["service_ext.txt"], [{"service_id": "keep", "name": "Retained"}])
+        self.assertEqual(result["agency.txt"], [{"agency_id": "GZM", "agency_name": "Unchanged"}])
+
+    def test_pruning_preserves_services_defined_only_by_exceptions(self):
+        today = dt.date.today().strftime("%Y%m%d")
+        source = self.archive("source.zip", {
+            "calendar_dates.txt": f"service_id,date,exception_type\nS1,{today},1\n",
+            "trips.txt": "trip_id,service_id,shape_id\nT1,S1,A\n",
+            "stop_times.txt": "trip_id,stop_sequence\nT1,1\n",
+            "shapes.txt": "shape_id,shape_pt_sequence\nA,1\nunused,1\n",
+        })
+
+        result = self.merge(source, keep_past_days=7)
+
+        self.assertEqual([row["trip_id"] for row in result["trips.txt"]], ["T1"])
+        self.assertEqual([row["shape_id"] for row in result["shapes.txt"]], ["A"])
+        self.assertNotIn("calendar.txt", result)
+
+    def test_pruning_all_trips_safeguard_keeps_every_table(self):
+        expired = (dt.date.today() - dt.timedelta(days=30)).strftime("%Y%m%d")
+        source = self.archive("source.zip", {
+            "calendar.txt": f"service_id,end_date\nS1,{expired}\n",
+            "calendar_dates.txt": f"service_id,date,exception_type\nS1,{expired},1\n",
+            "trips.txt": "trip_id,service_id,shape_id\nT1,S1,A\n",
+            "stop_times.txt": "trip_id,stop_sequence\nT1,1\n",
+            "shapes.txt": "shape_id,shape_pt_sequence\nA,1\nunused,1\n",
+        })
+
+        self.assertEqual(self.merge(source, keep_past_days=7), self.merge(source))
+
+    def test_pruning_is_opt_in_and_invalid_dates_are_preserved(self):
+        expired = (dt.date.today() - dt.timedelta(days=30)).strftime("%Y%m%d")
+        source = self.archive("source.zip", {
+            "calendar.txt": f"service_id,end_date\nold,{expired}\nunknown,invalid\n",
+            "trips.txt": "trip_id,service_id\nT1,old\nT2,unknown\n",
+            "stop_times.txt": "trip_id,stop_sequence\nT1,1\nT2,1\n",
+        })
+
+        unpruned = self.merge(source)
+        pruned = self.merge(source, keep_past_days=7)
+
+        self.assertEqual(len(unpruned["trips.txt"]), 2)
+        self.assertEqual([row["trip_id"] for row in pruned["trips.txt"]], ["T2"])
+        self.assertEqual(pruned["calendar.txt"][0]["end_date"], "invalid")
+
+    def test_pruning_keeps_trips_when_service_id_has_a_retained_range(self):
+        expired = (dt.date.today() - dt.timedelta(days=30)).strftime("%Y%m%d")
+        today = dt.date.today().strftime("%Y%m%d")
+        source = self.archive("source.zip", {
+            "calendar.txt": "service_id,start_date,end_date\n"
+            f"S1,{expired},{expired}\nS1,{today},{today}\n",
+            "trips.txt": "trip_id,service_id\nT1,S1\nT2,S1\n",
+        })
+
+        result = self.merge(source, keep_past_days=7)
+
+        self.assertEqual(len(result["calendar.txt"]), 1)
+        self.assertEqual([row["trip_id"] for row in result["trips.txt"]], ["T1", "T2"])
 
 
 if __name__ == "__main__":

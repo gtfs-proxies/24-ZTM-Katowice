@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 
+import argparse
 import csv
+import datetime as dt
 import glob
 import logging
-import sys
 import zipfile
 from contextlib import ExitStack
 from io import TextIOWrapper
@@ -44,12 +45,34 @@ VIRTUAL_STOP_NAME_PREFIX = "granica"
 TECH_STOP_NAME_MARKER = "[tech]"
 
 
+def is_recent(value: str, cutoff: dt.date) -> bool:
+    try:
+        return dt.datetime.strptime(value.strip(), "%Y%m%d").date() >= cutoff
+    except ValueError:
+        # Preserve the existing pruner's conservative handling of invalid dates.
+        return True
+
+
 def main():
     """Merge inputs in priority order: the first archive defining an ID wins."""
+    parser = argparse.ArgumentParser(description=main.__doc__)
+    parser.add_argument(
+        "--keep-past-days", type=int,
+        help="prune expired services and unused shapes while writing the merged archive",
+    )
+    parser.add_argument("inputs", nargs="+")
+    parser.add_argument("output")
+    args = parser.parse_args()
+    if args.keep_past_days is not None and args.keep_past_days < 0:
+        parser.error("--keep-past-days must not be negative")
+    cutoff = (
+        dt.date.today() - dt.timedelta(days=args.keep_past_days)
+        if args.keep_past_days is not None else None
+    )
     gtfs_archive_paths: list[str] = [
-        path for arg in sys.argv[1:-1] for path in glob.glob(arg)
+        path for arg in args.inputs for path in sorted(glob.glob(arg))
     ]
-    output_path: str = sys.argv[-1]
+    output_path: str = args.output
 
     if len(gtfs_archive_paths) < 1:
         raise ValueError("Missing arguments.")
@@ -59,8 +82,27 @@ def main():
         for path in gtfs_archive_paths:
             zipfiles.append((path, stack.enter_context(zipfile.ZipFile(path))))
 
+        service_ids: set[str] = set()
+        if cutoff is not None:
+            # Reused service IDs remain active if any retained range uses them.
+            for _, archive_zf in zipfiles:
+                for filename, date_column in (
+                    ("calendar.txt", "end_date"), ("calendar_dates.txt", "date")
+                ):
+                    if filename not in archive_zf.namelist():
+                        continue
+                    with archive_zf.open(filename) as in_raw:
+                        reader = csv.DictReader(
+                            TextIOWrapper(in_raw, encoding=ENCODING, newline="")
+                        )
+                        for row in reader:
+                            if is_recent(row.get(date_column) or "", cutoff):
+                                service_ids.add(row["service_id"])
+
         # Keep dependent trip rows in the same archive as the winning trip.
         trip_owners: dict[str, str] = {}
+        trip_ids: set[str] = set()
+        shape_ids: set[str] = set()
         for archive_path, archive_zf in zipfiles:
             if "trips.txt" in archive_zf.namelist():
                 with archive_zf.open("trips.txt") as in_raw:
@@ -68,7 +110,26 @@ def main():
                         TextIOWrapper(in_raw, encoding=ENCODING, newline="")
                     )
                     for row in reader:
-                        trip_owners.setdefault(row["trip_id"], archive_path)
+                        trip_id = row["trip_id"]
+                        if trip_id in trip_owners:
+                            continue
+                        trip_owners[trip_id] = archive_path
+                        if cutoff is not None and row["service_id"] in service_ids:
+                            trip_ids.add(trip_id)
+                            shape_ids.add(row.get("shape_id") or "")
+
+        if cutoff is not None and trip_owners and not trip_ids:
+            print(f"Skip pruning by cutoff {cutoff:%Y%m%d}: would remove all trips.")
+            cutoff = None
+        retained_ids = {
+            "trips.txt": ("trip_id", trip_ids),
+            "stop_times.txt": ("trip_id", trip_ids),
+            "frequencies.txt": ("trip_id", trip_ids),
+            "trips_ext.txt": ("trip_id", trip_ids),
+            "trip_order_ext.txt": ("trip_id", trip_ids),
+            "shapes.txt": ("shape_id", shape_ids),
+            "service_ext.txt": ("service_id", service_ids),
+        }
 
         drop_stop_ids: set[str] = set()
         seen_stop_ids: set[str] = set()
@@ -184,6 +245,12 @@ def main():
                     seen_ids: set[tuple[str, ...]] = set()
                     group_column = GROUP_COLUMNS.get(gtfs_file)
                     group_owners: dict[str, str] = {}
+                    retention = retained_ids.get(gtfs_file) if cutoff is not None else None
+                    date_column = {
+                        "calendar.txt": "end_date",
+                        "calendar_dates.txt": "date",
+                    }.get(gtfs_file)
+                    pruned_rows = 0
 
                     if gtfs_file not in FILE_INDEXES:
                         logging.warning("\t\tUsing first column as index.")
@@ -233,6 +300,15 @@ def main():
                                             owner = trip_owners.get(group_id, owner)
                                         if owner != archive_path:
                                             continue
+                                    if cutoff is not None:
+                                        if date_column and not is_recent(
+                                            row.get(date_column) or "", cutoff
+                                        ):
+                                            pruned_rows += 1
+                                            continue
+                                        if retention and row.get(retention[0]) not in retention[1]:
+                                            pruned_rows += 1
+                                            continue
                                     if "stop_id" in header and drop_stop_ids:
                                         stop_id = (row.get("stop_id") or "").strip()
                                         if stop_id in drop_stop_ids:
@@ -260,6 +336,8 @@ def main():
                             continue
 
                     out_wrapper.flush()
+                    if pruned_rows:
+                        print(f"Pruned {pruned_rows} expired/unreferenced rows from {gtfs_file}")
 
 
 if __name__ == "__main__":

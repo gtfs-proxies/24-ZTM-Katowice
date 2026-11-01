@@ -103,7 +103,7 @@ jobs:
           path: /tmp/${{ env.FEED_NAME }}/original/
           key: feed-${{ steps.version.outputs.VERSION }}-${{ github.run_number }}
 
-      - name: Merge GTFS feeds incrementally
+      - name: Merge GTFS feeds and prune expired services (keep last 7 days)
         id: merge-feeds
         run: bash merge-incremental.sh
 
@@ -135,9 +135,6 @@ jobs:
 
       - name: Round shape distances
         run: python3 round-shapes.py
-
-      - name: Prune old services (keep last 7 days)
-        run: python3 prune-old-services.py
 
       - name: Extract feed dates
         id: feed-dates

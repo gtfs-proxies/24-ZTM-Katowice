@@ -18,5 +18,5 @@ mapfile -t INPUTS < <(printf '%s\n' "${INPUTS[@]}" | LC_ALL=C sort -r)
 if [ -f "$OUTPUT_ZIP" ]; then
     INPUTS+=("$OUTPUT_ZIP")
 fi
-./gtfsmerge.py "${INPUTS[@]}" "$TEMP_ZIP"
+./gtfsmerge.py --keep-past-days 7 "${INPUTS[@]}" "$TEMP_ZIP"
 mv -f "$TEMP_ZIP" "$OUTPUT_ZIP"
