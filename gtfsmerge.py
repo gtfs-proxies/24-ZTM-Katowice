@@ -34,13 +34,18 @@ ENCODING = "utf-8-sig"
 DROP_COLUMNS: dict[str, set[str]] = {
     "stop_times.txt": {"timepoint", "shape_dist_traveled"},
 }
+GROUP_COLUMNS: dict[str, str] = {
+    "stop_times.txt": "trip_id",
+    "frequencies.txt": "trip_id",
+    "shapes.txt": "shape_id",
+}
 VIRTUAL_STOP_CODE_PREFIX = "GR"
 VIRTUAL_STOP_NAME_PREFIX = "granica"
 TECH_STOP_NAME_MARKER = "[tech]"
 
 
 def main():
-    """Run the program."""
+    """Merge inputs in priority order: the first archive defining an ID wins."""
     gtfs_archive_paths: list[str] = [
         path for arg in sys.argv[1:-1] for path in glob.glob(arg)
     ]
@@ -54,7 +59,19 @@ def main():
         for path in gtfs_archive_paths:
             zipfiles.append((path, stack.enter_context(zipfile.ZipFile(path))))
 
+        # Keep dependent trip rows in the same archive as the winning trip.
+        trip_owners: dict[str, str] = {}
+        for archive_path, archive_zf in zipfiles:
+            if "trips.txt" in archive_zf.namelist():
+                with archive_zf.open("trips.txt") as in_raw:
+                    reader = csv.DictReader(
+                        TextIOWrapper(in_raw, encoding=ENCODING, newline="")
+                    )
+                    for row in reader:
+                        trip_owners.setdefault(row["trip_id"], archive_path)
+
         drop_stop_ids: set[str] = set()
+        seen_stop_ids: set[str] = set()
         for archive_path, archive_zf in zipfiles:
             if "stops.txt" not in archive_zf.namelist():
                 continue
@@ -70,6 +87,9 @@ def main():
                         stop_code = (row.get("stop_code") or "").strip()
                         stop_name = (row.get("stop_name") or "").strip().lower()
                         stop_id = (row.get("stop_id") or "").strip()
+                        if stop_id in seen_stop_ids:
+                            continue
+                        seen_stop_ids.add(stop_id)
                         
                         # Drop virtual border stops
                         if stop_code.startswith(VIRTUAL_STOP_CODE_PREFIX) and stop_name.startswith(
@@ -162,6 +182,8 @@ def main():
                     writer.writeheader()
 
                     seen_ids: set[tuple[str, ...]] = set()
+                    group_column = GROUP_COLUMNS.get(gtfs_file)
+                    group_owners: dict[str, str] = {}
 
                     if gtfs_file not in FILE_INDEXES:
                         logging.warning("\t\tUsing first column as index.")
@@ -204,6 +226,13 @@ def main():
                                 for row in reader:
                                     if not row:
                                         continue
+                                    if group_column:
+                                        group_id = row[group_column]
+                                        owner = group_owners.setdefault(group_id, archive_path)
+                                        if group_column == "trip_id":
+                                            owner = trip_owners.get(group_id, owner)
+                                        if owner != archive_path:
+                                            continue
                                     if "stop_id" in header and drop_stop_ids:
                                         stop_id = (row.get("stop_id") or "").strip()
                                         if stop_id in drop_stop_ids:
