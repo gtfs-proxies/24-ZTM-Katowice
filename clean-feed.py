@@ -7,8 +7,9 @@ Removes:
 - Control characters
 """
 
-import csv
 from pathlib import Path
+
+from csv_transform import rewrite_csv
 
 FEED_DIR = Path("feed")
 
@@ -35,20 +36,7 @@ def clean_file(filepath):
         print(f"Skipping {filepath.name} (not found)")
         return
     
-    rows = []
-    with open(filepath, encoding='utf-8-sig') as f:
-        reader = csv.DictReader(f)
-        header = reader.fieldnames
-        
-        for row in reader:
-            cleaned_row = {k: clean_value(v) for k, v in row.items()}
-            rows.append(cleaned_row)
-    
-    # Write back
-    with open(filepath, 'w', encoding='utf-8-sig', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=header)
-        writer.writeheader()
-        writer.writerows(rows)
+    rewrite_csv(filepath, lambda row: {k: clean_value(v) for k, v in row.items()})
     
     print(f"Cleaned {filepath.name}")
 

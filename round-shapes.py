@@ -5,8 +5,9 @@ Round geographic and distance values in GTFS feed.
 - stop_times.txt: shape_dist_traveled to 2 decimals
 """
 
-import csv
 from pathlib import Path
+
+from csv_transform import rewrite_csv
 
 FEED_DIR = Path("feed")
 
@@ -19,27 +20,18 @@ def round_file(filepath: Path, columns_precision: dict[str, int]):
         print(f"Skipping {filepath.name} (not found)")
         return
     
-    rows: list[dict[str, str]] = []
-    with open(filepath, encoding='utf-8-sig') as f:
-        reader = csv.DictReader(f)
-        header = reader.fieldnames
-        
-        for row in reader:
-            for col, decimals in columns_precision.items():
-                val = row.get(col, '')
-                if val and val.strip():
-                    try:
-                        num = float(val)
-                        row[col] = f"{num:.{decimals}f}"
-                    except ValueError:
-                        pass
-            rows.append(row)
-    
-    # Write back
-    with open(filepath, 'w', encoding='utf-8-sig', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=header)
-        writer.writeheader()
-        writer.writerows(rows)
+    def round_row(row):
+        for col, decimals in columns_precision.items():
+            val = row.get(col, '')
+            if val and val.strip():
+                try:
+                    num = float(val)
+                    row[col] = f"{num:.{decimals}f}"
+                except ValueError:
+                    pass
+        return row
+
+    rewrite_csv(filepath, round_row)
     
     print(f"Rounded values in {filepath.name}")
 
