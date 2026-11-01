@@ -77,6 +77,24 @@ class GtfsMergeTests(unittest.TestCase):
         ])
         self.assertEqual([row["trip_id"] for row in result["frequencies.txt"]], ["T2"])
 
+    def test_optional_table_preserves_priority_and_unions_headers(self):
+        newest = self.archive("newest.zip", {"agency.txt": "agency_id\nA\n"})
+        older = self.archive("older.zip", {
+            "routes.txt": "route_id,route_long_name\nR1,Preferred\n",
+        })
+        cached = self.archive("cached.zip", {
+            "routes.txt": "route_id,route_desc,route_long_name\n"
+            "R1,Stale,Old\nR2,Cache only,Historical\n",
+        })
+
+        rows = self.merge(newest, older, cached)["routes.txt"]
+
+        self.assertEqual(list(rows[0]), ["route_id", "route_long_name", "route_desc"])
+        self.assertEqual(rows, [
+            {"route_id": "R1", "route_long_name": "Preferred", "route_desc": ""},
+            {"route_id": "R2", "route_long_name": "Historical", "route_desc": "Cache only"},
+        ])
+
     def test_replaces_whole_shape_not_just_matching_sequences(self):
         fresh = self.archive("fresh.zip", {
             "shapes.txt": "shape_id,shape_pt_sequence,shape_pt_lat\nA,1,50.1\nA,2,50.2\n",

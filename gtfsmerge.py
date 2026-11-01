@@ -186,24 +186,14 @@ def main():
             for gtfs_file in sorted(all_files):
                 logging.info("Processing %s...", gtfs_file)
 
-                reference: tuple[str, zipfile.ZipFile] | None = None
-                for path, zf in zipfiles:
-                    if gtfs_file in zf.namelist():
-                        reference = (path, zf)
-                        break
-
-                if reference is None:
-                    continue
-
-                reference_path, reference_zf = reference
-
-                headers: list[list[str]] = []
-                archives = [(reference_path, reference_zf)] + [
-                    pair for pair in zipfiles if pair[0] != reference_path
+                # Filtering preserves input priority, including optional tables
+                # found only in older archives or the cached master.
+                archives = [
+                    (path, zf) for path, zf in zipfiles
+                    if gtfs_file in zf.namelist()
                 ]
+                headers: list[list[str]] = []
                 for archive_path, archive_zf in archives:
-                    if gtfs_file not in archive_zf.namelist():
-                        continue
                     try:
                         with archive_zf.open(gtfs_file) as in_raw:
                             in_wrapper = TextIOWrapper(
@@ -271,10 +261,6 @@ def main():
                             index_positions = sorted(FILE_INDEXES[gtfs_file])
 
                     for archive_path, archive_zf in archives:
-                        if gtfs_file not in archive_zf.namelist():
-                            logging.info("\tSkipping missing %s in %s", gtfs_file, archive_path)
-                            continue
-
                         try:
                             with archive_zf.open(gtfs_file) as in_raw:
                                 in_wrapper = TextIOWrapper(
