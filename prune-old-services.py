@@ -49,8 +49,6 @@ def main():
             service_id = (row.get("service_id") or "").strip()
             if service_id:
                 service_ids.add(service_id)
-    if calendar_rows:
-        save_csv(calendar_path, calendar_headers, kept_calendar)
 
     calendar_dates_path = FEED_DIR / "calendar_dates.txt"
     cald_headers, cald_rows = load_csv(calendar_dates_path)
@@ -62,8 +60,6 @@ def main():
             service_id = (row.get("service_id") or "").strip()
             if service_id:
                 service_ids.add(service_id)
-    if cald_rows:
-        save_csv(calendar_dates_path, cald_headers, kept_calendar_dates)
 
     trips_path = FEED_DIR / "trips.txt"
     trips_headers, trips_rows = load_csv(trips_path)
@@ -83,6 +79,11 @@ def main():
         )
         return
 
+    # Do not modify any files until the all-trips safeguard has passed.
+    if calendar_rows:
+        save_csv(calendar_path, calendar_headers, kept_calendar)
+    if cald_rows:
+        save_csv(calendar_dates_path, cald_headers, kept_calendar_dates)
     if trips_rows:
         save_csv(trips_path, trips_headers, kept_trips)
 
