@@ -5,9 +5,10 @@ Fix routes.txt issues:
 - Remove route_desc when it duplicates route_long_name
 """
 
-import csv
 from pathlib import Path
 from typing import Optional
+
+from csv_transform import rewrite_csv
 
 FEED_DIR = Path("feed")
 
@@ -59,39 +60,29 @@ def fix_routes(filepath: Path):
         print(f"Skipping {filepath.name} (not found)")
         return
     
-    rows = []
     fixed_from_desc = 0
     removed_desc = 0
-    
-    with open(filepath, encoding='utf-8-sig') as f:
-        reader = csv.DictReader(f)
-        header = reader.fieldnames
-        
-        for row in reader:
-            long_name = row.get('route_long_name', '').strip()
-            desc = row.get('route_desc', '').strip()
-            
-            # Fix route_long_name using route_desc if available
-            if long_name and long_name.isupper() and desc:
-                # Extract matching prefix from desc
-                new_long_name = extract_matching_prefix(long_name, desc)
-                if new_long_name != long_name:
-                    row['route_long_name'] = new_long_name
-                    fixed_from_desc += 1
-            
-            # Remove route_desc if it now duplicates route_long_name
-            long_name = row.get('route_long_name', '').strip()
-            if desc and long_name and desc.lower() == long_name.lower():
-                row['route_desc'] = ''
-                removed_desc += 1
-            
-            rows.append(row)
-    
-    # Write back
-    with open(filepath, 'w', encoding='utf-8-sig', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=header)
-        writer.writeheader()
-        writer.writerows(rows)
+
+    def fix_row(row):
+        nonlocal fixed_from_desc, removed_desc
+        long_name = row.get('route_long_name', '').strip()
+        desc = row.get('route_desc', '').strip()
+
+        # Fix route_long_name using route_desc if available
+        if long_name and long_name.isupper() and desc:
+            new_long_name = extract_matching_prefix(long_name, desc)
+            if new_long_name != long_name:
+                row['route_long_name'] = new_long_name
+                fixed_from_desc += 1
+
+        # Remove route_desc if it now duplicates route_long_name
+        long_name = row.get('route_long_name', '').strip()
+        if desc and long_name and desc.lower() == long_name.lower():
+            row['route_desc'] = ''
+            removed_desc += 1
+        return row
+
+    rewrite_csv(filepath, fix_row)
     
     print(f"Fixed {filepath.name}:")
     print(f"  - Converted {fixed_from_desc} route names using route_desc as reference")

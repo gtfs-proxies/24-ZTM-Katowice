@@ -88,6 +88,61 @@ class CsvTransformTests(unittest.TestCase):
 
         self.assert_csv(path, [["trip_id", "arrival_time"], ["T1", "08:00:00"]])
 
+    def test_routes_preserve_casing_rules_extra_columns_and_counts(self):
+        path = self.write_file(
+            "routes.txt", "route_id,route_long_name,route_desc,extra\n"
+            'R1,KATOWICE - TYCHY,"Katowice - Tychy, express",untouched\n'
+            "R2,ŁÓDŹ,Łódź,keep\nR3,ALL CAPS,,keep\n"
+            "R4,Already Mixed,already mixed,keep\n"
+            "R5,UNKNOWN - TYCHY,Via Tychy,keep\n",
+        )
+
+        result = self.run_script("fix-routes.py")
+
+        self.assert_csv(path, [
+            ["route_id", "route_long_name", "route_desc", "extra"],
+            ["R1", "Katowice - Tychy", "Katowice - Tychy, express", "untouched"],
+            ["R2", "Łódź", "", "keep"],
+            ["R3", "ALL CAPS", "", "keep"],
+            ["R4", "Already Mixed", "", "keep"],
+            ["R5", "Unknown - Tychy", "Via Tychy", "keep"],
+        ])
+        self.assertIn("Converted 3 route names", result.stdout)
+        self.assertIn("Removed 2 duplicate route descriptions", result.stdout)
+
+    def test_blocks_clear_overlaps_but_preserve_services_and_touching_intervals(self):
+        path = self.write_file(
+            "trips.txt", "trip_id,service_id,block_id,extra\n"
+            "T1,S1,B,keep\nT2,S1,B,keep\nT3,S1,B,keep\n"
+            "T4,S2,B,keep\nT5,S1,,keep\n",
+        )
+        self.write_file(
+            "stop_times.txt", "trip_id,arrival_time\n"
+            "T1,24:00:00\nT1,24:20:00\nT2,24:10:00\nT2,24:30:00\n"
+            "T3,24:30:00\nT3,25:00:00\nT4,24:05:00\nT4,24:25:00\n",
+        )
+
+        result = self.run_script("fix-blocks.py")
+
+        self.assert_csv(path, [
+            ["trip_id", "service_id", "block_id", "extra"],
+            ["T1", "S1", "", "keep"], ["T2", "S1", "", "keep"],
+            ["T3", "S1", "B", "keep"], ["T4", "S2", "B", "keep"],
+            ["T5", "S1", "", "keep"],
+        ])
+        self.assertIn("Cleared block_id for 2 trips", result.stdout)
+
+    def test_route_and_block_rewrites_preserve_header_only_files(self):
+        for script, name, header in (
+            ("fix-routes.py", "routes.txt", ["route_id", "route_long_name"]),
+            ("fix-blocks.py", "trips.txt", ["trip_id", "service_id", "block_id"]),
+        ):
+            with self.subTest(script=script):
+                path = self.write_file(name, ','.join(header) + '\n')
+                self.write_file("stop_times.txt", "trip_id,arrival_time\n")
+                self.run_script(script)
+                self.assert_csv(path, [header])
+
     def test_failed_transformation_keeps_original_and_cleans_temporary_files(self):
         path = self.write_file("stops.txt", "stop_id\nP1\nP2\n")
         before = path.read_bytes()
@@ -127,8 +182,12 @@ class CsvTransformTests(unittest.TestCase):
         for script, name, content in (
             ("clean-feed.py", "stops.txt", "stop_id,stop_name\nP1,First\nP2,Extra,column\n"),
             ("round-shapes.py", "shapes.txt", "shape_id,shape_pt_lat\nA,50.12345678\nB,50,extra\n"),
+            ("fix-routes.py", "routes.txt", "route_id,route_long_name\nR1,First\nR2,Extra,column\n"),
+            ("fix-blocks.py", "trips.txt", "trip_id,service_id,block_id\nT1,S1,B\nT2,S1,B,extra\n"),
         ):
             with self.subTest(script=script):
+                if script == "fix-blocks.py":
+                    times = self.write_file("stop_times.txt", "trip_id,arrival_time\n")
                 path = self.write_file(name, content)
                 before = path.read_bytes()
 
@@ -136,9 +195,12 @@ class CsvTransformTests(unittest.TestCase):
 
                 self.assertNotEqual(result.returncode, 0)
                 self.assertEqual(path.read_bytes(), before)
-                self.assertEqual([p.name for p in self.feed.iterdir()], [name])
+                expected = sorted([name, "stop_times.txt"]) if script == "fix-blocks.py" else [name]
+                self.assertEqual(sorted(p.name for p in self.feed.iterdir()), expected)
                 self.assertEqual([p.name for p in self.root.iterdir()], ["feed"])
                 path.unlink()
+                if script == "fix-blocks.py":
+                    times.unlink()
 
     def test_header_only_file_stays_header_only(self):
         path = self.write_file("stops.txt", "stop_id,stop_name\n")

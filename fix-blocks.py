@@ -8,6 +8,8 @@ import csv
 from pathlib import Path
 from collections import defaultdict
 
+from csv_transform import rewrite_csv
+
 FEED_DIR = Path("feed")
 
 
@@ -27,7 +29,6 @@ def fix_overlapping_blocks(trips_filepath: Path, stop_times_filepath: Path):
     
     # Load all trips with block_id
     trips_by_block: dict[str, list[dict[str, str]]] = defaultdict(list)
-    all_trips: dict[str, dict[str, str]] = {}
     
     with open(trips_filepath, encoding='utf-8-sig') as f:
         reader = csv.DictReader(f)
@@ -35,8 +36,6 @@ def fix_overlapping_blocks(trips_filepath: Path, stop_times_filepath: Path):
             trip_id = row['trip_id']
             block_id = row.get('block_id', '').strip()
             service_id = row['service_id']
-            
-            all_trips[trip_id] = row
             
             if block_id:
                 trips_by_block[block_id].append({
@@ -101,21 +100,12 @@ def fix_overlapping_blocks(trips_filepath: Path, stop_times_filepath: Path):
                     trips_to_clear.add(next_trip['trip_id'])
     
     # Update trips.txt - clear block_id for problematic trips
-    rows = []
-    with open(trips_filepath, encoding='utf-8-sig') as f:
-        reader = csv.DictReader(f)
-        header = reader.fieldnames
-        
-        for row in reader:
-            if row['trip_id'] in trips_to_clear:
-                row['block_id'] = ''
-            rows.append(row)
-    
-    # Write back
-    with open(trips_filepath, 'w', encoding='utf-8-sig', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=header)
-        writer.writeheader()
-        writer.writerows(rows)
+    def clear_block(row):
+        if row['trip_id'] in trips_to_clear:
+            row['block_id'] = ''
+        return row
+
+    rewrite_csv(trips_filepath, clear_block)
     
     print("Fixed overlapping blocks:")
     print(f"  - Cleared block_id for {len(trips_to_clear)} trips with time overlaps")
