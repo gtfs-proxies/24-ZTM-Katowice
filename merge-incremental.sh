@@ -7,11 +7,16 @@ SOURCE_DIR="$FILE_LOCATION/original"
 OUTPUT_ZIP="$FILE_LOCATION/output.zip"
 TEMP_ZIP="$FILE_LOCATION/output.tmp.zip"
 
-if [ -f "$OUTPUT_ZIP" ]; then
-    # Merge cached output with all new downloads in one pass
-    ./gtfsmerge.py "$OUTPUT_ZIP" "$SOURCE_DIR"/*.zip "$TEMP_ZIP"
-    mv -f "$TEMP_ZIP" "$OUTPUT_ZIP"
-else
-    # No cache: merge all downloads into new output
-    ./gtfsmerge.py "$SOURCE_DIR"/*.zip "$OUTPUT_ZIP"
+shopt -s nullglob
+INPUTS=("$SOURCE_DIR"/*.zip)
+if [ "${#INPUTS[@]}" -eq 0 ]; then
+    echo "No source GTFS archives found in $SOURCE_DIR" >&2
+    exit 1
 fi
+# Dated source filenames sort newest first; cached records are only a fallback.
+mapfile -t INPUTS < <(printf '%s\n' "${INPUTS[@]}" | LC_ALL=C sort -r)
+if [ -f "$OUTPUT_ZIP" ]; then
+    INPUTS+=("$OUTPUT_ZIP")
+fi
+./gtfsmerge.py --keep-past-days 7 "${INPUTS[@]}" "$TEMP_ZIP"
+mv -f "$TEMP_ZIP" "$OUTPUT_ZIP"
