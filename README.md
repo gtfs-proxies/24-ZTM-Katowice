@@ -47,4 +47,9 @@ current directory. Set `FEED_NAME=24-ZTM-Katowice` for pipeline shell scripts.
 CSV rewrites stage files under `/tmp/$FEED_NAME/` (default `24-ZTM-Katowice`);
 the staging directory must share a filesystem with the source for replacement.
 
+`.github/workflows/tests.yml` runs these checks on pull requests and code changes
+on `main`, using Python 3.10 and 3.14. It has read-only permissions, skips LFS
+downloads, and cannot publish feeds. Its checkout and Python setup actions are
+pinned to reviewed v6 revisions (Node 24); update their SHAs deliberately.
+
 See [agent guidance](AGENTS.md) and the [repository review](docs/review.md).

@@ -1,0 +1,39 @@
+name: tests
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths:
+      - "*.py"
+      - "*.sh"
+      - "tests/**"
+      - ".github/workflows/tests.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    strategy:
+      matrix:
+        python: ["3.10", "3.14"]
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"
+      TMPDIR: /tmp
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          lfs: false
+          persist-credentials: false
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Check shell syntax
+        run: for script in *.sh; do bash -n "$script" || exit; done
+      - name: Run offline regression tests
+        run: python3 -B -m unittest discover -s tests -v
+      - name: Check patch whitespace
+        run: git diff --check

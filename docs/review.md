@@ -28,7 +28,22 @@ This is a code/operational review, not an independent validation of the release 
   migration, or a single large rewrite: the important complexity is GTFS source
   semantics, not the number of scripts.
 
+## Implemented in this review branch
+
+- Added `AGENTS.md` and a pipeline/development README.
+- Removed redundant reference-archive selection from merging; added a regression
+  test for optional tables, header union, and priority across three archives.
+- Reused safe streaming CSV replacements for route and block updates and removed
+  the unused all-trips dictionary. Route/overlap decisions are unchanged; both
+  scripts were byte-identical to `main` on disposable copies of the current feed.
+- Added read-only, SHA-pinned test CI without LFS downloads or publishing, on
+  Python 3.10 and 3.14. The publishing workflow is unchanged.
+
 ## Validation boundary
+
+Local verification: 41 unit tests pass on Python 3.14; all shell scripts pass
+`bash -n` and the new workflow parses as YAML. The Python 3.10 matrix leg and the
+new Actions workflow itself have not yet run on GitHub.
 
 Run 868 succeeded and published `2026.197`; its tidy log reported no records
 dropped due to errors. Warnings include upstream route contrast, duplicate route
