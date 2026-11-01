@@ -141,16 +141,7 @@ jobs:
 
       - name: Extract feed dates
         id: feed-dates
-        run: |
-          START_DATE=$(tail -n +2 feed/calendar.txt 2>/dev/null | cut -d',' -f8 | sort | head -1)
-          END_DATE=$(tail -n +2 feed/calendar.txt 2>/dev/null | cut -d',' -f9 | sort | tail -1)
-          if [ -z "$START_DATE" ] && [ -f feed/calendar_dates.txt ]; then
-            START_DATE=$(tail -n +2 feed/calendar_dates.txt | cut -d',' -f2 | sort | head -1)
-            END_DATE=$(tail -n +2 feed/calendar_dates.txt | cut -d',' -f2 | sort | tail -1)
-          fi
-          echo "START_DATE=${START_DATE}" >> $GITHUB_OUTPUT
-          echo "END_DATE=${END_DATE}" >> $GITHUB_OUTPUT
-          echo "Feed date range: ${START_DATE} to ${END_DATE}"
+        run: python3 extract-feed-dates.py >> "$GITHUB_OUTPUT"
 
       - name: Generate feed_info.txt
         run: |
