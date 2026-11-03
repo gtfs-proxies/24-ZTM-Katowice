@@ -402,8 +402,8 @@ Brynów Drozdów,2469011-09401t,12362,50.23481,19.000086,https://rj.transportgzm
 Brynów Drozdów,2469011-09401t,5171,50.23481,19.000086,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09401t/
 Brynów Drozdów,2469011-09402t,12363,50.234787,19.0002,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09402t/
 Brynów Drozdów,2469011-09402t,5172,50.234787,19.0002,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09402t/
-Brynów Drozdów,2469011-09431,8911,50.234863,18.999683,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09431/
-Brynów Drozdów,2469011-09432,8912,50.234673,19.0004,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09432/
+Brynów Drozdów,2469011-09431,8911,50.234894,18.999823,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09431/
+Brynów Drozdów,2469011-09432,8912,50.23493,19.000217,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09432/
 Brynów Dworska,2469011-09501,12682,50.232788,18.99556,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09501/
 Brynów Dworska,2469011-09501,4554,50.232788,18.99556,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09501/
 Brynów Dworska,2469011-09502,12683,50.234146,18.995956,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09502/
@@ -439,8 +439,8 @@ Brynów Słowików,2469011-09801t,12356,50.231403,18.997206,https://rj.transport
 Brynów Słowików,2469011-09801t,4556,50.231403,18.997206,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09801t/
 Brynów Słowików,2469011-09802t,12357,50.231453,18.997437,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09802t/
 Brynów Słowików,2469011-09802t,4557,50.231453,18.997437,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09802t/
-Brynów Słowików,2469011-09831,8914,50.2313,18.997654,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09831/
-Brynów Słowików,2469011-09832,8913,50.2313,18.997654,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09832/
+Brynów Słowików,2469011-09831,8914,50.23161,18.997131,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09831/
+Brynów Słowików,2469011-09832,8913,50.231544,18.997372,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-09832/
 Brynów W. Pola,2469011-40801,10575,50.242695,18.98349,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-40801/
 Brynów W. Pola,2469011-40802,10574,50.242325,18.984465,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-40802/
 Brynów W. Pola,2469011-40803,10576,50.242687,18.982374,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-40803/
@@ -1256,8 +1256,8 @@ Chorzów Targowisko,2463011-07101t,12881,50.30356,18.949339,https://rj.transport
 Chorzów Targowisko,2463011-07101t,4655,50.30356,18.949339,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07101t/
 Chorzów Targowisko,2463011-07102t,12894,50.30354,18.949736,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07102t/
 Chorzów Targowisko,2463011-07102t,8669,50.30354,18.949736,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07102t/
+Chorzów Targowisko,2463011-07131,11138,50.303635,18.949507,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07131/
 Chorzów Targowisko,2463011-07132,10505,50.303497,18.949657,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07132/
-Chorzów Targowisko,2463011-07132,11138,50.303635,18.949507,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-07132/
 Chorzów Teatr Rozrywki,2463011-02101t,11734,50.294163,18.957397,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-02101t/
 Chorzów Teatr Rozrywki,2463011-02101t,4506,50.294163,18.957397,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-02101t/
 Chorzów Teatr Rozrywki,2463011-02102t,11735,50.294224,18.957438,https://rj.transportgzm.pl/v2/rozklady/przystanek/2463011-02102t/
@@ -2848,7 +2848,7 @@ Katowice Rynek,2469011-00401t,12342,50.260147,19.022297,https://rj.transportgzm.
 Katowice Rynek,2469011-00401t,4441,50.260147,19.022297,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00401t/
 Katowice Rynek,2469011-00402t,12311,50.26007,19.022371,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00402t/
 Katowice Rynek,2469011-00402t,4442,50.26007,19.022371,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00402t/
-Katowice Rynek,2469011-00432,8557,50.26102,19.021626,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00432/
+Katowice Rynek,2469011-00432,8557,50.261,19.021646,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00432/
 Katowice Rynek Teatr Śląski,2469011-00301t,10604,50.259254,19.023064,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00301t/
 Katowice Rynek Teatr Śląski,2469011-00302t,10605,50.259388,19.0231,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-00302t/
 Katowice Skłodowskiej Dworzec,2469011-40701,9739,50.255962,19.01544,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-40701/
@@ -3231,7 +3231,7 @@ Kosztowy Wita Stwosza,2470011-12201,4854,50.186527,19.145956,https://rj.transpor
 Kosztowy Wita Stwosza,2470011-12202,12777,50.186577,19.14602,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12202/
 Kosztowy Wita Stwosza,2470011-12202,4855,50.186577,19.14602,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-12202/
 Koszutka GIG,2469011-12801,1469,50.271034,19.024849,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-12801/
-Koszutka GIG,2469011-12832,8558,50.269684,19.02411,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-12832/
+Koszutka GIG,2469011-12832,8558,50.269653,19.02412,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-12832/
 Koszutka Iłłakowiczówny,2469011-13401,3693,50.274754,19.02223,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13401/
 Koszutka Iłłakowiczówny,2469011-13402,3694,50.274857,19.02207,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13402/
 Koszutka Jesionowa,2469011-29201t,12333,50.274002,19.024164,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-29201t/
@@ -3256,7 +3256,7 @@ Koszutka Słoneczna,2469011-13502t,12308,50.27306,19.024923,https://rj.transport
 Koszutka Słoneczna,2469011-13502t,3249,50.27306,19.024923,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13502t/
 Koszutka Słoneczna Pętla,2469011-13601t,12326,50.273827,19.02444,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13601t/
 Koszutka Słoneczna Pętla,2469011-13601t,5042,50.273827,19.02444,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13601t/
-Koszutka Słoneczna Pętla,2469011-13631,8061,50.273956,19.024395,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13631/
+Koszutka Słoneczna Pętla,2469011-13631,8061,50.273975,19.024366,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13631/
 Koszutka Słoneczna Pętla,2469011-13632,11079,50.273197,19.024763,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-13632/
 Kotliszowice,2405075-02801,5953,50.474384,18.546059,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02801/
 Kotliszowice,2405075-02802,5954,50.47412,18.54573,https://rj.transportgzm.pl/v2/rozklady/przystanek/2405075-02802/
@@ -6512,8 +6512,8 @@ Szopienice Morawa,2469011-24902t,11267,50.26348,19.107063,https://rj.transportgz
 Szopienice Morawa,2469011-24902t,4320,50.26348,19.107063,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24902t/
 Szopienice Morawa,2469011-24931,8749,50.263935,19.10699,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24931/
 Szopienice Morawa,2469011-24932,8750,50.264126,19.106813,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24932/
-Szopienice Muzeum Walcownia,2469011-37631,12487,50.26355,19.077557,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37631/
-Szopienice Muzeum Walcownia,2469011-37632,12488,50.26367,19.077534,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37632/
+Szopienice Muzeum Walcownia,2469011-37601,12487,50.26355,19.077557,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37601/
+Szopienice Muzeum Walcownia,2469011-37602,12488,50.26367,19.077534,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37602/
 Szopienice Osiedlowa,2469011-25001,4910,50.264736,19.1037,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25001/
 Szopienice Osiedlowa,2469011-25002,4911,50.264793,19.104065,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25002/
 Szopienice PKP,2469011-37701,8280,50.257835,19.093803,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37701/
@@ -7656,7 +7656,7 @@ Wygorzele Sportowa,2477011-20602,12207,50.123226,19.050259,https://rj.transportg
 Wygorzele Sportowa,2477011-20602,6413,50.123226,19.050259,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20602/
 Wygorzele Tartak,2477011-20701,6369,50.131386,19.038023,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20701/
 Wygorzele Tartak,2477011-20702,6412,50.131393,19.038034,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20702/
-Wygorzele Tartak nż,2477011-20701,12174,50.131386,19.038023,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20701/
+Wygorzele Tartak nż,2477011-20701,12174,50.1314,19.037981,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20701/
 Wygorzele Tartak nż,2477011-20702,12206,50.131393,19.038034,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20702/
 Wygorzele Ułańska,2477011-20201,12177,50.128704,19.058119,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20201/
 Wygorzele Ułańska,2477011-20201,6373,50.128704,19.058119,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-20201/
@@ -8461,7 +8461,7 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Ławki Plebiscytowa,2470011-05401,4169,50.17788,19.118126,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-05401/
 Ławki Plebiscytowa,2470011-05402,4170,50.17794,19.11733,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-05402/
 Ławki Pętla,2470011-05701,3085,50.157158,19.11643,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-05701/
-Ławki Pętla,2470011-05702,11170,50.156784,19.116573,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-05702/
+Ławki Pętla,2470011-05702,11170,50.156834,19.116623,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-05702/
 Ławki Staw,2470011-06101,3083,50.161774,19.11903,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-06101/
 Ławki Staw,2470011-06102,3084,50.161705,19.11914,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-06102/
 Łaziska Dolne Górnicza,2408011-02001,12737,50.156303,18.870256,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408011-02001/
