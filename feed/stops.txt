@@ -82,8 +82,8 @@ Bieruń Majowa,2414011-01802,6722,50.071217,19.166061,https://rj.transportgzm.pl
 Bieruń Nowy Dworzec,2414011-04531,10315,50.0743,19.183865,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-04531/
 Bieruń Osiedle,2414011-01909,3994,50.078644,19.171555,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-01909/
 Bieruń Osiedle,2414011-01910,3995,50.078697,19.16957,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-01910/
-Bieruń Osiedle Homera,2414011-02004,6387,50.099804,19.083107,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-02004/
-Bieruń Osiedle Wygoda,2414011-02102,6385,50.102234,19.064503,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-02102/
+Bieruń Osiedle Homera,2414011-02004,6387,50.099846,19.082846,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-02004/
+Bieruń Osiedle Wygoda,2414011-02102,6385,50.10278,19.061134,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-02102/
 Bieruń Patriotów,2414011-04202,9161,50.067448,19.189274,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-04202/
 Bieruń Patriotów,2414011-04231,9162,50.06747,19.189146,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-04231/
 Bieruń Patriotów Wiadukt,2414011-03805,9155,50.068806,19.190172,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414011-03805/
@@ -962,8 +962,10 @@ Celiny Skrzyżowanie,2413062-04302,3840,50.449997,19.066145,https://rj.transport
 Celiny Szmaragdowa nż,2413062-05001,8147,50.447155,19.065792,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-05001/
 Celiny Szmaragdowa nż,2413062-05002,8146,50.447918,19.066723,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413062-05002/
 Chebzie Dworcowa,2472011-02001,415,50.302666,18.881706,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02001/
+Chebzie Dworcowa,2472011-02001t,13049,50.302513,18.882105,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02001t/
 Chebzie Dworcowa,2472011-02001t,416,50.302513,18.882105,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02001t/
 Chebzie Dworcowa,2472011-02002,417,50.302444,18.881632,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02002/
+Chebzie Dworcowa,2472011-02002t,13050,50.302334,18.882147,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02002t/
 Chebzie Dworcowa,2472011-02002t,418,50.302334,18.882147,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02002t/
 Chebzie Dworzec PKP,2472011-02101,411,50.303513,18.878395,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02101/
 Chebzie Dworzec PKP,2472011-02102,412,50.303295,18.878181,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02102/
@@ -977,17 +979,24 @@ Chebzie Pawła,2472011-02204t,12892,50.304646,18.88486,https://rj.transportgzm.p
 Chebzie Pawła,2472011-02204t,8374,50.304646,18.88486,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02204t/
 Chebzie Pawła nż,2472011-02201,5108,50.305008,18.883684,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02201/
 Chebzie Pawła nż,2472011-02202,5109,50.30484,18.884947,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02202/
+Chebzie Pętla,2472011-02301t,13059,50.30105,18.882456,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02301t/
 Chebzie Pętla,2472011-02301t,9128,50.30105,18.882456,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02301t/
+Chebzie Pętla,2472011-02302t,13058,50.300392,18.881319,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02302t/
 Chebzie Pętla,2472011-02302t,4279,50.300392,18.881319,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02302t/
+Chebzie Pętla,2472011-02303t,13057,50.300632,18.88286,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02303t/
 Chebzie Pętla,2472011-02303t,9127,50.300632,18.88286,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02303t/
+Chebzie Pętla,2472011-02304t,13063,50.30047,18.88284,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02304t/
 Chebzie Pętla,2472011-02304t,4281,50.30047,18.88284,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02304t/
+Chebzie Pętla,2472011-02305t,13064,50.300964,18.883234,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02305t/
 Chebzie Pętla,2472011-02305t,4282,50.300964,18.883234,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02305t/
 Chebzie Rondo,2472011-02401,413,50.30081,18.881725,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02401/
 Chebzie Rondo,2472011-02402,414,50.300594,18.881008,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02402/
 Chebzie Rondo,2472011-02404,7514,50.30037,18.883585,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02404/
 Chebzie Styczyńskiego,2472011-02501,5658,50.30143,18.874369,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02501/
+Chebzie Styczyńskiego,2472011-02501t,13060,50.301353,18.875065,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02501t/
 Chebzie Styczyńskiego,2472011-02501t,4673,50.301353,18.875065,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02501t/
 Chebzie Styczyńskiego,2472011-02502,5659,50.30129,18.874271,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02502/
+Chebzie Styczyńskiego,2472011-02502t,13061,50.301315,18.875128,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02502t/
 Chebzie Styczyńskiego,2472011-02502t,4674,50.301315,18.875128,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-02502t/
 Chebzie Węglowa,2472011-13401,8021,50.30154,18.87985,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-13401/
 Chełm Mały Górnośląska,2414052-00101,421,50.100796,19.218409,https://rj.transportgzm.pl/v2/rozklady/przystanek/2414052-00101/
@@ -2068,6 +2077,7 @@ Gliwice Zamenhofa,2466011-18501,2300,50.31748,18.69616,https://rj.transportgzm.p
 Gliwice Zamenhofa,2466011-18502,2301,50.31892,18.697287,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-18502/
 Gliwice Zwycięstwa,2466011-08001,4742,50.295013,18.668201,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-08001/
 Gliwice Zwycięstwa,2466011-08002,10577,50.296055,18.66967,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-08002/
+Gliwice Zwycięstwa,2466011-08031,13046,50.296616,18.670904,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-08031/
 Gliwice błog. Czesława,2466011-02001,359,50.292683,18.694246,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-02001/
 Gliwice Łużycka,2466011-04301,3611,50.291416,18.672087,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-04301/
 Gliwice Śliwki,2466011-06401,4,50.306377,18.662445,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-06401/
@@ -5164,6 +5174,8 @@ Pomłynie Skrzyżowanie,2401042-02503,2380,50.4122,19.047785,https://rj.transpor
 Pomłynie Skrzyżowanie,2401042-02504,2381,50.412178,19.047535,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401042-02504/
 Pomłynie Spółdzielnia nż,2401042-02601,2382,50.40922,19.057152,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401042-02601/
 Pomłynie Spółdzielnia nż,2401042-02602,2383,50.409454,19.056656,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401042-02602/
+Poremba Wolności,2478011-06301t,13047,50.298004,18.833597,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06301t/
+Poremba Wolności,2478011-06302t,13048,50.298084,18.833296,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06302t/
 Porąbka Dworzec PKP,2475011-09301,2386,50.273006,19.21552,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-09301/
 Porąbka Dworzec PKP,2475011-09301t,11336,50.273106,19.216465,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-09301t/
 Porąbka Dworzec PKP,2475011-09301t,2387,50.273106,19.216465,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-09301t/
@@ -5599,8 +5611,10 @@ Ruda Dworzec PKP,2472011-08601,8988,50.314705,18.85493,https://rj.transportgzm.p
 Ruda Dworzec PKP,2472011-08602,8989,50.31518,18.853495,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08602/
 Ruda Klary,2472011-08701,1298,50.29945,18.847054,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08701/
 Ruda Klary,2472011-08701t,1299,50.29923,18.84586,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08701t/
+Ruda Klary,2472011-08701t,13051,50.29923,18.84586,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08701t/
 Ruda Klary,2472011-08702,1300,50.299194,18.845173,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08702/
 Ruda Klary,2472011-08702t,1301,50.2991,18.845528,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08702t/
+Ruda Klary,2472011-08702t,13052,50.2991,18.845528,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08702t/
 Ruda Kościół,2472011-08801,2573,50.320225,18.856878,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08801/
 Ruda Kościół,2472011-08802,2572,50.320477,18.857124,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08802/
 Ruda Kuźnica Rudzka,2472011-10201,4670,50.326458,18.860376,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-10201/
@@ -5617,8 +5631,10 @@ Ruda Park Kozioła,2472011-13301,2571,50.316895,18.85602,https://rj.transportgzm
 Ruda Park Kozioła,2472011-13302,7999,50.31753,18.856113,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-13302/
 Ruda Park Przemysłowy,2472011-12501,7084,50.292297,18.843904,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-12501/
 Ruda Południowa,2472011-12101,2574,50.299873,18.852127,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-12101/
+Ruda Południowa,2472011-12101t,13053,50.299736,18.852972,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-12101t/
 Ruda Południowa,2472011-12101t,2575,50.299736,18.852972,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-12101t/
 Ruda Południowa,2472011-12102,2576,50.299553,18.85173,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-12102/
+Ruda Południowa,2472011-12102t,13054,50.29984,18.855433,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-12102t/
 Ruda Południowa,2472011-12102t,2577,50.29984,18.855433,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-12102t/
 Ruda Południowa,2472011-12103,2578,50.301224,18.854015,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-12103/
 Ruda Południowa,2472011-12104,2579,50.30093,18.85363,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-12104/
@@ -5634,8 +5650,10 @@ Ruda Szczęść Boże,2472011-09502,2920,50.317387,18.836258,https://rj.transpor
 Ruda Szkoła,2472011-09601,2580,50.31891,18.850039,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09601/
 Ruda Szkoła,2472011-09602,2581,50.31872,18.849058,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09602/
 Ruda Urząd Skarbowy,2472011-09801,3181,50.301693,18.868301,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09801/
+Ruda Urząd Skarbowy,2472011-09801t,13055,50.30093,18.869455,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09801t/
 Ruda Urząd Skarbowy,2472011-09801t,3182,50.30093,18.869455,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09801t/
 Ruda Urząd Skarbowy,2472011-09802,3183,50.30158,18.868282,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09802/
+Ruda Urząd Skarbowy,2472011-09802t,13056,50.30086,18.869812,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09802t/
 Ruda Urząd Skarbowy,2472011-09802t,3184,50.30086,18.869812,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09802t/
 Ruda Urząd Skarbowy,2472011-09804,5656,50.301136,18.871037,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09804/
 Ruda Urząd Skarbowy,2472011-09805,5657,50.301033,18.870275,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-09805/
@@ -6978,7 +6996,7 @@ Tychy Oczyszczalnia,2477011-08002,6806,50.09473,19.052011,https://rj.transportgz
 "Tychy Osiedle ""Z""",2477011-06302,6333,50.087883,18.997093,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06302/
 "Tychy Osiedle ""Z1""",2477011-16101,6328,50.086998,19.001717,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-16101/
 "Tychy Osiedle ""Z1""",2477011-16102,6334,50.08676,19.001545,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-16102/
-Tychy Osiedle Homera,2477011-15401,12003,50.099716,19.084404,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15401/
+Tychy Osiedle Homera,2477011-15401,12003,50.100346,19.085304,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15401/
 Tychy Osiedle Homera,2477011-15401,6388,50.099716,19.084404,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15401/
 Tychy Osiedle K,2477011-10401,12059,50.11088,18.974176,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-10401/
 Tychy Osiedle K,2477011-10402,12066,50.111145,18.974434,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-10402/
@@ -6996,7 +7014,7 @@ Tychy Osiedle U,2477011-15601,12129,50.10424,18.977654,https://rj.transportgzm.p
 Tychy Osiedle U,2477011-15602,12220,50.105743,18.977589,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-15602/
 Tychy Osiedle W,2477011-16001,12134,50.09914,18.99014,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-16001/
 Tychy Osiedle W,2477011-16002,12141,50.09872,18.990301,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-16002/
-Tychy Osiedle Wygoda,2477011-13301,12002,50.10233,19.064653,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13301/
+Tychy Osiedle Wygoda,2477011-13301,12002,50.102257,19.065327,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13301/
 Tychy Osiedle Wygoda,2477011-13301,6386,50.10233,19.064653,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-13301/
 Tychy Osiedle Z,2477011-06301,12149,50.08798,18.99749,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06301/
 Tychy Osiedle Z,2477011-06302,12153,50.087814,18.997168,https://rj.transportgzm.pl/v2/rozklady/przystanek/2477011-06302/
@@ -8434,6 +8452,7 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Łagisza Os. Rzemieślnicze,2401011-07402,10008,50.343014,19.156004,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-07402/
 Łagisza Poczta,2401011-07501,3069,50.351376,19.138014,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-07501/
 Łagisza Poczta,2401011-07502,3070,50.351994,19.138176,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-07502/
+Łagisza Poczta pętla,2401011-10901,7573,50.352825,19.139116,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-10901/
 Łagisza Podleśna nż,2401011-10701,10034,50.3521,19.17695,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-10701/
 Łagisza Podleśna nż,2401011-10702,10033,50.352158,19.176764,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-10702/
 Łagisza Podłosie nż,2401011-09201,10011,50.350323,19.176077,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401011-09201/
