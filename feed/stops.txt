@@ -3850,6 +3850,8 @@ Mikulczyce Plac Kroczka,2478011-05201t,1721,50.339878,18.77851,https://rj.transp
 Mikulczyce Plac Kroczka,2478011-05202,1722,50.339863,18.778175,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05202/
 Mikulczyce Plac Kroczka,2478011-05202t,12533,50.339767,18.778477,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05202t/
 Mikulczyce Plac Kroczka,2478011-05202t,1723,50.339767,18.778477,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05202t/
+Mikulczyce Poległych Górników,2478011-05301,13071,50.33993,18.795439,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05301/
+Mikulczyce Poległych Górników,2478011-05302,13072,50.340347,18.792618,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05302/
 Mikulczyce Przejazd Kolejowy,2478011-05301,1738,50.33993,18.795439,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05301/
 Mikulczyce Przejazd Kolejowy,2478011-05302,1739,50.340347,18.792618,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05302/
 Mikulczyce Pętla,2478011-05101t,12545,50.343792,18.76953,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05101t/
@@ -4531,6 +4533,8 @@ Osiedle Kopernika,2466011-10101,3674,50.321613,18.66331,https://rj.transportgzm.
 Osiedle Kopernika,2466011-10102,3675,50.320747,18.66366,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-10102/
 Osiedle Kopernika Andromedy,2466011-10001,2020,50.31891,18.65375,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-10001/
 Osiedle Kopernika Andromedy,2466011-10002,2021,50.317955,18.655144,https://rj.transportgzm.pl/v2/rozklady/przystanek/2466011-10002/
+Osiedle Kopernika Aquarius,2478011-05701,13084,50.32379,18.772003,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05701/
+Osiedle Kopernika Aquarius,2478011-05702,13083,50.323833,18.769226,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05702/
 Osiedle Kopernika Brożka,2478011-21401,8892,50.3308,18.770191,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-21401/
 Osiedle Kopernika Brożka,2478011-21402,8891,50.33135,18.770224,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-21402/
 Osiedle Kopernika Bruno,2478011-05501,2028,50.32499,18.773504,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05501/
@@ -5174,7 +5178,14 @@ Pomłynie Skrzyżowanie,2401042-02503,2380,50.4122,19.047785,https://rj.transpor
 Pomłynie Skrzyżowanie,2401042-02504,2381,50.412178,19.047535,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401042-02504/
 Pomłynie Spółdzielnia nż,2401042-02601,2382,50.40922,19.057152,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401042-02601/
 Pomłynie Spółdzielnia nż,2401042-02602,2383,50.409454,19.056656,https://rj.transportgzm.pl/v2/rozklady/przystanek/2401042-02602/
+Poremba Korczoka Bank nż,2478011-15701,13088,50.300037,18.835785,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-15701/
+Poremba Pyki,2478011-06501,13077,50.30163,18.841213,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06501/
+Poremba Pyki,2478011-06502,13078,50.3004,18.841385,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06502/
+Poremba Struzika,2478011-06601,13079,50.302307,18.836998,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06601/
+Poremba Struzika,2478011-06602,13080,50.302704,18.835829,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06602/
+Poremba Wolności,2478011-06301,13065,50.298195,18.833672,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06301/
 Poremba Wolności,2478011-06301t,13047,50.298004,18.833597,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06301t/
+Poremba Wolności,2478011-06302,13066,50.298332,18.83409,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06302/
 Poremba Wolności,2478011-06302t,13048,50.298084,18.833296,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06302t/
 Porąbka Dworzec PKP,2475011-09301,2386,50.273006,19.21552,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-09301/
 Porąbka Dworzec PKP,2475011-09301t,11336,50.273106,19.216465,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-09301t/
@@ -6009,8 +6020,8 @@ Sosnowiec Stawiki,2475011-12101t,10110,50.274387,19.114504,https://rj.transportg
 Sosnowiec Stawiki,2475011-12101t,11270,50.274387,19.114504,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12101t/
 Sosnowiec Stawiki,2475011-12102t,10111,50.274372,19.114704,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12102t/
 Sosnowiec Stawiki,2475011-12102t,11271,50.274372,19.114704,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12102t/
-Sosnowiec Stawiki,2475011-12131,12945,50.269592,19.111237,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12131/
-Sosnowiec Stawiki,2475011-12132,12954,50.26924,19.111065,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12132/
+Sosnowiec Stawiki,2475011-12131,12945,50.274387,19.114506,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12131/
+Sosnowiec Stawiki,2475011-12132,12954,50.274426,19.114817,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-12132/
 Sosnowiec Szpital Wojewódzki,2475011-13801,12478,50.305313,19.1229,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13801/
 Sosnowiec Szpital Wojewódzki,2475011-13801,2976,50.305355,19.122847,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13801/
 Sosnowiec Szpital Wojewódzki,2475011-13802,12479,50.30516,19.120153,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-13802/
@@ -7720,18 +7731,28 @@ Węzłowiec Centrum Handlowe,2474011-05202,3188,50.300896,19.000452,https://rj.t
 Węzłowiec Jagiełły,2474011-05301,3185,50.302902,18.999079,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-05301/
 Węzłowiec Jagiełły,2474011-05302,3186,50.302834,18.999197,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-05302/
 Węzłowiec Pętla,2474011-05401,3189,50.305054,18.996906,https://rj.transportgzm.pl/v2/rozklady/przystanek/2474011-05401/
+Zaborze Agrestowa,2478011-06201,13073,50.298656,18.821985,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06201/
 Zaborze Agrestowa,2478011-06201,2066,50.298656,18.821985,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06201/
+Zaborze Agrestowa,2478011-06202,13074,50.298687,18.822493,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06202/
 Zaborze Agrestowa,2478011-06202,2067,50.298687,18.822493,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06202/
 Zaborze Elektrociepłownia,2478011-07601t,4708,50.2943,18.809135,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-07601t/
 Zaborze Elektrociepłownia,2478011-07602t,4709,50.2944,18.809168,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-07602t/
+Zaborze Gorzawskiego nż,2478011-08401,13081,50.301643,18.812654,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-08401/
 Zaborze Gorzawskiego nż,2478011-08401,4919,50.301643,18.812654,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-08401/
+Zaborze Gorzawskiego nż,2478011-08402,13082,50.301807,18.812391,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-08402/
 Zaborze Gorzawskiego nż,2478011-08402,4920,50.301807,18.812391,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-08402/
 Zaborze Janika,2478011-06401,1208,50.299244,18.830164,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06401/
+Zaborze Janika,2478011-06401,13067,50.299244,18.830164,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06401/
 Zaborze Janika,2478011-06402,1209,50.299015,18.828844,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06402/
+Zaborze Janika,2478011-06402,13068,50.299015,18.828844,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06402/
 Zaborze Jodłowa,2478011-15301,5605,50.29176,18.807676,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-15301/
+Zaborze Kalinowa,2478011-14801,13085,50.301655,18.827148,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-14801/
 Zaborze Kalinowa,2478011-14801,5706,50.301655,18.827148,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-14801/
+Zaborze Kawika,2478011-14701,13086,50.302372,18.821402,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-14701/
 Zaborze Kawika,2478011-14701,5707,50.302372,18.821402,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-14701/
+Zaborze Korczoka,2478011-13701,13069,50.299644,18.817211,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-13701/
 Zaborze Korczoka,2478011-13701,1424,50.299644,18.817211,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-13701/
+Zaborze Korczoka,2478011-13702,13070,50.299824,18.816505,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-13702/
 Zaborze Korczoka,2478011-13702,1425,50.299824,18.816505,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-13702/
 Zaborze Korczoka Bank nż,2478011-15701,7082,50.300037,18.835785,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-15701/
 Zaborze Krucza,2478011-16201,8023,50.29248,18.811396,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-16201/
@@ -7761,6 +7782,7 @@ Zaborze Wolności,2478011-06301,178,50.298195,18.833672,https://rj.transportgzm.
 Zaborze Wolności,2478011-06301t,179,50.298004,18.833597,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06301t/
 Zaborze Wolności,2478011-06302,180,50.298332,18.83409,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06302/
 Zaborze Wolności,2478011-06302t,181,50.298084,18.833296,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-06302t/
+Zaborze Wyciska nż,2478011-15501,13087,50.29752,18.819677,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-15501/
 Zaborze Wyciska nż,2478011-15501,7081,50.29752,18.819677,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-15501/
 Zabrze 3 Maja Szpital,2478011-13201,3586,50.300938,18.786207,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-13201/
 Zabrze 3 Maja Szpital,2478011-13201t,12566,50.30104,18.786108,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-13201t/
@@ -7845,7 +7867,9 @@ Zabrze Ogród Botaniczny nż,2478011-15201,2735,50.295666,18.764751,https://rj.t
 Zabrze Ogród Botaniczny nż,2478011-15202,2736,50.295467,18.765095,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-15202/
 Zabrze Osiedle Wyzwolenia,2478011-11401,2121,50.293575,18.760197,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-11401/
 Zabrze Osiedle Wyzwolenia,2478011-11402,2122,50.293377,18.760088,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-11402/
+Zabrze Pawliczka,2478011-08301,13075,50.300926,18.80168,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-08301/
 Zabrze Pawliczka,2478011-08301,2213,50.300926,18.80168,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-08301/
+Zabrze Pawliczka,2478011-08302,13076,50.301,18.802425,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-08302/
 Zabrze Pawliczka,2478011-08302,2214,50.301,18.802425,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-08302/
 Zabrze Plac Krakowski,2478011-11601,2285,50.302532,18.788471,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-11601/
 Zabrze Plac Krakowski,2478011-11602,2286,50.30234,18.788353,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-11602/
