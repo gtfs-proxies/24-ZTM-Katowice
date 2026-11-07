@@ -5622,10 +5622,10 @@ Ruda Dworzec PKP,2472011-08601,8988,50.314705,18.85493,https://rj.transportgzm.p
 Ruda Dworzec PKP,2472011-08602,8989,50.31518,18.853495,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08602/
 Ruda Klary,2472011-08701,1298,50.29945,18.847054,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08701/
 Ruda Klary,2472011-08701t,1299,50.29923,18.84586,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08701t/
-Ruda Klary,2472011-08701t,13051,50.29923,18.84586,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08701t/
+Ruda Klary,2472011-08701t,13051,50.299232,18.845974,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08701t/
 Ruda Klary,2472011-08702,1300,50.299194,18.845173,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08702/
 Ruda Klary,2472011-08702t,1301,50.2991,18.845528,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08702t/
-Ruda Klary,2472011-08702t,13052,50.2991,18.845528,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08702t/
+Ruda Klary,2472011-08702t,13052,50.299137,18.84547,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08702t/
 Ruda Kościół,2472011-08801,2573,50.320225,18.856878,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08801/
 Ruda Kościół,2472011-08802,2572,50.320477,18.857124,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-08802/
 Ruda Kuźnica Rudzka,2472011-10201,4670,50.326458,18.860376,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-10201/
@@ -8753,7 +8753,7 @@ Ząbkowice Związku Orła Białego,2465011-18702,3360,50.367687,19.270931,https:
 Świętochłowice Kościół,2476011-03501,5205,50.291027,18.916895,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-03501/
 Świętochłowice Kościół,2476011-03501t,11489,50.29109,18.91688,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-03501t/
 Świętochłowice Kościół,2476011-03502,5206,50.290997,18.917034,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-03502/
-Świętochłowice Kościół,2476011-03502t,11705,50.290997,18.917034,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-03502t/
+Świętochłowice Kościół,2476011-03502t,11705,50.291084,18.916142,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-03502t/
 Świętochłowice Mijanka,2476011-02201,4562,50.286255,18.929266,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-02201/
 Świętochłowice Mijanka,2476011-02201t,12873,50.28625,18.92816,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-02201t/
 Świętochłowice Mijanka,2476011-02201t,4563,50.28625,18.92816,https://rj.transportgzm.pl/v2/rozklady/przystanek/2476011-02201t/
