@@ -329,7 +329,9 @@ Borowa Wieś Strażacka,2408021-06001,10915,50.22683,18.832417,https://rj.transp
 Borowa Wieś Strażacka,2408021-06002,10916,50.225937,18.831451,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-06002/
 Borowa Wieś Szkoła,2408021-05801,5006,50.223873,18.817482,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-05801/
 Borowa Wieś Szkoła,2408021-05802,5007,50.224373,18.815529,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-05802/
+Borowa Wieś Świetlica,2408021-05901,13097,50.228046,18.804832,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-05901/
 Borowa Wieś Świetlica,2408021-05901,5008,50.228046,18.804832,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-05901/
+Borowa Wieś Świetlica,2408021-05902,13098,50.227573,18.805777,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-05902/
 Borowa Wieś Świetlica,2408021-05902,5009,50.227573,18.805777,https://rj.transportgzm.pl/v2/rozklady/przystanek/2408021-05902/
 Boruszowice Cmentarz,2413082-01401,5786,50.516945,18.774124,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413082-01401/
 Boruszowice Cmentarz,2413082-01402,7887,50.516647,18.773695,https://rj.transportgzm.pl/v2/rozklady/przystanek/2413082-01402/
@@ -2575,16 +2577,23 @@ Janów Leśnego Potoku,2469011-05602,1216,50.242268,19.092962,https://rj.transpo
 Janów Lwowska Szkoła,2469011-05801,1229,50.248,19.0895,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-05801/
 Janów Lwowska Szkoła,2469011-05802,1230,50.247753,19.089897,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-05802/
 Janów Osiedle,2469011-05701,1219,50.24014,19.093016,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-05701/
+Janów Osiedle,2469011-05701,13102,50.24014,19.093016,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-05701/
 Janów Osiedle,2469011-05702,1220,50.23958,19.093138,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-05702/
+Janów Osiedle,2469011-05702,13103,50.23958,19.093138,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-05702/
 Janów Osiedle Chopina Park,2470011-03801,2137,50.23991,19.12261,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-03801/
 Janów Osiedle Chopina Park,2470011-03802,2138,50.23989,19.12248,https://rj.transportgzm.pl/v2/rozklady/przystanek/2470011-03802/
 Janów Oswobodzenia Cmentarna,2469011-06201,1227,50.244717,19.093697,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06201/
 Janów Oswobodzenia Cmentarna,2469011-06202,1228,50.24482,19.093813,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06202/
 Janów Ośrodek Bolina,2469011-05901,1210,50.231903,19.086267,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-05901/
+Janów Ośrodek Bolina,2469011-05901,13101,50.231903,19.086267,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-05901/
 Janów Spółdzielnia Inwalidów,2469011-06001,1223,50.246284,19.086271,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06001/
+Janów Spółdzielnia Inwalidów,2469011-06001,13104,50.246284,19.086271,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06001/
 Janów Spółdzielnia Inwalidów,2469011-06002,1224,50.246155,19.086325,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06002/
+Janów Spółdzielnia Inwalidów,2469011-06002,13105,50.246155,19.086325,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06002/
 Janów Strumienna,2469011-06101,1225,50.235363,19.091084,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06101/
+Janów Strumienna,2469011-06101,13106,50.235363,19.091084,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06101/
 Janów Strumienna,2469011-06102,1226,50.235302,19.091208,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06102/
+Janów Strumienna,2469011-06102,13107,50.235302,19.091208,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06102/
 Janów Zamkowa,2469011-06301,1213,50.24185,19.089346,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06301/
 Janów Zamkowa,2469011-06302,1214,50.24236,19.088982,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-06302/
 Janów Zamkowa Skwer,2469011-17901,1855,50.24438,19.085203,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-17901/
@@ -3029,10 +3038,12 @@ Kobiór Centrum,2410022-00201,11789,50.060326,18.934658,https://rj.transportgzm.
 Kobiór Centrum,2410022-00201,6726,50.060326,18.934658,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00201/
 Kobiór Centrum,2410022-00202,11790,50.05979,18.93404,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00202/
 Kobiór Centrum,2410022-00231,9791,50.05934,18.93448,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00231/
+Kobiór Centrum,2410022-00234,13096,50.060387,18.934994,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00234/
 Kobiór Leśniczówka,2410022-00401,11791,50.06457,18.933537,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00401/
 Kobiór Leśniczówka,2410022-00401,6728,50.06457,18.933537,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00401/
 Kobiór Leśniczówka,2410022-00402,11792,50.064278,18.933783,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00402/
 Kobiór Leśniczówka,2410022-00402,6729,50.064278,18.933783,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00402/
+Kobiór PKP,2410022-00502,11793,50.0659,18.92454,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00502/
 Kobiór Promnicka,2410022-00601,10461,50.061558,18.955658,https://rj.transportgzm.pl/v2/rozklady/przystanek/2410022-00601/
 Kochłowice Cegielnia,2472011-05201,1339,50.249237,18.903843,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-05201/
 Kochłowice Cegielnia,2472011-05202,1340,50.247303,18.903801,https://rj.transportgzm.pl/v2/rozklady/przystanek/2472011-05202/
@@ -3816,6 +3827,8 @@ Mikulczyce Aleja Szczęście Ludwika,2478011-04201t,12543,50.32941,18.788906,htt
 Mikulczyce Aleja Szczęście Ludwika,2478011-04201t,4733,50.32941,18.788906,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-04201t/
 Mikulczyce Aleja Szczęście Ludwika,2478011-04202t,12544,50.32966,18.788572,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-04202t/
 Mikulczyce Aleja Szczęście Ludwika,2478011-04202t,4734,50.32966,18.788572,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-04202t/
+Mikulczyce Aleja Szczęście Ludwika,2478011-04231,8427,50.32948,18.789165,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-04231/
+Mikulczyce Aleja Szczęście Ludwika,2478011-04232,8428,50.329765,18.788635,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-04232/
 Mikulczyce Chopina,2478011-04301,8556,50.335026,18.781702,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-04301/
 Mikulczyce Chopina,2478011-04302,1728,50.333607,18.780436,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-04302/
 Mikulczyce Cmentarz nż,2478011-04401,3814,50.343826,18.779867,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-04401/
@@ -3852,6 +3865,7 @@ Mikulczyce Pętla,2478011-05101t,12545,50.343792,18.76953,https://rj.transportgz
 Mikulczyce Pętla,2478011-05101t,4735,50.343792,18.76953,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05101t/
 Mikulczyce Pętla,2478011-05102t,12546,50.343838,18.769653,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05102t/
 Mikulczyce Pętla,2478011-05102t,8875,50.343838,18.769653,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05102t/
+Mikulczyce Pętla,2478011-05131,13099,50.344173,18.770573,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05131/
 Mikulczyce Strefa Ekonomiczna nż,2478011-04601,1713,50.35145,18.79109,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-04601/
 Mikulczyce Strefa Ekonomiczna nż,2478011-04602,1714,50.35042,18.789337,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-04602/
 Mikulczyce Tarnopolska,2478011-05401,1740,50.33686,18.7828,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05401/
@@ -3860,6 +3874,7 @@ Mikulczyce Tarnopolska,2478011-05401t,1741,50.33627,18.783278,https://rj.transpo
 Mikulczyce Tarnopolska,2478011-05402,8994,50.336338,18.782518,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05402/
 Mikulczyce Tarnopolska,2478011-05402t,12535,50.33593,18.783354,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05402t/
 Mikulczyce Tarnopolska,2478011-05402t,1743,50.33593,18.783354,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05402t/
+Mikulczyce Tarnopolska,2478011-05432,13100,50.33611,18.783215,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-05432/
 Mikulczyce Zwrotnicza,2478011-18101,8655,50.344475,18.768763,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-18101/
 Mikulczyce Zwrotnicza,2478011-18102,8379,50.344425,18.769056,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-18102/
 Milowice Hala Sportowa,2475011-04901,1748,50.290382,19.081232,https://rj.transportgzm.pl/v2/rozklady/przystanek/2475011-04901/
@@ -6516,11 +6531,15 @@ Szopienice Dwór,2469011-24702t,11265,50.26206,19.10171,https://rj.transportgzm.
 Szopienice Dwór,2469011-24702t,4318,50.26206,19.10171,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24702t/
 Szopienice Hala Sportowa,2469011-42201,12476,50.26006,19.090464,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-42201/
 Szopienice Hala Sportowa,2469011-42202,12477,50.26009,19.090992,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-42202/
+Szopienice Kocura nż,2469011-31701,13115,50.266106,19.088417,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-31701/
 Szopienice Kocura nż,2469011-31701,5328,50.266106,19.088417,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-31701/
+Szopienice Kocura nż,2469011-31702,13114,50.266273,19.088766,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-31702/
 Szopienice Kocura nż,2469011-31702,5327,50.266273,19.088766,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-31702/
+Szopienice Kościół,2469011-24801,13108,50.2621,19.09483,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24801/
 Szopienice Kościół,2469011-24801,2969,50.2621,19.09483,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24801/
 Szopienice Kościół,2469011-24801t,11259,50.26344,19.09465,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24801t/
 Szopienice Kościół,2469011-24801t,2970,50.26344,19.09465,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24801t/
+Szopienice Kościół,2469011-24802,13109,50.262325,19.095112,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24802/
 Szopienice Kościół,2469011-24802,2971,50.262325,19.095112,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24802/
 Szopienice Kościół,2469011-24802t,11260,50.262802,19.095198,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24802t/
 Szopienice Kościół,2469011-24802t,2972,50.262802,19.095198,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24802t/
@@ -6534,9 +6553,13 @@ Szopienice Morawa,2469011-24931,8749,50.263935,19.10699,https://rj.transportgzm.
 Szopienice Morawa,2469011-24932,8750,50.264126,19.106813,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-24932/
 Szopienice Muzeum Walcownia,2469011-37601,12487,50.26355,19.077557,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37601/
 Szopienice Muzeum Walcownia,2469011-37602,12488,50.26367,19.077534,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37602/
+Szopienice Osiedlowa,2469011-25001,13110,50.264736,19.1037,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25001/
 Szopienice Osiedlowa,2469011-25001,4910,50.264736,19.1037,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25001/
+Szopienice Osiedlowa,2469011-25002,13111,50.264793,19.104065,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25002/
 Szopienice Osiedlowa,2469011-25002,4911,50.264793,19.104065,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25002/
+Szopienice PKP,2469011-37701,13118,50.257835,19.093803,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37701/
 Szopienice PKP,2469011-37701,8280,50.257835,19.093803,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37701/
+Szopienice PKP,2469011-37702,13117,50.258083,19.09406,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37702/
 Szopienice PKP,2469011-37702,8279,50.258083,19.09406,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-37702/
 Szopienice Poczta,2469011-25201t,11274,50.26454,19.090788,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25201t/
 Szopienice Poczta,2469011-25201t,4460,50.26454,19.090788,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25201t/
@@ -6550,7 +6573,9 @@ Szopienice Roździeńska,2469011-25302t,11262,50.26211,19.07154,https://rj.trans
 Szopienice Roździeńska,2469011-25302t,2975,50.26211,19.07154,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25302t/
 Szopienice Roździeńska nż,2469011-25301,2973,50.262386,19.071917,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25301/
 Szopienice Roździeńska nż,2469011-25302,5299,50.262173,19.071701,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25302/
+Szopienice Szpital Geriatryczny,2469011-25501,13112,50.265697,19.092457,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25501/
 Szopienice Szpital Geriatryczny,2469011-25501,4912,50.265697,19.092457,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25501/
+Szopienice Szpital Geriatryczny,2469011-25502,13113,50.265587,19.094624,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25502/
 Szopienice Szpital Geriatryczny,2469011-25502,4913,50.265587,19.094624,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-25502/
 Szopienice Wiadukt,2469011-41231,10390,50.26143,19.105772,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-41231/
 Szopienice Wiadukt,2469011-41232,10957,50.261307,19.105537,https://rj.transportgzm.pl/v2/rozklady/przystanek/2469011-41232/
@@ -7881,6 +7906,8 @@ Zabrze Pole Ludwik,2478011-12101t,12541,50.325268,18.789011,https://rj.transport
 Zabrze Pole Ludwik,2478011-12101t,4731,50.325268,18.789011,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-12101t/
 Zabrze Pole Ludwik,2478011-12102t,12542,50.325256,18.788776,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-12102t/
 Zabrze Pole Ludwik,2478011-12102t,4732,50.325256,18.788776,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-12102t/
+Zabrze Pole Ludwik,2478011-12131,8425,50.32523,18.789375,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-12131/
+Zabrze Pole Ludwik,2478011-12132,13120,50.32522,18.788887,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-12132/
 Zabrze Politechnika Śląska,2478011-12201,605,50.29835,18.780296,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-12201/
 Zabrze Politechnika Śląska,2478011-12202,606,50.298515,18.780367,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-12202/
 Zabrze Prof. Religi,2478011-08801t,11693,50.309265,18.786583,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-08801t/
@@ -7893,6 +7920,8 @@ Zabrze Przystankowa,2478011-12301t,673,50.324726,18.786844,https://rj.transportg
 Zabrze Przystankowa,2478011-12302,674,50.325607,18.78568,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-12302/
 Zabrze Przystankowa,2478011-12302t,12531,50.324585,18.786125,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-12302t/
 Zabrze Przystankowa,2478011-12302t,675,50.324585,18.786125,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-12302t/
+Zabrze Przystankowa,2478011-12333,8486,50.324463,18.78614,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-12333/
+Zabrze Przystankowa,2478011-12334,13121,50.324615,18.786427,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-12334/
 Zabrze Rondo Sybiraków,2478011-16301,8040,50.28956,18.782656,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-16301/
 Zabrze Rondo Sybiraków,2478011-16302,8041,50.290054,18.781733,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-16302/
 Zabrze Roosevelta,2478011-12401,8500,50.298077,18.784073,https://rj.transportgzm.pl/v2/rozklady/przystanek/2478011-12401/
